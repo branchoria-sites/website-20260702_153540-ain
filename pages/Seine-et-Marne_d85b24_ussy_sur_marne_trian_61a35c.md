@@ -1,0 +1,632 @@
+---
+level: 2
+basename: Seine-et-Marne_d85b24_ussy_sur_marne_trian_61a35c
+parent_basename: Seine-et-Marne_d85b24
+child_basenames: []
+sibling_basenames:
+- Seine-et-Marne_d85b24_af3532_coulommiers_r_9f6335
+tags:
+- seine-et-marne
+- ussy-triangle
+keywords:
+- seine-et-marne
+- ussy-triangle
+affiliate_category: seine-et-marne
+show_ads: true
+description: The Ussy-sur-Marne report stands out because on-duty gendarmes described a silent triangular object during a night patrol.
+hero_summary: The Ussy-sur-Marne report stands out because on-duty gendarmes described a silent triangular object during a night patrol.
+layout: default
+permalink: /ussy-triangle/
+sidebar_expanded_urls:
+- /what-really-happened-in-seine-et/
+nav_short_title: Ussy Triangle
+title: Why Did Gendarmes Report a Silent Triangle?
+title_full: Why Did Gendarmes Report a Silent Triangle?
+display_title_short: Ussy Triangle
+display_title: Ussy Triangle
+heading_title: Why Did Gendarmes Report a Silent Triangle?
+page_heading_title: Why Did Gendarmes Report a Silent Triangle?
+source_count: 58
+infographic_count: 3
+planned_sections:
+- The night patrol account
+- The triangular lights and reported behaviour
+- Why GEIPAN left the case unexplained
+focal_unit_type: event_time_window
+topic_lens: critique_risk
+topic_granularity: pillar
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix:'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template:'{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+date:'2026-06-30 05:23:28'
+parent_title: Seine UFOs
+parent_permalink: /what-really-happened-in-seine-et/
+parent_nav_short_title: Seine UFOs
+parent_heading_title: What Really Happened in Seine et Marne's UFO Files?
+ancestor_links:
+- basename: Seine-et-Marne_d85b24
+  title: Seine UFOs
+  permalink: /what-really-happened-in-seine-et/
+  short_title: Seine UFOs
+breadcrumb_links:
+- basename: Seine-et-Marne_d85b24
+  title: Seine UFOs
+  permalink: /what-really-happened-in-seine-et/
+  short_title: Seine UFOs
+sibling_links:
+- basename: Seine-et-Marne_d85b24_af3532_coulommiers_r_9f6335
+  title: Af 3532 Coulommiers | What Really Happened in Seine et Marne's UFO...
+  permalink: /af-3532-coulommiers/
+  short_title: Af 3532 Coulommiers
+  heading_title: Was AF 3532 a Landmark Pilot UFO Case?
+up_link:
+  basename: Seine-et-Marne_d85b24
+  title: Seine UFOs
+  permalink: /what-really-happened-in-seine-et/
+  short_title: Seine UFOs
+prev_link:
+  basename: Seine-et-Marne_d85b24_af3532_coulommiers_r_9f6335
+  title: Af 3532 Coulommiers | What Really Happened in Seine et Marne's UFO...
+  permalink: /af-3532-coulommiers/
+  short_title: Af 3532 Coulommiers
+  heading_title: Was AF 3532 a Landmark Pilot UFO Case?
+header:
+  og_image: /assets/images/Seine-et-Marne_d85b24_ussy_sur_marne_trian_61a35c-overview-social.jpg
+  preview_image: /assets/images/Seine-et-Marne_d85b24_ussy_sur_marne_trian_61a35c-overview.webp
+image: /assets/images/Seine-et-Marne_d85b24_ussy_sur_marne_trian_61a35c-overview-social.jpg
+---
+
+## Introduction
+
+In the early hours of 24 June 1994, three on-duty gendarmes near Ussy-sur-Marne, in [Seine-et-Marne]({{'what-really-happened-in-seine-et/' | relative_url }}), reported seeing a silent triangular form during a night patrol. According to the GEIPAN file, their attention was first drawn to lights above the A4 motorway; as they approached, they described a stationary triangular object, no identifiable altitude or dimensions, then a slow movement towards their vehicle and a sudden departure until it became a point in the sky. GEIPAN, the French space agency unit that investigates unidentified aerospace phenomena, still classifies the case as D: not identified after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/52019" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span><img src="{{"/assets/images/Seine-et-Marne_d85b24_ussy_sur_marne_trian_61a35c-overview.webp" | relative_url }}" alt="Overview image for Ussy Triangle" loading="eager" decoding="sync" fetchpriority="high">
+The case matters because it is not merely a village rumour. It sits in an official gendarmerie statement, includes a location sketch, a witness drawing and a Météo-France weather note, and involves professional witnesses whose job included observation and reporting. Yet it is also a good example of why an unexplained file is not the same thing as proof of an extraordinary craft. The record is vivid, but it lacks distance, altitude, radar confirmation, photographs, independent civilian witnesses and a tested physical explanation.
+
+## The night patrol account
+
+The official file places the sighting at about 02:47 on 24 June 1994. The patrol was on night duty on the D3E, travelling towards Changis-sur-Marne after passing the built-up area of Ussy-sur-Marne. Near the football ground, one gendarme drew the others’ attention to a very bright light source above the A4 motorway bridge. The patrol then drove towards it, and the source became more defined as they got closer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/2023-08/USSY-SUR-MARNE%20%2877%29%2024.06.1994%20%5BT-M%20PV%20T%2CD%2CC%20S%2CA%5D%201994307799-1544-94-R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+
+The gendarmes described the light source as three yellow-white luminous points forming a triangle. Looking more closely, they said the lights seemed to come from an unidentified flying object whose underside had a triangular form, with a central pyramidal part and a point directed towards the ground. The file is careful on a key limitation: they could not define its altitude or dimensions. That missing scale is important, because without reliable distance and size, a night object can seem much larger, closer, slower or faster than it really is.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/2023-08/USSY-SUR-MARNE%20%2877%29%2024.06.1994%20%5BT-M%20PV%20T%2CD%2CC%20S%2CA%5D%201994307799-1544-94-R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+
+The patrol then stopped its vehicle. According to the statement, the object slowly moved towards them while keeping the same altitude, then stopped above their unit. One gendarme reportedly remained first; the other two watched it depart. The object then moved westwards, and the witnesses described an extremely rapid departure, with only a faint point left on the horizon after about one second.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/2023-08/USSY-SUR-MARNE%20%2877%29%2024.06.1994%20%5BT-M%20PV%20T%2CD%2CC%20S%2CA%5D%201994307799-1544-94-R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+
+The report adds several details that make the case memorable. The vehicle windows were open because the night was hot, and the gendarmes reported no noise, no smoke and no smell. Separately, they noted that the vehicle’s communication equipment, including the radio and portable set, stopped working, although they could not specify the exact moment when this occurred. The observation was said to have lasted around ten minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/52019" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span><img src="{{"/assets/images/Seine-et-Marne_d85b24_ussy_sur_marne_trian_61a35c-Illustration-1-dark.svg" | relative_url }}" alt="Ussy Triangle illustration 1" data-theme-src-dark="{{"/assets/images/Seine-et-Marne_d85b24_ussy_sur_marne_trian_61a35c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Seine-et-Marne_d85b24_ussy_sur_marne_trian_61a35c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The triangular lights and reported behaviour
+
+The Ussy-sur-Marne report is usually remembered as a “silent triangle”, but the primary record is more precise and more cautious. The first observed feature was not a black craft seen in daylight; it was a night-time arrangement of three yellow-white lights. The triangular object was inferred or seen from those lights and from the witnesses’ closer view of the underside. That distinction matters because a triangle of lights can be a real object, a formation, a perspective effect, or a witness interpretation of separate sources.
+
+The gendarmes’ own sketch, included in the file, shows three large lighted points at the corners of a triangular outline, with internal lines meeting towards a central point. It is not a photograph or measurement, but it is valuable because it preserves what the patrol believed it had seen before the case was retold by others.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/2023-08/USSY-SUR-MARNE%20%2877%29%2024.06.1994%20%5BT-M%20PV%20T%2CD%2CC%20S%2CA%5D%201994307799-1544-94-R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+
+The location material is also useful. The file includes a plan of the Ussy-sur-Marne and Changis-sur-Marne area, with the patrol’s direction and the reported departure direction marked near the D3E and the A4 crossing. This helps keep the story anchored in a specific road environment rather than a vague “lights in the countryside” account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/2023-08/USSY-SUR-MARNE%20%2877%29%2024.06.1994%20%5BT-M%20PV%20T%2CD%2CC%20S%2CA%5D%201994307799-1544-94-R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+## Why this file stands out in Seine-et-Marne
+
+Seine-et-Marne has many GEIPAN entries, but most are not in the same evidential category as Ussy-sur-Marne. A public case-map built from GEIPAN data lists Ussy-sur-Marne as the only recorded case for that commune and places it among the department’s D cases, alongside the better-known Air France AF3532 file near Coulommiers earlier in 1994.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/commune/ussy-sur-marne-77" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[CarteOvni.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-snippet">Open source on carteovni.fr.</span></span></span>
+
+The witness profile is the first reason the case attracts attention. Three gendarmes were on duty, in a patrol vehicle, and produced a formal statement rather than a casual anecdote years later. CNES notes that GEIPAN receives reports both through its own channels and through authorities such as the gendarmerie, civil aviation and other official bodies; the national scheme explicitly includes cooperation with the gendarmerie, police, the Air and Space Force, CNRS and Météo-France.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span>
+
+The second reason is the paperwork. The available dossier is not just a short summary. It includes a gendarmerie report, a weather note, a drawing of the object and a plan of the area. The Météo-France note says that during the night of 23 to 24 June 1994 the sky over Changis-sur-Marne and Ussy-sur-Marne was veiled early in the night by high-based cloud, then became clear to partly cloudy towards the end of the night, with no precipitation and a weak to moderate easterly wind of around 10 to 20 km/h.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/2023-08/USSY-SUR-MARNE%20%2877%29%2024.06.1994%20%5BT-M%20PV%20T%2CD%2CC%20S%2CA%5D%201994307799-1544-94-R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+
+The third reason is timing. The Ussy-sur-Marne event came only months after the January 1994 AF3532 case, another Seine-et-Marne file that GEIPAN classifies as unexplained. That does not show a wave in itself, and the two cases are quite different: one involved an airline crew and disputed aviation-radar context, the other a road patrol and a low-level triangular-light report. But together they make 1994 the department’s most interesting year in official UFO history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/departement/seine-et-marne" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[CarteOvni.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-snippet">Open source on carteovni.fr.</span></span></span><img src="{{"/assets/images/Seine-et-Marne_d85b24_ussy_sur_marne_trian_61a35c-Illustration-2-dark.svg" | relative_url }}" alt="Ussy Triangle illustration 2" data-theme-src-dark="{{"/assets/images/Seine-et-Marne_d85b24_ussy_sur_marne_trian_61a35c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Seine-et-Marne_d85b24_ussy_sur_marne_trian_61a35c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why GEIPAN left it unexplained
+
+GEIPAN’s published page for Ussy-sur-Marne classifies the case as D and describes it as a strange to very strange phenomenon with medium to strong consistency. Its summary says no explanation could be provided for the phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/52019" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+
+That classification has a specific meaning. GEIPAN says it assesses cases using two broad parameters: consistency, meaning the quantity and reliability of information collected, and residual strangeness after comparison with known hypotheses. A is identified, B is probably identified, C lacks enough information, and D remains not identified after investigation. GEIPAN also says C and D cases can be revisited if new information appears.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Classification &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan Classification &#124; GEIPAN</span></span></span>
+
+For Ussy-sur-Marne, the D classification appears to rest on the combination of credible official witnesses, a reasonably detailed formal account, and a description that did not fit a straightforward known explanation available in the file. A simple aircraft explanation struggles with the reported silence, hovering, apparent position above the vehicle and sudden departure. A meteor or re-entry explanation struggles with the roughly ten-minute duration and stationary or slow phase. A lantern or balloon explanation struggles with the described speed, triangle structure and movement against the patrol’s position.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6zikRBV8DwQ" title="Episode 337 LIVE: The Belgian UFO Wave" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6zikRBV8DwQ" target="_blank" rel="noopener noreferrer">Episode 337 LIVE: The Belgian UFO Wave</a></p><p class="youtube-embed-meta">Channel: 13 O&#x27;Clock Podcast &middot; Views: 2.7K &middot; Uploaded: February 2023 &middot; Length: 2 hours 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6zikRBV8DwQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6zikRBV8DwQ">Open on YouTube</a></p></div></div></div>
+
+## The main doubts and weak points
+
+The strongest reason to take the case seriously is also the reason to handle it carefully: it is witness-led. There is no photograph, video, radar track, physical trace or independent external confirmation in the public file. The witnesses were trained public officers, but they were still human observers at night, estimating the behaviour of an unfamiliar light source without reliable distance, altitude or scale.
+
+The missing scale is the biggest technical weakness. The gendarmes explicitly could not define the object’s altitude or dimensions. If distance is unknown, then speed is also uncertain. The claim that the object departed at extreme speed may be exactly what they perceived, but without a distance it cannot be converted into a reliable velocity. This is a common problem in night-sky reports: an object may look overhead or nearby when it is much farther away, and a small angular movement can seem dramatic if the witness has already interpreted the source as close.
+
+The communications detail is intriguing but not decisive. The patrol reported that its radio equipment stopped working, but the file also says they could not specify the exact moment. Without an exact time, test record, fault diagnosis or repeated effect, it is hard to know whether this was linked to the sighting, a routine equipment issue, a coverage problem, or a memory association made during a stressful event. It remains a notable feature of the account, not proof of electromagnetic interference.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/2023-08/USSY-SUR-MARNE%20%2877%29%2024.06.1994%20%5BT-M%20PV%20T%2CD%2CC%20S%2CA%5D%201994307799-1544-94-R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+
+There is also a broader interpretive caution around triangular UFOs. In a later GEIPAN triangular-object case at Bornel, the investigation noted that the described triangular structure recalled other controversial reports and that a “stereotype” existed which could potentially influence testimony. That does not debunk Ussy-sur-Marne, especially because it predates the Bornel case by two decades, but it does remind readers that the triangle motif had become part of modern UFO language and should not be treated as self-validating.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2014-04-50829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span><img src="{{"/assets/images/Seine-et-Marne_d85b24_ussy_sur_marne_trian_61a35c-Illustration-3-dark.svg" | relative_url }}" alt="Ussy Triangle illustration 3" data-theme-src-dark="{{"/assets/images/Seine-et-Marne_d85b24_ussy_sur_marne_trian_61a35c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Seine-et-Marne_d85b24_ussy_sur_marne_trian_61a35c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Plausible explanations and why none is settled
+
+A cautious reading should test ordinary possibilities first. Aircraft lights are an obvious candidate in busy Île-de-France airspace, and GEIPAN has shown in other cases how aircraft can be misread as huge, slow or oddly shaped objects when seen at night from a road or stationary vehicle. Its general methodology gives a concrete example of a C-130 Hercules transport aircraft being perceived by witnesses as a flying saucer or a huge slow triangle, with radar later helping explain the scene.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan Mission &amp; Geipan &#124; GEIPAN</span></span></span>
+
+For Ussy-sur-Marne, however, the available public file does not show the decisive cross-checks that would settle such an explanation. The record does not provide a matching aircraft track, altitude, route, transponder identification or independent aviation reconstruction. Nor does it show a clear match with a helicopter, drone, balloon, satellite, meteor or advertising light. Some of those explanations fit one part of the report but fail another: a helicopter can hover but is unlikely to be silent at close range; a meteor can vanish fast but cannot hover for ten minutes; a balloon can drift silently but does not explain the reported sudden westward departure.
+
+A formation of separate lights is another possibility, because three points can make a triangle whether or not a solid body links them. But the gendarmes said the lights came from the underside of a triangular object, and their sketch shows a single form rather than three unrelated sources. That makes the formation hypothesis possible but unproven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/2023-08/USSY-SUR-MARNE%20%2877%29%2024.06.1994%20%5BT-M%20PV%20T%2CD%2CC%20S%2CA%5D%201994307799-1544-94-R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BUgjzQ7vpsg" title="Des gendarmes face à l&#x27;inexpliqué - OVNIS, la fascinante histoire (8/9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BUgjzQ7vpsg" target="_blank" rel="noopener noreferrer">Des gendarmes face à l&#x27;inexpliqué - OVNIS, la fascinante histoire (8/9)</a></p><p class="youtube-embed-meta">Channel: RTBF &middot; Views: 140.1K &middot; Uploaded: August 2023 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BUgjzQ7vpsg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BUgjzQ7vpsg">Open on YouTube</a></p></div></div></div>
+
+## What the Ussy triangle adds to the department’s UFO history
+
+The Ussy-sur-Marne case is best understood as one of Seine-et-Marne’s strongest official witness reports, not as a solved mystery or a confirmed exotic event. Its strength lies in the combination of on-duty gendarmes, immediate official procedure, specific roads and landmarks, weather documentation and a consistent triangular-light description. Its weakness lies in the lack of instrumental evidence and the unresolved problem of estimating scale, altitude and speed at night.
+
+For the wider Seine-et-Marne project, it performs a different role from the AF3532 aviation case. AF3532 raises questions about airline crew observation, airspace, radar interpretation and long-distance visual perception. Ussy-sur-Marne is more intimate: a patrol car, a motorway bridge, three lights, silence, stopped communications and a close-range impression that the witnesses could not explain. The two cases together show why the department’s UFO history is not just a catalogue of strange stories; it is a study in how official records can preserve both valuable testimony and unresolved uncertainty.
+
+The most balanced verdict is therefore narrow but meaningful. Something unusual was reported by three gendarmes near Ussy-sur-Marne in June 1994, and the public GEIPAN file does not provide a satisfactory ordinary explanation. At the same time, the evidence does not allow the reader to move from “unidentified” to “extraordinary craft”. The silent triangle remains a serious unresolved report because of who filed it and how it was documented, but its unresolved status depends as much on missing measurements as on the strangeness of the account.<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to Why Did Gendarmes Report a Silent Triangle?. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a></h4><p class="fr-book-author">By Leslie Kean</p><p class="fr-book-desc">Covers official witnesses and unresolved reports.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a></h4><p class="fr-book-author">By J. Allen Hynek</p><p class="fr-book-desc">Strong fit for a structured witness-report case involving unusual shapes.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a></h4><p class="fr-book-author">By Jacques Vallee</p><p class="fr-book-desc">Relevant to unusual close-range encounter narratives.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a></h4><p class="fr-book-author">By Peter A. Sturrock</p><p class="fr-book-desc">Helps readers assess unresolved official cases.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Wall Decal - Galaxy Planets 3D Smashed Art Sticker Kids Decor Vinyl Mural"><img src="{{'/assets/images/marketplace-covers/3d733175583c46b8d50a.jpg' | relative_url }}" alt="Listing image for Space Wall Decal - Galaxy Planets 3D Smashed Art Sticker Kids Decor Vinyl Mural" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Space Wall Decal - Galaxy Planets 3D Smashed Art Sticker Kids Decor Vinyl Mural</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Poster Set of 2 -Kids Educational Planets Chart &amp; Space Wall Art A3"><img src="{{'/assets/images/marketplace-covers/b44c6b930f57b977d67d.jpg' | relative_url }}" alt="Listing image for Solar System Poster Set of 2 -Kids Educational Planets Chart &amp; Space Wall Art A3" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Poster Set of 2 -Kids Educational Planets Chart &amp; Space Wall Art A3</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Space Poster - FIRST MOON WALK - A4,A3,A2"><img src="{{'/assets/images/marketplace-covers/e679acaf456874ac9c59.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Space Poster - FIRST MOON WALK - A4,A3,A2" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Space Poster - FIRST MOON WALK - A4,A3,A2</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Wall Stickers Space Planets Kids Education Decor Mural Art Decal UK"><img src="{{'/assets/images/marketplace-covers/89247864efbc4b335b2c.jpg' | relative_url }}" alt="Listing image for Solar System Wall Stickers Space Planets Kids Education Decor Mural Art Decal UK" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Wall Stickers Space Planets Kids Education Decor Mural Art Decal UK</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="ussy-triangle-why-did-gendarmes-report-a-silent-triangle-seine-et-marne-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket ='';
+    var languageMarket ='';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i< languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language ||'';
+  }
+  function inferFromTimezone() {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return'';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] ||'';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();</script><script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label ||'eBay';
+  }
+  function flagClass(marketId) {
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded','false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ?'true' :'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey:'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket)< 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();</script></section>
+
+## Endnotes
+
+1.<a id="endnote-1"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/2023-08/USSY-SUR-MARNE%20%2877%29%2024.06.1994%20%5BT-M%20PV%20T%2CD%2CC%20S%2CA%5D%201994307799-1544-94-R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/2023-08/USSY-SUR-MARNE%20%2877%29%2024.06.1994%20%5BT-M%20PV%20T%2CD%2CC%20S%2CA%5D%201994307799-1544-94-R.pdf</a>  
+
+2.<a id="endnote-2"></a>
+   Source: carteovni.fr  
+   Link:<a href="https://carteovni.fr/commune/ussy-sur-marne-77" target="_blank" rel="noopener noreferrer nofollow">https://carteovni.fr/commune/ussy-sur-marne-77</a>  
+
+3.<a id="endnote-3"></a>
+   Source: carteovni.fr  
+   Link:<a href="https://carteovni.fr/departement/seine-et-marne" target="_blank" rel="noopener noreferrer nofollow">https://carteovni.fr/departement/seine-et-marne</a>  
+
+4.<a id="endnote-4"></a>
+   Source: cnes.fr  
+   Title: GEIPAN | CNES  
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+
+5.<a id="endnote-5"></a>
+   Source: carteovni.fr  
+   Title: ussy sur marne 1994 0601360  
+   Link:<a href="https://carteovni.fr/cas/ussy-sur-marne-1994-0601360" target="_blank" rel="noopener noreferrer nofollow">https://carteovni.fr/cas/ussy-sur-marne-1994-0601360</a>  
+
+6.<a id="endnote-6"></a>
+   Source: carteovni.fr  
+   Title: Cas OVNI non identifiés (classe D) en France  
+   Link:<a href="https://carteovni.fr/classification/d" target="_blank" rel="noopener noreferrer nofollow">https://carteovni.fr/classification/d</a>  
+
+7.<a id="endnote-7"></a>
+   Source: geipan.fr  
+   Link:<a href="https://www.geipan.fr/sites/default/files/15_VALLEE_full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/sites/default/files/15_VALLEE_full.pdf</a>  
+
+8.<a id="endnote-8"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://cnes-geipan.fr/en/node/52019" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/en/node/52019</a>  
+
+9.<a id="endnote-9"></a>
+   Source: cnes-geipan.fr  
+   Title: Geipan Classification | GEIPAN  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
+
+10.<a id="endnote-10"></a>
+   Source: cnes-geipan.fr  
+   Title: Geipan Mission & Geipan | GEIPAN  
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+
+11.<a id="endnote-11"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/fr/cas/2014-04-50829" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/2014-04-50829</a>  
+
+12.<a id="endnote-12"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58788</a>  
+
+13.<a id="endnote-13"></a>
+   Source: cnes-geipan.fr  
+   Title: 2015 09 01 Spatial Point Pattern Analysis of the Unidentified  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf</a>  
+
+14.<a id="endnote-14"></a>
+   Source: Wikipedia  
+   Link:<a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
+
+15.<a id="endnote-15"></a>
+   Source: uapedia.ai  
+   Link:<a href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/geipan-frances-official-uap-unit/</a>  
+
+16.<a id="endnote-16"></a>
+   Source: academieairespace.com  
+   Link:<a href="https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en</a>  
+
+17.<a id="endnote-17"></a>
+   Source: youtube.com  
+   Link:<a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hn2xTieploU</a>  
+
+### Additional References
+
+18.<a id="endnote-18"></a>
+   Source: youtube.com  
+   Title: Police officers confront the unexplained  
+   Link:<a href="https://www.youtube.com/watch?v=BUgjzQ7vpsg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BUgjzQ7vpsg</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Witnesses of extraterrestrial life: they recount what they saw...</p></details>
+
+19.<a id="endnote-19"></a>
+   Source: youtube.com  
+   Title: Meeting France's UFO detectives • FRANCE 24 English  
+   Link:<a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zczcBLukQ6s</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Police officers confront the unexplained - UFOs, the fascinating story (8/9)...</p></details>
+
+20.<a id="endnote-20"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/</a>  
+
+21.<a id="endnote-21"></a>
+   Source: reddit.com  
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/</a>  
+
+22.<a id="endnote-22"></a>
+   Source: dokumen.pub  
+   Link:<a href="https://dokumen.pub/download/further-towards-a-conquest-of-the-paranormal-notes-concerning-uap-ufos-extra-terrestrials-cryptids-amp-other-miscellaneous-phenomena-2-1080471588-9781080471584.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/further-towards-a-conquest-of-the-paranormal-notes-concerning-uap-ufos-extra-terrestrials-cryptids-amp-other-miscellaneous-phenomena-2-1080471588-9781080471584.html</a>  
+
+23.<a id="endnote-23"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/groups/lufos/posts/2005810650311995/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/lufos/posts/2005810650311995/</a>  
+
+24.<a id="endnote-24"></a>
+   Source: reddit.com  
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/1qa0lyb/til_that_france_has_a_dedicated_unit_to_finding/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1qa0lyb/til_that_france_has_a_dedicated_unit_to_finding/</a>  
+
+25.<a id="endnote-25"></a>
+   Source: ccel.org  
+   Link:<a href="https://www.ccel.org/ccel/h/herbermann/cathen10/cache/cathen10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ccel.org/ccel/h/herbermann/cathen10/cache/cathen10.pdf</a>  
+
+26.<a id="endnote-26"></a>
+   Source: academia.edu  
+   Link:<a href="https://www.academia.edu/128019814/The_New_Science_of_Unidentified_Aerospace_Undersea_Phenomena_UAP_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/128019814/The_New_Science_of_Unidentified_Aerospace_Undersea_Phenomena_UAP_</a>  
+
+27.<a id="endnote-27"></a>
+   Source: researchgate.net  
+   Link:<a href="https://www.researchgate.net/figure/The-triangular-UFO-and-its-luminous-beams-that-the-gendarmes-von-Montigny-and-Nicoll_fig5_401344695" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/The-triangular-UFO-and-its-luminous-beams-that-the-gendarmes-von-Montigny-and-Nicoll_fig5_401344695</a>  

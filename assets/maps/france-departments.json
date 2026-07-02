@@ -1,0 +1,3672 @@
+{
+  "kind": "france-departments",
+  "mapLayout": "france-departments",
+  "mapFit": "linked-bounds",
+  "itemType": "department",
+  "mapAsset": "france-departments.svg",
+  "dataAsset": "france-departments.json",
+  "mapLabel": "UFO and UAP French departments map",
+  "fallbackSummary": "Open this French department file from the map.",
+  "panelCopy": "Use the map to jump into a French department file, or browse the full department list below.",
+  "items": [
+    {
+      "id": "FR-50",
+      "iso": "FR-50",
+      "department": "Manche",
+      "mapName": "Manche",
+      "label": "Manche",
+      "mapAliases": [
+        "manche",
+        "fr 50",
+        "50"
+      ],
+      "title": "Are Manche's UFO Reports Mystery or Misidentification?",
+      "summary": "Manche’s UFO history is not built around one famous “alien” case.",
+      "url": "are-manches-ufo-reports-mystery-or/",
+      "image": "assets/images/Manche_e44581-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "50"
+    },
+    {
+      "id": "FR-24",
+      "iso": "FR-24",
+      "department": "Dordogne",
+      "mapName": "Dordogne",
+      "label": "Dordogne",
+      "mapAliases": [
+        "dordogne",
+        "fr 24",
+        "24"
+      ],
+      "title": "Dordogne UFOs: Folklore, Files and Explanations",
+      "summary": "Dordogne has a UFO history, but not the kind that supports a simple “mystery hotspot” story.",
+      "url": "dordogne-ufos-folklore-files-and/",
+      "image": "assets/images/Dordogne_e9b4bd-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "24"
+    },
+    {
+      "id": "FR-04",
+      "iso": "FR-04",
+      "department": "Alpes-de-Haute-Provence",
+      "mapName": "Alpes-de-Haute-Provence",
+      "label": "Alpes-de-Haute-Provence",
+      "mapAliases": [
+        "alpes de haute provence",
+        "fr 04",
+        "04"
+      ],
+      "title": "The UFO Files of Alpes de Haute Provence",
+      "summary": "Alpes-de-Haute-Provence has one genuinely famous UFO story: the 1965 Valensole encounter, in which lavender farmer Maurice Masse reported seeing a landed...",
+      "url": "the-ufo-files-of-alpes-de-haute-provence/",
+      "image": "assets/images/Alpes-de-Haute-Prove_b1f7bc-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "04"
+    },
+    {
+      "id": "FR-36",
+      "iso": "FR-36",
+      "department": "Indre",
+      "mapName": "Indre",
+      "label": "Indre",
+      "mapAliases": [
+        "fr 36",
+        "indre",
+        "36"
+      ],
+      "title": "Were Indre's UFOs Ever Truly Unexplained?",
+      "summary": "Indre is not one of France’s great unresolved UFO hotspots.",
+      "url": "were-indres-ufos-ever-truly-unexplained/",
+      "image": "assets/images/Indre_4b1413-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "36"
+    },
+    {
+      "id": "FR-03",
+      "iso": "FR-03",
+      "department": "Allier",
+      "mapName": "Allier",
+      "label": "Allier",
+      "mapAliases": [
+        "allier",
+        "fr 03",
+        "03"
+      ],
+      "title": "What Allier's UFO Files Really Show",
+      "summary": "Allier’s public UFO record is not a catalogue of dramatic unsolved encounters.",
+      "url": "what-alliers-ufo-files-really-show/",
+      "image": "assets/images/Allier_716dd6-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "03"
+    },
+    {
+      "id": "FR-10",
+      "iso": "FR-10",
+      "department": "Aube",
+      "mapName": "Aube",
+      "label": "Aube",
+      "mapAliases": [
+        "fr 10",
+        "aube",
+        "10"
+      ],
+      "title": "What Aube's UFO Files Really Show",
+      "summary": "Aube’s official UFO record is less a story of one spectacular mystery than a useful case study in how ordinary sightings become “UFO” cases, and how many of...",
+      "url": "what-aubes-ufo-files-really-show/",
+      "image": "assets/images/Aube_200d42-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "10"
+    },
+    {
+      "id": "FR-02",
+      "iso": "FR-02",
+      "department": "Aisne",
+      "mapName": "Aisne",
+      "label": "Aisne",
+      "mapAliases": [
+        "aisne",
+        "fr 02",
+        "02"
+      ],
+      "title": "What Did Aisne's UFO Reports Really Show?",
+      "summary": "Aisne’s public UFO record is not a story of one famous unsolved landing or a dramatic military cover-up.",
+      "url": "what-did-aisnes-ufo-reports-really-show/",
+      "image": "assets/images/Aisne_b23b8e-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "02"
+    },
+    {
+      "id": "FR-32",
+      "iso": "FR-32",
+      "department": "Gers",
+      "mapName": "Gers",
+      "label": "Gers",
+      "mapAliases": [
+        "fr 32",
+        "gers",
+        "32"
+      ],
+      "title": "What Did Gers UFO Witnesses Really See?",
+      "summary": "Gers has a modest but useful UFO record: not a department famous for one spectacular, nationally debated case, but a place where the French official files...",
+      "url": "what-did-gers-ufo-witnesses-really-see/",
+      "image": "assets/images/Gers_631401-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "32"
+    },
+    {
+      "id": "FR-93",
+      "iso": "FR-93",
+      "department": "Seine-Saint-Denis",
+      "mapName": "Seine-Saint-Denis",
+      "label": "Seine-Saint-Denis",
+      "mapAliases": [
+        "seine saint denis",
+        "fr 93",
+        "93"
+      ],
+      "title": "What Did Seine Saint Denis Witnesses Really See?",
+      "summary": "Seine-Saint-Denis has a documented UFO history, but not the dramatic kind.",
+      "url": "what-did-seine-saint-denis-witnesses/",
+      "image": "assets/images/Seine-Saint-Denis_af7f54-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "93"
+    },
+    {
+      "id": "FR-11",
+      "iso": "FR-11",
+      "department": "Aude",
+      "mapName": "Aude",
+      "label": "Aude",
+      "mapAliases": [
+        "fr 11",
+        "aude",
+        "11"
+      ],
+      "title": "What Do Aude's UFO Cases Really Show?",
+      "summary": "Aude’s UFO history is not built around one famous, fully evidenced “classic” case.",
+      "url": "what-do-audes-ufo-cases-really-show/",
+      "image": "assets/images/Aude_f0dc3d-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "11"
+    },
+    {
+      "id": "FR-23",
+      "iso": "FR-23",
+      "department": "Creuse",
+      "mapName": "Creuse",
+      "label": "Creuse",
+      "mapAliases": [
+        "creuse",
+        "fr 23",
+        "23"
+      ],
+      "title": "What Do Creuse UFO Reports Really Show?",
+      "summary": "Creuse has a modest but useful place in French UFO history: not as a department of famous “classic” close encounters, but as a rural area where a small...",
+      "url": "what-do-creuse-ufo-reports-really-show/",
+      "image": "assets/images/Creuse_73fb1d-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "23"
+    },
+    {
+      "id": "FR-64",
+      "iso": "FR-64",
+      "department": "Pyrenees-Atlantiques",
+      "mapName": "Pyrenees-Atlantiques",
+      "label": "Pyrenees-Atlantiques",
+      "mapAliases": [
+        "pyrenees atlantiques",
+        "fr 64",
+        "64"
+      ],
+      "title": "What Do Pyrenees Atlantiques UFO Cases Really Show?",
+      "summary": "Pyrénées-Atlantiques has a small but useful UFO record: not a department defined by one world-famous mystery, but by a revealing mix of coastal reports,...",
+      "url": "what-do-pyrenees-atlantiques-ufo-cases/",
+      "image": "assets/images/Pyrenees-Atlantiques_126d41-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "64"
+    },
+    {
+      "id": "FR-88",
+      "iso": "FR-88",
+      "department": "Vosges",
+      "mapName": "Vosges",
+      "label": "Vosges",
+      "mapAliases": [
+        "vosges",
+        "fr 88",
+        "88"
+      ],
+      "title": "What Do Vosges UFO Reports Really Show?",
+      "summary": "Vosges is not one of France’s best-known UFO departments, but it has a useful, well-documented pattern: many reports that initially sounded strange were...",
+      "url": "what-do-vosges-ufo-reports-really-show/",
+      "image": "assets/images/Vosges_53546a-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "88"
+    },
+    {
+      "id": "FR-33",
+      "iso": "FR-33",
+      "department": "Gironde",
+      "mapName": "Gironde",
+      "label": "Gironde",
+      "mapAliases": [
+        "gironde",
+        "fr 33",
+        "33"
+      ],
+      "title": "What Gironde's UFO Files Really Show",
+      "summary": "Gironde’s UFO history is not dominated by one spectacular national landmark case.",
+      "url": "what-girondes-ufo-files-really-show/",
+      "image": "assets/images/Gironde_99a85b-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "33"
+    },
+    {
+      "id": "FR-2B",
+      "iso": "FR-2B",
+      "department": "Haute-Corse",
+      "mapName": "Haute-Corse",
+      "label": "Haute-Corse",
+      "mapAliases": [
+        "haute corse",
+        "fr 2b",
+        "2b"
+      ],
+      "title": "What Haute Corse UFO Files Really Show",
+      "summary": "Haute-Corse has a modest but useful UFO record: not a dramatic “hotspot”, but a department where the official French files show the difference between an...",
+      "url": "what-haute-corse-ufo-files-really-show/",
+      "image": "assets/images/Haute-Corse_b2c532-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "2B"
+    },
+    {
+      "id": "FR-35",
+      "iso": "FR-35",
+      "department": "Ille-et-Vilaine",
+      "mapName": "Ille-et-Vilaine",
+      "label": "Ille-et-Vilaine",
+      "mapAliases": [
+        "ille et vilaine",
+        "fr 35",
+        "35"
+      ],
+      "title": "What Ille et Vilaine's UFO Files Really Show",
+      "summary": "Ille-et-Vilaine’s UFO history is not a tale of one famous crash, one dramatic military interception, or one locally decisive “proof” case.",
+      "url": "what-ille-et-vilaines-ufo-files-really/",
+      "image": "assets/images/Ille-et-Vilaine_a0a684-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "35"
+    },
+    {
+      "id": "FR-45",
+      "iso": "FR-45",
+      "department": "Loiret",
+      "mapName": "Loiret",
+      "label": "Loiret",
+      "mapAliases": [
+        "loiret",
+        "fr 45",
+        "45"
+      ],
+      "title": "What Loiret's UFO Files Really Show",
+      "summary": "Loiret’s UFO history is not built around one famous, still-unexplained “classic” case.",
+      "url": "what-loirets-ufo-files-really-show/",
+      "image": "assets/images/Loiret_6d08aa-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "45"
+    },
+    {
+      "id": "FR-49",
+      "iso": "FR-49",
+      "department": "Maine-et-Loire",
+      "mapName": "Maine-et-Loire",
+      "label": "Maine-et-Loire",
+      "mapAliases": [
+        "maine et loire",
+        "fr 49",
+        "49"
+      ],
+      "title": "What Maine et Loire UFO Files Really Show",
+      "summary": "Maine-et-Loire has a modest but revealing UFO record.",
+      "url": "what-maine-et-loire-ufo-files-really/",
+      "image": "assets/images/Maine-et-Loire_19238f-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "49"
+    },
+    {
+      "id": "FR-19",
+      "iso": "FR-19",
+      "department": "Correze",
+      "mapName": "Correze",
+      "label": "Correze",
+      "mapAliases": [
+        "correze",
+        "fr 19",
+        "19"
+      ],
+      "title": "What Makes Corrèze's UFO Record So Revealing?",
+      "summary": "Corrèze has a small but unusually revealing UFO record.",
+      "url": "correze/",
+      "image": "assets/images/Correze_3e9490-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "19"
+    },
+    {
+      "id": "FR-31",
+      "iso": "FR-31",
+      "department": "Haute-Garonne",
+      "mapName": "Haute-Garonne",
+      "label": "Haute-Garonne",
+      "mapAliases": [
+        "haute garonne",
+        "fr 31",
+        "31"
+      ],
+      "title": "What Makes Haute Garonne's UFO Record Different?",
+      "summary": "Haute-Garonne is unusual in French UFO history for two reasons.",
+      "url": "what-makes-haute-garonnes-ufo-record/",
+      "image": "assets/images/Haute-Garonne_34cc0a-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "31"
+    },
+    {
+      "id": "FR-92",
+      "iso": "FR-92",
+      "department": "Hauts-de-Seine",
+      "mapName": "Hauts-de-Seine",
+      "label": "Hauts-de-Seine",
+      "mapAliases": [
+        "hauts de seine",
+        "fr 92",
+        "92"
+      ],
+      "title": "What Makes Hauts de Seine UFO Reports Interesting?",
+      "summary": "Hauts-de-Seine is not one of France’s great “classic UFO” departments.",
+      "url": "what-makes-hauts-de-seine-ufo-reports/",
+      "image": "assets/images/Hauts-de-Seine_2ccee8-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "92"
+    },
+    {
+      "id": "FR-38",
+      "iso": "FR-38",
+      "department": "Isere",
+      "mapName": "Isere",
+      "label": "Isere",
+      "mapAliases": [
+        "fr 38",
+        "isere",
+        "38"
+      ],
+      "title": "What Makes Isere's UFO Record So Awkward?",
+      "summary": "Isère’s UFO history is less a story of one famous “flying saucer” than a useful cross-section of how French official UFO investigation works at department...",
+      "url": "what-makes-iseres-ufo-record-so-awkward/",
+      "image": "assets/images/Isere_7db861-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "38"
+    },
+    {
+      "id": "FR-59",
+      "iso": "FR-59",
+      "department": "Nord",
+      "mapName": "Nord",
+      "label": "Nord",
+      "mapAliases": [
+        "fr 59",
+        "nord",
+        "59"
+      ],
+      "title": "What Makes Nord's UFO Record So Puzzling?",
+      "summary": "Nord’s UFO history is dominated by one famous story and many quieter, more ordinary case files.",
+      "url": "what-makes-nords-ufo-record-so-puzzling/",
+      "image": "assets/images/Nord_dc64d1-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "59"
+    },
+    {
+      "id": "FR-76",
+      "iso": "FR-76",
+      "department": "Seine-Maritime",
+      "mapName": "Seine-Maritime",
+      "label": "Seine-Maritime",
+      "mapAliases": [
+        "seine maritime",
+        "fr 76",
+        "76"
+      ],
+      "title": "What Makes Seine Maritime's UFO Files Worth Reading?",
+      "summary": "Seine-Maritime’s UFO history is not built around one famous “landing” case, but around a steadier pattern: coastal and rural night sightings, a handful of...",
+      "url": "what-makes-seine-maritimes-ufo-files/",
+      "image": "assets/images/Seine-Maritime_c89706-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "76"
+    },
+    {
+      "id": "FR-51",
+      "iso": "FR-51",
+      "department": "Marne",
+      "mapName": "Marne",
+      "label": "Marne",
+      "mapAliases": [
+        "fr 51",
+        "marne",
+        "51"
+      ],
+      "title": "What Marne's UFO Files Really Show",
+      "summary": "Marne does not have a single, famous French UFO case on the scale of Trans-en-Provence or the national wave of 5 November 1990, but its local record is still...",
+      "url": "what-marnes-ufo-files-really-show/",
+      "image": "assets/images/Marne_763128-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "51"
+    },
+    {
+      "id": "FR-55",
+      "iso": "FR-55",
+      "department": "Meuse",
+      "mapName": "Meuse",
+      "label": "Meuse",
+      "mapAliases": [
+        "fr 55",
+        "meuse",
+        "55"
+      ],
+      "title": "What Meuse's UFO Files Really Show",
+      "summary": "Meuse has a modest but revealing UFO record. It does not look, from the available public files, like a department with one dominant “classic” mystery...",
+      "url": "what-meuses-ufo-files-really-show/",
+      "image": "assets/images/Meuse_6ed97d-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "55"
+    },
+    {
+      "id": "FR-56",
+      "iso": "FR-56",
+      "department": "Morbihan",
+      "mapName": "Morbihan",
+      "label": "Morbihan",
+      "mapAliases": [
+        "morbihan",
+        "fr 56",
+        "56"
+      ],
+      "title": "What Morbihan's UFO Files Really Show",
+      "summary": "Morbihan’s public UFO record is less a story of one famous “classic” case than a pattern: many reports turn out to be aircraft, lanterns, planets, clouds or...",
+      "url": "what-morbihans-ufo-files-really-show/",
+      "image": "assets/images/Morbihan_61a3f8-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "56"
+    },
+    {
+      "id": "FR-61",
+      "iso": "FR-61",
+      "department": "Orne",
+      "mapName": "Orne",
+      "label": "Orne",
+      "mapAliases": [
+        "fr 61",
+        "orne",
+        "61"
+      ],
+      "title": "What Orne's UFO Files Really Show",
+      "summary": "Orne’s UFO history is small but unusually useful: it shows almost every outcome a serious local UFO page should distinguish.",
+      "url": "what-ornes-ufo-files-really-show/",
+      "image": "assets/images/Orne_ab6076-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "61"
+    },
+    {
+      "id": "FR-66",
+      "iso": "FR-66",
+      "department": "Pyrenees-Orientales",
+      "mapName": "Pyrenees-Orientales",
+      "label": "Pyrenees-Orientales",
+      "mapAliases": [
+        "pyrenees orientales",
+        "fr 66",
+        "66"
+      ],
+      "title": "What Really Flew Over Roussillon?",
+      "summary": "The UFO record for Pyrénées-Orientales is not dominated by one famous “classic case”.",
+      "url": "pyrenees-orientales/",
+      "image": "assets/images/Pyrenees-Orientales_fc815c-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "66"
+    },
+    {
+      "id": "FR-01",
+      "iso": "FR-01",
+      "department": "Ain",
+      "mapName": "Ain",
+      "label": "Ain",
+      "mapAliases": [
+        "fr 01",
+        "ain",
+        "01"
+      ],
+      "title": "What Really Happened in Ain's UFO Files?",
+      "summary": "Ain’s UFO history is not built around one famous “crash” story or a long-running local legend.",
+      "url": "what-really-happened-in-ains-ufo-files/",
+      "image": "assets/images/Ain_fc7da0-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "01"
+    },
+    {
+      "id": "FR-08",
+      "iso": "FR-08",
+      "department": "Ardennes",
+      "mapName": "Ardennes",
+      "label": "Ardennes",
+      "mapAliases": [
+        "ardennes",
+        "fr 08",
+        "08"
+      ],
+      "title": "What Really Happened in Ardennes UFO Files?",
+      "summary": "Ardennes has a modest but useful UFO record: not a famous national “landing” department, but a good example of how French sightings move from rumour to...",
+      "url": "what-really-happened-in-ardennes-ufo/",
+      "image": "assets/images/Ardennes_627650-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "08"
+    },
+    {
+      "id": "FR-09",
+      "iso": "FR-09",
+      "department": "Ariege",
+      "mapName": "Ariege",
+      "label": "Ariege",
+      "mapAliases": [
+        "ariege",
+        "fr 09",
+        "09"
+      ],
+      "title": "What Really Happened in Ariège's UFO Files?",
+      "summary": "Ariège has a modest but revealing UFO record. It is not known for a single, well-evidenced “classic” case; it is better understood as a department where...",
+      "url": "ariege/",
+      "image": "assets/images/Ariege_996ae1-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "09"
+    },
+    {
+      "id": "FR-12",
+      "iso": "FR-12",
+      "department": "Aveyron",
+      "mapName": "Aveyron",
+      "label": "Aveyron",
+      "mapAliases": [
+        "aveyron",
+        "fr 12",
+        "12"
+      ],
+      "title": "What Really Happened in Aveyron's UFO Files?",
+      "summary": "Aveyron’s UFO history is not dominated by one famous national case.",
+      "url": "what-really-happened-in-aveyrons-ufo/",
+      "image": "assets/images/Aveyron_fecfb2-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "12"
+    },
+    {
+      "id": "FR-67",
+      "iso": "FR-67",
+      "department": "Bas-Rhin",
+      "mapName": "Bas-Rhin",
+      "label": "Bas-Rhin",
+      "mapAliases": [
+        "bas rhin",
+        "fr 67",
+        "67"
+      ],
+      "title": "What Really Happened in Bas Rhin Skies?",
+      "summary": "Bas-Rhin’s UFO record is not dominated by a long list of spectacular mysteries.",
+      "url": "what-really-happened-in-bas-rhin-skies/",
+      "image": "assets/images/Bas-Rhin_ad02bb-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "67"
+    },
+    {
+      "id": "FR-90",
+      "iso": "FR-90",
+      "department": "Territoire de Belfort",
+      "mapName": "Territoire de Belfort",
+      "label": "Territoire de Belfort",
+      "mapAliases": [
+        "territoire de belfort",
+        "fr 90",
+        "90"
+      ],
+      "title": "What Really Happened in Belfort's UFO Files?",
+      "summary": "Territoire de Belfort is not one of France’s famous UFO hotspots.",
+      "url": "territoire-de-belfort/",
+      "image": "assets/images/Territoire_de_Belfor_8990a1-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "90"
+    },
+    {
+      "id": "FR-13",
+      "iso": "FR-13",
+      "department": "Bouches-du-Rhone",
+      "mapName": "Bouches-du-Rhone",
+      "label": "Bouches-du-Rhone",
+      "mapAliases": [
+        "bouches du rhone",
+        "fr 13",
+        "13"
+      ],
+      "title": "What Really Happened in Bouches du Rhone Skies?",
+      "summary": "Bouches-du-Rhône is one of the more useful French departments for studying UFO history, not because it proves exotic craft, but because it combines three...",
+      "url": "what-really-happened-in-bouches-du-rhone/",
+      "image": "assets/images/Bouches-du-Rhone_a97972-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "13"
+    },
+    {
+      "id": "FR-14",
+      "iso": "FR-14",
+      "department": "Calvados",
+      "mapName": "Calvados",
+      "label": "Calvados",
+      "mapAliases": [
+        "calvados",
+        "fr 14",
+        "14"
+      ],
+      "title": "What Really Happened In Calvados Skies?",
+      "summary": "Calvados has a modest but unusually useful UFO record: not because it contains a famous “classic” case, but because France’s official UAP archive lets...",
+      "url": "what-really-happened-in-calvados-skies/",
+      "image": "assets/images/Calvados_b13668-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "14"
+    },
+    {
+      "id": "FR-15",
+      "iso": "FR-15",
+      "department": "Cantal",
+      "mapName": "Cantal",
+      "label": "Cantal",
+      "mapAliases": [
+        "cantal",
+        "fr 15",
+        "15"
+      ],
+      "title": "What Really Happened in Cantal's UFO Files?",
+      "summary": "Cantal’s UFO history is dominated by one famous rural encounter: the reported 1967 close encounter at Cussac, near Saint-Flour.",
+      "url": "what-really-happened-in-cantals-ufo/",
+      "image": "assets/images/Cantal_202658-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "15"
+    },
+    {
+      "id": "FR-17",
+      "iso": "FR-17",
+      "department": "Charente-Maritime",
+      "mapName": "Charente-Maritime",
+      "label": "Charente-Maritime",
+      "mapAliases": [
+        "charente maritime",
+        "fr 17",
+        "17"
+      ],
+      "title": "What Really Happened in Charente Maritime's UFO Files?",
+      "summary": "Charente-Maritime’s UFO history is not a single dramatic mystery but a mixed record of coastal night lights, old gendarmerie reports, aviation-related...",
+      "url": "what-really-happened-in-charente/",
+      "image": "assets/images/Charente-Maritime_ed3a6b-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "17"
+    },
+    {
+      "id": "FR-16",
+      "iso": "FR-16",
+      "department": "Charente",
+      "mapName": "Charente",
+      "label": "Charente",
+      "mapAliases": [
+        "charente",
+        "fr 16",
+        "16"
+      ],
+      "title": "What Really Happened in Charente's UFO Files?",
+      "summary": "Charente’s UFO history is not built around one famous national mystery.",
+      "url": "what-really-happened-in-charentes-ufo/",
+      "image": "assets/images/Charente_8acfde-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "16"
+    },
+    {
+      "id": "FR-18",
+      "iso": "FR-18",
+      "department": "Cher",
+      "mapName": "Cher",
+      "label": "Cher",
+      "mapAliases": [
+        "fr 18",
+        "cher",
+        "18"
+      ],
+      "title": "What Really Happened in Cher's UFO Files?",
+      "summary": "Cher’s UFO history is not built around one famous unsolved landing case or a dramatic military cover-up.",
+      "url": "what-really-happened-in-chers-ufo-files/",
+      "image": "assets/images/Cher_614205-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "18"
+    },
+    {
+      "id": "FR-2A",
+      "iso": "FR-2A",
+      "department": "Corse-du-Sud",
+      "mapName": "Corse-du-Sud",
+      "label": "Corse-du-Sud",
+      "mapAliases": [
+        "corse du sud",
+        "fr 2a",
+        "2a"
+      ],
+      "title": "What Really Happened in Corse du Sud's UFO Files?",
+      "summary": "Corse-du-Sud’s UFO history is not a story of a single famous “crash” or a long-running local legend.",
+      "url": "what-really-happened-in-corse-du-suds/",
+      "image": "assets/images/Corse-du-Sud_8217c3-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "2A"
+    },
+    {
+      "id": "FR-22",
+      "iso": "FR-22",
+      "department": "Cotes-d'Armor",
+      "mapName": "Cotes-d'Armor",
+      "label": "Cotes-d'Armor",
+      "mapAliases": [
+        "cotes d armor",
+        "cotes darmor",
+        "fr 22",
+        "22"
+      ],
+      "title": "What Really Happened in Cotes d'Armor Skies?",
+      "summary": "Côtes-d’Armor has a modest but genuinely useful UFO record: not a department defined by one famous “classic” case, but by a clear pattern in official files.",
+      "url": "what-really-happened-in-cotes-darmor/",
+      "image": "assets/images/Cotes-d_Armor_789c20-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "22"
+    },
+    {
+      "id": "FR-79",
+      "iso": "FR-79",
+      "department": "Deux-Sevres",
+      "mapName": "Deux-Sevres",
+      "label": "Deux-Sevres",
+      "mapAliases": [
+        "deux sevres",
+        "fr 79",
+        "79"
+      ],
+      "title": "What Really Happened in Deux Sevres Skies?",
+      "summary": "Deux-Sèvres does not have a single famous UFO case on the scale of France’s best-known national incidents, but it does have a useful, well-documented...",
+      "url": "what-really-happened-in-deux-sevres/",
+      "image": "assets/images/Deux-Sevres_ac4bfa-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "79"
+    },
+    {
+      "id": "FR-26",
+      "iso": "FR-26",
+      "department": "Drome",
+      "mapName": "Drome",
+      "label": "Drome",
+      "mapAliases": [
+        "drome",
+        "fr 26",
+        "26"
+      ],
+      "title": "What Really Happened in Drome's UFO Files?",
+      "summary": "Drome’s UFO history is not a single dramatic mystery but a layered local record: a famous 1954 “flying saucer” story at Chabeuil, a better-documented but...",
+      "url": "what-really-happened-in-dromes-ufo-files/",
+      "image": "assets/images/Drome_06f265-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "26"
+    },
+    {
+      "id": "FR-28",
+      "iso": "FR-28",
+      "department": "Eure-et-Loir",
+      "mapName": "Eure-et-Loir",
+      "label": "Eure-et-Loir",
+      "mapAliases": [
+        "eure et loir",
+        "fr 28",
+        "28"
+      ],
+      "title": "What Really Happened in Eure et Loir Skies?",
+      "summary": "Eure-et-Loir has a modest but unusually useful UFO record: not because it proves extraordinary craft over the Beauce, Perche or Drouais, but because many...",
+      "url": "what-really-happened-in-eure-et-loir/",
+      "image": "assets/images/Eure-et-Loir_aac377-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "28"
+    },
+    {
+      "id": "FR-27",
+      "iso": "FR-27",
+      "department": "Eure",
+      "mapName": "Eure",
+      "label": "Eure",
+      "mapAliases": [
+        "fr 27",
+        "eure",
+        "27"
+      ],
+      "title": "What Really Happened in Eure's UFO Files?",
+      "summary": "Eure’s UFO history is less a story of spectacular “flying saucers” than a useful local case study in how strange sky reports become clearer when they are...",
+      "url": "what-really-happened-in-eures-ufo-files/",
+      "image": "assets/images/Eure_4abf79-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "27"
+    },
+    {
+      "id": "FR-29",
+      "iso": "FR-29",
+      "department": "Finistere",
+      "mapName": "Finistere",
+      "label": "Finistere",
+      "mapAliases": [
+        "finistere",
+        "fr 29",
+        "29"
+      ],
+      "title": "What Really Happened in Finistere's Skies?",
+      "summary": "Finistère has a small but unusually varied public UFO record: old gendarmerie files from the late 1970s and early 1980s, several ordinary misidentifications,...",
+      "url": "what-really-happened-in-finisteres-skies/",
+      "image": "assets/images/Finistere_3f7bbd-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "29"
+    },
+    {
+      "id": "FR-30",
+      "iso": "FR-30",
+      "department": "Gard",
+      "mapName": "Gard",
+      "label": "Gard",
+      "mapAliases": [
+        "fr 30",
+        "gard",
+        "30"
+      ],
+      "title": "What Really Happened in Gard's UFO Files?",
+      "summary": "Gard has a useful, but not especially sensational, UFO history.",
+      "url": "what-really-happened-in-gards-ufo-files/",
+      "image": "assets/images/Gard_40724c-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "30"
+    },
+    {
+      "id": "FR-68",
+      "iso": "FR-68",
+      "department": "Haut-Rhin",
+      "mapName": "Haut-Rhin",
+      "label": "Haut-Rhin",
+      "mapAliases": [
+        "haut rhin",
+        "fr 68",
+        "68"
+      ],
+      "title": "What Really Happened in Haut Rhin's UFO Files?",
+      "summary": "Haut-Rhin’s UFO history is not a story of one famous “smoking gun” case.",
+      "url": "what-really-happened-in-haut-rhins-ufo/",
+      "image": "assets/images/Haut-Rhin_0c01ce-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "68"
+    },
+    {
+      "id": "FR-43",
+      "iso": "FR-43",
+      "department": "Haute-Loire",
+      "mapName": "Haute-Loire",
+      "label": "Haute-Loire",
+      "mapAliases": [
+        "haute loire",
+        "fr 43",
+        "43"
+      ],
+      "title": "What Really Happened in Haute Loire's UFO Files?",
+      "summary": "Haute-Loire is not one of France’s classic “great UFO mystery” departments.",
+      "url": "what-really-happened-in-haute-loires-ufo/",
+      "image": "assets/images/Haute-Loire_12edf0-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "43"
+    },
+    {
+      "id": "FR-52",
+      "iso": "FR-52",
+      "department": "Haute-Marne",
+      "mapName": "Haute-Marne",
+      "label": "Haute-Marne",
+      "mapAliases": [
+        "haute marne",
+        "fr 52",
+        "52"
+      ],
+      "title": "What Really Happened in Haute Marne's UFO Files?",
+      "summary": "Haute-Marne’s UFO history is not dominated by one spectacular, officially unexplained case.",
+      "url": "what-really-happened-in-haute-marnes-ufo/",
+      "image": "assets/images/Haute-Marne_12dda3-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "52"
+    },
+    {
+      "id": "FR-74",
+      "iso": "FR-74",
+      "department": "Haute-Savoie",
+      "mapName": "Haute-Savoie",
+      "label": "Haute-Savoie",
+      "mapAliases": [
+        "haute savoie",
+        "fr 74",
+        "74"
+      ],
+      "title": "What Really Happened in Haute Savoie Skies?",
+      "summary": "Haute-Savoie’s UFO history is less a story of one famous unsolved mystery than a useful miniature of how French sky reports are investigated: mountain...",
+      "url": "what-really-happened-in-haute-savoie/",
+      "image": "assets/images/Haute-Savoie_3824c4-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "74"
+    },
+    {
+      "id": "FR-39",
+      "iso": "FR-39",
+      "department": "Jura",
+      "mapName": "Jura",
+      "label": "Jura",
+      "mapAliases": [
+        "fr 39",
+        "jura",
+        "39"
+      ],
+      "title": "What Really Happened in Jura's UFO Files?",
+      "summary": "Jura’s UFO history is not dominated by a single still-unexplained “classic” case.",
+      "url": "what-really-happened-in-juras-ufo-files/",
+      "image": "assets/images/Jura_f17a56-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "39"
+    },
+    {
+      "id": "FR-40",
+      "iso": "FR-40",
+      "department": "Landes",
+      "mapName": "Landes",
+      "label": "Landes",
+      "mapAliases": [
+        "landes",
+        "fr 40",
+        "40"
+      ],
+      "title": "What Really Happened in Landes Skies?",
+      "summary": "Landes has a quieter UFO history than the famous French cases of Valensole or Trans-en-Provence, but it is still a useful department to study because it...",
+      "url": "what-really-happened-in-landes-skies/",
+      "image": "assets/images/Landes_7a79d9-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "40"
+    },
+    {
+      "id": "FR-44",
+      "iso": "FR-44",
+      "department": "Loire-Atlantique",
+      "mapName": "Loire-Atlantique",
+      "label": "Loire-Atlantique",
+      "mapAliases": [
+        "loire atlantique",
+        "fr 44",
+        "44"
+      ],
+      "title": "What Really Happened in Loire Atlantique Skies?",
+      "summary": "Loire-Atlantique has a real, documented UFO history, but it is not a department whose public record points to one dramatic, well-proven mystery.",
+      "url": "what-really-happened-in-loire-atlantique/",
+      "image": "assets/images/Loire-Atlantique_ea6d7d-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "44"
+    },
+    {
+      "id": "FR-47",
+      "iso": "FR-47",
+      "department": "Lot-et-Garonne",
+      "mapName": "Lot-et-Garonne",
+      "label": "Lot-et-Garonne",
+      "mapAliases": [
+        "lot et garonne",
+        "fr 47",
+        "47"
+      ],
+      "title": "What Really Happened in Lot et Garonne's UFO Files?",
+      "summary": "Lot-et-Garonne’s UFO history is not a story of one famous, department-defining mystery.",
+      "url": "what-really-happened-in-lot-et/",
+      "image": "assets/images/Lot-et-Garonne_6df799-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "47"
+    },
+    {
+      "id": "FR-46",
+      "iso": "FR-46",
+      "department": "Lot",
+      "mapName": "Lot",
+      "label": "Lot",
+      "mapAliases": [
+        "fr 46",
+        "lot",
+        "46"
+      ],
+      "title": "What Really Happened in Lot's UFO Files?",
+      "summary": "Lot’s UFO history is less a tale of one famous, still-mysterious incident than a useful case study in how unusual sky reports are sorted, weakened, or...",
+      "url": "what-really-happened-in-lots-ufo-files/",
+      "image": "assets/images/Lot_4a2119-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "46"
+    },
+    {
+      "id": "FR-48",
+      "iso": "FR-48",
+      "department": "Lozere",
+      "mapName": "Lozere",
+      "label": "Lozere",
+      "mapAliases": [
+        "lozere",
+        "fr 48",
+        "48"
+      ],
+      "title": "What Really Happened in Lozere's UFO Files?",
+      "summary": "Lozère’s UFO history is not a tale of dramatic unresolved craft, secret bases or a single famous “classic” case.",
+      "url": "what-really-happened-in-lozeres-ufo/",
+      "image": "assets/images/Lozere_e8b6da-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "48"
+    },
+    {
+      "id": "FR-54",
+      "iso": "FR-54",
+      "department": "Meurthe-et-Moselle",
+      "mapName": "Meurthe-et-Moselle",
+      "label": "Meurthe-et-Moselle",
+      "mapAliases": [
+        "meurthe et moselle",
+        "fr 54",
+        "54"
+      ],
+      "title": "What Really Happened in Meurthe's UFO Files?",
+      "summary": "Meurthe-et-Moselle has a modest but revealing UFO history: not a department full of “classic” confirmed mysteries, but one where a handful of cases show how...",
+      "url": "meurthe-et-moselle/",
+      "image": "assets/images/Meurthe-et-Moselle_cbfe8a-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "54"
+    },
+    {
+      "id": "FR-57",
+      "iso": "FR-57",
+      "department": "Moselle",
+      "mapName": "Moselle",
+      "label": "Moselle",
+      "mapAliases": [
+        "moselle",
+        "fr 57",
+        "57"
+      ],
+      "title": "What Really Happened in Moselle's UFO Files?",
+      "summary": "Moselle has a surprisingly well-documented but uneven UFO history.",
+      "url": "what-really-happened-in-moselles-ufo/",
+      "image": "assets/images/Moselle_b6f07c-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "57"
+    },
+    {
+      "id": "FR-58",
+      "iso": "FR-58",
+      "department": "Nievre",
+      "mapName": "Nievre",
+      "label": "Nievre",
+      "mapAliases": [
+        "nievre",
+        "fr 58",
+        "58"
+      ],
+      "title": "What Really Happened in Nievre's UFO Files?",
+      "summary": "Nievre is not one of the French departments with a famous, nationally argued UFO mystery at its centre.",
+      "url": "what-really-happened-in-nievres-ufo/",
+      "image": "assets/images/Nievre_759cd1-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "58"
+    },
+    {
+      "id": "FR-60",
+      "iso": "FR-60",
+      "department": "Oise",
+      "mapName": "Oise",
+      "label": "Oise",
+      "mapAliases": [
+        "fr 60",
+        "oise",
+        "60"
+      ],
+      "title": "What Really Happened in Oise's UFO Files?",
+      "summary": "Oise has a modest but unusually useful UFO record: not because it contains a single world-famous “landing” case, but because its official files show the full...",
+      "url": "what-really-happened-in-oises-ufo-files/",
+      "image": "assets/images/Oise_3dde58-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "60"
+    },
+    {
+      "id": "FR-62",
+      "iso": "FR-62",
+      "department": "Pas-de-Calais",
+      "mapName": "Pas-de-Calais",
+      "label": "Pas-de-Calais",
+      "mapAliases": [
+        "pas de calais",
+        "fr 62",
+        "62"
+      ],
+      "title": "What Really Happened in Pas de Calais Skies?",
+      "summary": "Pas-de-Calais has a modest but revealing place in French UFO history. It is not best understood as a department full of spectacular, well-proven mysteries.",
+      "url": "what-really-happened-in-pas-de-calais/",
+      "image": "assets/images/Pas-de-Calais_0ab2d0-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "62"
+    },
+    {
+      "id": "FR-63",
+      "iso": "FR-63",
+      "department": "Puy-de-Dome",
+      "mapName": "Puy-de-Dome",
+      "label": "Puy-de-Dome",
+      "mapAliases": [
+        "puy de dome",
+        "fr 63",
+        "63"
+      ],
+      "title": "What Really Happened in Puy de Dome's UFO Files?",
+      "summary": "Puy-de-Dôme has one genuinely important place in French UFO history: the 1952 Lac Chauvet photographs, taken near a volcanic lake in the department and later...",
+      "url": "what-really-happened-in-puy-de-domes-ufo/",
+      "image": "assets/images/Puy-de-Dome_53d1d1-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "63"
+    },
+    {
+      "id": "FR-69",
+      "iso": "FR-69",
+      "department": "Rhone",
+      "mapName": "Rhone",
+      "label": "Rhone",
+      "mapAliases": [
+        "fr 69",
+        "rhone",
+        "69"
+      ],
+      "title": "What Really Happened in Rhone's UFO Reports?",
+      "summary": "Rhône’s UFO history is not built around one famous, still-unresolved landing case.",
+      "url": "what-really-happened-in-rhones-ufo/",
+      "image": "assets/images/Rhone_ae79ce-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "69"
+    },
+    {
+      "id": "FR-71",
+      "iso": "FR-71",
+      "department": "Saone-et-Loire",
+      "mapName": "Saone-et-Loire",
+      "label": "Saone-et-Loire",
+      "mapAliases": [
+        "saone et loire",
+        "fr 71",
+        "71"
+      ],
+      "title": "What Really Happened in Saone et Loire's UFO Files?",
+      "summary": "Saône-et-Loire’s UFO history is less a story of one famous “classic case” than a pattern of local reports that become clearer when they are checked against...",
+      "url": "what-really-happened-in-saone-et/",
+      "image": "assets/images/Saone-et-Loire_d3ab2b-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "71"
+    },
+    {
+      "id": "FR-73",
+      "iso": "FR-73",
+      "department": "Savoie",
+      "mapName": "Savoie",
+      "label": "Savoie",
+      "mapAliases": [
+        "savoie",
+        "fr 73",
+        "73"
+      ],
+      "title": "What Really Happened in Savoie's UFO Files?",
+      "summary": "Savoie’s public UFO record is less a story of one famous “mystery case” than a useful lesson in how unusual lights over mountains, valleys and resort towns...",
+      "url": "what-really-happened-in-savoies-ufo/",
+      "image": "assets/images/Savoie_f57b8f-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "73"
+    },
+    {
+      "id": "FR-77",
+      "iso": "FR-77",
+      "department": "Seine-et-Marne",
+      "mapName": "Seine-et-Marne",
+      "label": "Seine-et-Marne",
+      "mapAliases": [
+        "seine et marne",
+        "fr 77",
+        "77"
+      ],
+      "title": "What Really Happened in Seine et Marne's UFO Files?",
+      "summary": "Seine-et-Marne’s UFO history is not built around a long list of spectacular local legends.",
+      "url": "what-really-happened-in-seine-et/",
+      "image": "assets/images/Seine-et-Marne_d85b24-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "77"
+    },
+    {
+      "id": "FR-80",
+      "iso": "FR-80",
+      "department": "Somme",
+      "mapName": "Somme",
+      "label": "Somme",
+      "mapAliases": [
+        "fr 80",
+        "somme",
+        "80"
+      ],
+      "title": "What Really Happened in Somme's UFO Wave?",
+      "summary": "Somme’s UFO history is not a story of one famous, nationally dominant incident.",
+      "url": "what-really-happened-in-sommes-ufo-wave/",
+      "image": "assets/images/Somme_f38fb9-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "80"
+    },
+    {
+      "id": "FR-82",
+      "iso": "FR-82",
+      "department": "Tarn-et-Garonne",
+      "mapName": "Tarn-et-Garonne",
+      "label": "Tarn-et-Garonne",
+      "mapAliases": [
+        "tarn et garonne",
+        "fr 82",
+        "82"
+      ],
+      "title": "What Really Happened in Tarn et Garonne's UFO Files?",
+      "summary": "Tarn-et-Garonne has a modest but useful UFO record: not a department famous for a single spectacular “classic”, but one where official French files show how...",
+      "url": "what-really-happened-in-tarn-et-garonnes/",
+      "image": "assets/images/Tarn-et-Garonne_a4f8ba-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "82"
+    },
+    {
+      "id": "FR-81",
+      "iso": "FR-81",
+      "department": "Tarn",
+      "mapName": "Tarn",
+      "label": "Tarn",
+      "mapAliases": [
+        "fr 81",
+        "tarn",
+        "81"
+      ],
+      "title": "What Really Happened in Tarn's UFO Files?",
+      "summary": "Tarn’s UFO history is not built around a large, famous “flap” on the scale of better-known French or Belgian cases.",
+      "url": "what-really-happened-in-tarns-ufo-files/",
+      "image": "assets/images/Tarn_a5fb02-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "81"
+    },
+    {
+      "id": "FR-95",
+      "iso": "FR-95",
+      "department": "Val-d'Oise",
+      "mapName": "Val-d'Oise",
+      "label": "Val-d'Oise",
+      "mapAliases": [
+        "val doise",
+        "fr 95",
+        "95"
+      ],
+      "title": "What Really Happened in Val d'Oise?",
+      "summary": "Val-d'Oise has one of the more distinctive UFO histories in the Paris region, not because it contains a single proven extraordinary event, but because it...",
+      "url": "what-really-happened-in-val-doise/",
+      "image": "assets/images/Val-d_Oise_9a8e5a-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "95"
+    },
+    {
+      "id": "FR-94",
+      "iso": "FR-94",
+      "department": "Val-de-Marne",
+      "mapName": "Val-de-Marne",
+      "label": "Val-de-Marne",
+      "mapAliases": [
+        "val de marne",
+        "fr 94",
+        "94"
+      ],
+      "title": "What Really Happened in Val de Marne's UFO Files?",
+      "summary": "Val-de-Marne’s UFO history is not a story of a famous crash, a military cover-up, or a long-running local legend.",
+      "url": "what-really-happened-in-val-de-marnes/",
+      "image": "assets/images/Val-de-Marne_555905-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "94"
+    },
+    {
+      "id": "FR-83",
+      "iso": "FR-83",
+      "department": "Var",
+      "mapName": "Var",
+      "label": "Var",
+      "mapAliases": [
+        "fr 83",
+        "var",
+        "83"
+      ],
+      "title": "What Really Happened in Var's UFO Files?",
+      "summary": "Var has an unusually important place in French UFO history because it contains Trans-en-Provence, the 1981 physical-trace case that became one of the...",
+      "url": "what-really-happened-in-vars-ufo-files/",
+      "image": "assets/images/Var_5cea87-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "83"
+    },
+    {
+      "id": "FR-84",
+      "iso": "FR-84",
+      "department": "Vaucluse",
+      "mapName": "Vaucluse",
+      "label": "Vaucluse",
+      "mapAliases": [
+        "vaucluse",
+        "fr 84",
+        "84"
+      ],
+      "title": "What Really Happened in Vaucluse's UFO Files?",
+      "summary": "Vaucluse has a modest but useful UFO history: not a single dramatic local legend so much as a set of official case files showing how strange lights, military...",
+      "url": "what-really-happened-in-vaucluses-ufo/",
+      "image": "assets/images/Vaucluse_17bae7-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "84"
+    },
+    {
+      "id": "FR-85",
+      "iso": "FR-85",
+      "department": "Vendee",
+      "mapName": "Vendee",
+      "label": "Vendee",
+      "mapAliases": [
+        "vendee",
+        "fr 85",
+        "85"
+      ],
+      "title": "What Really Happened In Vendee's UFO Files?",
+      "summary": "Vendée’s UFO history is less a story of one famous “flying saucer” than a useful test of how strange sky reports change when they pass through official...",
+      "url": "what-really-happened-in-vendees-ufo/",
+      "image": "assets/images/Vendee_da066b-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "85"
+    },
+    {
+      "id": "FR-86",
+      "iso": "FR-86",
+      "department": "Vienne",
+      "mapName": "Vienne",
+      "label": "Vienne",
+      "mapAliases": [
+        "vienne",
+        "fr 86",
+        "86"
+      ],
+      "title": "What Really Happened in Vienne's UFO Files?",
+      "summary": "Vienne has a modest but useful place in French UFO history.",
+      "url": "what-really-happened-in-viennes-ufo/",
+      "image": "assets/images/Vienne_f0511b-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "86"
+    },
+    {
+      "id": "FR-89",
+      "iso": "FR-89",
+      "department": "Yonne",
+      "mapName": "Yonne",
+      "label": "Yonne",
+      "mapAliases": [
+        "fr 89",
+        "yonne",
+        "89"
+      ],
+      "title": "What Really Happened in Yonne's UFO Files?",
+      "summary": "Yonne’s UFO history is less a story of one famous “crash” or landmark mystery than a department-level pattern: old press stories, repeated local witness...",
+      "url": "what-really-happened-in-yonnes-ufo-files/",
+      "image": "assets/images/Yonne_77d4a6-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "89"
+    },
+    {
+      "id": "FR-78",
+      "iso": "FR-78",
+      "department": "Yvelines",
+      "mapName": "Yvelines",
+      "label": "Yvelines",
+      "mapAliases": [
+        "yvelines",
+        "fr 78",
+        "78"
+      ],
+      "title": "What Really Happened In Yvelines Skies?",
+      "summary": "Yvelines has a surprisingly active place in the official French UFO record, but not because it contains a long list of dramatic, well-evidenced mysteries.",
+      "url": "what-really-happened-in-yvelines-skies/",
+      "image": "assets/images/Yvelines_722ea1-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "78"
+    },
+    {
+      "id": "FR-07",
+      "iso": "FR-07",
+      "department": "Ardeche",
+      "mapName": "Ardeche",
+      "label": "Ardeche",
+      "mapAliases": [
+        "ardeche",
+        "fr 07",
+        "07"
+      ],
+      "title": "What Really Happened Over Ardeche?",
+      "summary": "Ardèche’s UFO history is not a story of one famous “landing” or a long line of spectacular mysteries.",
+      "url": "what-really-happened-over-ardeche/",
+      "image": "assets/images/Ardeche_5d1281-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "07"
+    },
+    {
+      "id": "FR-21",
+      "iso": "FR-21",
+      "department": "Cote-d'Or",
+      "mapName": "Cote-d'Or",
+      "label": "Cote-d'Or",
+      "mapAliases": [
+        "cote d or",
+        "cote dor",
+        "fr 21",
+        "21"
+      ],
+      "title": "What Really Happened Over Cote d'Or?",
+      "summary": "Cote-d'Or is not one of the French departments with a single world-famous UFO case, but it is a useful place to study how French UFO history really works: a...",
+      "url": "what-really-happened-over-cote-dor/",
+      "image": "assets/images/Cote-d_Or_6e3ab6-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "21"
+    },
+    {
+      "id": "FR-70",
+      "iso": "FR-70",
+      "department": "Haute-Saone",
+      "mapName": "Haute-Saone",
+      "label": "Haute-Saone",
+      "mapAliases": [
+        "haute saone",
+        "fr 70",
+        "70"
+      ],
+      "title": "What Really Happened Over Haute Saone?",
+      "summary": "Haute-Saône’s UFO history is not a story of a famous mass sighting or a dramatic local legend.",
+      "url": "what-really-happened-over-haute-saone/",
+      "image": "assets/images/Haute-Saone_0bdc4b-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "70"
+    },
+    {
+      "id": "FR-87",
+      "iso": "FR-87",
+      "department": "Haute-Vienne",
+      "mapName": "Haute-Vienne",
+      "label": "Haute-Vienne",
+      "mapAliases": [
+        "haute vienne",
+        "fr 87",
+        "87"
+      ],
+      "title": "What Really Happened Over Haute Vienne?",
+      "summary": "Haute-Vienne has a modest but useful place in French UFO history: not because it contains a famous “landing” case, but because it shows the full range of...",
+      "url": "what-really-happened-over-haute-vienne/",
+      "image": "assets/images/Haute-Vienne_e44500-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "87"
+    },
+    {
+      "id": "FR-34",
+      "iso": "FR-34",
+      "department": "Herault",
+      "mapName": "Herault",
+      "label": "Herault",
+      "mapAliases": [
+        "herault",
+        "fr 34",
+        "34"
+      ],
+      "title": "What Really Happened Over Herault?",
+      "summary": "Hérault’s public UFO record is less a story of one famous “flying saucer” case than a useful local lesson in how strange sky reports are investigated.",
+      "url": "what-really-happened-over-herault/",
+      "image": "assets/images/Herault_0fa4db-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "34"
+    },
+    {
+      "id": "FR-72",
+      "iso": "FR-72",
+      "department": "Sarthe",
+      "mapName": "Sarthe",
+      "label": "Sarthe",
+      "mapAliases": [
+        "sarthe",
+        "fr 72",
+        "72"
+      ],
+      "title": "What Sarthe's UFO Files Really Show",
+      "summary": "Sarthe’s UFO record is not built around one spectacular, world-famous landing or a run of pilot-radar cases.",
+      "url": "what-sarthes-ufo-files-really-show/",
+      "image": "assets/images/Sarthe_70aab9-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "72"
+    },
+    {
+      "id": "FR-37",
+      "iso": "FR-37",
+      "department": "Indre-et-Loire",
+      "mapName": "Indre-et-Loire",
+      "label": "Indre-et-Loire",
+      "mapAliases": [
+        "indre et loire",
+        "fr 37",
+        "37"
+      ],
+      "title": "When Touraine UFOs Became Case Files",
+      "summary": "Indre-et-Loire has a surprisingly well-documented UFO record, but not in the dramatic sense often implied by “flying saucer” folklore.",
+      "url": "indre-et-loire/",
+      "image": "assets/images/Indre-et-Loire_b45e62-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "37"
+    },
+    {
+      "id": "FR-06",
+      "iso": "FR-06",
+      "department": "Alpes-Maritimes",
+      "mapName": "Alpes-Maritimes",
+      "label": "Alpes-Maritimes",
+      "mapAliases": [
+        "alpes maritimes",
+        "fr 06",
+        "06"
+      ],
+      "title": "Why Alpes Maritimes Became A UFO Hotspot",
+      "summary": "Alpes-Maritimes has one of the more visible local UFO traditions in France, but the official record is less dramatic than the folklore suggests.",
+      "url": "why-alpes-maritimes-became-a-ufo-hotspot/",
+      "image": "assets/images/Alpes-Maritimes_efe25c-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "06"
+    },
+    {
+      "id": "FR-65",
+      "iso": "FR-65",
+      "department": "Hautes-Pyrenees",
+      "mapName": "Hautes-Pyrenees",
+      "label": "Hautes-Pyrenees",
+      "mapAliases": [
+        "hautes pyrenees",
+        "fr 65",
+        "65"
+      ],
+      "title": "Why Do Pyrenean UFO Reports Fall Apart?",
+      "summary": "Hautes-Pyrénées has a quieter UFO history than some French departments: the strongest public record is not a single celebrated “classic” mystery, but a...",
+      "url": "hautes-pyrenees/",
+      "image": "assets/images/Hautes-Pyrenees_f6aaeb-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "65"
+    },
+    {
+      "id": "FR-25",
+      "iso": "FR-25",
+      "department": "Doubs",
+      "mapName": "Doubs",
+      "label": "Doubs",
+      "mapAliases": [
+        "doubs",
+        "fr 25",
+        "25"
+      ],
+      "title": "Why Doubs UFO Cases Usually Became Ordinary",
+      "summary": "Doubs has a modest but revealing UFO record. It is not a department defined by one famous unresolved landing case or a dramatic military mystery.",
+      "url": "why-doubs-ufo-cases-usually-became/",
+      "image": "assets/images/Doubs_70fb5f-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "25"
+    },
+    {
+      "id": "FR-91",
+      "iso": "FR-91",
+      "department": "Essonne",
+      "mapName": "Essonne",
+      "label": "Essonne",
+      "mapAliases": [
+        "essonne",
+        "fr 91",
+        "91"
+      ],
+      "title": "Why Essonne's UFO Files Usually Come Back to Earth",
+      "summary": "Essonne’s UFO record is not built around one famous “landing” case or a single dramatic mystery.",
+      "url": "why-essonnes-ufo-files-usually-come/",
+      "image": "assets/images/Essonne_7f5f7b-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "91"
+    },
+    {
+      "id": "FR-41",
+      "iso": "FR-41",
+      "department": "Loir-et-Cher",
+      "mapName": "Loir-et-Cher",
+      "label": "Loir-et-Cher",
+      "mapAliases": [
+        "loir et cher",
+        "fr 41",
+        "41"
+      ],
+      "title": "Why Loir et Cher's UFO Record Looks Explained",
+      "summary": "Loir-et-Cher has a surprisingly tidy official UFO record: the public GEIPAN/CNES data, as mirrored in the independent CarteOvni index, lists 10...",
+      "url": "why-loir-et-chers-ufo-record-looks/",
+      "image": "assets/images/Loir-et-Cher_7a21fd-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "41"
+    },
+    {
+      "id": "FR-42",
+      "iso": "FR-42",
+      "department": "Loire",
+      "mapName": "Loire",
+      "label": "Loire",
+      "mapAliases": [
+        "fr 42",
+        "loire",
+        "42"
+      ],
+      "title": "Why Loire's UFO Files Became Ordinary",
+      "summary": "Loire’s UFO record is not a story of one famous, department-defining mystery.",
+      "url": "why-loires-ufo-files-became-ordinary/",
+      "image": "assets/images/Loire_9faa19-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "42"
+    },
+    {
+      "id": "FR-53",
+      "iso": "FR-53",
+      "department": "Mayenne",
+      "mapName": "Mayenne",
+      "label": "Mayenne",
+      "mapAliases": [
+        "mayenne",
+        "fr 53",
+        "53"
+      ],
+      "title": "Why Mayenne's UFO Files Matter",
+      "summary": "Mayenne is not one of France’s dramatic UFO hotspots.",
+      "url": "why-mayennes-ufo-files-matter/",
+      "image": "assets/images/Mayenne_6ca058-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "53"
+    },
+    {
+      "id": "FR-75",
+      "iso": "FR-75",
+      "department": "Paris",
+      "mapName": "Paris",
+      "label": "Paris",
+      "mapAliases": [
+        "fr 75",
+        "paris",
+        "75"
+      ],
+      "title": "Why Paris UFOs Usually Become Ordinary Objects",
+      "summary": "Paris has a surprisingly undramatic UFO record. The French capital generates plenty of sightings, photographs and aviation-related reports, but the strongest...",
+      "url": "why-paris-ufos-usually-become-ordinary/",
+      "image": "assets/images/Paris_22390a-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "75"
+    },
+    {
+      "id": "FR-05",
+      "iso": "FR-05",
+      "department": "Hautes-Alpes",
+      "mapName": "Hautes-Alpes",
+      "label": "Hautes-Alpes",
+      "mapAliases": [
+        "hautes alpes",
+        "fr 05",
+        "05"
+      ],
+      "title": "Why the Hautes Alpes UFO Record Stays Interesting",
+      "summary": "Hautes-Alpes has a small but revealing UFO record: not a department of famous “unknown craft” cases, but a mountain region where ordinary skywatching,...",
+      "url": "why-the-hautes-alpes-ufo-record-stays/",
+      "image": "assets/images/Hautes-Alpes_6bdcb1-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "05"
+    }
+  ],
+  "departments": [
+    {
+      "id": "FR-50",
+      "iso": "FR-50",
+      "department": "Manche",
+      "mapName": "Manche",
+      "label": "Manche",
+      "mapAliases": [
+        "manche",
+        "fr 50",
+        "50"
+      ],
+      "title": "Are Manche's UFO Reports Mystery or Misidentification?",
+      "summary": "Manche’s UFO history is not built around one famous “alien” case.",
+      "url": "are-manches-ufo-reports-mystery-or/",
+      "image": "assets/images/Manche_e44581-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "50"
+    },
+    {
+      "id": "FR-24",
+      "iso": "FR-24",
+      "department": "Dordogne",
+      "mapName": "Dordogne",
+      "label": "Dordogne",
+      "mapAliases": [
+        "dordogne",
+        "fr 24",
+        "24"
+      ],
+      "title": "Dordogne UFOs: Folklore, Files and Explanations",
+      "summary": "Dordogne has a UFO history, but not the kind that supports a simple “mystery hotspot” story.",
+      "url": "dordogne-ufos-folklore-files-and/",
+      "image": "assets/images/Dordogne_e9b4bd-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "24"
+    },
+    {
+      "id": "FR-04",
+      "iso": "FR-04",
+      "department": "Alpes-de-Haute-Provence",
+      "mapName": "Alpes-de-Haute-Provence",
+      "label": "Alpes-de-Haute-Provence",
+      "mapAliases": [
+        "alpes de haute provence",
+        "fr 04",
+        "04"
+      ],
+      "title": "The UFO Files of Alpes de Haute Provence",
+      "summary": "Alpes-de-Haute-Provence has one genuinely famous UFO story: the 1965 Valensole encounter, in which lavender farmer Maurice Masse reported seeing a landed...",
+      "url": "the-ufo-files-of-alpes-de-haute-provence/",
+      "image": "assets/images/Alpes-de-Haute-Prove_b1f7bc-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "04"
+    },
+    {
+      "id": "FR-36",
+      "iso": "FR-36",
+      "department": "Indre",
+      "mapName": "Indre",
+      "label": "Indre",
+      "mapAliases": [
+        "fr 36",
+        "indre",
+        "36"
+      ],
+      "title": "Were Indre's UFOs Ever Truly Unexplained?",
+      "summary": "Indre is not one of France’s great unresolved UFO hotspots.",
+      "url": "were-indres-ufos-ever-truly-unexplained/",
+      "image": "assets/images/Indre_4b1413-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "36"
+    },
+    {
+      "id": "FR-03",
+      "iso": "FR-03",
+      "department": "Allier",
+      "mapName": "Allier",
+      "label": "Allier",
+      "mapAliases": [
+        "allier",
+        "fr 03",
+        "03"
+      ],
+      "title": "What Allier's UFO Files Really Show",
+      "summary": "Allier’s public UFO record is not a catalogue of dramatic unsolved encounters.",
+      "url": "what-alliers-ufo-files-really-show/",
+      "image": "assets/images/Allier_716dd6-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "03"
+    },
+    {
+      "id": "FR-10",
+      "iso": "FR-10",
+      "department": "Aube",
+      "mapName": "Aube",
+      "label": "Aube",
+      "mapAliases": [
+        "fr 10",
+        "aube",
+        "10"
+      ],
+      "title": "What Aube's UFO Files Really Show",
+      "summary": "Aube’s official UFO record is less a story of one spectacular mystery than a useful case study in how ordinary sightings become “UFO” cases, and how many of...",
+      "url": "what-aubes-ufo-files-really-show/",
+      "image": "assets/images/Aube_200d42-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "10"
+    },
+    {
+      "id": "FR-02",
+      "iso": "FR-02",
+      "department": "Aisne",
+      "mapName": "Aisne",
+      "label": "Aisne",
+      "mapAliases": [
+        "aisne",
+        "fr 02",
+        "02"
+      ],
+      "title": "What Did Aisne's UFO Reports Really Show?",
+      "summary": "Aisne’s public UFO record is not a story of one famous unsolved landing or a dramatic military cover-up.",
+      "url": "what-did-aisnes-ufo-reports-really-show/",
+      "image": "assets/images/Aisne_b23b8e-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "02"
+    },
+    {
+      "id": "FR-32",
+      "iso": "FR-32",
+      "department": "Gers",
+      "mapName": "Gers",
+      "label": "Gers",
+      "mapAliases": [
+        "fr 32",
+        "gers",
+        "32"
+      ],
+      "title": "What Did Gers UFO Witnesses Really See?",
+      "summary": "Gers has a modest but useful UFO record: not a department famous for one spectacular, nationally debated case, but a place where the French official files...",
+      "url": "what-did-gers-ufo-witnesses-really-see/",
+      "image": "assets/images/Gers_631401-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "32"
+    },
+    {
+      "id": "FR-93",
+      "iso": "FR-93",
+      "department": "Seine-Saint-Denis",
+      "mapName": "Seine-Saint-Denis",
+      "label": "Seine-Saint-Denis",
+      "mapAliases": [
+        "seine saint denis",
+        "fr 93",
+        "93"
+      ],
+      "title": "What Did Seine Saint Denis Witnesses Really See?",
+      "summary": "Seine-Saint-Denis has a documented UFO history, but not the dramatic kind.",
+      "url": "what-did-seine-saint-denis-witnesses/",
+      "image": "assets/images/Seine-Saint-Denis_af7f54-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "93"
+    },
+    {
+      "id": "FR-11",
+      "iso": "FR-11",
+      "department": "Aude",
+      "mapName": "Aude",
+      "label": "Aude",
+      "mapAliases": [
+        "fr 11",
+        "aude",
+        "11"
+      ],
+      "title": "What Do Aude's UFO Cases Really Show?",
+      "summary": "Aude’s UFO history is not built around one famous, fully evidenced “classic” case.",
+      "url": "what-do-audes-ufo-cases-really-show/",
+      "image": "assets/images/Aude_f0dc3d-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "11"
+    },
+    {
+      "id": "FR-23",
+      "iso": "FR-23",
+      "department": "Creuse",
+      "mapName": "Creuse",
+      "label": "Creuse",
+      "mapAliases": [
+        "creuse",
+        "fr 23",
+        "23"
+      ],
+      "title": "What Do Creuse UFO Reports Really Show?",
+      "summary": "Creuse has a modest but useful place in French UFO history: not as a department of famous “classic” close encounters, but as a rural area where a small...",
+      "url": "what-do-creuse-ufo-reports-really-show/",
+      "image": "assets/images/Creuse_73fb1d-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "23"
+    },
+    {
+      "id": "FR-64",
+      "iso": "FR-64",
+      "department": "Pyrenees-Atlantiques",
+      "mapName": "Pyrenees-Atlantiques",
+      "label": "Pyrenees-Atlantiques",
+      "mapAliases": [
+        "pyrenees atlantiques",
+        "fr 64",
+        "64"
+      ],
+      "title": "What Do Pyrenees Atlantiques UFO Cases Really Show?",
+      "summary": "Pyrénées-Atlantiques has a small but useful UFO record: not a department defined by one world-famous mystery, but by a revealing mix of coastal reports,...",
+      "url": "what-do-pyrenees-atlantiques-ufo-cases/",
+      "image": "assets/images/Pyrenees-Atlantiques_126d41-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "64"
+    },
+    {
+      "id": "FR-88",
+      "iso": "FR-88",
+      "department": "Vosges",
+      "mapName": "Vosges",
+      "label": "Vosges",
+      "mapAliases": [
+        "vosges",
+        "fr 88",
+        "88"
+      ],
+      "title": "What Do Vosges UFO Reports Really Show?",
+      "summary": "Vosges is not one of France’s best-known UFO departments, but it has a useful, well-documented pattern: many reports that initially sounded strange were...",
+      "url": "what-do-vosges-ufo-reports-really-show/",
+      "image": "assets/images/Vosges_53546a-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "88"
+    },
+    {
+      "id": "FR-33",
+      "iso": "FR-33",
+      "department": "Gironde",
+      "mapName": "Gironde",
+      "label": "Gironde",
+      "mapAliases": [
+        "gironde",
+        "fr 33",
+        "33"
+      ],
+      "title": "What Gironde's UFO Files Really Show",
+      "summary": "Gironde’s UFO history is not dominated by one spectacular national landmark case.",
+      "url": "what-girondes-ufo-files-really-show/",
+      "image": "assets/images/Gironde_99a85b-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "33"
+    },
+    {
+      "id": "FR-2B",
+      "iso": "FR-2B",
+      "department": "Haute-Corse",
+      "mapName": "Haute-Corse",
+      "label": "Haute-Corse",
+      "mapAliases": [
+        "haute corse",
+        "fr 2b",
+        "2b"
+      ],
+      "title": "What Haute Corse UFO Files Really Show",
+      "summary": "Haute-Corse has a modest but useful UFO record: not a dramatic “hotspot”, but a department where the official French files show the difference between an...",
+      "url": "what-haute-corse-ufo-files-really-show/",
+      "image": "assets/images/Haute-Corse_b2c532-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "2B"
+    },
+    {
+      "id": "FR-35",
+      "iso": "FR-35",
+      "department": "Ille-et-Vilaine",
+      "mapName": "Ille-et-Vilaine",
+      "label": "Ille-et-Vilaine",
+      "mapAliases": [
+        "ille et vilaine",
+        "fr 35",
+        "35"
+      ],
+      "title": "What Ille et Vilaine's UFO Files Really Show",
+      "summary": "Ille-et-Vilaine’s UFO history is not a tale of one famous crash, one dramatic military interception, or one locally decisive “proof” case.",
+      "url": "what-ille-et-vilaines-ufo-files-really/",
+      "image": "assets/images/Ille-et-Vilaine_a0a684-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "35"
+    },
+    {
+      "id": "FR-45",
+      "iso": "FR-45",
+      "department": "Loiret",
+      "mapName": "Loiret",
+      "label": "Loiret",
+      "mapAliases": [
+        "loiret",
+        "fr 45",
+        "45"
+      ],
+      "title": "What Loiret's UFO Files Really Show",
+      "summary": "Loiret’s UFO history is not built around one famous, still-unexplained “classic” case.",
+      "url": "what-loirets-ufo-files-really-show/",
+      "image": "assets/images/Loiret_6d08aa-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "45"
+    },
+    {
+      "id": "FR-49",
+      "iso": "FR-49",
+      "department": "Maine-et-Loire",
+      "mapName": "Maine-et-Loire",
+      "label": "Maine-et-Loire",
+      "mapAliases": [
+        "maine et loire",
+        "fr 49",
+        "49"
+      ],
+      "title": "What Maine et Loire UFO Files Really Show",
+      "summary": "Maine-et-Loire has a modest but revealing UFO record.",
+      "url": "what-maine-et-loire-ufo-files-really/",
+      "image": "assets/images/Maine-et-Loire_19238f-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "49"
+    },
+    {
+      "id": "FR-19",
+      "iso": "FR-19",
+      "department": "Correze",
+      "mapName": "Correze",
+      "label": "Correze",
+      "mapAliases": [
+        "correze",
+        "fr 19",
+        "19"
+      ],
+      "title": "What Makes Corrèze's UFO Record So Revealing?",
+      "summary": "Corrèze has a small but unusually revealing UFO record.",
+      "url": "correze/",
+      "image": "assets/images/Correze_3e9490-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "19"
+    },
+    {
+      "id": "FR-31",
+      "iso": "FR-31",
+      "department": "Haute-Garonne",
+      "mapName": "Haute-Garonne",
+      "label": "Haute-Garonne",
+      "mapAliases": [
+        "haute garonne",
+        "fr 31",
+        "31"
+      ],
+      "title": "What Makes Haute Garonne's UFO Record Different?",
+      "summary": "Haute-Garonne is unusual in French UFO history for two reasons.",
+      "url": "what-makes-haute-garonnes-ufo-record/",
+      "image": "assets/images/Haute-Garonne_34cc0a-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "31"
+    },
+    {
+      "id": "FR-92",
+      "iso": "FR-92",
+      "department": "Hauts-de-Seine",
+      "mapName": "Hauts-de-Seine",
+      "label": "Hauts-de-Seine",
+      "mapAliases": [
+        "hauts de seine",
+        "fr 92",
+        "92"
+      ],
+      "title": "What Makes Hauts de Seine UFO Reports Interesting?",
+      "summary": "Hauts-de-Seine is not one of France’s great “classic UFO” departments.",
+      "url": "what-makes-hauts-de-seine-ufo-reports/",
+      "image": "assets/images/Hauts-de-Seine_2ccee8-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "92"
+    },
+    {
+      "id": "FR-38",
+      "iso": "FR-38",
+      "department": "Isere",
+      "mapName": "Isere",
+      "label": "Isere",
+      "mapAliases": [
+        "fr 38",
+        "isere",
+        "38"
+      ],
+      "title": "What Makes Isere's UFO Record So Awkward?",
+      "summary": "Isère’s UFO history is less a story of one famous “flying saucer” than a useful cross-section of how French official UFO investigation works at department...",
+      "url": "what-makes-iseres-ufo-record-so-awkward/",
+      "image": "assets/images/Isere_7db861-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "38"
+    },
+    {
+      "id": "FR-59",
+      "iso": "FR-59",
+      "department": "Nord",
+      "mapName": "Nord",
+      "label": "Nord",
+      "mapAliases": [
+        "fr 59",
+        "nord",
+        "59"
+      ],
+      "title": "What Makes Nord's UFO Record So Puzzling?",
+      "summary": "Nord’s UFO history is dominated by one famous story and many quieter, more ordinary case files.",
+      "url": "what-makes-nords-ufo-record-so-puzzling/",
+      "image": "assets/images/Nord_dc64d1-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "59"
+    },
+    {
+      "id": "FR-76",
+      "iso": "FR-76",
+      "department": "Seine-Maritime",
+      "mapName": "Seine-Maritime",
+      "label": "Seine-Maritime",
+      "mapAliases": [
+        "seine maritime",
+        "fr 76",
+        "76"
+      ],
+      "title": "What Makes Seine Maritime's UFO Files Worth Reading?",
+      "summary": "Seine-Maritime’s UFO history is not built around one famous “landing” case, but around a steadier pattern: coastal and rural night sightings, a handful of...",
+      "url": "what-makes-seine-maritimes-ufo-files/",
+      "image": "assets/images/Seine-Maritime_c89706-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "76"
+    },
+    {
+      "id": "FR-51",
+      "iso": "FR-51",
+      "department": "Marne",
+      "mapName": "Marne",
+      "label": "Marne",
+      "mapAliases": [
+        "fr 51",
+        "marne",
+        "51"
+      ],
+      "title": "What Marne's UFO Files Really Show",
+      "summary": "Marne does not have a single, famous French UFO case on the scale of Trans-en-Provence or the national wave of 5 November 1990, but its local record is still...",
+      "url": "what-marnes-ufo-files-really-show/",
+      "image": "assets/images/Marne_763128-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "51"
+    },
+    {
+      "id": "FR-55",
+      "iso": "FR-55",
+      "department": "Meuse",
+      "mapName": "Meuse",
+      "label": "Meuse",
+      "mapAliases": [
+        "fr 55",
+        "meuse",
+        "55"
+      ],
+      "title": "What Meuse's UFO Files Really Show",
+      "summary": "Meuse has a modest but revealing UFO record. It does not look, from the available public files, like a department with one dominant “classic” mystery...",
+      "url": "what-meuses-ufo-files-really-show/",
+      "image": "assets/images/Meuse_6ed97d-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "55"
+    },
+    {
+      "id": "FR-56",
+      "iso": "FR-56",
+      "department": "Morbihan",
+      "mapName": "Morbihan",
+      "label": "Morbihan",
+      "mapAliases": [
+        "morbihan",
+        "fr 56",
+        "56"
+      ],
+      "title": "What Morbihan's UFO Files Really Show",
+      "summary": "Morbihan’s public UFO record is less a story of one famous “classic” case than a pattern: many reports turn out to be aircraft, lanterns, planets, clouds or...",
+      "url": "what-morbihans-ufo-files-really-show/",
+      "image": "assets/images/Morbihan_61a3f8-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "56"
+    },
+    {
+      "id": "FR-61",
+      "iso": "FR-61",
+      "department": "Orne",
+      "mapName": "Orne",
+      "label": "Orne",
+      "mapAliases": [
+        "fr 61",
+        "orne",
+        "61"
+      ],
+      "title": "What Orne's UFO Files Really Show",
+      "summary": "Orne’s UFO history is small but unusually useful: it shows almost every outcome a serious local UFO page should distinguish.",
+      "url": "what-ornes-ufo-files-really-show/",
+      "image": "assets/images/Orne_ab6076-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "61"
+    },
+    {
+      "id": "FR-66",
+      "iso": "FR-66",
+      "department": "Pyrenees-Orientales",
+      "mapName": "Pyrenees-Orientales",
+      "label": "Pyrenees-Orientales",
+      "mapAliases": [
+        "pyrenees orientales",
+        "fr 66",
+        "66"
+      ],
+      "title": "What Really Flew Over Roussillon?",
+      "summary": "The UFO record for Pyrénées-Orientales is not dominated by one famous “classic case”.",
+      "url": "pyrenees-orientales/",
+      "image": "assets/images/Pyrenees-Orientales_fc815c-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "66"
+    },
+    {
+      "id": "FR-01",
+      "iso": "FR-01",
+      "department": "Ain",
+      "mapName": "Ain",
+      "label": "Ain",
+      "mapAliases": [
+        "fr 01",
+        "ain",
+        "01"
+      ],
+      "title": "What Really Happened in Ain's UFO Files?",
+      "summary": "Ain’s UFO history is not built around one famous “crash” story or a long-running local legend.",
+      "url": "what-really-happened-in-ains-ufo-files/",
+      "image": "assets/images/Ain_fc7da0-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "01"
+    },
+    {
+      "id": "FR-08",
+      "iso": "FR-08",
+      "department": "Ardennes",
+      "mapName": "Ardennes",
+      "label": "Ardennes",
+      "mapAliases": [
+        "ardennes",
+        "fr 08",
+        "08"
+      ],
+      "title": "What Really Happened in Ardennes UFO Files?",
+      "summary": "Ardennes has a modest but useful UFO record: not a famous national “landing” department, but a good example of how French sightings move from rumour to...",
+      "url": "what-really-happened-in-ardennes-ufo/",
+      "image": "assets/images/Ardennes_627650-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "08"
+    },
+    {
+      "id": "FR-09",
+      "iso": "FR-09",
+      "department": "Ariege",
+      "mapName": "Ariege",
+      "label": "Ariege",
+      "mapAliases": [
+        "ariege",
+        "fr 09",
+        "09"
+      ],
+      "title": "What Really Happened in Ariège's UFO Files?",
+      "summary": "Ariège has a modest but revealing UFO record. It is not known for a single, well-evidenced “classic” case; it is better understood as a department where...",
+      "url": "ariege/",
+      "image": "assets/images/Ariege_996ae1-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "09"
+    },
+    {
+      "id": "FR-12",
+      "iso": "FR-12",
+      "department": "Aveyron",
+      "mapName": "Aveyron",
+      "label": "Aveyron",
+      "mapAliases": [
+        "aveyron",
+        "fr 12",
+        "12"
+      ],
+      "title": "What Really Happened in Aveyron's UFO Files?",
+      "summary": "Aveyron’s UFO history is not dominated by one famous national case.",
+      "url": "what-really-happened-in-aveyrons-ufo/",
+      "image": "assets/images/Aveyron_fecfb2-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "12"
+    },
+    {
+      "id": "FR-67",
+      "iso": "FR-67",
+      "department": "Bas-Rhin",
+      "mapName": "Bas-Rhin",
+      "label": "Bas-Rhin",
+      "mapAliases": [
+        "bas rhin",
+        "fr 67",
+        "67"
+      ],
+      "title": "What Really Happened in Bas Rhin Skies?",
+      "summary": "Bas-Rhin’s UFO record is not dominated by a long list of spectacular mysteries.",
+      "url": "what-really-happened-in-bas-rhin-skies/",
+      "image": "assets/images/Bas-Rhin_ad02bb-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "67"
+    },
+    {
+      "id": "FR-90",
+      "iso": "FR-90",
+      "department": "Territoire de Belfort",
+      "mapName": "Territoire de Belfort",
+      "label": "Territoire de Belfort",
+      "mapAliases": [
+        "territoire de belfort",
+        "fr 90",
+        "90"
+      ],
+      "title": "What Really Happened in Belfort's UFO Files?",
+      "summary": "Territoire de Belfort is not one of France’s famous UFO hotspots.",
+      "url": "territoire-de-belfort/",
+      "image": "assets/images/Territoire_de_Belfor_8990a1-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "90"
+    },
+    {
+      "id": "FR-13",
+      "iso": "FR-13",
+      "department": "Bouches-du-Rhone",
+      "mapName": "Bouches-du-Rhone",
+      "label": "Bouches-du-Rhone",
+      "mapAliases": [
+        "bouches du rhone",
+        "fr 13",
+        "13"
+      ],
+      "title": "What Really Happened in Bouches du Rhone Skies?",
+      "summary": "Bouches-du-Rhône is one of the more useful French departments for studying UFO history, not because it proves exotic craft, but because it combines three...",
+      "url": "what-really-happened-in-bouches-du-rhone/",
+      "image": "assets/images/Bouches-du-Rhone_a97972-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "13"
+    },
+    {
+      "id": "FR-14",
+      "iso": "FR-14",
+      "department": "Calvados",
+      "mapName": "Calvados",
+      "label": "Calvados",
+      "mapAliases": [
+        "calvados",
+        "fr 14",
+        "14"
+      ],
+      "title": "What Really Happened In Calvados Skies?",
+      "summary": "Calvados has a modest but unusually useful UFO record: not because it contains a famous “classic” case, but because France’s official UAP archive lets...",
+      "url": "what-really-happened-in-calvados-skies/",
+      "image": "assets/images/Calvados_b13668-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "14"
+    },
+    {
+      "id": "FR-15",
+      "iso": "FR-15",
+      "department": "Cantal",
+      "mapName": "Cantal",
+      "label": "Cantal",
+      "mapAliases": [
+        "cantal",
+        "fr 15",
+        "15"
+      ],
+      "title": "What Really Happened in Cantal's UFO Files?",
+      "summary": "Cantal’s UFO history is dominated by one famous rural encounter: the reported 1967 close encounter at Cussac, near Saint-Flour.",
+      "url": "what-really-happened-in-cantals-ufo/",
+      "image": "assets/images/Cantal_202658-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "15"
+    },
+    {
+      "id": "FR-17",
+      "iso": "FR-17",
+      "department": "Charente-Maritime",
+      "mapName": "Charente-Maritime",
+      "label": "Charente-Maritime",
+      "mapAliases": [
+        "charente maritime",
+        "fr 17",
+        "17"
+      ],
+      "title": "What Really Happened in Charente Maritime's UFO Files?",
+      "summary": "Charente-Maritime’s UFO history is not a single dramatic mystery but a mixed record of coastal night lights, old gendarmerie reports, aviation-related...",
+      "url": "what-really-happened-in-charente/",
+      "image": "assets/images/Charente-Maritime_ed3a6b-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "17"
+    },
+    {
+      "id": "FR-16",
+      "iso": "FR-16",
+      "department": "Charente",
+      "mapName": "Charente",
+      "label": "Charente",
+      "mapAliases": [
+        "charente",
+        "fr 16",
+        "16"
+      ],
+      "title": "What Really Happened in Charente's UFO Files?",
+      "summary": "Charente’s UFO history is not built around one famous national mystery.",
+      "url": "what-really-happened-in-charentes-ufo/",
+      "image": "assets/images/Charente_8acfde-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "16"
+    },
+    {
+      "id": "FR-18",
+      "iso": "FR-18",
+      "department": "Cher",
+      "mapName": "Cher",
+      "label": "Cher",
+      "mapAliases": [
+        "fr 18",
+        "cher",
+        "18"
+      ],
+      "title": "What Really Happened in Cher's UFO Files?",
+      "summary": "Cher’s UFO history is not built around one famous unsolved landing case or a dramatic military cover-up.",
+      "url": "what-really-happened-in-chers-ufo-files/",
+      "image": "assets/images/Cher_614205-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "18"
+    },
+    {
+      "id": "FR-2A",
+      "iso": "FR-2A",
+      "department": "Corse-du-Sud",
+      "mapName": "Corse-du-Sud",
+      "label": "Corse-du-Sud",
+      "mapAliases": [
+        "corse du sud",
+        "fr 2a",
+        "2a"
+      ],
+      "title": "What Really Happened in Corse du Sud's UFO Files?",
+      "summary": "Corse-du-Sud’s UFO history is not a story of a single famous “crash” or a long-running local legend.",
+      "url": "what-really-happened-in-corse-du-suds/",
+      "image": "assets/images/Corse-du-Sud_8217c3-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "2A"
+    },
+    {
+      "id": "FR-22",
+      "iso": "FR-22",
+      "department": "Cotes-d'Armor",
+      "mapName": "Cotes-d'Armor",
+      "label": "Cotes-d'Armor",
+      "mapAliases": [
+        "cotes d armor",
+        "cotes darmor",
+        "fr 22",
+        "22"
+      ],
+      "title": "What Really Happened in Cotes d'Armor Skies?",
+      "summary": "Côtes-d’Armor has a modest but genuinely useful UFO record: not a department defined by one famous “classic” case, but by a clear pattern in official files.",
+      "url": "what-really-happened-in-cotes-darmor/",
+      "image": "assets/images/Cotes-d_Armor_789c20-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "22"
+    },
+    {
+      "id": "FR-79",
+      "iso": "FR-79",
+      "department": "Deux-Sevres",
+      "mapName": "Deux-Sevres",
+      "label": "Deux-Sevres",
+      "mapAliases": [
+        "deux sevres",
+        "fr 79",
+        "79"
+      ],
+      "title": "What Really Happened in Deux Sevres Skies?",
+      "summary": "Deux-Sèvres does not have a single famous UFO case on the scale of France’s best-known national incidents, but it does have a useful, well-documented...",
+      "url": "what-really-happened-in-deux-sevres/",
+      "image": "assets/images/Deux-Sevres_ac4bfa-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "79"
+    },
+    {
+      "id": "FR-26",
+      "iso": "FR-26",
+      "department": "Drome",
+      "mapName": "Drome",
+      "label": "Drome",
+      "mapAliases": [
+        "drome",
+        "fr 26",
+        "26"
+      ],
+      "title": "What Really Happened in Drome's UFO Files?",
+      "summary": "Drome’s UFO history is not a single dramatic mystery but a layered local record: a famous 1954 “flying saucer” story at Chabeuil, a better-documented but...",
+      "url": "what-really-happened-in-dromes-ufo-files/",
+      "image": "assets/images/Drome_06f265-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "26"
+    },
+    {
+      "id": "FR-28",
+      "iso": "FR-28",
+      "department": "Eure-et-Loir",
+      "mapName": "Eure-et-Loir",
+      "label": "Eure-et-Loir",
+      "mapAliases": [
+        "eure et loir",
+        "fr 28",
+        "28"
+      ],
+      "title": "What Really Happened in Eure et Loir Skies?",
+      "summary": "Eure-et-Loir has a modest but unusually useful UFO record: not because it proves extraordinary craft over the Beauce, Perche or Drouais, but because many...",
+      "url": "what-really-happened-in-eure-et-loir/",
+      "image": "assets/images/Eure-et-Loir_aac377-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "28"
+    },
+    {
+      "id": "FR-27",
+      "iso": "FR-27",
+      "department": "Eure",
+      "mapName": "Eure",
+      "label": "Eure",
+      "mapAliases": [
+        "fr 27",
+        "eure",
+        "27"
+      ],
+      "title": "What Really Happened in Eure's UFO Files?",
+      "summary": "Eure’s UFO history is less a story of spectacular “flying saucers” than a useful local case study in how strange sky reports become clearer when they are...",
+      "url": "what-really-happened-in-eures-ufo-files/",
+      "image": "assets/images/Eure_4abf79-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "27"
+    },
+    {
+      "id": "FR-29",
+      "iso": "FR-29",
+      "department": "Finistere",
+      "mapName": "Finistere",
+      "label": "Finistere",
+      "mapAliases": [
+        "finistere",
+        "fr 29",
+        "29"
+      ],
+      "title": "What Really Happened in Finistere's Skies?",
+      "summary": "Finistère has a small but unusually varied public UFO record: old gendarmerie files from the late 1970s and early 1980s, several ordinary misidentifications,...",
+      "url": "what-really-happened-in-finisteres-skies/",
+      "image": "assets/images/Finistere_3f7bbd-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "29"
+    },
+    {
+      "id": "FR-30",
+      "iso": "FR-30",
+      "department": "Gard",
+      "mapName": "Gard",
+      "label": "Gard",
+      "mapAliases": [
+        "fr 30",
+        "gard",
+        "30"
+      ],
+      "title": "What Really Happened in Gard's UFO Files?",
+      "summary": "Gard has a useful, but not especially sensational, UFO history.",
+      "url": "what-really-happened-in-gards-ufo-files/",
+      "image": "assets/images/Gard_40724c-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "30"
+    },
+    {
+      "id": "FR-68",
+      "iso": "FR-68",
+      "department": "Haut-Rhin",
+      "mapName": "Haut-Rhin",
+      "label": "Haut-Rhin",
+      "mapAliases": [
+        "haut rhin",
+        "fr 68",
+        "68"
+      ],
+      "title": "What Really Happened in Haut Rhin's UFO Files?",
+      "summary": "Haut-Rhin’s UFO history is not a story of one famous “smoking gun” case.",
+      "url": "what-really-happened-in-haut-rhins-ufo/",
+      "image": "assets/images/Haut-Rhin_0c01ce-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "68"
+    },
+    {
+      "id": "FR-43",
+      "iso": "FR-43",
+      "department": "Haute-Loire",
+      "mapName": "Haute-Loire",
+      "label": "Haute-Loire",
+      "mapAliases": [
+        "haute loire",
+        "fr 43",
+        "43"
+      ],
+      "title": "What Really Happened in Haute Loire's UFO Files?",
+      "summary": "Haute-Loire is not one of France’s classic “great UFO mystery” departments.",
+      "url": "what-really-happened-in-haute-loires-ufo/",
+      "image": "assets/images/Haute-Loire_12edf0-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "43"
+    },
+    {
+      "id": "FR-52",
+      "iso": "FR-52",
+      "department": "Haute-Marne",
+      "mapName": "Haute-Marne",
+      "label": "Haute-Marne",
+      "mapAliases": [
+        "haute marne",
+        "fr 52",
+        "52"
+      ],
+      "title": "What Really Happened in Haute Marne's UFO Files?",
+      "summary": "Haute-Marne’s UFO history is not dominated by one spectacular, officially unexplained case.",
+      "url": "what-really-happened-in-haute-marnes-ufo/",
+      "image": "assets/images/Haute-Marne_12dda3-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "52"
+    },
+    {
+      "id": "FR-74",
+      "iso": "FR-74",
+      "department": "Haute-Savoie",
+      "mapName": "Haute-Savoie",
+      "label": "Haute-Savoie",
+      "mapAliases": [
+        "haute savoie",
+        "fr 74",
+        "74"
+      ],
+      "title": "What Really Happened in Haute Savoie Skies?",
+      "summary": "Haute-Savoie’s UFO history is less a story of one famous unsolved mystery than a useful miniature of how French sky reports are investigated: mountain...",
+      "url": "what-really-happened-in-haute-savoie/",
+      "image": "assets/images/Haute-Savoie_3824c4-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "74"
+    },
+    {
+      "id": "FR-39",
+      "iso": "FR-39",
+      "department": "Jura",
+      "mapName": "Jura",
+      "label": "Jura",
+      "mapAliases": [
+        "fr 39",
+        "jura",
+        "39"
+      ],
+      "title": "What Really Happened in Jura's UFO Files?",
+      "summary": "Jura’s UFO history is not dominated by a single still-unexplained “classic” case.",
+      "url": "what-really-happened-in-juras-ufo-files/",
+      "image": "assets/images/Jura_f17a56-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "39"
+    },
+    {
+      "id": "FR-40",
+      "iso": "FR-40",
+      "department": "Landes",
+      "mapName": "Landes",
+      "label": "Landes",
+      "mapAliases": [
+        "landes",
+        "fr 40",
+        "40"
+      ],
+      "title": "What Really Happened in Landes Skies?",
+      "summary": "Landes has a quieter UFO history than the famous French cases of Valensole or Trans-en-Provence, but it is still a useful department to study because it...",
+      "url": "what-really-happened-in-landes-skies/",
+      "image": "assets/images/Landes_7a79d9-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "40"
+    },
+    {
+      "id": "FR-44",
+      "iso": "FR-44",
+      "department": "Loire-Atlantique",
+      "mapName": "Loire-Atlantique",
+      "label": "Loire-Atlantique",
+      "mapAliases": [
+        "loire atlantique",
+        "fr 44",
+        "44"
+      ],
+      "title": "What Really Happened in Loire Atlantique Skies?",
+      "summary": "Loire-Atlantique has a real, documented UFO history, but it is not a department whose public record points to one dramatic, well-proven mystery.",
+      "url": "what-really-happened-in-loire-atlantique/",
+      "image": "assets/images/Loire-Atlantique_ea6d7d-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "44"
+    },
+    {
+      "id": "FR-47",
+      "iso": "FR-47",
+      "department": "Lot-et-Garonne",
+      "mapName": "Lot-et-Garonne",
+      "label": "Lot-et-Garonne",
+      "mapAliases": [
+        "lot et garonne",
+        "fr 47",
+        "47"
+      ],
+      "title": "What Really Happened in Lot et Garonne's UFO Files?",
+      "summary": "Lot-et-Garonne’s UFO history is not a story of one famous, department-defining mystery.",
+      "url": "what-really-happened-in-lot-et/",
+      "image": "assets/images/Lot-et-Garonne_6df799-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "47"
+    },
+    {
+      "id": "FR-46",
+      "iso": "FR-46",
+      "department": "Lot",
+      "mapName": "Lot",
+      "label": "Lot",
+      "mapAliases": [
+        "fr 46",
+        "lot",
+        "46"
+      ],
+      "title": "What Really Happened in Lot's UFO Files?",
+      "summary": "Lot’s UFO history is less a tale of one famous, still-mysterious incident than a useful case study in how unusual sky reports are sorted, weakened, or...",
+      "url": "what-really-happened-in-lots-ufo-files/",
+      "image": "assets/images/Lot_4a2119-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "46"
+    },
+    {
+      "id": "FR-48",
+      "iso": "FR-48",
+      "department": "Lozere",
+      "mapName": "Lozere",
+      "label": "Lozere",
+      "mapAliases": [
+        "lozere",
+        "fr 48",
+        "48"
+      ],
+      "title": "What Really Happened in Lozere's UFO Files?",
+      "summary": "Lozère’s UFO history is not a tale of dramatic unresolved craft, secret bases or a single famous “classic” case.",
+      "url": "what-really-happened-in-lozeres-ufo/",
+      "image": "assets/images/Lozere_e8b6da-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "48"
+    },
+    {
+      "id": "FR-54",
+      "iso": "FR-54",
+      "department": "Meurthe-et-Moselle",
+      "mapName": "Meurthe-et-Moselle",
+      "label": "Meurthe-et-Moselle",
+      "mapAliases": [
+        "meurthe et moselle",
+        "fr 54",
+        "54"
+      ],
+      "title": "What Really Happened in Meurthe's UFO Files?",
+      "summary": "Meurthe-et-Moselle has a modest but revealing UFO history: not a department full of “classic” confirmed mysteries, but one where a handful of cases show how...",
+      "url": "meurthe-et-moselle/",
+      "image": "assets/images/Meurthe-et-Moselle_cbfe8a-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "54"
+    },
+    {
+      "id": "FR-57",
+      "iso": "FR-57",
+      "department": "Moselle",
+      "mapName": "Moselle",
+      "label": "Moselle",
+      "mapAliases": [
+        "moselle",
+        "fr 57",
+        "57"
+      ],
+      "title": "What Really Happened in Moselle's UFO Files?",
+      "summary": "Moselle has a surprisingly well-documented but uneven UFO history.",
+      "url": "what-really-happened-in-moselles-ufo/",
+      "image": "assets/images/Moselle_b6f07c-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "57"
+    },
+    {
+      "id": "FR-58",
+      "iso": "FR-58",
+      "department": "Nievre",
+      "mapName": "Nievre",
+      "label": "Nievre",
+      "mapAliases": [
+        "nievre",
+        "fr 58",
+        "58"
+      ],
+      "title": "What Really Happened in Nievre's UFO Files?",
+      "summary": "Nievre is not one of the French departments with a famous, nationally argued UFO mystery at its centre.",
+      "url": "what-really-happened-in-nievres-ufo/",
+      "image": "assets/images/Nievre_759cd1-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "58"
+    },
+    {
+      "id": "FR-60",
+      "iso": "FR-60",
+      "department": "Oise",
+      "mapName": "Oise",
+      "label": "Oise",
+      "mapAliases": [
+        "fr 60",
+        "oise",
+        "60"
+      ],
+      "title": "What Really Happened in Oise's UFO Files?",
+      "summary": "Oise has a modest but unusually useful UFO record: not because it contains a single world-famous “landing” case, but because its official files show the full...",
+      "url": "what-really-happened-in-oises-ufo-files/",
+      "image": "assets/images/Oise_3dde58-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "60"
+    },
+    {
+      "id": "FR-62",
+      "iso": "FR-62",
+      "department": "Pas-de-Calais",
+      "mapName": "Pas-de-Calais",
+      "label": "Pas-de-Calais",
+      "mapAliases": [
+        "pas de calais",
+        "fr 62",
+        "62"
+      ],
+      "title": "What Really Happened in Pas de Calais Skies?",
+      "summary": "Pas-de-Calais has a modest but revealing place in French UFO history. It is not best understood as a department full of spectacular, well-proven mysteries.",
+      "url": "what-really-happened-in-pas-de-calais/",
+      "image": "assets/images/Pas-de-Calais_0ab2d0-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "62"
+    },
+    {
+      "id": "FR-63",
+      "iso": "FR-63",
+      "department": "Puy-de-Dome",
+      "mapName": "Puy-de-Dome",
+      "label": "Puy-de-Dome",
+      "mapAliases": [
+        "puy de dome",
+        "fr 63",
+        "63"
+      ],
+      "title": "What Really Happened in Puy de Dome's UFO Files?",
+      "summary": "Puy-de-Dôme has one genuinely important place in French UFO history: the 1952 Lac Chauvet photographs, taken near a volcanic lake in the department and later...",
+      "url": "what-really-happened-in-puy-de-domes-ufo/",
+      "image": "assets/images/Puy-de-Dome_53d1d1-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "63"
+    },
+    {
+      "id": "FR-69",
+      "iso": "FR-69",
+      "department": "Rhone",
+      "mapName": "Rhone",
+      "label": "Rhone",
+      "mapAliases": [
+        "fr 69",
+        "rhone",
+        "69"
+      ],
+      "title": "What Really Happened in Rhone's UFO Reports?",
+      "summary": "Rhône’s UFO history is not built around one famous, still-unresolved landing case.",
+      "url": "what-really-happened-in-rhones-ufo/",
+      "image": "assets/images/Rhone_ae79ce-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "69"
+    },
+    {
+      "id": "FR-71",
+      "iso": "FR-71",
+      "department": "Saone-et-Loire",
+      "mapName": "Saone-et-Loire",
+      "label": "Saone-et-Loire",
+      "mapAliases": [
+        "saone et loire",
+        "fr 71",
+        "71"
+      ],
+      "title": "What Really Happened in Saone et Loire's UFO Files?",
+      "summary": "Saône-et-Loire’s UFO history is less a story of one famous “classic case” than a pattern of local reports that become clearer when they are checked against...",
+      "url": "what-really-happened-in-saone-et/",
+      "image": "assets/images/Saone-et-Loire_d3ab2b-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "71"
+    },
+    {
+      "id": "FR-73",
+      "iso": "FR-73",
+      "department": "Savoie",
+      "mapName": "Savoie",
+      "label": "Savoie",
+      "mapAliases": [
+        "savoie",
+        "fr 73",
+        "73"
+      ],
+      "title": "What Really Happened in Savoie's UFO Files?",
+      "summary": "Savoie’s public UFO record is less a story of one famous “mystery case” than a useful lesson in how unusual lights over mountains, valleys and resort towns...",
+      "url": "what-really-happened-in-savoies-ufo/",
+      "image": "assets/images/Savoie_f57b8f-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "73"
+    },
+    {
+      "id": "FR-77",
+      "iso": "FR-77",
+      "department": "Seine-et-Marne",
+      "mapName": "Seine-et-Marne",
+      "label": "Seine-et-Marne",
+      "mapAliases": [
+        "seine et marne",
+        "fr 77",
+        "77"
+      ],
+      "title": "What Really Happened in Seine et Marne's UFO Files?",
+      "summary": "Seine-et-Marne’s UFO history is not built around a long list of spectacular local legends.",
+      "url": "what-really-happened-in-seine-et/",
+      "image": "assets/images/Seine-et-Marne_d85b24-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "77"
+    },
+    {
+      "id": "FR-80",
+      "iso": "FR-80",
+      "department": "Somme",
+      "mapName": "Somme",
+      "label": "Somme",
+      "mapAliases": [
+        "fr 80",
+        "somme",
+        "80"
+      ],
+      "title": "What Really Happened in Somme's UFO Wave?",
+      "summary": "Somme’s UFO history is not a story of one famous, nationally dominant incident.",
+      "url": "what-really-happened-in-sommes-ufo-wave/",
+      "image": "assets/images/Somme_f38fb9-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "80"
+    },
+    {
+      "id": "FR-82",
+      "iso": "FR-82",
+      "department": "Tarn-et-Garonne",
+      "mapName": "Tarn-et-Garonne",
+      "label": "Tarn-et-Garonne",
+      "mapAliases": [
+        "tarn et garonne",
+        "fr 82",
+        "82"
+      ],
+      "title": "What Really Happened in Tarn et Garonne's UFO Files?",
+      "summary": "Tarn-et-Garonne has a modest but useful UFO record: not a department famous for a single spectacular “classic”, but one where official French files show how...",
+      "url": "what-really-happened-in-tarn-et-garonnes/",
+      "image": "assets/images/Tarn-et-Garonne_a4f8ba-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "82"
+    },
+    {
+      "id": "FR-81",
+      "iso": "FR-81",
+      "department": "Tarn",
+      "mapName": "Tarn",
+      "label": "Tarn",
+      "mapAliases": [
+        "fr 81",
+        "tarn",
+        "81"
+      ],
+      "title": "What Really Happened in Tarn's UFO Files?",
+      "summary": "Tarn’s UFO history is not built around a large, famous “flap” on the scale of better-known French or Belgian cases.",
+      "url": "what-really-happened-in-tarns-ufo-files/",
+      "image": "assets/images/Tarn_a5fb02-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "81"
+    },
+    {
+      "id": "FR-95",
+      "iso": "FR-95",
+      "department": "Val-d'Oise",
+      "mapName": "Val-d'Oise",
+      "label": "Val-d'Oise",
+      "mapAliases": [
+        "val doise",
+        "fr 95",
+        "95"
+      ],
+      "title": "What Really Happened in Val d'Oise?",
+      "summary": "Val-d'Oise has one of the more distinctive UFO histories in the Paris region, not because it contains a single proven extraordinary event, but because it...",
+      "url": "what-really-happened-in-val-doise/",
+      "image": "assets/images/Val-d_Oise_9a8e5a-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "95"
+    },
+    {
+      "id": "FR-94",
+      "iso": "FR-94",
+      "department": "Val-de-Marne",
+      "mapName": "Val-de-Marne",
+      "label": "Val-de-Marne",
+      "mapAliases": [
+        "val de marne",
+        "fr 94",
+        "94"
+      ],
+      "title": "What Really Happened in Val de Marne's UFO Files?",
+      "summary": "Val-de-Marne’s UFO history is not a story of a famous crash, a military cover-up, or a long-running local legend.",
+      "url": "what-really-happened-in-val-de-marnes/",
+      "image": "assets/images/Val-de-Marne_555905-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "94"
+    },
+    {
+      "id": "FR-83",
+      "iso": "FR-83",
+      "department": "Var",
+      "mapName": "Var",
+      "label": "Var",
+      "mapAliases": [
+        "fr 83",
+        "var",
+        "83"
+      ],
+      "title": "What Really Happened in Var's UFO Files?",
+      "summary": "Var has an unusually important place in French UFO history because it contains Trans-en-Provence, the 1981 physical-trace case that became one of the...",
+      "url": "what-really-happened-in-vars-ufo-files/",
+      "image": "assets/images/Var_5cea87-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "83"
+    },
+    {
+      "id": "FR-84",
+      "iso": "FR-84",
+      "department": "Vaucluse",
+      "mapName": "Vaucluse",
+      "label": "Vaucluse",
+      "mapAliases": [
+        "vaucluse",
+        "fr 84",
+        "84"
+      ],
+      "title": "What Really Happened in Vaucluse's UFO Files?",
+      "summary": "Vaucluse has a modest but useful UFO history: not a single dramatic local legend so much as a set of official case files showing how strange lights, military...",
+      "url": "what-really-happened-in-vaucluses-ufo/",
+      "image": "assets/images/Vaucluse_17bae7-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "84"
+    },
+    {
+      "id": "FR-85",
+      "iso": "FR-85",
+      "department": "Vendee",
+      "mapName": "Vendee",
+      "label": "Vendee",
+      "mapAliases": [
+        "vendee",
+        "fr 85",
+        "85"
+      ],
+      "title": "What Really Happened In Vendee's UFO Files?",
+      "summary": "Vendée’s UFO history is less a story of one famous “flying saucer” than a useful test of how strange sky reports change when they pass through official...",
+      "url": "what-really-happened-in-vendees-ufo/",
+      "image": "assets/images/Vendee_da066b-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "85"
+    },
+    {
+      "id": "FR-86",
+      "iso": "FR-86",
+      "department": "Vienne",
+      "mapName": "Vienne",
+      "label": "Vienne",
+      "mapAliases": [
+        "vienne",
+        "fr 86",
+        "86"
+      ],
+      "title": "What Really Happened in Vienne's UFO Files?",
+      "summary": "Vienne has a modest but useful place in French UFO history.",
+      "url": "what-really-happened-in-viennes-ufo/",
+      "image": "assets/images/Vienne_f0511b-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "86"
+    },
+    {
+      "id": "FR-89",
+      "iso": "FR-89",
+      "department": "Yonne",
+      "mapName": "Yonne",
+      "label": "Yonne",
+      "mapAliases": [
+        "fr 89",
+        "yonne",
+        "89"
+      ],
+      "title": "What Really Happened in Yonne's UFO Files?",
+      "summary": "Yonne’s UFO history is less a story of one famous “crash” or landmark mystery than a department-level pattern: old press stories, repeated local witness...",
+      "url": "what-really-happened-in-yonnes-ufo-files/",
+      "image": "assets/images/Yonne_77d4a6-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "89"
+    },
+    {
+      "id": "FR-78",
+      "iso": "FR-78",
+      "department": "Yvelines",
+      "mapName": "Yvelines",
+      "label": "Yvelines",
+      "mapAliases": [
+        "yvelines",
+        "fr 78",
+        "78"
+      ],
+      "title": "What Really Happened In Yvelines Skies?",
+      "summary": "Yvelines has a surprisingly active place in the official French UFO record, but not because it contains a long list of dramatic, well-evidenced mysteries.",
+      "url": "what-really-happened-in-yvelines-skies/",
+      "image": "assets/images/Yvelines_722ea1-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "78"
+    },
+    {
+      "id": "FR-07",
+      "iso": "FR-07",
+      "department": "Ardeche",
+      "mapName": "Ardeche",
+      "label": "Ardeche",
+      "mapAliases": [
+        "ardeche",
+        "fr 07",
+        "07"
+      ],
+      "title": "What Really Happened Over Ardeche?",
+      "summary": "Ardèche’s UFO history is not a story of one famous “landing” or a long line of spectacular mysteries.",
+      "url": "what-really-happened-over-ardeche/",
+      "image": "assets/images/Ardeche_5d1281-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "07"
+    },
+    {
+      "id": "FR-21",
+      "iso": "FR-21",
+      "department": "Cote-d'Or",
+      "mapName": "Cote-d'Or",
+      "label": "Cote-d'Or",
+      "mapAliases": [
+        "cote d or",
+        "cote dor",
+        "fr 21",
+        "21"
+      ],
+      "title": "What Really Happened Over Cote d'Or?",
+      "summary": "Cote-d'Or is not one of the French departments with a single world-famous UFO case, but it is a useful place to study how French UFO history really works: a...",
+      "url": "what-really-happened-over-cote-dor/",
+      "image": "assets/images/Cote-d_Or_6e3ab6-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "21"
+    },
+    {
+      "id": "FR-70",
+      "iso": "FR-70",
+      "department": "Haute-Saone",
+      "mapName": "Haute-Saone",
+      "label": "Haute-Saone",
+      "mapAliases": [
+        "haute saone",
+        "fr 70",
+        "70"
+      ],
+      "title": "What Really Happened Over Haute Saone?",
+      "summary": "Haute-Saône’s UFO history is not a story of a famous mass sighting or a dramatic local legend.",
+      "url": "what-really-happened-over-haute-saone/",
+      "image": "assets/images/Haute-Saone_0bdc4b-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "70"
+    },
+    {
+      "id": "FR-87",
+      "iso": "FR-87",
+      "department": "Haute-Vienne",
+      "mapName": "Haute-Vienne",
+      "label": "Haute-Vienne",
+      "mapAliases": [
+        "haute vienne",
+        "fr 87",
+        "87"
+      ],
+      "title": "What Really Happened Over Haute Vienne?",
+      "summary": "Haute-Vienne has a modest but useful place in French UFO history: not because it contains a famous “landing” case, but because it shows the full range of...",
+      "url": "what-really-happened-over-haute-vienne/",
+      "image": "assets/images/Haute-Vienne_e44500-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "87"
+    },
+    {
+      "id": "FR-34",
+      "iso": "FR-34",
+      "department": "Herault",
+      "mapName": "Herault",
+      "label": "Herault",
+      "mapAliases": [
+        "herault",
+        "fr 34",
+        "34"
+      ],
+      "title": "What Really Happened Over Herault?",
+      "summary": "Hérault’s public UFO record is less a story of one famous “flying saucer” case than a useful local lesson in how strange sky reports are investigated.",
+      "url": "what-really-happened-over-herault/",
+      "image": "assets/images/Herault_0fa4db-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "34"
+    },
+    {
+      "id": "FR-72",
+      "iso": "FR-72",
+      "department": "Sarthe",
+      "mapName": "Sarthe",
+      "label": "Sarthe",
+      "mapAliases": [
+        "sarthe",
+        "fr 72",
+        "72"
+      ],
+      "title": "What Sarthe's UFO Files Really Show",
+      "summary": "Sarthe’s UFO record is not built around one spectacular, world-famous landing or a run of pilot-radar cases.",
+      "url": "what-sarthes-ufo-files-really-show/",
+      "image": "assets/images/Sarthe_70aab9-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "72"
+    },
+    {
+      "id": "FR-37",
+      "iso": "FR-37",
+      "department": "Indre-et-Loire",
+      "mapName": "Indre-et-Loire",
+      "label": "Indre-et-Loire",
+      "mapAliases": [
+        "indre et loire",
+        "fr 37",
+        "37"
+      ],
+      "title": "When Touraine UFOs Became Case Files",
+      "summary": "Indre-et-Loire has a surprisingly well-documented UFO record, but not in the dramatic sense often implied by “flying saucer” folklore.",
+      "url": "indre-et-loire/",
+      "image": "assets/images/Indre-et-Loire_b45e62-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "37"
+    },
+    {
+      "id": "FR-06",
+      "iso": "FR-06",
+      "department": "Alpes-Maritimes",
+      "mapName": "Alpes-Maritimes",
+      "label": "Alpes-Maritimes",
+      "mapAliases": [
+        "alpes maritimes",
+        "fr 06",
+        "06"
+      ],
+      "title": "Why Alpes Maritimes Became A UFO Hotspot",
+      "summary": "Alpes-Maritimes has one of the more visible local UFO traditions in France, but the official record is less dramatic than the folklore suggests.",
+      "url": "why-alpes-maritimes-became-a-ufo-hotspot/",
+      "image": "assets/images/Alpes-Maritimes_efe25c-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "06"
+    },
+    {
+      "id": "FR-65",
+      "iso": "FR-65",
+      "department": "Hautes-Pyrenees",
+      "mapName": "Hautes-Pyrenees",
+      "label": "Hautes-Pyrenees",
+      "mapAliases": [
+        "hautes pyrenees",
+        "fr 65",
+        "65"
+      ],
+      "title": "Why Do Pyrenean UFO Reports Fall Apart?",
+      "summary": "Hautes-Pyrénées has a quieter UFO history than some French departments: the strongest public record is not a single celebrated “classic” mystery, but a...",
+      "url": "hautes-pyrenees/",
+      "image": "assets/images/Hautes-Pyrenees_f6aaeb-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "65"
+    },
+    {
+      "id": "FR-25",
+      "iso": "FR-25",
+      "department": "Doubs",
+      "mapName": "Doubs",
+      "label": "Doubs",
+      "mapAliases": [
+        "doubs",
+        "fr 25",
+        "25"
+      ],
+      "title": "Why Doubs UFO Cases Usually Became Ordinary",
+      "summary": "Doubs has a modest but revealing UFO record. It is not a department defined by one famous unresolved landing case or a dramatic military mystery.",
+      "url": "why-doubs-ufo-cases-usually-became/",
+      "image": "assets/images/Doubs_70fb5f-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "25"
+    },
+    {
+      "id": "FR-91",
+      "iso": "FR-91",
+      "department": "Essonne",
+      "mapName": "Essonne",
+      "label": "Essonne",
+      "mapAliases": [
+        "essonne",
+        "fr 91",
+        "91"
+      ],
+      "title": "Why Essonne's UFO Files Usually Come Back to Earth",
+      "summary": "Essonne’s UFO record is not built around one famous “landing” case or a single dramatic mystery.",
+      "url": "why-essonnes-ufo-files-usually-come/",
+      "image": "assets/images/Essonne_7f5f7b-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "91"
+    },
+    {
+      "id": "FR-41",
+      "iso": "FR-41",
+      "department": "Loir-et-Cher",
+      "mapName": "Loir-et-Cher",
+      "label": "Loir-et-Cher",
+      "mapAliases": [
+        "loir et cher",
+        "fr 41",
+        "41"
+      ],
+      "title": "Why Loir et Cher's UFO Record Looks Explained",
+      "summary": "Loir-et-Cher has a surprisingly tidy official UFO record: the public GEIPAN/CNES data, as mirrored in the independent CarteOvni index, lists 10...",
+      "url": "why-loir-et-chers-ufo-record-looks/",
+      "image": "assets/images/Loir-et-Cher_7a21fd-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "41"
+    },
+    {
+      "id": "FR-42",
+      "iso": "FR-42",
+      "department": "Loire",
+      "mapName": "Loire",
+      "label": "Loire",
+      "mapAliases": [
+        "fr 42",
+        "loire",
+        "42"
+      ],
+      "title": "Why Loire's UFO Files Became Ordinary",
+      "summary": "Loire’s UFO record is not a story of one famous, department-defining mystery.",
+      "url": "why-loires-ufo-files-became-ordinary/",
+      "image": "assets/images/Loire_9faa19-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "42"
+    },
+    {
+      "id": "FR-53",
+      "iso": "FR-53",
+      "department": "Mayenne",
+      "mapName": "Mayenne",
+      "label": "Mayenne",
+      "mapAliases": [
+        "mayenne",
+        "fr 53",
+        "53"
+      ],
+      "title": "Why Mayenne's UFO Files Matter",
+      "summary": "Mayenne is not one of France’s dramatic UFO hotspots.",
+      "url": "why-mayennes-ufo-files-matter/",
+      "image": "assets/images/Mayenne_6ca058-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "53"
+    },
+    {
+      "id": "FR-75",
+      "iso": "FR-75",
+      "department": "Paris",
+      "mapName": "Paris",
+      "label": "Paris",
+      "mapAliases": [
+        "fr 75",
+        "paris",
+        "75"
+      ],
+      "title": "Why Paris UFOs Usually Become Ordinary Objects",
+      "summary": "Paris has a surprisingly undramatic UFO record. The French capital generates plenty of sightings, photographs and aviation-related reports, but the strongest...",
+      "url": "why-paris-ufos-usually-become-ordinary/",
+      "image": "assets/images/Paris_22390a-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "75"
+    },
+    {
+      "id": "FR-05",
+      "iso": "FR-05",
+      "department": "Hautes-Alpes",
+      "mapName": "Hautes-Alpes",
+      "label": "Hautes-Alpes",
+      "mapAliases": [
+        "hautes alpes",
+        "fr 05",
+        "05"
+      ],
+      "title": "Why the Hautes Alpes UFO Record Stays Interesting",
+      "summary": "Hautes-Alpes has a small but revealing UFO record: not a department of famous “unknown craft” cases, but a mountain region where ordinary skywatching,...",
+      "url": "why-the-hautes-alpes-ufo-record-stays/",
+      "image": "assets/images/Hautes-Alpes_6bdcb1-overview.webp",
+      "pageCount": 3,
+      "region": "France",
+      "code": "05"
+    }
+  ],
+  "matchedCount": 96,
+  "totalTopTopics": 96,
+  "source": "Generated from Stage 3 French department collection pages; CC0 base SVG from MapSVG.",
+  "sourceUrl": "https://mapsvg.com/maps/france-departments",
+  "license": "Commercial use allowed; no attribution required."
+}
