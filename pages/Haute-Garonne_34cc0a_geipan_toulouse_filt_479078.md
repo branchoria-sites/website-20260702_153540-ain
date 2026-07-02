@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 07:07:44'
+date: '2026-06-29 07:07:44'
 parent_title: Haute Garonne UFOs
 parent_permalink: /what-makes-haute-garonnes-ufo-record/
 parent_nav_short_title: Haute Garonne UFOs
@@ -265,7 +265,13 @@ A practical way to read a Haute-Garonne file is therefore:<div class="content-en
 * **A**: the case is effectively solved, such as a bolide, satellite or other identified source.
 * **B**: the case is not airtight, but one ordinary explanation fits best.
 * **C**: the report may sound odd, but the evidence is not strong enough to decide.
-* **D**: the report remains unexplained after investigation, without implying a confirmed craft or non-human origin.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+* **D**: the report remains unexplained after investigation, without implying a confirmed craft or non-human origin.</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What Haute-Garonne cases show in practice
 
@@ -288,7 +294,13 @@ That reclassification is crucial for understanding the Toulouse method. A dramat
 
 Baziège, south-east of Toulouse, shows a similar caution. In 2012, a witness reported a fixed blue triangular object surrounded by bright points, followed by a sudden disappearance. GEIPAN considered and rejected some common explanations, including a notable astronomical object and listed satellites, and discussed whether an aircraft on approach to Blagnac might have appeared as points of light. But because the aircraft hypothesis remained fragile and there were no corroborating witnesses, photos or traffic confirmation, GEIPAN classified the case C rather than forcing a conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2012-09-08327" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The lesson is not that C cases are worthless. They are useful precisely because they mark the boundary between a puzzling anecdote and a robust case. For a department-level UFO history, that boundary matters more than a simple count of “unidentified” reports.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hkDXEZPb1B0" title="Vie extraterrestre : bientôt des preuves ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hkDXEZPb1B0" target="_blank" rel="noopener noreferrer">Vie extraterrestre : bientôt des preuves ?</a></p><p class="youtube-embed-meta">Channel: Usbek &amp; Rica</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hkDXEZPb1B0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hkDXEZPb1B0">Open on YouTube</a></p></div></div></div>
+The lesson is not that C cases are worthless. They are useful precisely because they mark the boundary between a puzzling anecdote and a robust case. For a department-level UFO history, that boundary matters more than a simple count of “unidentified” reports.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hkDXEZPb1B0" title="Vie extraterrestre : bientôt des preuves ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hkDXEZPb1B0" target="_blank" rel="noopener noreferrer">Vie extraterrestre : bientôt des preuves ?</a></p><p class="youtube-embed-meta">Channel: Usbek &amp; Rica</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hkDXEZPb1B0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hkDXEZPb1B0">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Ordinary explanations are not an afterthought
 
@@ -307,7 +319,13 @@ There is also a broader methodological debate. A 2015 spatial analysis using GEI
 
 The same point appears in GEIPAN’s own statistics. Cases in categories C and D are excluded from phenomenon-type breakdowns because their nature is not known, while A and B cases are grouped by identified causes. This prevents unknowns from being casually assigned to a cause, but it also means the most interesting cases remain harder to compare by phenomenon type.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanStatisticsPercentage A Perfectly identified phenomenon 27.8 % B Probably identified phenomenon 38.8 % C Unidentified phenomenon (la...</span></span></span>
 
-For readers, the balanced position is straightforward: GEIPAN’s filter is one of the most transparent official UAP systems in Europe, but its conclusions are only as strong as the data, assumptions and reconstruction methods behind each file.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OLXDikL331Y" title="Geipan : la France aussi s’intéresse aux ovnis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer">Geipan : la France aussi s’intéresse aux ovnis</a></p><p class="youtube-embed-meta">Channel: C dans l&#x27;air - France Télévisions &middot; Views: 22.3K &middot; Uploaded: April 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OLXDikL331Y">Open on YouTube</a></p></div></div></div>
+For readers, the balanced position is straightforward: GEIPAN’s filter is one of the most transparent official UAP systems in Europe, but its conclusions are only as strong as the data, assumptions and reconstruction methods behind each file.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OLXDikL331Y" title="Geipan : la France aussi s’intéresse aux ovnis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer">Geipan : la France aussi s’intéresse aux ovnis</a></p><p class="youtube-embed-meta">Channel: C dans l&#x27;air - France Télévisions &middot; Views: 22.3K &middot; Uploaded: April 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OLXDikL331Y">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why this page belongs in Haute-Garonne UFO history
 

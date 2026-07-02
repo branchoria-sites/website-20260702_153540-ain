@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /deux-sevres-ac4bfa-index/
 description: Focused pages that expand on What Really Happened in Deux Sevres Skies?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Deux-Sevres_ac4bfa
 parent_title: What Really Happened in Deux Sevres Skies?

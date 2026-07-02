@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /puy-de-dome-53d1d1-index/
 description: Focused pages that expand on What Really Happened in Puy de Dome's UFO....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Puy-de-Dome_53d1d1
 parent_title: What Really Happened in Puy de Dome's UFO...

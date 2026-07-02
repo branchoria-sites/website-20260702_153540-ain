@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-28 22:52:14'
+date: '2026-06-28 22:52:14'
 parent_title: Correze UFOs
 parent_permalink: /correze/
 parent_nav_short_title: Correze UFOs
@@ -256,8 +256,6 @@ Meyrignac-l’Église on 23 March 2011 is similar but briefer. The witness repor
 
 Malemort-sur-Corrèze on 26 August 2020 brings the story into the Starlink era. Several people saw nine bright objects moving quickly at night, some in pairs, with no sound. GEIPAN classed the case B as a probable Starlink-satellite confusion, noting that the sighting occurred less than three weeks after a Starlink train launch and that the satellites had not yet dispersed fully.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58925?field_classification_des_cas_target_id%5B0%5D=12&amp;page=%2C8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span> This fits GEIPAN’s broader guidance: Starlink satellites can be visible over France, especially in the first fortnight after launch, as a dotted sequence of bright points moving across the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/qu-ai-je-vu/etape-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Comprendre un Phénomène &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan Comprendre un Phénomène &#124; GEIPAN</span></span></span> Spaceflight reporting confirms the relevant launch context: SpaceX launched 57 Starlink satellites on 7 August 2020, with another batch of 58 Starlink satellites launched on 18 August 2020.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spaceflightnow.com/2020/08/07/spacex-closes-out-busy-week-with-launch-of-more-starlink-satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceflightnow.com">[Spaceflight Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceflightnow.com</span><span class="citation-popover-title">spacex closes out busy week with launch of more starlink satellites</span><span class="citation-popover-snippet">spacex closes out busy week with launch of more starlink satellites</span></span></span>
 
-Seilhac on 4 September 2021 shows how aircraft can become strange when seen near the horizon. A witness, looking from a bathroom window at night, saw a very bright horizontal “cigar”, white with a slight red flash, apparently fixed for about a minute before slowly moving away behind a tree. GEIPAN identified it as Transavia flight TO4159 from Oran to Paris and classed the case A. The key detail was perspective: a distant aircraft close to the horizon can look nearly stationary, creating the sense of strangeness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2021-09-51247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lmLE0X5FRFc" title="Jacques Vallée, UFOs, and the Case against Extraterrestrial Origins" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lmLE0X5FRFc" target="_blank" rel="noopener noreferrer">Jacques Vallée, UFOs, and the Case against Extraterrestrial Origins</a></p><p class="youtube-embed-meta">Channel: Think Anomalous &middot; Views: 357.7K &middot; Uploaded: April 2022 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lmLE0X5FRFc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lmLE0X5FRFc">Open on YouTube</a></p></div></div></div>
 
 ## Why a “probable” explanation can still be strong
@@ -280,6 +278,8 @@ Favars on 29 November 2019 is more detailed and more instructive. A witness saw 
 That does not make Favars a strong unknown in the sense of a robust category D case. It makes it a good example of how a likely ordinary explanation can fail to close because the observation details are too uncertain. In practical terms, a long, low, scintillating light at night strongly suggests an astronomical cause, but a confident identification needs accurate direction, elevation, time and ideally independent corroboration.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lXi5B0NTwVc" title="France&#x27;s Official UFO Investigation Agency (GEIPAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer">France&#x27;s Official UFO Investigation Agency (GEIPAN)</a></p><p class="youtube-embed-meta">Channel: Kryptoscipher &middot; Views: 108 &middot; Uploaded: February 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lXi5B0NTwVc">Open on YouTube</a></p></div></div></div>
+
+
 
 ## What Corrèze’s official files change about the local UFO story
 

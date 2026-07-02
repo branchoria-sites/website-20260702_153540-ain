@@ -107,8 +107,8 @@ keywords:
 - morbihan
 affiliate_category: morbihan
 show_ads: true
-description:'Morbihan’s public UFO record is less a story of one famous “classic” case than a pattern: many reports turn out to be aircraft, lanterns, planets, clouds or...'
-hero_summary:'Morbihan’s public UFO record is less a story of one famous “classic” case than a pattern: many reports turn out to be aircraft, lanterns, planets, clouds or satellites, while a smaller group remains unresolved mainly because the evidence is too thin to test.'
+description: 'Morbihan’s public UFO record is less a story of one famous “classic” case than a pattern: many reports turn out to be aircraft, lanterns, planets, clouds or...'
+hero_summary: 'Morbihan’s public UFO record is less a story of one famous “classic” case than a pattern: many reports turn out to be aircraft, lanterns, planets, clouds or satellites, while a smaller group remains unresolved mainly because the evidence is too thin to test.'
 layout: default
 permalink: /what-morbihans-ufo-files-really-show/
 nav_short_title: What Morbihan's UFO Files Really Show
@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 19:00:15'
+date: '2026-06-29 19:00:15'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -713,8 +713,6 @@ The 19 January 2023 Plouhinec case is the most useful Morbihan example for reade
 
 GEIPAN did more than merely file the witness statement. The report says the sighting was submitted two months later, followed by a field investigation by two experts on 13 May 2023, further exchanges with the witness, loan of the original camera, and technical tests during the week of 31 July 2023. GEIPAN also checked French air-operation mapping and ADS-B data and found no air traffic matching the phenomenon in the relevant direction at the observation time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2023-01-51422" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The investigators considered a drone, including a possible military drone, but did not find that hypothesis satisfactory. They reasoned that, even allowing for the witness possibly overestimating the apparent size, a drone small enough to fit the observation would have had to be very close, perhaps around 15 to 20 metres for a 50 cm to 1 m drone, which raised problems about noise, proximity and overflight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2023-01-51422" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ## Locminé 1976: the older case with a stronger UFO atmosphere but weaker evidence
@@ -725,7 +723,13 @@ The case is not just a stray anecdote. GEIPAN lists a gendarmerie document and f
 
 Even so, the official conclusion is cautious. GEIPAN says no information validating an explanation was collected from the contacted services, including weather, radar, EDF and nearby industrial facilities operating day and night. That sounds intriguing, but it is not the same as a positive finding. The file is classified C: the phenomenon remains unidentified because reliable information is lacking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1976-10-00353" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-For Morbihan’s UFO history, Locminé matters because it anchors the department’s official record in the era just before and around the creation of France’s public UFO investigation system. But it should not be inflated into a solved mystery or a proven close encounter. Its value is archival: multiple reported witnesses, official paperwork, an unusual description, and an unresolved outcome limited by the data available at the time.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K-dgmfIOYBE" title="GEIPAN: Everything You Need to Know About UFOs and Aerial Phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K-dgmfIOYBE" target="_blank" rel="noopener noreferrer">GEIPAN: Everything You Need to Know About UFOs and Aerial Phenomena</a></p><p class="youtube-embed-meta">Channel: Science And Life &middot; Views: 16 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K-dgmfIOYBE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K-dgmfIOYBE">Open on YouTube</a></p></div></div></div>
+For Morbihan’s UFO history, Locminé matters because it anchors the department’s official record in the era just before and around the creation of France’s public UFO investigation system. But it should not be inflated into a solved mystery or a proven close encounter. Its value is archival: multiple reported witnesses, official paperwork, an unusual description, and an unresolved outcome limited by the data available at the time.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K-dgmfIOYBE" title="GEIPAN: Everything You Need to Know About UFOs and Aerial Phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K-dgmfIOYBE" target="_blank" rel="noopener noreferrer">GEIPAN: Everything You Need to Know About UFOs and Aerial Phenomena</a></p><p class="youtube-embed-meta">Channel: Science And Life &middot; Views: 16 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K-dgmfIOYBE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K-dgmfIOYBE">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Aircraft, bases and why Lorient matters
 
@@ -741,8 +745,6 @@ This does not mean every Morbihan sighting near Lorient is “just a plane”. I
 Morbihan’s GEIPAN record repeatedly shows how ordinary objects become memorable UFO experiences when distance, height and scale are uncertain. Lantern cases are particularly common in the department’s published list: Ploemeur, Arradon, Inzinzac-Lochrist, Plouharnel, Neulliac, Saint-Pierre-Quiberon, Gourin, Lorient, Lanvaudan, Larmor-Baden and other entries are classified as lanterns or probable lanterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id%5B0%5D%5Btarget_id%5D=245&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;page=0&amp;select-category-export=nothing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">GEIPANRecherche de cas &#124; GEIPAN</span><span class="citation-popover-snippet">GEIPANRecherche de cas &#124; GEIPAN</span></span></span>
 
 The Ploemeur case of 2 September 2017 is a good example. At 10.30 pm, a witness reported around twenty whitish lights passing silently over Ploemeur and Lorient for one to two minutes before being lost behind trees. GEIPAN classed the case B, probably Thai lanterns, because the reported appearance, silence, movement with the wind, weekend timing and clear sky matched many lantern releases seen in its wider database.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2017-09-50529" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
-The witness rejected that explanation, arguing that the lights looked too large, that there was no wind, and that lanterns should have triggered other reports. GEIPAN’s response is a useful sceptical lesson: witnesses often misjudge the distance, size and speed of unfamiliar lights; wind at a doorway is not a reliable guide to wind at lantern height; and the absence of other reports can mean other observers recognised the lights rather than found them strange.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2017-09-50529" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2wBIkZ646gA" title="Ancient Aliens: French Government EXPOSES Evidence of UFOs (Special) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2wBIkZ646gA" target="_blank" rel="noopener noreferrer">Ancient Aliens: French Government EXPOSES Evidence of UFOs (Special) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 336.7K &middot; Uploaded: February 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2wBIkZ646gA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2wBIkZ646gA">Open on YouTube</a></p></div></div></div>
 

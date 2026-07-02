@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 13:59:09'
+date: '2026-06-29 13:59:09'
 parent_title: Lot UFOs
 parent_permalink: /what-really-happened-in-lots-ufo-files/
 parent_nav_short_title: Lot UFOs
@@ -268,7 +268,13 @@ This case matters because it shows how aircraft reports can become “structured
 
 Cahors also illustrates the silence problem. Witnesses often treat silence as evidence that an object cannot be an aircraft. GEIPAN’s guidance warns that an aircraft coming towards an observer may be silent until it has passed behind them. In a rural setting, wind, terrain, vehicle noise, distance and the aircraft’s angle can all complicate what the witness hears.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/what-did-i-see/step-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">GEIPANUnderstanding a Phenomenon &#124; GEIPAN</span><span class="citation-popover-snippet">GEIPANUnderstanding a Phenomenon &#124; GEIPAN</span></span></span>
 
-The lesson is not that every triangular light is a plane. It is that a triangle can be a perception built from separate lights, especially when the actual body of the aircraft is hard to see. A motorist’s viewpoint adds another complication: a moving observer has fewer stable reference points, and apparent speed or direction can be distorted.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/82g0gZgptJ4" title="Why Scientists Don&#x27;t Freak Out About UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=82g0gZgptJ4" target="_blank" rel="noopener noreferrer">Why Scientists Don&#x27;t Freak Out About UFO Videos</a></p><p class="youtube-embed-meta">Channel: Insider Tech &middot; Views: 1.6M &middot; Uploaded: January 2018 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=82g0gZgptJ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=82g0gZgptJ4">Open on YouTube</a></p></div></div></div>
+The lesson is not that every triangular light is a plane. It is that a triangle can be a perception built from separate lights, especially when the actual body of the aircraft is hard to see. A motorist’s viewpoint adds another complication: a moving observer has fewer stable reference points, and apparent speed or direction can be distorted.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/82g0gZgptJ4" title="Why Scientists Don&#x27;t Freak Out About UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=82g0gZgptJ4" target="_blank" rel="noopener noreferrer">Why Scientists Don&#x27;t Freak Out About UFO Videos</a></p><p class="youtube-embed-meta">Channel: Insider Tech &middot; Views: 1.6M &middot; Uploaded: January 2018 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=82g0gZgptJ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=82g0gZgptJ4">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Stars that seem to move in dark skies
 
@@ -297,7 +303,13 @@ The modern version is Starlink. GEIPAN notes that witnesses regularly report lon
 
 For Lot, this is less a single landmark case than a standing interpretive risk. A place advertised for its dark skies will make satellites more visible. Visitors may also be more likely to look up for long periods, especially during astronomy evenings or holidays. A Starlink train over a darker part of the Causses du Quercy can look more dramatic than the same train glimpsed through urban skyglow.
 
-The important distinction is duration and geometry. A meteor or bolide is usually brief and may show a streak, flare or delayed sound. A satellite is steady, silent, point-like and predictable. A lantern drifts with wind and may fade. An aircraft has navigation or anti-collision lights and may change appearance with angle. A star or planet is effectively fixed over short periods but may scintillate, change colour or seem to move when watched intensely. Those differences do not always feel clear in the moment, but they become clearer when timing, direction and local conditions are recorded.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OLXDikL331Y" title="Geipan : la France aussi s’intéresse aux ovnis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer">Geipan : la France aussi s’intéresse aux ovnis</a></p><p class="youtube-embed-meta">Channel: C dans l&#x27;air - France Télévisions &middot; Views: 22.3K &middot; Uploaded: April 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OLXDikL331Y">Open on YouTube</a></p></div></div></div>
+The important distinction is duration and geometry. A meteor or bolide is usually brief and may show a streak, flare or delayed sound. A satellite is steady, silent, point-like and predictable. A lantern drifts with wind and may fade. An aircraft has navigation or anti-collision lights and may change appearance with angle. A star or planet is effectively fixed over short periods but may scintillate, change colour or seem to move when watched intensely. Those differences do not always feel clear in the moment, but they become clearer when timing, direction and local conditions are recorded.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OLXDikL331Y" title="Geipan : la France aussi s’intéresse aux ovnis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer">Geipan : la France aussi s’intéresse aux ovnis</a></p><p class="youtube-embed-meta">Channel: C dans l&#x27;air - France Télévisions &middot; Views: 22.3K &middot; Uploaded: April 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OLXDikL331Y">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The pattern: not disbelief, but reconstruction
 
@@ -307,7 +319,13 @@ This is why the 1954 [Figeac]({{'figeac-1954/' | relative_url }}) case sits diff
 
 That distinction is essential for reading Lot’s UFO history fairly. A category A or B case tells us that an ordinary source has been identified or is probable. A category C case tells us that the file lacks reliable information. Only a category D case remains unidentified after investigation, and nationally those form a small minority of GEIPAN’s published record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">GEIPANStatistics &#124; GEIPAN</span><span class="citation-popover-snippet">GEIPANStatistics &#124; GEIPAN</span></span></span>
 
-The department’s best-explained cases therefore weaken the idea of a single hidden phenomenon recurring over Lot. They point instead to a landscape where the sky is unusually visible, witnesses are often sincere, and ordinary objects can look extraordinary when seen briefly, from odd angles, or without familiar reference points.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yeznl3GM0vs" title="Ovnis: le Geipan, au CNES, enquête sur ces phénomènes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yeznl3GM0vs" target="_blank" rel="noopener noreferrer">Ovnis: le Geipan, au CNES, enquête sur ces phénomènes</a></p><p class="youtube-embed-meta">Channel: AFP &middot; Views: 9.2K &middot; Uploaded: December 2015 &middot; Length: 2 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yeznl3GM0vs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yeznl3GM0vs">Open on YouTube</a></p></div></div></div>
+The department’s best-explained cases therefore weaken the idea of a single hidden phenomenon recurring over Lot. They point instead to a landscape where the sky is unusually visible, witnesses are often sincere, and ordinary objects can look extraordinary when seen briefly, from odd angles, or without familiar reference points.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yeznl3GM0vs" title="Ovnis: le Geipan, au CNES, enquête sur ces phénomènes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yeznl3GM0vs" target="_blank" rel="noopener noreferrer">Ovnis: le Geipan, au CNES, enquête sur ces phénomènes</a></p><p class="youtube-embed-meta">Channel: AFP &middot; Views: 9.2K &middot; Uploaded: December 2015 &middot; Length: 2 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yeznl3GM0vs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yeznl3GM0vs">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to read a new Lot sighting
 

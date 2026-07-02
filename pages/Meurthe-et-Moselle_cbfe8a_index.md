@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /meurthe-et-moselle-cbfe8a-index/
 description: Focused pages that expand on Meurthe et Moselle.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Meurthe-et-Moselle_cbfe8a
 parent_title: Meurthe et Moselle

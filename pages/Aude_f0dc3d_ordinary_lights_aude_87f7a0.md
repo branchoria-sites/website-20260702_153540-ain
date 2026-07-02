@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-28 19:02:45'
+date: '2026-06-28 19:02:45'
 parent_title: Aude UFOs
 parent_permalink: /what-do-audes-ufo-cases-really-show/
 parent_nav_short_title: Aude UFOs
@@ -237,7 +237,10 @@ image: /assets/images/Aude_f0dc3d_ordinary_lights_aude_87f7a0-overview-social.jp
 ## Introduction
 
 Many Aude UFO reports did not begin as wild stories. They began with ordinary lights seen under awkward conditions: birds reflecting floodlights above Carcassonne, orange lanterns drifting over Limoux and Espéraza, satellites flashing during meteor-watching sessions, rocket debris glinting near Jupiter, and a strange blue-white point seen in storm clouds over Narbonne. What makes these cases useful is not that they “solve” every Aude sighting, but that they show how sincere witnesses can accurately report what they experienced while misreading the source of the light.<img src="{{"/assets/images/Aude_f0dc3d_ordinary_lights_aude_87f7a0-overview.webp" | relative_url }}" alt="Overview image for Mistaken Skies" loading="eager" decoding="sync" fetchpriority="high">
+
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7GtoO00G_No" title="Identifier les OVNIS / Super Pouvoirs Anti-Mythos - Info ou Mytho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7GtoO00G_No" target="_blank" rel="noopener noreferrer">Identifier les OVNIS / Super Pouvoirs Anti-Mythos - Info ou Mytho</a></p><p class="youtube-embed-meta">Channel: Info ou Mytho ?</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7GtoO00G_No" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7GtoO00G_No">Open on YouTube</a></p></div></div></div>
+
+
 
 ## Carcassonne’s floodlit birds
 
@@ -256,7 +259,13 @@ The 22 December 2013 Espéraza file shows the same mechanism in a slightly diffe
 
 These cases show why “it moved silently” is not enough to make an Aude light mysterious. Lanterns are designed to be quiet, bright and slow. They often appear in small numbers rather than as a single object, and they can seem to climb, pause or drift depending on local air currents. From the ground, especially at night, the viewer may not know whether the light is nearby and small or distant and large. A bright floating lantern can therefore become, in ordinary language, a “ball” crossing the sky.
 
-The important point is not that every orange light in Aude is a lantern. It is that GEIPAN’s method looks for the fit between the reported behaviour and the environmental facts: date, time, wind, cloud base, witness direction and possible launch context. In Limoux and Espéraza, the reports did not collapse because the witnesses were unreliable. They became less mysterious because the pattern matched a known object under the right local conditions.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lZC7NeKu2Vw" title="UFO sighting likely Starlink satellites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lZC7NeKu2Vw" target="_blank" rel="noopener noreferrer">UFO sighting likely Starlink satellites</a></p><p class="youtube-embed-meta">Channel: WSMV 4 Nashville &middot; Views: 6.4K &middot; Uploaded: March 2024 &middot; Length: 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lZC7NeKu2Vw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lZC7NeKu2Vw">Open on YouTube</a></p></div></div></div>
+The important point is not that every orange light in Aude is a lantern. It is that GEIPAN’s method looks for the fit between the reported behaviour and the environmental facts: date, time, wind, cloud base, witness direction and possible launch context. In Limoux and Espéraza, the reports did not collapse because the witnesses were unreliable. They became less mysterious because the pattern matched a known object under the right local conditions.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lZC7NeKu2Vw" title="UFO sighting likely Starlink satellites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lZC7NeKu2Vw" target="_blank" rel="noopener noreferrer">UFO sighting likely Starlink satellites</a></p><p class="youtube-embed-meta">Channel: WSMV 4 Nashville &middot; Views: 6.4K &middot; Uploaded: March 2024 &middot; Length: 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lZC7NeKu2Vw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lZC7NeKu2Vw">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Narbonne and the active modern sky
 
@@ -285,7 +294,13 @@ Several recurring mechanisms appear in the Aude record:
 
 **Small errors can still leave the main explanation intact.** In the Port-la-Nouvelle rocket-debris case, GEIPAN noted that the witness overestimated the angular height of Jupiter and the phenomenon, a common issue in sky reports, but the timing, direction and visual description still allowed a strong match with the Resurs 1-3 rocket stage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2019-08-50820?page=14&amp;undefined=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-This is why Aude is a useful department for readers who want more than a simple believer-versus-sceptic argument. The best modern files are not just dismissals. They show a chain of reasoning: what was seen, what conditions existed, what candidate explanations were tested, what evidence was missing, and why a classification was chosen.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gOTrGc0NuvM" title="Weather 101: UFO Clouds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gOTrGc0NuvM" target="_blank" rel="noopener noreferrer">Weather 101: UFO Clouds</a></p><p class="youtube-embed-meta">Channel: Weather 101</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gOTrGc0NuvM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gOTrGc0NuvM">Open on YouTube</a></p></div></div></div>
+This is why Aude is a useful department for readers who want more than a simple believer-versus-sceptic argument. The best modern files are not just dismissals. They show a chain of reasoning: what was seen, what conditions existed, what candidate explanations were tested, what evidence was missing, and why a classification was chosen.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gOTrGc0NuvM" title="Weather 101: UFO Clouds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gOTrGc0NuvM" target="_blank" rel="noopener noreferrer">Weather 101: UFO Clouds</a></p><p class="youtube-embed-meta">Channel: Weather 101</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gOTrGc0NuvM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gOTrGc0NuvM">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What these solved cases do, and do not, prove
 

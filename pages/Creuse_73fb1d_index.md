@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /creuse-73fb1d-index/
 description: Focused pages that expand on What Do Creuse UFO Reports Really Show?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Creuse_73fb1d
 parent_title: What Do Creuse UFO Reports Really Show?

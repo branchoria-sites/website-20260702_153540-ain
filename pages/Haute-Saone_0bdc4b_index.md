@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /haute-saone-0bdc4b-index/
 description: Focused pages that expand on What Really Happened Over Haute Saone?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Haute-Saone_0bdc4b
 parent_title: What Really Happened Over Haute Saone?

@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 03:43:35'
+date: '2026-06-30 03:43:35'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -719,8 +719,6 @@ These cases matter because they were not dismissed casually. The long reported d
 
 **Salins-les-Thermes and Saint-Etienne-de-Cuines, August 1980:** the following two days produced class C reports. At Salins-les-Thermes on 23 August 1980, a witness described a very bright spherical object that seemed to change orientation and colour before disappearing behind the landscape. At Saint-Etienne-de-Cuines on 24 August, another witness described a very bright form, with a brief pale pink parachute-like shape below it, visible for more than ten minutes. In both cases, GEIPAN’s public summaries emphasise the absence of other testimony and lack of sufficient information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/cas/1980-08-00790" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-**Challes-les-Eaux, October 2017:** this is one of the clearest solved examples. A witness saw and photographed puzzling objects and filaments in the sky. GEIPAN split the episode into two identified phenomena: aircraft appearing to produce a confusing apparent movement, and “ballooning”, the windborne silk threads used by small spiders. The case is valuable because the witness was considered precise and the photographs helped the analysis, yet the conclusion was still ordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2017-10-50439" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ## Why the 2018 orange-light reports stand out
@@ -740,7 +738,13 @@ But the official classifications do not support turning the sequence into a sing
 
 That distinction is important. A class C case can be vivid in narrative form, but it is weak in evidential terms. The Saint-Etienne-de-Cuines witness described a bright object for more than ten minutes, yet no other testimony was collected. The Salins-les-Thermes report likewise depended on a single witness and lacked enough data for a robust reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/cas/1980-08-00790" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-The useful conclusion is cautious: August 1980 is a notable local cluster in Savoie’s UFO archive, but not a landmark unexplained episode. It is better understood as a set of reports showing three different archival outcomes: probable atmospheric re-entry, and two older observations left unresolved because the information base is too thin.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BThnZz-ryHg" title="UFO Whistleblowers, NASA Time Travel &amp; Psychic Soldiers | Jesse Michels" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BThnZz-ryHg" target="_blank" rel="noopener noreferrer">UFO Whistleblowers, NASA Time Travel &amp; Psychic Soldiers | Jesse Michels</a></p><p class="youtube-embed-meta">Channel: Danny Jones</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BThnZz-ryHg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BThnZz-ryHg">Open on YouTube</a></p></div></div></div>
+The useful conclusion is cautious: August 1980 is a notable local cluster in Savoie’s UFO archive, but not a landmark unexplained episode. It is better understood as a set of reports showing three different archival outcomes: probable atmospheric re-entry, and two older observations left unresolved because the information base is too thin.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BThnZz-ryHg" title="UFO Whistleblowers, NASA Time Travel &amp; Psychic Soldiers | Jesse Michels" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BThnZz-ryHg" target="_blank" rel="noopener noreferrer">UFO Whistleblowers, NASA Time Travel &amp; Psychic Soldiers | Jesse Michels</a></p><p class="youtube-embed-meta">Channel: Danny Jones</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BThnZz-ryHg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BThnZz-ryHg">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The mountain setting changes what witnesses think they saw
 
@@ -756,8 +760,6 @@ Nights in ski and resort areas add other explanations: flares, sky-tracers, torc
 The more recent Savoie record is especially useful because it shows the value of modern checking tools: satellite predictions, sky software, photographs, metadata, aircraft context and terrain mapping. These are not glamorous, but they are exactly what separates a durable mystery from a solved report.
 
 Avrieux on 14 July 2022 was classified A after GEIPAN identified the straight passage of a white luminous point in the night sky as the International Space Station. A specialist sceptical index of sky misidentifications also lists the Avrieux case among GEIPAN’s ISS identifications, which is consistent with the official classification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/60846?page=8%2C6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
-Aiton on 20 November 2021 was classified A as an aircraft contrail. Challes-les-Eaux in 2017 was split into airliner and spider-silk ballooning explanations. Entremont-le-Vieux in 2024 was classified A as astronomical, with GEIPAN’s investigation pointing to Jupiter. These cases are mundane only after the work is done; before checking, each could plausibly feel odd to the witness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/recherche/cas/tab?field_date_value=2020-11-18&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=1&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=3&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan+2Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CWt2zkuxRNQ" title="GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer">GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)</a></p><p class="youtube-embed-meta">Channel: Science &amp; Vie &middot; Views: 36.9K &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CWt2zkuxRNQ">Open on YouTube</a></p></div></div></div>
 

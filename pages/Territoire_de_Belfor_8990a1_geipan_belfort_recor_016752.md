@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 12:01:06'
+date: '2026-06-30 12:01:06'
 parent_title: Belfort UFOs
 parent_permalink: /territoire-de-belfort/
 parent_nav_short_title: Belfort UFOs
@@ -236,7 +236,6 @@ image: /assets/images/Territoire_de_Belfor_8990a1_geipan_belfort_recor_016752-ov
 
 ## Introduction
 
-GEIPAN’s public record for [Territoire de Belfort]({{'territoire-de-belfort/' | relative_url }}) proves something modest but important: the department has an official UFO file, but not an official mystery wave. The six public cases currently listed for the department are dominated by identified, probably identified, or weakly evidenced reports: three class A cases, two class B cases and one class C case, with no public class D case in the accessible Belfort set. In plain terms, the best official evidence does not show a strong unexplained incident in Territoire de Belfort; it shows how ordinary lights, objects and incomplete reports become UFO cases until they are checked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/recherche/cas/tab?field_date_value=2007-03-01&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=18&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Recherche de casListe des cas revisités; BEAUCOURT (90) 02.04.1979, 02/04/1979, A; VALDOIE (90) 24.12.2015, 24/12/2015, B; BELFORT (90...</span></span></span><img src="{{"/assets/images/Territoire_de_Belfor_8990a1_geipan_belfort_recor_016752-overview.webp" | relative_url }}" alt="Overview image for GEIPAN Record" loading="eager" decoding="sync" fetchpriority="high">
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OLXDikL331Y" title="Geipan : la France aussi s’intéresse aux ovnis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer">Geipan : la France aussi s’intéresse aux ovnis</a></p><p class="youtube-embed-meta">Channel: C dans l&#x27;air - France Télévisions &middot; Views: 22.3K &middot; Uploaded: April 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OLXDikL331Y">Open on YouTube</a></p></div></div></div>
 
 ## The six public GEIPAN cases
@@ -266,7 +265,13 @@ This distinction is central to Belfort. A class C case is not a “strong unknow
 
 The Grandvillars-to-Delle file demonstrates the point. GEIPAN considered possible hypotheses and even tried to estimate movement and speed from the witness’s account, but the investigation report concluded that the lack of angular size information, the absence of corroborating evidence and the limited detail meant no solid view could be reached. The report assigned both consistency and strangeness values of 0.4, underlining that the case was weakly evidenced as well as unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete399.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Compte rendu enquete399</span><span class="citation-popover-snippet">Compte rendu enquete399</span></span></span>
 
-That matters for public interpretation. In UFO culture, an unresolved case can be retold as a mystery. In evidence terms, Belfort’s class C file is better read as a warning label: the record is too thin. It does not prove a strange object was present; it proves that the witness report, as preserved, did not contain enough reliable information for GEIPAN to identify the cause.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+That matters for public interpretation. In UFO culture, an unresolved case can be retold as a mystery. In evidence terms, Belfort’s class C file is better read as a warning label: the record is too thin. It does not prove a strange object was present; it proves that the witness report, as preserved, did not contain enough reliable information for GEIPAN to identify the cause.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What the strongest files actually show
 
@@ -285,7 +290,13 @@ The Belfort file does not prove that unusual things are never seen in the depart
 
 It also does not prove that all witnesses were wrong in a simple sense. In several Belfort cases, the witnesses appear to have seen real phenomena: an aircraft, a balloon-like object, a kite, probably lanterns, or lights reported by multiple people. The issue is interpretation. A UFO report begins when a witness cannot identify something; it stops being unexplained when the surrounding evidence points convincingly to a known cause.
 
-The record does, however, weaken any claim that Territoire de Belfort is a major official UFO hotspot. A department with six public cases across decades, no accessible class D entry in the set, and several conventional explanations is not comparable to areas known for dense waves, high-strangeness reports or heavily discussed historical incidents. Its importance is quieter: it is a clean example of a small departmental record in which the official archive works mostly as a filter.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yDqQGyAwWCg" title="Bureau des ovnis : la vérité est-elle ailleurs ? • FRANCE 24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer">Bureau des ovnis : la vérité est-elle ailleurs ? • FRANCE 24</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 &middot; Views: 24.0K &middot; Uploaded: October 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yDqQGyAwWCg">Open on YouTube</a></p></div></div></div>
+The record does, however, weaken any claim that Territoire de Belfort is a major official UFO hotspot. A department with six public cases across decades, no accessible class D entry in the set, and several conventional explanations is not comparable to areas known for dense waves, high-strangeness reports or heavily discussed historical incidents. Its importance is quieter: it is a clean example of a small departmental record in which the official archive works mostly as a filter.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yDqQGyAwWCg" title="Bureau des ovnis : la vérité est-elle ailleurs ? • FRANCE 24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer">Bureau des ovnis : la vérité est-elle ailleurs ? • FRANCE 24</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 &middot; Views: 24.0K &middot; Uploaded: October 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yDqQGyAwWCg">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why a small record still matters
 

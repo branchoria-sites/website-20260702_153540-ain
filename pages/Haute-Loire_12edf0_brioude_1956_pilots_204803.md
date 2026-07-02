@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 12:27:11'
+date: '2026-06-29 12:27:11'
 parent_title: Haute Loire UFOs
 parent_permalink: /what-really-happened-in-haute-loires-ufo/
 parent_nav_short_title: Haute Loire UFOs
@@ -258,7 +258,13 @@ The case also has a deceptively dramatic structure. The pilots did not merely gl
 
 But the same details also create the central trap in the interpretation. A pilot can be an expert in flying, navigation, weather, and aircraft behaviour while still being vulnerable to judging the distance and size of an unfamiliar object with few visual cues. GEIPAN’s own methodology treats witness testimony as central, but it also weighs the consistency and reliability of available data against possible known explanations rather than treating witness status alone as decisive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-In this case, the pilots’ descriptions contain a clue that points away from a solid aircraft-like object. Both accounts move between possible identities: balloon, aircraft, disc, sphere, metallic surface, translucent body. That is not a sign of dishonesty. It is what one would expect when a distant, sunlit, high-altitude object is being interpreted through changing angles, cloud, and aircraft motion.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+In this case, the pilots’ descriptions contain a clue that points away from a solid aircraft-like object. Both accounts move between possible identities: balloon, aircraft, disc, sphere, metallic surface, translucent body. That is not a sign of dishonesty. It is what one would expect when a distant, sunlit, high-altitude object is being interpreted through changing angles, cloud, and aircraft motion.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why the balloon explanation fits
 
@@ -279,7 +285,13 @@ That matters because GEIPAN’s category B is not the same as category A. A cate
 
 The missing launch record leaves several possibilities open without making the case exotic. It could have been a balloon released outside the immediate region, a balloon not tracked through the channels contacted, or an object whose administrative origin was simply lost in the record. What it does not provide is positive evidence of controlled flight, propulsion, intelligent manoeuvring, or an object matching the pilots’ aircraft-like interpretation at close range.
 
-This distinction is important for fair reading. The pilots’ evidence is strongest for the appearance: a high, spherical, bright or translucent object that seemed to remain above and ahead during manoeuvres. The observatory evidence is strongest for the explanation: a large, slow, high-altitude balloon was independently observed in the wider Clermont-Ferrand region on the same day and behaved in a way consistent with the Brioude report. The remaining gap concerns provenance, not the basic physical nature of the object.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K-Wpxj0Rpa8" title="The Dance of Stars: Understanding Parallax and Stellar Motion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K-Wpxj0Rpa8" target="_blank" rel="noopener noreferrer">The Dance of Stars: Understanding Parallax and Stellar Motion</a></p><p class="youtube-embed-meta">Channel: Jason Kendall</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K-Wpxj0Rpa8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K-Wpxj0Rpa8">Open on YouTube</a></p></div></div></div>
+This distinction is important for fair reading. The pilots’ evidence is strongest for the appearance: a high, spherical, bright or translucent object that seemed to remain above and ahead during manoeuvres. The observatory evidence is strongest for the explanation: a large, slow, high-altitude balloon was independently observed in the wider Clermont-Ferrand region on the same day and behaved in a way consistent with the Brioude report. The remaining gap concerns provenance, not the basic physical nature of the object.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K-Wpxj0Rpa8" title="The Dance of Stars: Understanding Parallax and Stellar Motion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K-Wpxj0Rpa8" target="_blank" rel="noopener noreferrer">The Dance of Stars: Understanding Parallax and Stellar Motion</a></p><p class="youtube-embed-meta">Channel: Jason Kendall</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K-Wpxj0Rpa8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K-Wpxj0Rpa8">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How the “following” effect can mislead
 
@@ -287,7 +299,13 @@ The most memorable claim in the pilots’ accounts is that the object seemed to 
 
 GEIPAN explicitly highlights this point in the Brioude file. It says the impression of being followed and the impossibility of approaching the object are characteristic perceptual illusions when observing a distant object. In the Brioude case, GEIPAN’s distance estimate makes the point concrete: even after the aircraft climbed, the remaining separation was still about 10 kilometres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1956-09-09134" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-This is why the case is useful beyond its local setting. “Pilot witness” is often used as a shortcut for reliability. It should count for something, especially when the report is prompt, detailed, and professionally recorded. But it cannot remove the physical problem of judging an unfamiliar object at unknown range in a nearly featureless sky. The Brioude file shows both truths at once: the witnesses were serious, and the perception problem was real.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DNuDh287q0Q" title="7 CAS D’OVNIS OFFICIELLES complètement fous ( CRNS, GEIPAN… je t’explique tout )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DNuDh287q0Q" target="_blank" rel="noopener noreferrer">7 CAS D’OVNIS OFFICIELLES complètement fous ( CRNS, GEIPAN… je t’explique tout )</a></p><p class="youtube-embed-meta">Channel: INDIANA SPACE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DNuDh287q0Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DNuDh287q0Q">Open on YouTube</a></p></div></div></div>
+This is why the case is useful beyond its local setting. “Pilot witness” is often used as a shortcut for reliability. It should count for something, especially when the report is prompt, detailed, and professionally recorded. But it cannot remove the physical problem of judging an unfamiliar object at unknown range in a nearly featureless sky. The Brioude file shows both truths at once: the witnesses were serious, and the perception problem was real.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DNuDh287q0Q" title="7 CAS D’OVNIS OFFICIELLES complètement fous ( CRNS, GEIPAN… je t’explique tout )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DNuDh287q0Q" target="_blank" rel="noopener noreferrer">7 CAS D’OVNIS OFFICIELLES complètement fous ( CRNS, GEIPAN… je t’explique tout )</a></p><p class="youtube-embed-meta">Channel: INDIANA SPACE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DNuDh287q0Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DNuDh287q0Q">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What Brioude tells us about Haute-Loire’s UFO record
 

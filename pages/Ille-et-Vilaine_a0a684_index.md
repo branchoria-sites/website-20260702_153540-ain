@@ -7,7 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ille-et-vilaine-a0a684-index/
 description: Focused pages that expand on What Ille et Vilaine's UFO Files Really
   Show.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Ille-et-Vilaine_a0a684
 parent_title: What Ille et Vilaine's UFO Files Really Show

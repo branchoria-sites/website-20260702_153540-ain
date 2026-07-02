@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-28 19:02:47'
+date: '2026-06-28 19:02:47'
 parent_title: Aveyron UFOs
 parent_permalink: /what-really-happened-in-aveyrons-ufo/
 parent_nav_short_title: Aveyron UFOs
@@ -256,7 +256,13 @@ That case is useful because it shows a common middle ground. The report was not 
 
 The 2008 Rodez file adds the camera problem. A witness saw two lights above the city, observed them through a telescope, described them as “vibrating”, and took five hand-held photographs. GEIPAN examined several possible explanations, including aeronautical, astronomical and festive causes, but the photographs were considered unusable because of significant camera shake. The file was classed “C” because of low strangeness, low consistency, delay in handling, imprecise testimony and the absence of further response from the witness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2008-04-02072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-This is one of the most valuable explained-case lessons in Aveyron. A photograph does not automatically strengthen a UFO report. A shaky image taken through or after telescope viewing can create shapes, streaks or apparent vibration that are more about optics and movement than about the object itself. The Rodez case therefore helped shape the department’s reputation in a quieter way: it shows why modern-looking evidence can still be too weak to identify anything.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+This is one of the most valuable explained-case lessons in Aveyron. A photograph does not automatically strengthen a UFO report. A shaky image taken through or after telescope viewing can create shapes, streaks or apparent vibration that are more about optics and movement than about the object itself. The Rodez case therefore helped shape the department’s reputation in a quieter way: it shows why modern-looking evidence can still be too weak to identify anything.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Meteors and atmospheric entries that looked dramatic
 
@@ -279,7 +285,13 @@ The interesting detail is not simply that “it was a plane”. It is how the pl
 
 Saint-Affrique, on 21 July 2000, shows a weaker but still instructive version. A man and his son saw five white flashing lights, some with short paths and apparent turns, disappearing one after another. GEIPAN later re-examined the case, which had previously been treated more strongly, and concluded that linear flashing lights were characteristic of aircraft. Because the data needed to confirm or reject the aircraft hypothesis had not been collected at the time and were no longer available, the case was classified “C” rather than solved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2000-07-01548" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-That distinction is important. Saint-Affrique is not a confirmed aircraft case, but it is no longer a strong unexplained case either. Its value lies in showing how late investigation can reduce strangeness without fully closing the file. For Aveyron’s public UFO reputation, that matters: some “mysteries” survive not because the evidence is strong, but because the necessary radar, aviation and weather checks were missing when they were still fresh.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZgDkf64XkNE" title="Le GEIPAN étudie les PANs/OVNIs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZgDkf64XkNE" target="_blank" rel="noopener noreferrer">Le GEIPAN étudie les PANs/OVNIs</a></p><p class="youtube-embed-meta">Channel: Académie de l&#x27;air et de l&#x27;espace (AAE)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZgDkf64XkNE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZgDkf64XkNE">Open on YouTube</a></p></div></div></div>
+That distinction is important. Saint-Affrique is not a confirmed aircraft case, but it is no longer a strong unexplained case either. Its value lies in showing how late investigation can reduce strangeness without fully closing the file. For Aveyron’s public UFO reputation, that matters: some “mysteries” survive not because the evidence is strong, but because the necessary radar, aviation and weather checks were missing when they were still fresh.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZgDkf64XkNE" title="Le GEIPAN étudie les PANs/OVNIs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZgDkf64XkNE" target="_blank" rel="noopener noreferrer">Le GEIPAN étudie les PANs/OVNIs</a></p><p class="youtube-embed-meta">Channel: Académie de l&#x27;air et de l&#x27;espace (AAE)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZgDkf64XkNE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZgDkf64XkNE">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Lanterns and orange lights over rural settlements
 
@@ -301,8 +313,6 @@ The explained and probably explained Aveyron cases point to a few practical rule
 **Second, colour is suggestive but not decisive.** Blue, green, yellow, red and orange all appear in the Aveyron files, yet they point in different directions depending on motion and duration. Blue-green fast movement near Rodez-Albi suggested a bolide; yellow-orange drifting lights at Valady suggested lanterns; yellow-red trailing fire at Firmi suggested atmospheric entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2009-02-01995" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+2Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 **Third, silence is not as strong as it feels.** Witnesses often remember silence as a key sign of strangeness. But lanterns are silent by nature, meteors are usually too high and brief for sound to behave as expected, and aircraft sound can be masked by distance, wind, terrain or attention. The Brommat, Valady and Decazeville files all show how silence can coexist with ordinary explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1988-07-01138" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+2Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
-**Fourth, photographs and video need context.** Rodez had five photographs, but they were weakened by hand-held movement and poor usability. Decazeville had video, and in that case the footage helped GEIPAN identify the likely cause as an aircraft. The lesson is not that images are good or bad, but that they must be tied to direction, time, weather, optics, camera movement and independent checks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2008-04-02072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7GtoO00G_No" title="Identifier les OVNIS / Super Pouvoirs Anti-Mythos - Info ou Mytho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7GtoO00G_No" target="_blank" rel="noopener noreferrer">Identifier les OVNIS / Super Pouvoirs Anti-Mythos - Info ou Mytho</a></p><p class="youtube-embed-meta">Channel: Info ou Mytho ?</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7GtoO00G_No" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7GtoO00G_No">Open on YouTube</a></p></div></div></div>
 

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /pyrenees-atlantiques-126d41-index/
 description: Focused pages that expand on What Do Pyrenees Atlantiques UFO Cases....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Pyrenees-Atlantiques_126d41
 parent_title: What Do Pyrenees Atlantiques UFO Cases...

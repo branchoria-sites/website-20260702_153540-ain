@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 22:28:27'
+date: '2026-06-29 22:28:27'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -723,7 +723,13 @@ The Andres-to-Guines case is one of the clearer examples of GEIPAN reducing a dr
 
 This is a useful example because it involves trained public officials, not anonymous rumour. Yet trained witnesses can still misjudge unfamiliar sky events. A bright meteor can look enormous, low and horizontal, especially when seen unexpectedly against a dark sky. The Pas-de-Calais lesson is not that official witnesses are unreliable; it is that witness status alone cannot decide a UFO case. Geometry, duration, speed, direction, light behaviour and known natural phenomena all matter.
 
-The case also shows why the word “unidentified” needs care. To the witnesses in 1954, the object was unidentified. To GEIPAN after review, it was probably identified. Both statements can be true at different stages of the evidence trail.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+The case also shows why the word “unidentified” needs care. To the witnesses in 1954, the object was unidentified. To GEIPAN after review, it was probably identified. Both statements can be true at different stages of the evidence trail.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Calais, 1981: a former mystery downgraded after reanalysis
 
@@ -758,7 +764,13 @@ Pas-de-Calais cases repeatedly show the same pattern found in wider UFO archives
 
 The 2021 Warlus-to-Dainville case is especially useful because it explains how a mundane object can look manoeuvrable. The witness saw a light in clouds, then two superposed grey spheres whose path seemed to change abruptly and accelerate. GEIPAN judged it an A case: a novelty Mylar balloon carried by the wind. The apparent turns were probably caused by the balloon rotating and changing brightness, creating the impression of moving away and then coming closer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/60326?field_date_value=2020-11-18&amp;field_is_new_value=1&amp;order=field_classification_des_cas&amp;page=8&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-That explanation is valuable beyond one case. Many UFO reports hinge on perceived motion: a light seems to stop, turn, accelerate, approach or vanish. But perceived motion can be produced by changes in brightness, cloud cover, loss of contrast, observer movement, wind drift, aircraft angle, or a lantern or balloon rotating. The Pas-de-Calais archive gives concrete local examples of that mechanism rather than asking readers simply to accept a generic sceptical claim.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t1KQQB2GDLU" title="UFO hoax fools several French media • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t1KQQB2GDLU" target="_blank" rel="noopener noreferrer">UFO hoax fools several French media • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t1KQQB2GDLU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t1KQQB2GDLU">Open on YouTube</a></p></div></div></div>
+That explanation is valuable beyond one case. Many UFO reports hinge on perceived motion: a light seems to stop, turn, accelerate, approach or vanish. But perceived motion can be produced by changes in brightness, cloud cover, loss of contrast, observer movement, wind drift, aircraft angle, or a lantern or balloon rotating. The Pas-de-Calais archive gives concrete local examples of that mechanism rather than asking readers simply to accept a generic sceptical claim.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t1KQQB2GDLU" title="UFO hoax fools several French media • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t1KQQB2GDLU" target="_blank" rel="noopener noreferrer">UFO hoax fools several French media • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t1KQQB2GDLU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t1KQQB2GDLU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Aviation, coast and border geography
 
@@ -766,7 +778,13 @@ Pas-de-Calais is well placed for ambiguous sky reports. It has a Channel coastli
 
 The Calais 1981 case is the cleanest example of aviation and lighting combining into a UFO-like report: an elongated “fire”-coloured silent object at dawn was later judged probably to be a high-altitude aircraft contrail lit by the rising sun. The Berck case also shows how proximity to an airfield matters, because GEIPAN specifically noted that the late report made it impossible to verify traffic around Berck-sur-Mer airfield, even though some details evoked a possible light aircraft on approach.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1981-01-00850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-This does not mean “it was always a plane”. It means the local environment supplies several recurring candidate explanations that investigators must test before treating a report as anomalous. In Pas-de-Calais, the most persuasive cases are those that survive that testing; the weakest are those where the data needed for testing were never collected.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d1Olr4FyNbs" title="Ovnis, extraterrestres : pourquoi Trump déclassifie - C dans l’air - 25.04.2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d1Olr4FyNbs" target="_blank" rel="noopener noreferrer">Ovnis, extraterrestres : pourquoi Trump déclassifie - C dans l’air - 25.04.2026</a></p><p class="youtube-embed-meta">Channel: C dans l&#x27;air - France Télévisions &middot; Views: 125.9K &middot; Uploaded: May 2026 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d1Olr4FyNbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d1Olr4FyNbs">Open on YouTube</a></p></div></div></div>
+This does not mean “it was always a plane”. It means the local environment supplies several recurring candidate explanations that investigators must test before treating a report as anomalous. In Pas-de-Calais, the most persuasive cases are those that survive that testing; the weakest are those where the data needed for testing were never collected.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d1Olr4FyNbs" title="Ovnis, extraterrestres : pourquoi Trump déclassifie - C dans l’air - 25.04.2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d1Olr4FyNbs" target="_blank" rel="noopener noreferrer">Ovnis, extraterrestres : pourquoi Trump déclassifie - C dans l’air - 25.04.2026</a></p><p class="youtube-embed-meta">Channel: C dans l&#x27;air - France Télévisions &middot; Views: 125.9K &middot; Uploaded: May 2026 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d1Olr4FyNbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d1Olr4FyNbs">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to read Pas-de-Calais UFO cases fairly
 

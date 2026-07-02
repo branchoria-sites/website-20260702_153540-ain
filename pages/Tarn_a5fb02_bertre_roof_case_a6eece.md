@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 07:00:29'
+date: '2026-06-30 07:00:29'
 parent_title: Tarn UFOs
 parent_permalink: /what-really-happened-in-tarns-ufo-files/
 parent_nav_short_title: Tarn UFOs
@@ -237,7 +237,10 @@ image: /assets/images/Tarn_a5fb02_bertre_roof_case_a6eece-overview-social.jpg
 ## Introduction
 
 The Bertre roof incident matters because it is the one Tarn case in the public GEIPAN record still classified as unexplained after investigation. The report is not simply a distant light in the sky. It combines a short night-time sighting at a rural home, a named location near Puylaurens, official gendarmerie paperwork, a SEPRA field visit, press attention, photographs, and alleged physical effects on roof tiles. That makes it Tarn’s landmark UFO case, but not a proven extraordinary event.<img src="{{"/assets/images/Tarn_a5fb02_bertre_roof_case_a6eece-overview.webp" | relative_url }}" alt="Overview image for Bertre Case" loading="eager" decoding="sync" fetchpriority="high">
+
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DNuDh287q0Q" title="7 CAS D’OVNIS OFFICIELLES complètement fous ( CRNS, GEIPAN… je t’explique tout )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DNuDh287q0Q" target="_blank" rel="noopener noreferrer">7 CAS D’OVNIS OFFICIELLES complètement fous ( CRNS, GEIPAN… je t’explique tout )</a></p><p class="youtube-embed-meta">Channel: INDIANA SPACE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DNuDh287q0Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DNuDh287q0Q">Open on YouTube</a></p></div></div></div>
+
+
 
 ## What the witness reported at Les Tuiles
 
@@ -253,8 +256,6 @@ Local press coverage made the event vivid, but also complicates the evidential p
 The distinctive feature of Bertre is the alleged effect on the roof. GEIPAN’s case page says that the next day the witness found brownish canal-type roof tiles at the place where the phenomenon had supposedly been stationary, and that some had moved, causing a leak. It also records that the contractor who repaired the roof confirmed that tiles were twisted clockwise over a length of three to five metres and that the ridge had sagged at the location associated with the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1989-09-01666" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Geipan« LES TUILES » BERTRE (81) 04.09.1989 &#124; GEIPAN...</span></span></span>
 
 That matters because physical traces can, in principle, move a sighting beyond memory alone. GEIPAN’s own methodology notes that most cases begin with human testimony, sometimes supplemented by photographs, radar data, or rarer traces left by a phenomenon on the ground or environment. In Bertre, the claimed traces were not a secondary rumour detached from the official record; they were part of the gendarmerie and SEPRA material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Methodology &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan Methodology &#124; GEIPAN</span></span></span>
-
-The gendarmerie’s wording is cautious but significant: it mentioned “heated tile” traces on the roof. SEPRA then carried out a field investigation using heavy means, including a helicopter, and took samples in difficult conditions, including moss and tiles. The use of a helicopter was not evidence that an extraordinary craft existed; it was an investigative tool, apparently used to inspect and document the roof and scene from above.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete-R2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
@@ -276,8 +277,6 @@ There are several separate doubts rather than one simple debunking.
 **The sighting was brief and largely solitary.** The reported object was visible for about 30 seconds. That leaves little time for corroboration and makes later reconstruction dependent on the witness’s memory, position and interpretation. GEIPAN itself emphasises that human testimony is central to its work but fragile: perception, emotion, memory and later reconstruction can alter what is reported, especially when a sighting is strange or difficult to recognise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Methodology &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan Methodology &#124; GEIPAN</span></span></span>
 
 **The roof traces were discovered after the observation.** The key physical claim concerns what the witness found the next day and what a roofer later confirmed. That does not make the traces false, but it creates a timing problem. A damaged or weakened roof, shifted canal tiles, moss absence, leaks and discolouration need careful comparison with the roof’s earlier condition. The public summary tells us the traces existed in the official narrative; it does not let a reader independently verify when and how every change occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1989-09-01666" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Geipan« LES TUILES » BERTRE (81) 04.09.1989 &#124; GEIPAN...</span></span></span>
-
-**The investigation was affected by media attention.** SEPRA’s report explicitly says the presence of national and regional press disturbed the progress of the enquiry. That is a meaningful caveat. Press interest can bring forward witnesses and preserve details, but it can also add pressure, sharpen dramatic wording, and mix technical observation with local storytelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete-R2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O4vKMT7ytTk" title="GEIPAN : qui étudie les ovnis ? - Science En Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O4vKMT7ytTk" target="_blank" rel="noopener noreferrer">GEIPAN : qui étudie les ovnis ? - Science En Questions</a></p><p class="youtube-embed-meta">Channel: L&#x27;Esprit Sorcier TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O4vKMT7ytTk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O4vKMT7ytTk">Open on YouTube</a></p></div></div></div>
 

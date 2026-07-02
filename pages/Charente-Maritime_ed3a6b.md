@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-28 22:52:12'
+date: '2026-06-28 22:52:12'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -715,7 +715,13 @@ This is not a clean “mystery object” case in the popular sense. GEIPAN re-ex
 
 GEIPAN’s final position is careful rather than sensational. It classified L’Eguille as D, unexplained, but also stressed a limitation: under current methods the case would ideally need a field reconstruction and cognitive interview, which were not possible so long after the event. GEIPAN therefore treated it as a borderline file: genuinely unexplained under the available record, yet not as robust as a modern unexplained case investigated on site soon after the observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/cas/1980-03-00751" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-That makes L’Eguille valuable for readers because it shows what an unresolved departmental UFO case often looks like in practice. It is not proof of an extraordinary craft. It is a documented observation where several ordinary explanations were tested and found wanting, while the surviving data still leave gaps that prevent a stronger conclusion.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+That makes L’Eguille valuable for readers because it shows what an unresolved departmental UFO case often looks like in practice. It is not proof of an extraordinary craft. It is a documented observation where several ordinary explanations were tested and found wanting, while the surviving data still leave gaps that prevent a stronger conclusion.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The 1970s and early 1980s: a run of thin but useful reports
 
@@ -750,7 +756,13 @@ Any history of UFO claims in Charente-Maritime has to mention the French wave of
 
 Another 1954 entry linked to the department is Saint-Savinien on 7 October 1954. UFO archivist Patrick Gross summarises earlier ufological sources as reporting an orange luminous disc at low altitude that stopped and then moved west; the same page notes that later sceptical investigators Gérard Barthel and Jacques Brucker could not interview the witness because the witness had died. The listed explanation is simply insufficient information. That is a useful warning: a case can be famous enough to circulate, yet too thin to evaluate properly decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/1954/7oct1954saintsavinienf.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
 
-These 1954 reports still matter historically because they show how Charente-Maritime was folded into a national wave of “flying saucer” stories. They are less useful as evidence for a physical event. Their evidential value depends on original press articles, named witnesses, dates, locations, official statements and whether later retellings added details. Without that chain of documentation, the safest reading is that they are part of the department’s UFO culture rather than its strongest investigated record.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I7MToY5eaBY" title="Ovnis inexpliqués près de Rennes : reconstitution filmée du cas d&#x27;Étrelles 🛸" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I7MToY5eaBY" target="_blank" rel="noopener noreferrer">Ovnis inexpliqués près de Rennes : reconstitution filmée du cas d&#x27;Étrelles 🛸</a></p><p class="youtube-embed-meta">Channel: Le Télégramme &middot; Views: 321.5K &middot; Uploaded: June 2023 &middot; Length: 3 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I7MToY5eaBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I7MToY5eaBY">Open on YouTube</a></p></div></div></div>
+These 1954 reports still matter historically because they show how Charente-Maritime was folded into a national wave of “flying saucer” stories. They are less useful as evidence for a physical event. Their evidential value depends on original press articles, named witnesses, dates, locations, official statements and whether later retellings added details. Without that chain of documentation, the safest reading is that they are part of the department’s UFO culture rather than its strongest investigated record.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I7MToY5eaBY" title="Ovnis inexpliqués près de Rennes : reconstitution filmée du cas d&#x27;Étrelles 🛸" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I7MToY5eaBY" target="_blank" rel="noopener noreferrer">Ovnis inexpliqués près de Rennes : reconstitution filmée du cas d&#x27;Étrelles 🛸</a></p><p class="youtube-embed-meta">Channel: Le Télégramme &middot; Views: 321.5K &middot; Uploaded: June 2023 &middot; Length: 3 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I7MToY5eaBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I7MToY5eaBY">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What counts as strong evidence here?
 
@@ -758,7 +770,13 @@ The strongest Charente-Maritime material has three qualities: a prompt official 
 
 By contrast, Puilboreau in January 2025 shows how a recent report can remain weak even when it sounds striking. A witness in a supermarket car park saw a luminous bar made of yellow rectangular lights in a very cloudy sky; it appeared still, moved slowly and silently for about 30 seconds, then vanished behind cloud. GEIPAN classed it C because it rested on a single witness statement, had no photo or video, and the witness did not respond to later requests for details. Several hypotheses were considered, but none could be properly weighted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/cas/2025-01-51636" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-This distinction is central to a fair reading of the department’s UFO history. “Unexplained after investigation” is not the same as “unexplained because nobody could check it”. Likewise, “probably identified” does not mean the witness was careless; it means the reported features fit a known source well enough for a cautious conclusion.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yDqQGyAwWCg" title="Bureau des ovnis : la vérité est-elle ailleurs ? • FRANCE 24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer">Bureau des ovnis : la vérité est-elle ailleurs ? • FRANCE 24</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 &middot; Views: 24.0K &middot; Uploaded: October 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yDqQGyAwWCg">Open on YouTube</a></p></div></div></div>
+This distinction is central to a fair reading of the department’s UFO history. “Unexplained after investigation” is not the same as “unexplained because nobody could check it”. Likewise, “probably identified” does not mean the witness was careless; it means the reported features fit a known source well enough for a cautious conclusion.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yDqQGyAwWCg" title="Bureau des ovnis : la vérité est-elle ailleurs ? • FRANCE 24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer">Bureau des ovnis : la vérité est-elle ailleurs ? • FRANCE 24</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 &middot; Views: 24.0K &middot; Uploaded: October 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yDqQGyAwWCg">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The best current reading of Charente-Maritime’s UFO history
 

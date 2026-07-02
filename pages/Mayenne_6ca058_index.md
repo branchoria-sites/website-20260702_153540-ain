@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /mayenne-6ca058-index/
 description: Focused pages that expand on Why Mayenne's UFO Files Matter.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Mayenne_6ca058
 parent_title: Why Mayenne's UFO Files Matter

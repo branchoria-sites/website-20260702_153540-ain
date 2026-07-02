@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 13:59:09'
+date: '2026-06-29 13:59:09'
 parent_title: Lot et Garonne UFOs
 parent_permalink: /what-really-happened-in-lot-et/
 parent_nav_short_title: Lot et Garonne UFOs
@@ -236,7 +236,6 @@ image: /assets/images/Lot-et-Garonne_6df799_casteljaloux_a62_cas_467e76-overview
 
 ## Introduction
 
-Casteljaloux matters in [Lot-et-Garonne]({{'what-really-happened-in-lot-et/' | relative_url }})’s UFO history because two of the department’s best-known unresolved files point back to the same local zone: a night-time sighting near Casteljaloux in October 1978 and a brief motorway sighting on the A62 towards Bordeaux in February 2011. Both are classed by GEIPAN, the French space agency’s public UAP unit, as category D, meaning not identified after investigation, but neither should be read as strong proof of an extraordinary craft. They are better understood as instructive unresolved cases: strange enough to resist a simple explanation, yet limited by single-witness evidence and the absence of photographs, radar, physical traces or independent confirmation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1978-10-00560" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN+2GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GEIPANCASTELJALOUX (47) 23.10.1978 &#124; GEIPAN...</span></span></span><img src="{{"/assets/images/Lot-et-Garonne_6df799_casteljaloux_a62_cas_467e76-overview.webp" | relative_url }}" alt="Overview image for Unresolved Cases" loading="eager" decoding="sync" fetchpriority="high">
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8sHg90llfKQ" title="Objets volants non identifiés, un secret d&#x27;état ? | bande annonce | Science &amp; Vie TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8sHg90llfKQ" target="_blank" rel="noopener noreferrer">Objets volants non identifiés, un secret d&#x27;état ? | bande annonce | Science &amp; Vie TV</a></p><p class="youtube-embed-meta">Channel: SCREEN+ - Bandes annonces</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8sHg90llfKQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8sHg90llfKQ">Open on YouTube</a></p></div></div></div>
 
 ## Why these two cases stand out in Lot-et-Garonne
@@ -256,7 +255,13 @@ The description is more vivid. According to GEIPAN, at about 8 pm a witness acco
 
 The separate GEIPAN testimony entry adds useful texture. The witness is listed as a 60-year-old man, the environment as agricultural land, the sky as clear or night clear, the time as 20:40, the frame of reference as the sky, and the distance from the phenomenon as about 200 metres. The object is described as unique, roughly spherical or ball-like, with an apparent diameter of about one metre, variable apparent speed, total silence, and an environmental effect category involving living beings, animals or plants.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/temoignage/2237" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-Those details make the case locally memorable. It has many of the elements that attract readers to UFO reports: a rural setting, a close-seeming object, unusual motion, silence, an animal reaction and a dramatic final disappearance. But the same details also create caution. The strongest parts of the story are exactly the parts that depend on one person’s perception and later reporting. The frightened dog is intriguing, but it is not independent testimony; the estimated distance and size are useful, but sky distance is notoriously hard to judge without fixed references; and there is no known photograph, film, radar return or second witness to pin the event down.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rdbTDxADYuI" title="EXTRATERRESTRES: de NOUVELLES théories qui DÉRANGENT ! - Le Journal de l&#x27;Espace #243 - Actualités" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rdbTDxADYuI" target="_blank" rel="noopener noreferrer">EXTRATERRESTRES: de NOUVELLES théories qui DÉRANGENT ! - Le Journal de l&#x27;Espace #243 - Actualités</a></p><p class="youtube-embed-meta">Channel: Le Journal de l&#x27;Espace</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rdbTDxADYuI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rdbTDxADYuI">Open on YouTube</a></p></div></div></div>
+Those details make the case locally memorable. It has many of the elements that attract readers to UFO reports: a rural setting, a close-seeming object, unusual motion, silence, an animal reaction and a dramatic final disappearance. But the same details also create caution. The strongest parts of the story are exactly the parts that depend on one person’s perception and later reporting. The frightened dog is intriguing, but it is not independent testimony; the estimated distance and size are useful, but sky distance is notoriously hard to judge without fixed references; and there is no known photograph, film, radar return or second witness to pin the event down.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rdbTDxADYuI" title="EXTRATERRESTRES: de NOUVELLES théories qui DÉRANGENT ! - Le Journal de l&#x27;Espace #243 - Actualités" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rdbTDxADYuI" target="_blank" rel="noopener noreferrer">EXTRATERRESTRES: de NOUVELLES théories qui DÉRANGENT ! - Le Journal de l&#x27;Espace #243 - Actualités</a></p><p class="youtube-embed-meta">Channel: Le Journal de l&#x27;Espace</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rdbTDxADYuI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rdbTDxADYuI">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The 2011 A62 motorway report
 
@@ -277,7 +282,13 @@ Their similarities are clear but limited. Both involve a single main witness. Bo
 
 The differences matter just as much. Casteljaloux was a several-minute night observation of a luminous orange object whose behaviour was described as active, changing speed and direction. The A62 was a few-second daylight glimpse of a stationary flat triangular form by a driver travelling at motorway speed. Casteljaloux’s drama lies in motion, light and duration; the A62’s puzzle lies in shape, stillness and the witness’s insistence that it was not the bird of prey she first assumed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1978-10-00560" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GEIPANCASTELJALOUX (47) 23.10.1978 &#124; GEIPAN...</span></span></span>
 
-This is why the pair should not be treated as a single repeating phenomenon. There is no evidence that the two reports describe the same type of object, the same cause, or a continuing local presence. What they show instead is that the Casteljaloux area has twice produced official unresolved files with enough detail to survive as local reference points, but not enough external evidence to become robust proof of anything beyond the witnesses’ reported experiences.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hkDXEZPb1B0" title="Vie extraterrestre : bientôt des preuves ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hkDXEZPb1B0" target="_blank" rel="noopener noreferrer">Vie extraterrestre : bientôt des preuves ?</a></p><p class="youtube-embed-meta">Channel: Usbek &amp; Rica</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hkDXEZPb1B0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hkDXEZPb1B0">Open on YouTube</a></p></div></div></div>
+This is why the pair should not be treated as a single repeating phenomenon. There is no evidence that the two reports describe the same type of object, the same cause, or a continuing local presence. What they show instead is that the Casteljaloux area has twice produced official unresolved files with enough detail to survive as local reference points, but not enough external evidence to become robust proof of anything beyond the witnesses’ reported experiences.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hkDXEZPb1B0" title="Vie extraterrestre : bientôt des preuves ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hkDXEZPb1B0" target="_blank" rel="noopener noreferrer">Vie extraterrestre : bientôt des preuves ?</a></p><p class="youtube-embed-meta">Channel: Usbek &amp; Rica</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hkDXEZPb1B0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hkDXEZPb1B0">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why unresolved does not mean proven
 

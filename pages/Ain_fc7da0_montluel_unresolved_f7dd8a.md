@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-28 14:37:52'
+date: '2026-06-28 14:37:52'
 parent_title: Ain UFOs
 parent_permalink: /what-really-happened-in-ains-ufo-files/
 parent_nav_short_title: Ain UFOs
@@ -256,7 +256,13 @@ That does not mean the witness was proved correct in every detail. It means GEIP
 
 The geography mattered. Because the witness said the phenomenon disappeared behind a hill, GEIPAN could estimate a minimum possible distance and derive rough lower bounds for size and speed. In its reconstruction, using a simplified minimum-distance scenario of about one kilometre, GEIPAN calculated that the object would have been at about 250 metres altitude, between roughly 15 and 60 metres long depending on the apparent-size assumptions, and moving between about 130 and 450 km/h depending on whether the shorter or longer duration estimate was used.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete817.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Compte rendu enquete817</span><span class="citation-popover-snippet">Compte rendu enquete817</span></span></span>
 
-Those numbers are not proof of a craft. They are conditional calculations: if the object really passed behind the hill as described, and if the reconstruction is broadly right, then the phenomenon would not have been a tiny nearby insect or a small consumer drone. That is the evidential hinge of the Montluel file.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iBvbbicuSJo" title="Cube UFO Eyewitness Shares His Story And Video Footage From The Encounter | UFO Witness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iBvbbicuSJo" target="_blank" rel="noopener noreferrer">Cube UFO Eyewitness Shares His Story And Video Footage From The Encounter | UFO Witness</a></p><p class="youtube-embed-meta">Channel: DMAX UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iBvbbicuSJo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iBvbbicuSJo">Open on YouTube</a></p></div></div></div>
+Those numbers are not proof of a craft. They are conditional calculations: if the object really passed behind the hill as described, and if the reconstruction is broadly right, then the phenomenon would not have been a tiny nearby insect or a small consumer drone. That is the evidential hinge of the Montluel file.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iBvbbicuSJo" title="Cube UFO Eyewitness Shares His Story And Video Footage From The Encounter | UFO Witness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iBvbbicuSJo" target="_blank" rel="noopener noreferrer">Cube UFO Eyewitness Shares His Story And Video Footage From The Encounter | UFO Witness</a></p><p class="youtube-embed-meta">Channel: DMAX UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iBvbbicuSJo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iBvbbicuSJo">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How GEIPAN tested aircraft and other explanations
 
@@ -277,7 +283,13 @@ The afterimage theory has real appeal because it could explain a dark rectangle 
 
 But the report also listed serious problems. The witness had followed the same night-time routine for months without seeing the same thing before. A retinal afterimage would usually follow eye movements rather than glide smoothly and independently across a long angular path. The witness also did not report seeing it during the darker walk from workstation to balcony. Most importantly, GEIPAN found the claimed cloud-distortion effect difficult to explain as a simple afterimage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete817.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Compte rendu enquete817</span><span class="citation-popover-snippet">Compte rendu enquete817</span></span></span>
 
-This leaves Montluel in an awkward but important category: the most plausible sceptical explanation is not absurd, yet GEIPAN judged that it did not fit well enough to close the case.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O4vKMT7ytTk" title="GEIPAN : qui étudie les ovnis ? - Science En Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O4vKMT7ytTk" target="_blank" rel="noopener noreferrer">GEIPAN : qui étudie les ovnis ? - Science En Questions</a></p><p class="youtube-embed-meta">Channel: L&#x27;Esprit Sorcier TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O4vKMT7ytTk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O4vKMT7ytTk">Open on YouTube</a></p></div></div></div>
+This leaves Montluel in an awkward but important category: the most plausible sceptical explanation is not absurd, yet GEIPAN judged that it did not fit well enough to close the case.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O4vKMT7ytTk" title="GEIPAN : qui étudie les ovnis ? - Science En Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O4vKMT7ytTk" target="_blank" rel="noopener noreferrer">GEIPAN : qui étudie les ovnis ? - Science En Questions</a></p><p class="youtube-embed-meta">Channel: L&#x27;Esprit Sorcier TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O4vKMT7ytTk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O4vKMT7ytTk">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why surveillance cameras did not settle it
 
@@ -285,7 +297,13 @@ A striking modern feature of the investigation is GEIPAN’s attempt to use near
 
 The motorway operator replied that its cameras were for live traffic surveillance and did not record or retain footage. GEIPAN reported that, by the close of the investigation, neither Montluel municipality nor the body managing the Bugey cameras had replied.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete817.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Compte rendu enquete817</span><span class="citation-popover-snippet">Compte rendu enquete817</span></span></span>
 
-This is one reason the case remains frustrating. In principle, a night-time object crossing the sky over a populated transport corridor might have been captured somewhere. In practice, the relevant recordings either did not exist, were not retained, or were not made available. The absence of camera confirmation therefore neither confirms nor debunks the witness’s account. It simply removes one of the best modern ways to test it.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hn2xTieploU" title="GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer">GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés</a></p><p class="youtube-embed-meta">Channel: france tv &middot; Views: 4.6K &middot; Uploaded: May 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hn2xTieploU">Open on YouTube</a></p></div></div></div>
+This is one reason the case remains frustrating. In principle, a night-time object crossing the sky over a populated transport corridor might have been captured somewhere. In practice, the relevant recordings either did not exist, were not retained, or were not made available. The absence of camera confirmation therefore neither confirms nor debunks the witness’s account. It simply removes one of the best modern ways to test it.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hn2xTieploU" title="GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer">GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés</a></p><p class="youtube-embed-meta">Channel: france tv &middot; Views: 4.6K &middot; Uploaded: May 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hn2xTieploU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why unresolved does not mean confirmed
 

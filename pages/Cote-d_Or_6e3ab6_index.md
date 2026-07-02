@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cote-d-or-6e3ab6-index/
 description: Focused pages that expand on What Really Happened Over Cote d'Or?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Cote-d_Or_6e3ab6
 parent_title: What Really Happened Over Cote d'Or?

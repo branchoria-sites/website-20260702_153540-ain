@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-28 16:47:58'
+date: '2026-06-28 16:47:58'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -729,7 +729,13 @@ At Borée in 2020, four hikers near Mont Mézenc saw a silent, reflective disc-l
 
 At Banne in 2024, a holidaymaker filmed and photographed a bright point that seemed to oscillate and change colour. GEIPAN classed it A as the star Capella. The reasons are familiar in night-sky cases: the direction matched Capella, the star was low enough for atmospheric scintillation to produce colour changes, and smartphone zoom without fixed landscape references could make small hand movements look like movement by the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/cas/2024-09-51581" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-These examples do not debunk Pranles or Saint-Sauveur-de-Montagut by analogy. They do something more useful: they show why official caution is necessary. A report can sound exotic in witness language and still be a truck, a balloon, a star or a planet once direction, elevation, weather, optics and movement are checked.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+These examples do not debunk Pranles or Saint-Sauveur-de-Montagut by analogy. They do something more useful: they show why official caution is necessary. A report can sound exotic in witness language and still be a truck, a balloon, a star or a planet once direction, elevation, weather, optics and movement are checked.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Ardèche, astronomy and the “bright light” problem
 
@@ -754,13 +760,17 @@ The 2011 Chomérac case shows the problem clearly. A motorist reported seeing a 
 
 Saint-Priest in 1989 was also reappraised from an older D-labelled file to C. The report involved a long observation of a white oval light and a smaller element appearing to detach and return, but GEIPAN’s revisited classification records low consistency and lack of information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/cas/1989-10-01187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-For readers, this distinction is crucial. A weak case can be intriguing as a human story, but it should not carry the same weight as a well-documented unresolved case. In Ardèche, the best official mysteries are not the most cinematic claims; they are the ones with enough documentation to survive ordinary checks.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VCADws_ezrg" title="UFO, OVNI, PAN, les cas les plus mystérieux en Isère, Ardèche, Drôme et Vaucluse | GEIPAN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VCADws_ezrg" target="_blank" rel="noopener noreferrer">UFO, OVNI, PAN, les cas les plus mystérieux en Isère, Ardèche, Drôme et Vaucluse | GEIPAN</a></p><p class="youtube-embed-meta">Channel: THE VAULT 42</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VCADws_ezrg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VCADws_ezrg">Open on YouTube</a></p></div></div></div>
+For readers, this distinction is crucial. A weak case can be intriguing as a human story, but it should not carry the same weight as a well-documented unresolved case. In Ardèche, the best official mysteries are not the most cinematic claims; they are the ones with enough documentation to survive ordinary checks.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VCADws_ezrg" title="UFO, OVNI, PAN, les cas les plus mystérieux en Isère, Ardèche, Drôme et Vaucluse | GEIPAN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VCADws_ezrg" target="_blank" rel="noopener noreferrer">UFO, OVNI, PAN, les cas les plus mystérieux en Isère, Ardèche, Drôme et Vaucluse | GEIPAN</a></p><p class="youtube-embed-meta">Channel: THE VAULT 42</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VCADws_ezrg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VCADws_ezrg">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What changed with later reporting and reanalysis
 
 Later reporting has generally weakened the dramatic reading of Ardèche’s UFO record, not strengthened it. GEIPAN’s database and reappraisal process have pushed many older or ambiguous cases towards ordinary explanations or towards C classifications when the data were not strong enough. The national agency says modern tools, stricter D definitions and deeper investigations have reduced the recent unexplained rate, while old cases are periodically revisited when new material or methods become available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span>
-
-That does not erase the two key Ardèche D cases. Pranles remains notable because GEIPAN explicitly revisited it and still found no known natural or artificial explanation adequate to the reported rotating blue beam and stationary yellow-orange source. Saint-Sauveur-de-Montagut remains notable because the official inquiry did not identify the observed yellow ball as an aircraft or balloon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/cas/1979-07-00644" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JLLj07iCttI" title="అదేంటి? వాళ్లెవరు? | 1967 France UFO Sighting in Cussac Village – Alien Encounter or Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JLLj07iCttI" target="_blank" rel="noopener noreferrer">అదేంటి? వాళ్లెవరు? | 1967 France UFO Sighting in Cussac Village – Alien Encounter or Mystery</a></p><p class="youtube-embed-meta">Channel: ComeTube</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JLLj07iCttI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JLLj07iCttI">Open on YouTube</a></p></div></div></div>
 

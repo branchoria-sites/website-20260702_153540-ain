@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 08:30:39'
+date: '2026-06-30 08:30:39'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -723,7 +723,13 @@ The original atmosphere of the report was strong enough for the gendarmerie to b
 
 That reclassification is not just a footnote. It changes how the case should be read. A witness may sincerely report size, motion, altitude and shape in vivid terms, while an astronomical object near the horizon, partly veiled by cloud and seen from a moving vehicle, can still produce a misleading impression. Sceptical literature has long used Luçon as an example of early official difficulty in recognising some lunar misidentifications; a critical chapter on GEPAN cases specifically discusses Luçon among high-strangeness cases later linked to the Moon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zetetique.fr/wp-content/uploads/2019/03/OvniDuCnes_chapitre6.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zetetique.fr">[Observatoire zététique]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zetetique.fr</span><span class="citation-popover-title">Ovni Du Cnes chapitre6</span><span class="citation-popover-snippet">Ovni Du Cnes chapitre6</span></span></span>
 
-The lesson is not that all Vendée cases are the Moon. It is that a high-drama description is not the same thing as high-quality evidence. The strongest later explanations often come from reconstructing geometry, timing, weather, direction of view and known sky objects — details that witnesses may not naturally record during a frightening night-time experience.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+The lesson is not that all Vendée cases are the Moon. It is that a high-drama description is not the same thing as high-quality evidence. The strongest later explanations often come from reconstructing geometry, timing, weather, direction of view and known sky objects — details that witnesses may not naturally record during a frightening night-time experience.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The 1980 Les Sables-d’Olonne Moonset: When The Coast Makes The Sky Stranger
 
@@ -750,7 +756,13 @@ Vendée’s examples are practical rather than abstract. Chantonnay, 24 January 
 
 The 2021 “yellow moving cloud” reported in Vendée shows a newer source of confusion: space launches. GEIPAN noted that a Vendée press report described a witness seeing a yellow moving cloud on 4 May 2021 at 22.50, and linked the wave of similar reports to its national Falcon 9 case. That national case is classed A as an identified launcher element, specifically the relighting of the Falcon 9 second stage connected with a Starlink launch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/node/58793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-This is likely to matter more, not less, in future. Re-entries, deorbit burns, satellite trains and rocket-stage events can be visible across wide regions and can generate many sincere reports at once. A reader looking at Vendée cases should therefore ask not only “what did the witness see?” but also “was the same thing reported across western France at the same time?”<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9ZzdaVa4l7M" title="Les passionnés - Les OVNIS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9ZzdaVa4l7M" target="_blank" rel="noopener noreferrer">Les passionnés - Les OVNIS</a></p><p class="youtube-embed-meta">Channel: TV Vendée</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9ZzdaVa4l7M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9ZzdaVa4l7M">Open on YouTube</a></p></div></div></div>
+This is likely to matter more, not less, in future. Re-entries, deorbit burns, satellite trains and rocket-stage events can be visible across wide regions and can generate many sincere reports at once. A reader looking at Vendée cases should therefore ask not only “what did the witness see?” but also “was the same thing reported across western France at the same time?”
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9ZzdaVa4l7M" title="Les passionnés - Les OVNIS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9ZzdaVa4l7M" target="_blank" rel="noopener noreferrer">Les passionnés - Les OVNIS</a></p><p class="youtube-embed-meta">Channel: TV Vendée</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9ZzdaVa4l7M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9ZzdaVa4l7M">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Local Investigators And Media: Useful Leads, But Not The Same As Verification
 
@@ -759,6 +771,8 @@ Vendée also has a small local UFO culture. Local media reported that Jérôme C
 This distinction matters because local enthusiasts can preserve testimony that might otherwise vanish, but archiving is not the same as solving. A local catalogue may point to names, dates and places worth checking against GEIPAN, old newspapers, meteor records, aviation activity or astronomical conditions. It should not automatically override official reclassification, especially in cases like Luçon where later analysis changed a once-unexplained file into an identified lunar misperception.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YODSooXzjvk" title="J&#x27;ai cru avoir photographié un PAN ! Déclaration au GEIPAN, photos et vidéo à disposition." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YODSooXzjvk" target="_blank" rel="noopener noreferrer">J&#x27;ai cru avoir photographié un PAN ! Déclaration au GEIPAN, photos et vidéo à disposition.</a></p><p class="youtube-embed-meta">Channel: EXPLORE ASTRO</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YODSooXzjvk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YODSooXzjvk">Open on YouTube</a></p></div></div></div>
+
+
 
 ## How To Read Vendée UFO Claims Without Dismissing Or Exaggerating Them
 

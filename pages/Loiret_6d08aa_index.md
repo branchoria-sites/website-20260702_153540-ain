@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /loiret-6d08aa-index/
 description: Focused pages that expand on What Loiret's UFO Files Really Show.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Loiret_6d08aa
 parent_title: What Loiret's UFO Files Really Show

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /maine-et-loire-19238f-index/
 description: Focused pages that expand on What Maine et Loire UFO Files Really Show.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Maine-et-Loire_19238f
 parent_title: What Maine et Loire UFO Files Really Show

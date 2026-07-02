@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /territoire-de-belfor-8990a1-index/
 description: Focused pages that expand on Territoire de Belfort.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Territoire_de_Belfor_8990a1
 parent_title: Territoire de Belfort

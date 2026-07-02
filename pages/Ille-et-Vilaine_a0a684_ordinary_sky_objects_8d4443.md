@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 09:10:33'
+date: '2026-06-29 09:10:33'
 parent_title: Ille et Vilaine UFOs
 parent_permalink: /what-ille-et-vilaines-ufo-files-really/
 parent_nav_short_title: Ille et Vilaine UFOs
@@ -237,7 +237,13 @@ image: /assets/images/Ille-et-Vilaine_a0a684_ordinary_sky_objects_8d4443-overvie
 ## Introduction
 
 Many [Ille-et-Vilaine]({{'what-ille-et-vilaines-ufo-files-really/' | relative_url }}) UFO reports became less mysterious when investigators treated them as sky-recognition problems rather than as extraordinary events. In Rennes, Châteaugiron, La Bouëxière, Mordelles and nearby communes, witnesses described silent lights, odd shapes, slow crossings and sudden disappearances that felt puzzling from the ground. GEIPAN, the French space agency’s public unit for unidentified aerospace phenomena, later linked several of these reports to ordinary objects: balloons, lanterns, satellites, the International Space Station and aircraft. CNES describes GEIPAN as the body that collects, analyses, archives and publishes eyewitness accounts, and its own national figures show that identified or probably identified cases make up the large majority of its record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span><img src="{{"/assets/images/Ille-et-Vilaine_a0a684_ordinary_sky_objects_8d4443-overview.webp" | relative_url }}" alt="Overview image for Solved Sightings" loading="eager" decoding="sync" fetchpriority="high">
-That does not mean the witnesses were careless. The Ille-et-Vilaine files show the opposite: sincere observers can be fooled by distance, darkness, lack of sound, unfamiliar shapes and the simple fact that many human-made objects now cross the sky. The useful lesson is not “people imagine things”, but “ordinary objects can look extraordinary when seen briefly, silently and without scale”.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0FqCRPpg57c" title="Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer">Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 65.9K &middot; Uploaded: May 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0FqCRPpg57c">Open on YouTube</a></p></div></div></div>
+That does not mean the witnesses were careless. The Ille-et-Vilaine files show the opposite: sincere observers can be fooled by distance, darkness, lack of sound, unfamiliar shapes and the simple fact that many human-made objects now cross the sky. The useful lesson is not “people imagine things”, but “ordinary objects can look extraordinary when seen briefly, silently and without scale”.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0FqCRPpg57c" title="Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer">Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 65.9K &middot; Uploaded: May 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0FqCRPpg57c">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why solved sightings matter in Ille-et-Vilaine
 
@@ -258,7 +264,13 @@ The Châteaugiron explanation is useful because it shows how investigators work 
 
 Lanterns add another layer because they are bright, social and seasonal. In Montfort-sur-Meu on 27 June 2010, a witness reported two yellow-orange lights moving east to west at a steady speed and disappearing behind the urban landscape; GEIPAN classed the case B as a probable passage of sky lanterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2010-06-02612" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span> A public sky-misidentification resource linked by GEIPAN explains why lanterns are so persuasive: they can last one to ten minutes, appear yellow-orange or sometimes white, red or violet, drift with the wind, and often move in organised-looking groups because they are released one after another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://meprises-du-ciel.fr/sources-artificielles/lanternes-thailandaises/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meprises-du-ciel.fr">[Meprises-du-ciel.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meprises-du-ciel.fr</span><span class="citation-popover-title">Lanternes Célestes</span><span class="citation-popover-snippet">Lanternes Célestes</span></span></span>
 
-In local terms, the lesson is straightforward. Around Rennes and the smaller towns to its east and west, festive objects can rise from private events, drift into someone else’s line of sight, and arrive stripped of context. The observer sees the unexplained middle of the event, not the launch.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xmrn2IuSW-Q" title="Floating City DEBUNK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xmrn2IuSW-Q" target="_blank" rel="noopener noreferrer">Floating City DEBUNK</a></p><p class="youtube-embed-meta">Channel: Captain Disillusion &middot; Views: 3.7M &middot; Uploaded: November 2015 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xmrn2IuSW-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xmrn2IuSW-Q">Open on YouTube</a></p></div></div></div>
+In local terms, the lesson is straightforward. Around Rennes and the smaller towns to its east and west, festive objects can rise from private events, drift into someone else’s line of sight, and arrive stripped of context. The observer sees the unexplained middle of the event, not the launch.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xmrn2IuSW-Q" title="Floating City DEBUNK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xmrn2IuSW-Q" target="_blank" rel="noopener noreferrer">Floating City DEBUNK</a></p><p class="youtube-embed-meta">Channel: Captain Disillusion &middot; Views: 3.7M &middot; Uploaded: November 2015 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xmrn2IuSW-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xmrn2IuSW-Q">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Satellites, ISS passes and Iridium flares
 
@@ -283,7 +295,13 @@ Several patterns repeat across the files:
 * **Apparent disappearance can mislead.** A lantern’s burner going out, a satellite entering shadow, or a flare ending can look like acceleration or vanishing. In La Bouëxière the object disappeared near the horizon; in Mordelles it faded after a flare; in lantern cases the light can extinguish one by one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2018-10-50631" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+2Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 * **Photos and videos do not always settle the case.** Rennes had a usable video that helped GEIPAN; Châteaugiron had a photo that could not be exploited; La Bouëxière had a phone video judged too poor to be useful. The existence of an image is not the same as an image that preserves scale, direction, brightness and motion well enough for identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2024-06-51541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+2Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-This is why the solved files are not embarrassing footnotes to Ille-et-Vilaine’s UFO history. They are the working manual for reading it. They show how an observation can be honest, detailed and still wrong in its first interpretation.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d_-yNBQfP84" title="Every Pentagon UFO Video Explained - The 8 Pointed Star" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d_-yNBQfP84" target="_blank" rel="noopener noreferrer">Every Pentagon UFO Video Explained - The 8 Pointed Star</a></p><p class="youtube-embed-meta">Channel: Ray&#x27;s Astrophotography &middot; Views: 22.9K &middot; Uploaded: May 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d_-yNBQfP84" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d_-yNBQfP84">Open on YouTube</a></p></div></div></div>
+This is why the solved files are not embarrassing footnotes to Ille-et-Vilaine’s UFO history. They are the working manual for reading it. They show how an observation can be honest, detailed and still wrong in its first interpretation.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d_-yNBQfP84" title="Every Pentagon UFO Video Explained - The 8 Pointed Star" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d_-yNBQfP84" target="_blank" rel="noopener noreferrer">Every Pentagon UFO Video Explained - The 8 Pointed Star</a></p><p class="youtube-embed-meta">Channel: Ray&#x27;s Astrophotography &middot; Views: 22.9K &middot; Uploaded: May 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d_-yNBQfP84" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d_-yNBQfP84">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What these cases do, and do not, prove
 

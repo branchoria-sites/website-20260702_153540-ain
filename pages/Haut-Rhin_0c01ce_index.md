@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /haut-rhin-0c01ce-index/
 description: Focused pages that expand on What Really Happened in Haut Rhin's UFO....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Haut-Rhin_0c01ce
 parent_title: What Really Happened in Haut Rhin's UFO...

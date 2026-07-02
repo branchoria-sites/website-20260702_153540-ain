@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /morbihan-61a3f8-index/
 description: Focused pages that expand on What Morbihan's UFO Files Really Show.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Morbihan_61a3f8
 parent_title: What Morbihan's UFO Files Really Show

@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 03:43:35'
+date: '2026-06-30 03:43:35'
 parent_title: Savoie UFOs
 parent_permalink: /what-really-happened-in-savoies-ufo/
 parent_nav_short_title: Savoie UFOs
@@ -236,7 +236,6 @@ image: /assets/images/Savoie_f57b8f_chambery_orange_ligh_0fbb19-overview-social.
 
 ## Introduction
 
-Chambéry’s orange-light reports from June 2018 are among the clearest modern UFO case clusters in [Savoie]({{'what-really-happened-in-savoies-ufo/' | relative_url }}), not because they remain unexplained, but because they show how a striking sighting can move from “possible craft” to “probable festive lights” once timing, weather, movement and neighbouring reports are compared. GEIPAN, the French space agency’s public investigation unit for unidentified aerospace phenomena, classed the 3 June Chambéry case as category B: probably identified as either three flying lanterns or illuminated festive balloons with integrated LEDs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2018-06-50560" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span><img src="{{"/assets/images/Savoie_f57b8f_chambery_orange_ligh_0fbb19-overview.webp" | relative_url }}" alt="Overview image for Orange Lights" loading="eager" decoding="sync" fetchpriority="high">
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CWt2zkuxRNQ" title="GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer">GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)</a></p><p class="youtube-embed-meta">Channel: Science &amp; Vie &middot; Views: 36.9K &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CWt2zkuxRNQ">Open on YouTube</a></p></div></div></div>
 
 ## What witnesses reported in June 2018
@@ -256,8 +255,6 @@ The Chambéry case matched many of GEIPAN’s usual lantern criteria. The colour
 
 The geography also helped. GEIPAN deliberately plotted a possible path between the La Motte-Servolex witnesses and the Chambéry witness to test whether the same kind of drifting objects could have been seen from different sides on consecutive evenings. The report concluded that a launch from south or south-west of Chambéry, with lights drifting north or north-east and passing between the witness positions, was coherent with the two accounts. It estimated that the phenomenon could have passed roughly two kilometres from the witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/sites/default/files/Compte%20rendu%20enquete-R16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Compte rendu enquete R16</span><span class="citation-popover-snippet">Compte rendu enquete R16</span></span></span>
 
-The problem was duration. In Chambéry, the witness’s 30-minute continuous observation was checked and treated as consolidated by GEIPAN. In La Motte-Servolex, the main witness reported about 40 minutes. GEIPAN considered this too long for ordinary flying lanterns, for which its investigation report treated about 20 minutes as a likely upper duration. That is why the explanation shifted towards illuminated festive balloons with integrated LEDs, whose autonomy can last several hours.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/sites/default/files/Compte%20rendu%20enquete-R16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan+2Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Compte rendu enquete R16</span><span class="citation-popover-snippet">Compte rendu enquete R16</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ## What did not fit neatly
@@ -272,8 +269,6 @@ That is exactly the sort of case where a category B judgement is useful. It avoi
 ## Why this small cluster matters in Savoie
 
 Within Savoie’s UFO history, the Chambéry and La Motte-Servolex reports stand out because they are recent, officially documented, and close together in time and place. They also occurred in a setting where unusual lights can be especially deceptive: an urban edge, mountain geography, nearby aviation infrastructure, stormy weather, low cloud, and witnesses looking across distance without reliable scale markers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/sites/default/files/Compte%20rendu%20enquete-R16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Compte rendu enquete R16</span><span class="citation-popover-snippet">Compte rendu enquete R16</span></span></span>
-
-They also show why “orange lights” have become a distinct category in modern UFO records. GEIPAN’s 2014 lantern note describes exactly the kind of report that later appeared in Chambéry: one or more orange balls, silent movement, night-time viewing, often around weekends or celebrations. The Chambéry case is more interesting than the simplest examples because the duration pushed GEIPAN towards LED balloons rather than relying only on the older flying-lantern explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/actualites/lanternes-thailandaises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Publication sur les lanternes thaïlandaises &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan Publication sur les lanternes thaïlandaises &#124; GEIPAN</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j4K00JQG5WE" title="Magically and Beautiful UFO Fire Sky Lantern Balloon Flying on the Sky at Night" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j4K00JQG5WE" target="_blank" rel="noopener noreferrer">Magically and Beautiful UFO Fire Sky Lantern Balloon Flying on the Sky at Night</a></p><p class="youtube-embed-meta">Channel: 千谷工作室JingKoo</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j4K00JQG5WE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j4K00JQG5WE">Open on YouTube</a></p></div></div></div>
 

@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 10:53:38'
+date: '2026-06-29 10:53:38'
 parent_title: Jura UFOs
 parent_permalink: /what-really-happened-in-juras-ufo-files/
 parent_nav_short_title: Jura UFOs
@@ -252,8 +252,6 @@ The core report concerns three children at a farm in Prémanon at about 8.30 pm 
 
 The boy’s part of the account gave the story much of its later force. He reportedly threw a stone at the object, then fired an arrow from a toy pistol; both were said to make a metallic sound. He also claimed that as the object advanced it knocked him over and emitted a grunting noise unlike a human voice. The two girls were said to have hidden in the hay until it left.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-fr-geipan-premanon-1954-pv-n29-1954309667" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl fr geipan premanon 1954 pv n29 1954309667</span><span class="citation-popover-snippet">UFO TransparencyGEIPAN Case 1954-09-09112, PREMANON (39) 27.09.1954, GEIPAN / CNES · 2007 · UFO Transparency...</span></span></span>
 
-Afterwards, the children reported seeing a red glow near ground level some distance from the house. Later retellings often treated this as a second stage of the same encounter: first the “object” near the farm, then the luminous trace or departure point in the meadow. That link is important, because once the red glow and the ground marks were treated as part of the same sequence, the story stopped being merely a frightening children’s tale and became a supposed close encounter with physical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-fr-geipan-premanon-1954-pv-n29-1954309667" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl fr geipan premanon 1954 pv n29 1954309667</span><span class="citation-popover-snippet">UFO TransparencyGEIPAN Case 1954-09-09112, PREMANON (39) 27.09.1954, GEIPAN / CNES · 2007 · UFO Transparency...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OZn3kge28e4" title="Why NOBODY Talks About The Real UFO Geography" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OZn3kge28e4" target="_blank" rel="noopener noreferrer">Why NOBODY Talks About The Real UFO Geography</a></p><p class="youtube-embed-meta">Channel: Map Pack</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OZn3kge28e4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OZn3kge28e4">Open on YouTube</a></p></div></div></div>
 
 ## Why the traces and witnesses seemed persuasive
@@ -274,6 +272,8 @@ That later testimony does not make every detail disappear neatly. The ground tra
 This is the key shift. The old version asks: “What strange craft left these traces after frightening the children?” The later version asks a more cautious question: “Did a children’s prank, an unrelated ground mark, and adult interpretation combine into a durable UFO legend?” That second question fits the evidence better than treating Prémanon as a robust unexplained landing case.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dcMrAX4zRwo" title="Ancient Aliens: 300+ &quot;Flying Saucer&quot; Incidents in France (Season 19) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dcMrAX4zRwo" target="_blank" rel="noopener noreferrer">Ancient Aliens: 300+ &quot;Flying Saucer&quot; Incidents in France (Season 19) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dcMrAX4zRwo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dcMrAX4zRwo">Open on YouTube</a></p></div></div></div>
+
+
 
 ## What the prank explanation does and does not prove
 
@@ -296,7 +296,13 @@ The case also helps separate three ideas that are often blurred in UFO history:<
 * **A trace can be real without proving the story attached to it.** Disturbed grass and holes can be documented while their cause remains uncertain or unrelated.
 * **A legend can persist after its evidential basis has weakened.** Prémanon continued to circulate because the original story was memorable, even after later testimony made it much harder to defend.</div>
 
-That makes Prémanon a better case study in historical caution than in alien visitation. Its importance is not that it proves something extraordinary landed in Jura. Its importance is that it shows, in a compact and local way, how a UFO legend can form, harden, and then partly unravel.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7GtoO00G_No" title="Identifier les OVNIS / Super Pouvoirs Anti-Mythos - Info ou Mytho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7GtoO00G_No" target="_blank" rel="noopener noreferrer">Identifier les OVNIS / Super Pouvoirs Anti-Mythos - Info ou Mytho</a></p><p class="youtube-embed-meta">Channel: Info ou Mytho ?</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7GtoO00G_No" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7GtoO00G_No">Open on YouTube</a></p></div></div></div>
+That makes Prémanon a better case study in historical caution than in alien visitation. Its importance is not that it proves something extraordinary landed in Jura. Its importance is that it shows, in a compact and local way, how a UFO legend can form, harden, and then partly unravel.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7GtoO00G_No" title="Identifier les OVNIS / Super Pouvoirs Anti-Mythos - Info ou Mytho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7GtoO00G_No" target="_blank" rel="noopener noreferrer">Identifier les OVNIS / Super Pouvoirs Anti-Mythos - Info ou Mytho</a></p><p class="youtube-embed-meta">Channel: Info ou Mytho ?</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7GtoO00G_No" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7GtoO00G_No">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## A fair verdict on Prémanon 1954
 

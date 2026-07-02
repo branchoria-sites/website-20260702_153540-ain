@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 12:01:09'
+date: '2026-06-30 12:01:09'
 parent_title: Essonne UFOs
 parent_permalink: /why-essonnes-ufo-files-usually-come/
 parent_nav_short_title: Essonne UFOs
@@ -237,7 +237,10 @@ image: /assets/images/Essonne_7f5f7b_moon_venus_misidenti_c3e651-overview-social
 ## Introduction
 
 In [Essonne]({{'why-essonnes-ufo-files-usually-come/' | relative_url }}), some of the most useful UFO cases are not the most mysterious ones. They are the cases where a sincere witness saw something striking, reported it carefully, and later investigation found a sky object: Venus, the Moon, or another bright star. That matters because it separates two questions that are often blurred together: whether a witness is honest, and whether the witness’s interpretation is right. In the Essonne files, those can be very different things.<img src="{{"/assets/images/Essonne_7f5f7b_moon_venus_misidenti_c3e651-overview.webp" | relative_url }}" alt="Overview image for Sky Mistakes" loading="eager" decoding="sync" fetchpriority="high">
+
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JJPUqpROPCc" title="Neith: The Mysterious Case of Venus&#x27;s Moon." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JJPUqpROPCc" target="_blank" rel="noopener noreferrer">Neith: The Mysterious Case of Venus&#x27;s Moon.</a></p><p class="youtube-embed-meta">Channel: Rooftops of America</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JJPUqpROPCc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JJPUqpROPCc">Open on YouTube</a></p></div></div></div>
+
+
 
 ## The Epinay-sous-Senart Venus observation
 
@@ -258,7 +261,13 @@ That fits Essonne particularly well because the department is full of partial vi
 
 The Vigneux-sur-Seine case of 31 August 2010 shows this modern version of the same mechanism. At about 9 pm, a witness at dinner saw a very bright point through an open window, described it as a “little sun”, filmed it, and later made similar observations. GEIPAN classified the case A, with low strangeness and good consistency because videos were available, and identified it unambiguously as Venus.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2010-08-02759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">VIGNEUX-SUR-SEINE (91) 31.08.2010 &#124; GEIPAN...</span></span></span>
 
-The comparison between Epinay-sous-Senart and Vigneux-sur-Seine is revealing. One is an early-morning, binocular-assisted, single-witness case from 1980; the other is an evening domestic observation with video from 2010. In both, the core trigger is not fantasy but mismatch: the witness sees a very bright point where they do not expect such a bright point to be. The investigation changes the label from “unknown” to “Venus”, but it does not require the witness to have invented the event.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+The comparison between Epinay-sous-Senart and Vigneux-sur-Seine is revealing. One is an early-morning, binocular-assisted, single-witness case from 1980; the other is an evening domestic observation with video from 2010. In both, the core trigger is not fantasy but mismatch: the witness sees a very bright point where they do not expect such a bright point to be. The investigation changes the label from “unknown” to “Venus”, but it does not require the witness to have invented the event.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Low Moon and bright planet effects
 
@@ -279,7 +288,13 @@ That distinction helps explain why some Essonne cases are strong as reports but 
 
 For public UFO history, this is healthier than a simple believer-versus-sceptic split. A witness may be truthful about what was seen, but mistaken about distance, size, altitude or motion. Those are precisely the hardest things to judge for isolated lights in the night sky. A bright planet low on the horizon has no obvious scale. A low Moon behind cloud can look like a glowing object descending. A star near the horizon can shimmer and show colours in disturbed air.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich+2Time and Date]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-title">Royal Museums Greenwich Planet Venus &#124; Royal Museums Greenwich</span><span class="citation-popover-snippet">Royal Museums Greenwich Planet Venus &#124; Royal Museums Greenwich</span></span></span>
 
-This is why “honest mistake” should not be used as a polite synonym for “bad witness”. In these Essonne cases, the mistake is often what makes the report worth studying. It reveals the conditions under which normal sky objects become anomalous: night-time surprise, restricted viewpoint, low elevation, horizon haze, atmospheric shimmer, clouds, fatigue, and the absence of a ready comparison point.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P-ymwG9mDhE" title="Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer">Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 22.9K &middot; Uploaded: March 2012 &middot; Length: 1 minute 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P-ymwG9mDhE">Open on YouTube</a></p></div></div></div>
+This is why “honest mistake” should not be used as a polite synonym for “bad witness”. In these Essonne cases, the mistake is often what makes the report worth studying. It reveals the conditions under which normal sky objects become anomalous: night-time surprise, restricted viewpoint, low elevation, horizon haze, atmospheric shimmer, clouds, fatigue, and the absence of a ready comparison point.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P-ymwG9mDhE" title="Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer">Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 22.9K &middot; Uploaded: March 2012 &middot; Length: 1 minute 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P-ymwG9mDhE">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What these cases change in Essonne’s UFO history
 

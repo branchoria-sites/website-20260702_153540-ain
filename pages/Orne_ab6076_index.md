@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /orne-ab6076-index/
 description: Focused pages that expand on What Orne's UFO Files Really Show.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Orne_ab6076
 parent_title: What Orne's UFO Files Really Show

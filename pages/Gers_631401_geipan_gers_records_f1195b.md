@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 07:07:44'
+date: '2026-06-29 07:07:44'
 parent_title: Gers UFOs
 parent_permalink: /what-did-gers-ufo-witnesses-really-see/
 parent_nav_short_title: Gers UFOs
@@ -269,7 +269,13 @@ The Gers files are valuable because they show different routes from “unidentif
 
 The 23 November 2023 case on the D654 road between Terraube and Cologne is a modern example of how a sighting can combine two stimuli. Two witnesses travelling by car reported a black, roughly round object moving erratically in the sky. GEIPAN found that a dark military C-17 transport aircraft was in the line of sight at a compatible time, but the witness video also showed signs that the small dark “object” in the recording was extremely close to the camera or windscreen rather than a distant airborne body. The case was classified A: an observation involving a military C-17 and a very small, very close object or optical artefact near the windscreen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2023-11-51520" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-This is one of the most instructive Gers files because it does not reduce the report to a single simple mistake. A real aircraft may have drawn attention first, while a reflection, speck, focus effect or windscreen-related artefact then became fused with the original sky observation. For readers, the lesson is practical: video evidence can help, but it can also introduce its own traps when filmed through glass from a moving vehicle.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+This is one of the most instructive Gers files because it does not reduce the report to a single simple mistake. A real aircraft may have drawn attention first, while a reflection, speck, focus effect or windscreen-related artefact then became fused with the original sky observation. For readers, the lesson is practical: video evidence can help, but it can also introduce its own traps when filmed through glass from a moving vehicle.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ### Satellites, the ISS and Starlink Flashes
 
@@ -298,7 +304,13 @@ The [Boulaur]({{'boulaur/' | relative_url }}) case of 24 March 1984 is probably 
 
 Yet the later analysis pointed towards a skytracer or promotional light reflected on clouds. The date was a Saturday morning, the sky was cloudy, the movements were rapid and side-to-side, and the reported duration, brightness and form matched that kind of artificial light display. Because the hypothesis could not be verified with local venues decades later, and because there were no independent neighbour observations or repeated sightings, GEIPAN classed the case C rather than A or B.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1984-03-01023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The Boulaur file is a useful corrective to a common mistake. A credible witness does not automatically produce a conclusive case. GEIPAN can accept that witnesses honestly saw something striking while still judging that the evidence does not support a class D mystery.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DNuDh287q0Q" title="7 CAS D’OVNIS OFFICIELLES complètement fous ( CRNS, GEIPAN… je t’explique tout )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DNuDh287q0Q" target="_blank" rel="noopener noreferrer">7 CAS D’OVNIS OFFICIELLES complètement fous ( CRNS, GEIPAN… je t’explique tout )</a></p><p class="youtube-embed-meta">Channel: INDIANA SPACE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DNuDh287q0Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DNuDh287q0Q">Open on YouTube</a></p></div></div></div>
+The Boulaur file is a useful corrective to a common mistake. A credible witness does not automatically produce a conclusive case. GEIPAN can accept that witnesses honestly saw something striking while still judging that the evidence does not support a class D mystery.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DNuDh287q0Q" title="7 CAS D’OVNIS OFFICIELLES complètement fous ( CRNS, GEIPAN… je t’explique tout )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DNuDh287q0Q" target="_blank" rel="noopener noreferrer">7 CAS D’OVNIS OFFICIELLES complètement fous ( CRNS, GEIPAN… je t’explique tout )</a></p><p class="youtube-embed-meta">Channel: INDIANA SPACE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DNuDh287q0Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DNuDh287q0Q">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why Class C Is Not the Same as Unexplained
 
@@ -308,7 +320,13 @@ Miramont-d’Astarac, reported for 19 May 1976, is a simple example. One witness
 
 Boulaur is a richer class C case, but the logic is similar. It has stronger witness content than Miramont-d’Astarac, yet still lacks the checks that would allow GEIPAN to confirm or reject the skytracer hypothesis. Marsolan has a strong lantern-like pattern but lacks enough wind and corroboration data. Faget-Abbatial has a possible bolide shape but was reported far too late for a robust investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1984-03-01023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+2Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-This is why “not identified” can mean two very different things. A class D case says, in effect, “we investigated and still cannot explain it.” A class C case says, “we do not have enough reliable material to decide.” Gers’ official record is dominated not by robust unexplained events, but by the normal limitations of witness reporting.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CWt2zkuxRNQ" title="GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer">GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)</a></p><p class="youtube-embed-meta">Channel: Science &amp; Vie &middot; Views: 36.9K &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CWt2zkuxRNQ">Open on YouTube</a></p></div></div></div>
+This is why “not identified” can mean two very different things. A class D case says, in effect, “we investigated and still cannot explain it.” A class C case says, “we do not have enough reliable material to decide.” Gers’ official record is dominated not by robust unexplained events, but by the normal limitations of witness reporting.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CWt2zkuxRNQ" title="GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer">GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)</a></p><p class="youtube-embed-meta">Channel: Science &amp; Vie &middot; Views: 36.9K &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CWt2zkuxRNQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What the Gers Pattern Teaches Readers
 

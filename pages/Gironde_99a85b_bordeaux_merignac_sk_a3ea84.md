@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 07:07:45'
+date: '2026-06-29 07:07:45'
 parent_title: Gironde UFOs
 parent_permalink: /what-girondes-ufo-files-really-show/
 parent_nav_short_title: Gironde UFOs
@@ -266,8 +266,6 @@ The Langon case of 2 August 2011 shows the problem clearly. At about 20:15, a mo
 
 That distinction is important. A class C case is not a strong unsolved case in the same sense as an unexplained, well-documented event. It means the information is too weak to settle the question. In Langon, the report was not dismissed as imaginary, but the evidence did not allow investigators to choose confidently between several mundane light sources.
 
-Venus is the recurring cautionary example. It can be extremely bright, appear low in the west after sunset or east before sunrise, and seem oddly steady compared with aircraft. The 2010 Bordeaux pilot case shows that even multiple observers can find it puzzling when conditions are right.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2010-04-02561" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ## Weather Balloons from Bordeaux-Mérignac
@@ -295,7 +293,13 @@ That small uncertainty is a good example of balanced interpretation. The likely 
 
 A similar pattern appears in the Saint-Médard-d’Eyrans case of 14 June 2021. A motorist on the A62 between Bordeaux and Toulouse saw a strong luminosity in the sky, then a grey metallic sphere, apparently stationary, for about 20 to 30 seconds. GEIPAN considered reflections from a radiosonde, aircraft or fantasy balloon, then reported that the weather-balloon and aircraft explanations had been ruled out for the relevant sector. The remaining explanation was a likely metallic party balloon, with sunlight glinting from the surface and the witness’s own movement on the motorway making displacement difficult to assess.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2021-06-51188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-This case is especially useful because it shows how “ordinary” does not mean “lazy”. Investigators did not simply say “balloon” and stop. They compared possible sources, excluded some, and retained the one that best matched the geometry, duration, appearance and lack of corroboration.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0M1J9qQX1TQ" title="Aircraft lights | They&#x27;re not UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer">Aircraft lights | They&#x27;re not UFOs</a></p><p class="youtube-embed-meta">Channel: flight-club &middot; Views: 99.0K &middot; Uploaded: February 2020 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0M1J9qQX1TQ">Open on YouTube</a></p></div></div></div>
+This case is especially useful because it shows how “ordinary” does not mean “lazy”. Investigators did not simply say “balloon” and stop. They compared possible sources, excluded some, and retained the one that best matched the geometry, duration, appearance and lack of corroboration.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0M1J9qQX1TQ" title="Aircraft lights | They&#x27;re not UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer">Aircraft lights | They&#x27;re not UFOs</a></p><p class="youtube-embed-meta">Channel: flight-club &middot; Views: 99.0K &middot; Uploaded: February 2020 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0M1J9qQX1TQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Lanterns and Short-Lived Night Clusters
 
@@ -319,8 +323,6 @@ For Gironde, several checks are especially high value:
 **Was Venus or another bright planet in that part of the sky?** The 2010 multi-crew Bordeaux case shows that a planet can produce a serious aviation report when it appears bright, low and directionally plausible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2010-04-02561" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 **Was a radiosonde launched from Bordeaux-Mérignac?** Weather balloons are not hypothetical in this department. Bordeaux-Mérignac is part of the Météo-France radiosonde network, and GEIPAN has already used that fact to explain a Blanquefort report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://meteofrance.gf/fr/actualites/le-radiosondage-en-guyane" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteofrance.gf">[meteofrance.gf]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteofrance.gf</span><span class="citation-popover-title">le radiosondage en guyane</span><span class="citation-popover-snippet">le radiosondage en guyane</span></span></span>
-
-**Does the motion match the wind?** Lanterns and balloons drift with air movement. GEIPAN repeatedly uses wind compatibility when assessing Gironde reports from La Teste-de-Buch, Le Porge, Talence and Artigues-près-Bordeaux.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2012-01-08200" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+3Geipan+3Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fIJEqw4PHZA" title="Pollution de l’air : l’aéroport de Bordeaux-Mérignac mesure l’impact du trafic aérien" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fIJEqw4PHZA" target="_blank" rel="noopener noreferrer">Pollution de l’air : l’aéroport de Bordeaux-Mérignac mesure l’impact du trafic aérien</a></p><p class="youtube-embed-meta">Channel: France 3 Nouvelle-Aquitaine</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fIJEqw4PHZA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fIJEqw4PHZA">Open on YouTube</a></p></div></div></div>
 

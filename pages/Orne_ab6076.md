@@ -107,8 +107,8 @@ keywords:
 - orne
 affiliate_category: orne
 show_ads: true
-description:'Orne’s UFO history is small but unusually useful: it shows almost every outcome a serious local UFO page should distinguish.'
-hero_summary:'Orne’s UFO history is small but unusually useful: it shows almost every outcome a serious local UFO page should distinguish.'
+description: 'Orne’s UFO history is small but unusually useful: it shows almost every outcome a serious local UFO page should distinguish.'
+hero_summary: 'Orne’s UFO history is small but unusually useful: it shows almost every outcome a serious local UFO page should distinguish.'
 layout: default
 permalink: /what-ornes-ufo-files-really-show/
 nav_short_title: What Orne's UFO Files Really Show
@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 20:32:41'
+date: '2026-06-29 20:32:41'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -724,7 +724,13 @@ The Argentan case of 3 August 1992 is the most dramatic Orne report in the GEIPA
 
 On paper, this has the texture of a close encounter rather than a simple distant light: proximity, a structured object, humanoid detail, emotional reaction and a reported rapid departure. But GEIPAN classed it C, meaning lack of reliable information. That classification is important. It does not mean GEIPAN found the event false, and it does not mean GEIPAN found an extraordinary craft. It means the file lacks enough dependable data for a robust conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1992-08-01787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The reader should therefore treat Argentan as an intriguing but weakly evidenced case. It is useful for understanding Orne’s UFO folklore because the narrative is memorable. It is less useful as evidence because there are no independent physical records, no published technical corroboration, and no later investigation strong enough to move it into an explained or unexplained-after-enquiry category. The case also shows why dramatic content and evidential strength are not the same thing.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OZn3kge28e4" title="Why NOBODY Talks About The Real UFO Geography" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OZn3kge28e4" target="_blank" rel="noopener noreferrer">Why NOBODY Talks About The Real UFO Geography</a></p><p class="youtube-embed-meta">Channel: Map Pack</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OZn3kge28e4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OZn3kge28e4">Open on YouTube</a></p></div></div></div>
+The reader should therefore treat Argentan as an intriguing but weakly evidenced case. It is useful for understanding Orne’s UFO folklore because the narrative is memorable. It is less useful as evidence because there are no independent physical records, no published technical corroboration, and no later investigation strong enough to move it into an explained or unexplained-after-enquiry category. The case also shows why dramatic content and evidential strength are not the same thing.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OZn3kge28e4" title="Why NOBODY Talks About The Real UFO Geography" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OZn3kge28e4" target="_blank" rel="noopener noreferrer">Why NOBODY Talks About The Real UFO Geography</a></p><p class="youtube-embed-meta">Channel: Map Pack</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OZn3kge28e4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OZn3kge28e4">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The Trun-area 1988 case shows how sincere witnesses can misread the sky
 
@@ -751,7 +757,13 @@ This Alençon file is important because it shows the value of official re-examin
 
 The older “Alençon 1790” story is even more problematic. Versions of it claim that a flaming globe landed near Alençon, that a suited occupant emerged, and that a police inspector named Liabeuf reported the matter to the Academy of Sciences. Modern web retellings often repeat the story, but the sourcing trail is weak and circular, with the account commonly traced through later UFO literature rather than a verified contemporary archive. One recent archive-style commentary on a duplicate version says the story is almost certainly a fabrication and notes that no contemporaneous French or Polish source for the inspector, crater or incident has been located. Children of Anu+2Think About It Docs<span class="citation-link-wrap"><a class="citation-inline-link" href="https://anuchildren.org/ufo-in-alencon-1790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anuchildren.org">[anuchildren.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anuchildren.org</span><span class="citation-popover-title">ufo in alencon 1790</span><span class="citation-popover-snippet">ufo in alencon 1790</span></span></span>
 
-For an Orne page, the 1790 tale is best handled as folklore within UFO literature, not as a confirmed local event. It can be mentioned because readers may search for it, but it should not be placed on the same evidential level as GEIPAN’s documented modern Orne cases.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5hglLOjVpac" title="OVNI à la préfecture d&#x27;Alençon, short" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5hglLOjVpac" target="_blank" rel="noopener noreferrer">OVNI à la préfecture d&#x27;Alençon, short</a></p><p class="youtube-embed-meta">Channel: la Normandie d&#x27;autrefois</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5hglLOjVpac" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5hglLOjVpac">Open on YouTube</a></p></div></div></div>
+For an Orne page, the 1790 tale is best handled as folklore within UFO literature, not as a confirmed local event. It can be mentioned because readers may search for it, but it should not be placed on the same evidential level as GEIPAN’s documented modern Orne cases.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5hglLOjVpac" title="OVNI à la préfecture d&#x27;Alençon, short" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5hglLOjVpac" target="_blank" rel="noopener noreferrer">OVNI à la préfecture d&#x27;Alençon, short</a></p><p class="youtube-embed-meta">Channel: la Normandie d&#x27;autrefois</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5hglLOjVpac" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5hglLOjVpac">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Official investigation changes the story more than local rumour does
 
@@ -782,7 +794,13 @@ The best way to read the cases is by asking four practical questions:<div class=
 
 1. **Was there more than one independent witness?** The Trun-area 1988 case had multiple witnesses and photographs, yet was still explained as Mars; Ménil-Hubert-sur-Orne had no comparable independent corroboration.
 2. **Was the phenomenon observed long enough to check?** The Pervenchères event lasted about three seconds, making an atmospheric explanation more plausible than a detailed structured-object interpretation.
-3. **Did later evidence strengthen or weaken the report?** Alençon 2014 weakened after photo and timing checks; Ménil-Hubert-sur-Orne remained unresolved but not dramatically strengthened.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d1Olr4FyNbs" title="Ovnis, extraterrestres : pourquoi Trump déclassifie - C dans l’air - 25.04.2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d1Olr4FyNbs" target="_blank" rel="noopener noreferrer">Ovnis, extraterrestres : pourquoi Trump déclassifie - C dans l’air - 25.04.2026</a></p><p class="youtube-embed-meta">Channel: C dans l&#x27;air - France Télévisions &middot; Views: 125.9K &middot; Uploaded: May 2026 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d1Olr4FyNbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d1Olr4FyNbs">Open on YouTube</a></p></div></div></div>
+3. **Did later evidence strengthen or weaken the report?** Alençon 2014 weakened after photo and timing checks; Ménil-Hubert-sur-Orne remained unresolved but not dramatically strengthened.</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d1Olr4FyNbs" title="Ovnis, extraterrestres : pourquoi Trump déclassifie - C dans l’air - 25.04.2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d1Olr4FyNbs" target="_blank" rel="noopener noreferrer">Ovnis, extraterrestres : pourquoi Trump déclassifie - C dans l’air - 25.04.2026</a></p><p class="youtube-embed-meta">Channel: C dans l&#x27;air - France Télévisions &middot; Views: 125.9K &middot; Uploaded: May 2026 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d1Olr4FyNbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d1Olr4FyNbs">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 4. **Is the problem mystery or missing data?** Argentan 1992 is dramatic, but its category C status means the problem is insufficient reliable information rather than a robust unexplained case. [GEIPAN+4GEIPAN+4GEIPAN](https://www.cnes-geipan.fr/fr/cas/2013-05-08459)
 

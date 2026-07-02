@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /hauts-de-seine-2ccee8-index/
 description: Focused pages that expand on What Makes Hauts de Seine UFO Reports....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Hauts-de-Seine_2ccee8
 parent_title: What Makes Hauts de Seine UFO Reports...

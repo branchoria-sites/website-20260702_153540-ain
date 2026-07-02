@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-28 21:08:06'
+date: '2026-06-28 21:08:06'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -727,8 +727,6 @@ Angoulême appears several times in the Charente record, but the files vary shar
 
 The more notable Angoulême case came on 15 August 2009 at 13:15. A witness in a garden reported a silent, matt brown, ovoid object crossing the sky in a straight line from east to west towards Cognac. GEIPAN considered aircraft, helicopters, nearby objects such as a rugby ball or model aircraft, and even a meteor during the Perseid period, but none could be consolidated. Because there was no corroborating witness and the gendarmerie file reached GEIPAN too late for some air-traffic checks, the case was classed D: unidentified after enquiry, with medium to strong consistency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/cas/2009-08-02385" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-That classification deserves careful wording. The Angoulême 2009 report is one of Charente’s stronger unresolved files, but it is still a single-witness report with no image, no radar tie-in, and no independent confirmation. The official conclusion is not that an extraordinary object was proven; it is that the investigated hypotheses did not adequately explain the reported observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/cas/2009-08-02385" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HHqk3YvSNwY" title="Debrief: MNA BA709 Cognac 2022 [4K/UHD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HHqk3YvSNwY" target="_blank" rel="noopener noreferrer">Debrief: MNA BA709 Cognac 2022 [4K/UHD]</a></p><p class="youtube-embed-meta">Channel: Chris Janssens Airshow Debrief</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HHqk3YvSNwY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HHqk3YvSNwY">Open on YouTube</a></p></div></div></div>
 
 ## La Couronne, Bonnes and ordinary sky confusions
@@ -749,15 +747,11 @@ Ruffec should still be read cautiously. It has no independent witness, no image,
 
 Charente’s UFO record did not end with the older gendarmerie-era files. GEIPAN’s public lists include Cognac on 20 August 2021, Ruffec on 13 September 2022, La Couronne on 21 August 2025, and Saint-Séverin on 10 November 2025. The outcomes again vary: Cognac 2021 and Saint-Séverin 2025 are class C, Ruffec 2022 is class D, and La Couronne 2025 is class B, identified as a probable fireball.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/60473?field_date_value=2020-11-18&amp;field_is_new_value=1&amp;order=field_classification_des_cas&amp;page=%2C69&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The 2021 Cognac report is especially instructive. A witness watching an airliner from home saw a pale, roughly rectangular object cross the aircraft’s path at very high speed, then appear to stop, reverse briefly, and turn west at 90 degrees. GEIPAN described the reported movement as very strange, but the witness did not respond to later requests and no on-site enquiry could be completed. The result was class C: too many missing data points to judge the case, despite the apparent strangeness of the account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/60473?field_date_value=2020-11-18&amp;field_is_new_value=1&amp;order=field_classification_des_cas&amp;page=%2C69&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hecxjMABVIc" title="Est-ce qu&#x27;on croyait aux extra-terrestres il y a 2000 ans ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hecxjMABVIc" target="_blank" rel="noopener noreferrer">Est-ce qu&#x27;on croyait aux extra-terrestres il y a 2000 ans ?</a></p><p class="youtube-embed-meta">Channel: Nota Bene</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hecxjMABVIc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hecxjMABVIc">Open on YouTube</a></p></div></div></div>
 
 ## How gendarmerie reports shape the evidence
 
 Many French UFO files, including older Charente cases, depend on gendarmerie statements. The gendarmerie has a formal role as a reporting route for unidentified aerospace phenomena: witnesses may report date, time, duration, place, direction, shape, colour, movement, sound, and any environmental traces, which can then be recorded in an official statement and passed into the wider GEIPAN process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2022/comment-la-gendarmerie-prend-elle-en-compte-les-etrangetes-dans-le-ciel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gendarmerie.interieur.gouv.fr">[Gendarmerie Nationale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gendarmerie.interieur.gouv.fr</span><span class="citation-popover-snippet">Open source on gouv.fr.</span></span></span>
-
-This procedure gives the French archive a seriousness that many countries lack. It preserves reports, creates dated records, and often captures details that would otherwise disappear. But it does not magically turn every statement into strong evidence. The best files include prompt reporting, multiple independent witnesses, clear directions, reliable timing, photographs or video that can be analysed, and cross-checks against astronomy, weather, aircraft, satellites and local activity. The weakest files are late, single-witness, vague, or missing the very details needed to test them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2022/comment-la-gendarmerie-prend-elle-en-compte-les-etrangetes-dans-le-ciel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gendarmerie.interieur.gouv.fr">[Gendarmerie Nationale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gendarmerie.interieur.gouv.fr</span><span class="citation-popover-snippet">Open source on gouv.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ggd8KjQT6_w" title="OVNI en Picardie - Épisode 3 - Les agents du GEIPAN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ggd8KjQT6_w" target="_blank" rel="noopener noreferrer">OVNI en Picardie - Épisode 3 - Les agents du GEIPAN</a></p><p class="youtube-embed-meta">Channel: France 3 Hauts-de-France</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ggd8KjQT6_w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ggd8KjQT6_w">Open on YouTube</a></p></div></div></div>
 

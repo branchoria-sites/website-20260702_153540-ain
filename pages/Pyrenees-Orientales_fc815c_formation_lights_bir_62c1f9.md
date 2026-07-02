@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 00:33:27'
+date: '2026-06-30 00:33:27'
 parent_title: Pyrenees Orientales UFOs
 parent_permalink: /pyrenees-orientales/
 parent_nav_short_title: Pyrenees Orientales UFOs
@@ -236,7 +236,6 @@ image: /assets/images/Pyrenees-Orientales_fc815c_formation_lights_bir_62c1f9-ove
 
 ## Introduction
 
-Perpignan’s reported “formation lights” are best understood not as a strong UFO case, but as a useful example of how an ordinary night sky event can briefly look engineered. The key public case is GEIPAN’s 30 July 2020 Perpignan report: at 4:38 am, a witness saw silent white circular lights moving in a V formation towards the south-east. GEIPAN classified the case as A, meaning identified, and concluded that the lights were migratory birds, probably white storks, reflecting urban lighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2020-07-51079" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span><img src="{{"/assets/images/Pyrenees-Orientales_fc815c_formation_lights_bir_62c1f9-overview.webp" | relative_url }}" alt="Overview image for Formation Lights" loading="eager" decoding="sync" fetchpriority="high">
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kdMnztQSDvg" title="Birds and Artificial Light At Night: An Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kdMnztQSDvg" target="_blank" rel="noopener noreferrer">Birds and Artificial Light At Night: An Overview</a></p><p class="youtube-embed-meta">Channel: National Audubon Society</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kdMnztQSDvg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kdMnztQSDvg">Open on YouTube</a></p></div></div></div>
 
 ## Why V-shapes and straight lines suggest a craft
@@ -255,8 +254,6 @@ The most important local detail is not simply that Perpignan has birds nearby. I
 Local birding sources reinforce why this matters. The Canet-Saint-Nazaire site is presented on Migraction as a migration watchpoint where white storks are a notable feature, and the site’s description says the white stork is strongly represented there, with some springs recording nearly 2,000 individuals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.migraction.net/index.php?frmSite=94&amp;m_id=1510" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: migraction.net">[Migraction]</a><span class="citation-popover" role="note"><span class="citation-popover-source">migraction.net</span><span class="citation-popover-snippet">Open source on migraction.net.</span></span></span> The Roussillon Ornithological Group also describes migration monitoring in the department as concentrated at chosen sites that channel large flows of birds, including the Saint-Nazaire hill above the Canet lagoon in spring and the Eyne area in Cerdagne in autumn.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gor66.fr/suivi-de-la-migration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gor66.fr">[gor66]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gor66.fr</span><span class="citation-popover-snippet">Open source on gor66.fr.</span></span></span>
 
 GEIPAN did not simply guess “birds” from the shape. It contacted an ornithologist, who replied that the observation was probably a flight of white storks at that place and time. The investigator’s message specifically asked whether birds flying in V formation in late July or early August, about an hour before sunrise, could be moving towards the Saint-Nazaire lagoon, and noted the possibility of pale chests reflecting urban lighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Courrier%20ornithologue-R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
-The lighting explanation is crucial. GEIPAN judged that lighting from nearby Cabestany, less than one kilometre from the witness’s south-eastern direction, and Saleilles, less than three kilometres away, probably reflected from the birds’ pale plumage. It added that reflected light can appear white, yellowish, or orange depending on the source, and that birds above towns can look luminous when their plumage catches ground light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2020-07-51079" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OZn3kge28e4" title="Why NOBODY Talks About The Real UFO Geography" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OZn3kge28e4" target="_blank" rel="noopener noreferrer">Why NOBODY Talks About The Real UFO Geography</a></p><p class="youtube-embed-meta">Channel: Map Pack</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OZn3kge28e4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OZn3kge28e4">Open on YouTube</a></p></div></div></div>
 
@@ -281,7 +278,13 @@ The Perpignan formation-lights case is interesting precisely because it begins w
 
 GEIPAN’s classification system is useful here because it prevents two common mistakes. One mistake is to treat every unexplained-looking sighting as mysterious. The other is to dismiss witnesses as foolish. GEIPAN evaluates both consistency, meaning the amount and reliability of information, and residual strangeness after known explanations have been tested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span> In this case, the information was sufficient to test a local bird hypothesis, and the remaining strangeness was very low.
 
-That does not mean every formation-light report over Pyrénées-Orientales is automatically birds. The lesson is narrower and more useful: when a sighting occurs near Perpignan, especially towards the coast or Canet-Saint-Nazaire, and involves silent V-shaped lights before dawn or at night, birds should be one of the first explanations checked. The department’s geography makes that check especially important.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LqIlQ-Z2rLo" title="LIVE | UFO News Today 2024 | UFO Hearing LIVE | Hundreds Of New UFO Sightings Revealed | N18G" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LqIlQ-Z2rLo" target="_blank" rel="noopener noreferrer">LIVE | UFO News Today 2024 | UFO Hearing LIVE | Hundreds Of New UFO Sightings Revealed | N18G</a></p><p class="youtube-embed-meta">Channel: CNN-News18</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LqIlQ-Z2rLo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LqIlQ-Z2rLo">Open on YouTube</a></p></div></div></div>
+That does not mean every formation-light report over Pyrénées-Orientales is automatically birds. The lesson is narrower and more useful: when a sighting occurs near Perpignan, especially towards the coast or Canet-Saint-Nazaire, and involves silent V-shaped lights before dawn or at night, birds should be one of the first explanations checked. The department’s geography makes that check especially important.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LqIlQ-Z2rLo" title="LIVE | UFO News Today 2024 | UFO Hearing LIVE | Hundreds Of New UFO Sightings Revealed | N18G" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LqIlQ-Z2rLo" target="_blank" rel="noopener noreferrer">LIVE | UFO News Today 2024 | UFO Hearing LIVE | Hundreds Of New UFO Sightings Revealed | N18G</a></p><p class="youtube-embed-meta">Channel: CNN-News18</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LqIlQ-Z2rLo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LqIlQ-Z2rLo">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What would make a future Perpignan formation case stronger?
 

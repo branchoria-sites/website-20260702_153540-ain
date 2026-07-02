@@ -107,8 +107,8 @@ keywords:
 - creuse
 affiliate_category: creuse
 show_ads: true
-description:'Creuse has a modest but useful place in French UFO history: not as a department of famous “classic” close encounters, but as a rural area where a small...'
-hero_summary:'Creuse has a modest but useful place in French UFO history: not as a department of famous “classic” close encounters, but as a rural area where a small number of official cases show how ordinary lights, photographs and distant aircraft can become puzzling when seen briefly in dark, open country.'
+description: 'Creuse has a modest but useful place in French UFO history: not as a department of famous “classic” close encounters, but as a rural area where a small...'
+hero_summary: 'Creuse has a modest but useful place in French UFO history: not as a department of famous “classic” close encounters, but as a rural area where a small number of official cases show how ordinary lights, photographs and distant aircraft can become puzzling when seen briefly in dark, open country.'
 layout: default
 permalink: /what-do-creuse-ufo-reports-really-show/
 nav_short_title: What Do Creuse UFO Reports Really Show?
@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 01:10:57'
+date: '2026-06-29 01:10:57'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -731,8 +731,6 @@ The 2018 Sermur case is the clearest example in Creuse of a puzzling report beco
 
 The crucial evidence was not simply “it looked like a plane”. GEIPAN’s reasoning was more specific. The lights in the photograph were symmetrical; their colours matched aircraft lighting; the red points repeated at a rhythm consistent with anti-collision lights; and a green continuous trace matched the starboard navigation light of an aircraft. The reported direction also mattered: a plane moving north to south to the east of the witness would show the side on which a green starboard light would be visible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2018-08-50680" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-This case is valuable because it explains a common UFO trap: cameras can make ordinary aircraft look stranger than they appear to the eye. GEIPAN noted that the photograph involved a six-second exposure, meaning flashing and steady aircraft lights could be recorded as repeated lines and dots. A moving aircraft can therefore become, in the image, a structured object that was never present as a solid rectangular craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2018-08-50680" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ## The 2024 N145 sighting: a Creuse UFO that became a balloon case
@@ -754,8 +752,6 @@ Creuse is not a department where the public record supports sweeping claims abou
 
 **Weakly documented cases are not the same as unexplained cases.** Saint-Sulpice-le-Dunois is intriguing because the reported movement and duration were unusual, but GEIPAN’s category C classification means the file lacks enough reliable information for analysis. That should make the reader cautious, not more excited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/cas/1988-10-01150?field=&amp;order=field_departement_textuel&amp;page=33&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-**Photographs can both help and mislead.** In Sermur, the photograph was central to the explanation, but the very act of photographing a moving aircraft with a long exposure made it look more structured. In the N145 case, the photograph helped locate the sightline and confirm the balloon. The value of an image depends on context: timing, direction, exposure, distance and comparison with known traffic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2018-08-50680" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jdN-BBirSA8" title="CNES&#x27;s UFO Archive!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jdN-BBirSA8" target="_blank" rel="noopener noreferrer">CNES&#x27;s UFO Archive!</a></p><p class="youtube-embed-meta">Channel: Science Of Space &middot; Views: 164 &middot; Uploaded: July 2021 &middot; Length: 2 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jdN-BBirSA8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jdN-BBirSA8">Open on YouTube</a></p></div></div></div>
 
 ## Are there signs of a Creuse flap?
@@ -765,6 +761,8 @@ On the public evidence available, Creuse does not show a clear, well-documented 
 That does not mean residents have never reported other strange sights. It means the reliable public trail is thin. This distinction matters because UFO folklore often grows when scattered reports are treated as a pattern before the pattern has been demonstrated. In Creuse, the better reading is conservative: there are isolated cases, some investigated officially, but not enough public evidence to claim a sustained local wave.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S46k264pt30" title="Highlights of the 67th Coupe Aéronautique Gordon Bennett 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S46k264pt30" target="_blank" rel="noopener noreferrer">Highlights of the 67th Coupe Aéronautique Gordon Bennett 2024</a></p><p class="youtube-embed-meta">Channel: Gordon Bennett TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S46k264pt30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S46k264pt30">Open on YouTube</a></p></div></div></div>
+
+
 
 ## How later reporting has affected the Creuse record
 

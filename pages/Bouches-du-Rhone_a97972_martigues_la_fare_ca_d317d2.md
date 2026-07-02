@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-28 21:08:04'
+date: '2026-06-28 21:08:04'
 parent_title: Bouches UFOs
 parent_permalink: /what-really-happened-in-bouches-du-rhone/
 parent_nav_short_title: Bouches UFOs
@@ -250,8 +250,6 @@ The wider statistics also keep the two Bouches-du-Rhône cases in proportion. GE
 
 The Martigues case is short but vivid. GEIPAN records that at about 3 am on 27 September 1998, a 70-year-old female witness observed a round, luminous, yellowish object in the sky. It was described as being near a hillside, moving very slowly, before leaving at very high speed after roughly five minutes and disappearing. The public case summary says no explanation was given for the phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/52648" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The witness-detail page adds several pieces that matter for assessing the report. The local time is given as 03:00; the environment is described as urbanised land with a rural landscape reference; the weather entry is “sun or clear night”; the object was described as a single phenomenon, with a spherical or ball-like overall form and an apparent size likened to a small aircraft. GEIPAN’s public fields also say the distance from the witness was not specified, the apparent speed was slow, noise was unknown, and environmental effects were unknown or not stated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/52647" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ### La Fare-les-Oliviers, 24 June 2001
@@ -267,8 +265,6 @@ GEIPAN’s classification system is built around two ideas: residual strangeness
 
 In GEIPAN’s current framework, category A means the phenomenon is identified; B means a proposed explanation is very probable; C means the case is not workable because of missing or unreliable data; and D means the phenomenon is not identified after investigation. GEIPAN has also used D1 and D2 as subdivisions of D, with D1 generally covering strange cases of medium consistency and D2 covering very strange cases with stronger consistency, such as multiple independent witnesses, photo or video records, or ground traces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The two Bouches-du-Rhône files are listed in the public pages as category D and described as “strange to very strange” with “medium to strong” consistency. Both were updated on 23 June 2021, but their public pages still retain the broader D label rather than a plainly displayed D1 or D2 label. That matters because readers should not silently upgrade them into the strongest possible category. Their public classification says “not identified after investigation”; it does not, by itself, say “confirmed unknown craft”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/52648" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OAifOXu_L-M" title="The UnXplained: UNBELIEVABLE Evidence of Unidentified Aerial Phenomena (Season 1) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OAifOXu_L-M" target="_blank" rel="noopener noreferrer">The UnXplained: UNBELIEVABLE Evidence of Unidentified Aerial Phenomena (Season 1) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OAifOXu_L-M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OAifOXu_L-M">Open on YouTube</a></p></div></div></div>
 
 ## What the evidence can and cannot prove
@@ -283,8 +279,6 @@ This is the central lesson of the two cases. “Unresolved” is a disciplined w
 ## How later reporting changes the picture
 
 Later republication has mostly clarified rather than transformed the cases. GEIPAN’s current public pages preserve the D classification and provide structured witness fields, which helps readers separate basic case facts from speculation. Independent mapping sites using GEIPAN’s open public data also list both cases as Bouches-du-Rhône category D reports, and they place Martigues within a local set of six recorded Martigues cases, only one of which is D, while La Fare-les-Oliviers is listed as having one recorded GEIPAN case, also D.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/commune/martigues-13" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[CarteOvni.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-snippet">Open source on carteovni.fr.</span></span></span>
-
-Those secondary listings are useful for navigation, but they do not add much new evidence. Their summaries largely repeat GEIPAN’s public wording and should not be treated as independent corroboration of the sightings. The value is contextual: they show that these two files are not just famous stories circulating in UFO culture, but entries traceable back to CNES/GEIPAN’s public database. Their limitation is the same as the official database itself: the public-facing text is brief, and the most decisive underlying materials, especially any La Fare video analysis, are not fully exposed in the short summary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/cas/la-fare-les-oliviers-2001-0601569" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[CarteOvni.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-title">la fare les oliviers 2001 0601569</span><span class="citation-popover-snippet">la fare les oliviers 2001 0601569</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oTK0neVBIrE" title="Marignane (BDR) : un festival à la rencontre du mystère" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oTK0neVBIrE" target="_blank" rel="noopener noreferrer">Marignane (BDR) : un festival à la rencontre du mystère</a></p><p class="youtube-embed-meta">Channel: France 3 Provence-Alpes-Côte d&#x27;Azur</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oTK0neVBIrE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oTK0neVBIrE">Open on YouTube</a></p></div></div></div>
 

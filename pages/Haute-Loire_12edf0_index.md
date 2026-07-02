@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /haute-loire-12edf0-index/
 description: Focused pages that expand on What Really Happened in Haute Loire's UFO....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Haute-Loire_12edf0
 parent_title: What Really Happened in Haute Loire's UFO...

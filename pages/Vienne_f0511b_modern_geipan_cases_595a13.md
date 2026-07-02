@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 10:11:04'
+date: '2026-06-30 10:11:04'
 parent_title: Vienne UFOs
 parent_permalink: /what-really-happened-in-viennes-ufo/
 parent_nav_short_title: Vienne UFOs
@@ -254,6 +254,8 @@ This is exactly the kind of case that helps separate a strong explanation from a
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
+
+
 ## Poitiers and Nieuil-l’Espoir show why orange lights are tricky
 
 The 2009 Poitiers and Nieuil-l’Espoir files are less dramatic than Bonnes, but they are useful because they involve one of the most common modern UFO triggers: groups of orange lights moving silently through the night sky. In Poitiers, on 6 September 2009, a witness saw three orange luminous balls from home between midnight and 00:15. The lights moved silently and in a straight line, changed direction, then disappeared as they rose. GEIPAN classified the case as B, a probable observation of Thai lanterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2009-09-02438" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
@@ -269,7 +271,13 @@ La Trimouille, on 18 January 1993, sits in a different category: a short, fast, 
 
 This is a good example of why “probably explained” should not be read as “proved in every detail”. The description points towards a high-speed luminous object entering the atmosphere: brief duration, strong colour, and a jet-like or fragmenting appearance. But the file does not appear to have the independent camera network, wide public reporting or reconstruction that made Bonnes so robust. The explanation is plausible, but the evidence is thinner.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1993-01-01685" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-For Vienne’s UFO history, La Trimouille is useful precisely because it is not a perfect case. It shows the middle ground between a famous unresolved report and a fully identified event. A case can be credible as testimony, ordinary in likely cause, and still limited by what was not recorded at the time: exact trajectory, broader witness pool, instrumental data, or a documented matching re-entry. That is the realistic texture of many department-level UFO files.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yDqQGyAwWCg" title="Bureau des ovnis : la vérité est-elle ailleurs ? • FRANCE 24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer">Bureau des ovnis : la vérité est-elle ailleurs ? • FRANCE 24</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 &middot; Views: 24.0K &middot; Uploaded: October 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yDqQGyAwWCg">Open on YouTube</a></p></div></div></div>
+For Vienne’s UFO history, La Trimouille is useful precisely because it is not a perfect case. It shows the middle ground between a famous unresolved report and a fully identified event. A case can be credible as testimony, ordinary in likely cause, and still limited by what was not recorded at the time: exact trajectory, broader witness pool, instrumental data, or a documented matching re-entry. That is the realistic texture of many department-level UFO files.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yDqQGyAwWCg" title="Bureau des ovnis : la vérité est-elle ailleurs ? • FRANCE 24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer">Bureau des ovnis : la vérité est-elle ailleurs ? • FRANCE 24</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 &middot; Views: 24.0K &middot; Uploaded: October 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yDqQGyAwWCg">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## La Villedieu-du-Clain turns a technical puzzle into a satellite lesson
 
@@ -288,7 +296,13 @@ That explanation is locally important because Futuroscope, near Poitiers, is a r
 
 Another useful comparison is Saint-Martin-l’Ars on 17 March 2009. A witness saw two white luminous discs apparently connected by a mass, moving east-north-east. GEIPAN classified the case as A: the witness had seen the American space shuttle approaching the International Space Station. Here again the report sounds unusual in ordinary language, but the timing and configuration matched a known orbital event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2009-03-02235" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-These newer and related files help prevent a false impression that Vienne’s GEIPAN archive contains only one or two repeated explanations. The pattern is broader: sky shows on clouds, spacecraft near the ISS, meteors, probable lanterns, probable re-entries and satellite glints. The common feature is not the object type. It is the method of narrowing the report until an ordinary source fits the observed details.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OLXDikL331Y" title="Geipan : la France aussi s’intéresse aux ovnis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer">Geipan : la France aussi s’intéresse aux ovnis</a></p><p class="youtube-embed-meta">Channel: C dans l&#x27;air - France Télévisions &middot; Views: 22.3K &middot; Uploaded: April 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OLXDikL331Y">Open on YouTube</a></p></div></div></div>
+These newer and related files help prevent a false impression that Vienne’s GEIPAN archive contains only one or two repeated explanations. The pattern is broader: sky shows on clouds, spacecraft near the ISS, meteors, probable lanterns, probable re-entries and satellite glints. The common feature is not the object type. It is the method of narrowing the report until an ordinary source fits the observed details.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OLXDikL331Y" title="Geipan : la France aussi s’intéresse aux ovnis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer">Geipan : la France aussi s’intéresse aux ovnis</a></p><p class="youtube-embed-meta">Channel: C dans l&#x27;air - France Télévisions &middot; Views: 22.3K &middot; Uploaded: April 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OLXDikL331Y">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What these explained cases change about Vienne’s UFO history
 

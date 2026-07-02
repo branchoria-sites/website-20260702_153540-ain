@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 00:33:27'
+date: '2026-06-30 00:33:27'
 parent_title: Pyrenees Orientales UFOs
 parent_permalink: /pyrenees-orientales/
 parent_nav_short_title: Pyrenees Orientales UFOs
@@ -261,7 +261,13 @@ The photograph is valuable, but not in the sensational way a casual viewer might
 
 The ground witness added a useful but imperfect cross-check. GEIPAN considered her report precise enough to require reconstruction, but it also found that one of her three directional estimates contradicted the other two. Two angles broadly converged towards the north-north-east, while the first pointed more towards the north-north-west. The investigators treated that contradiction seriously rather than smoothing it away. Their later map suggested she may have seen two distinct flare events rather than one single light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete104.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Compte rendu enquete104</span><span class="citation-popover-snippet">Compte rendu enquete104</span></span></span>
 
-This is a key point in the case. The witness evidence was not rejected because it was inconvenient. It was used, tested, and partly corrected. The apparent inconsistency became part of the explanation: several flares fired in a military area can naturally produce more than one bright, suspended-looking light.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qsEjV8DdSbs" title="Gimbal UFO - A New Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer">Gimbal UFO - A New Analysis</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 203.9K &middot; Uploaded: March 2022 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qsEjV8DdSbs">Open on YouTube</a></p></div></div></div>
+This is a key point in the case. The witness evidence was not rejected because it was inconvenient. It was used, tested, and partly corrected. The apparent inconsistency became part of the explanation: several flares fired in a military area can naturally produce more than one bright, suspended-looking light.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qsEjV8DdSbs" title="Gimbal UFO - A New Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer">Gimbal UFO - A New Analysis</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 203.9K &middot; Uploaded: March 2022 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qsEjV8DdSbs">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How GEIPAN traced the light to Opoul
 
@@ -286,7 +292,13 @@ That combination explains several “UFO-like” features at once:<div class="co
 * **Ambiguous distance:** a brilliant isolated light at night gives few cues for judging range, size, or speed.
 * **Colour variation:** smoke, camera exposure, cloud, distance, and flare composition can shift the perceived colour.</div>
 
-The Perpignan case is therefore not a forced explanation. The odd details are exactly the details that make a parachute flare a good fit.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+The Perpignan case is therefore not a forced explanation. The odd details are exactly the details that make a parachute flare a good fit.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What the case says about evidence in Pyrénées-Orientales
 
@@ -305,7 +317,13 @@ That limitation does not weaken the explanation much. In fact, it fits a flare e
 
 The photograph also needs careful handling. It is evidence of a bright light in the scene, not evidence of a structured craft. GEIPAN’s caption specifically warns that the city lights and the phenomenon share deformation caused by slight movement of the camera. That matters because an enlarged light blob in a night photograph can easily seem more solid or exotic than the original visual source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete104.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Compte rendu enquete104</span><span class="citation-popover-snippet">Compte rendu enquete104</span></span></span>
 
-So the honest verdict is not that every perceptual detail is proven beyond all possible debate. It is that the ordinary explanation is specific, timed, geographically coherent, technically plausible, and officially checked against the relevant military source. For UFO history, that is about as strong as a debunking gets.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aEkRpXuqZqo" title="Twenty-Nine Palms UFO - Flares Identified" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aEkRpXuqZqo" target="_blank" rel="noopener noreferrer">Twenty-Nine Palms UFO - Flares Identified</a></p><p class="youtube-embed-meta">Channel: Mick West</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aEkRpXuqZqo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aEkRpXuqZqo">Open on YouTube</a></p></div></div></div>
+So the honest verdict is not that every perceptual detail is proven beyond all possible debate. It is that the ordinary explanation is specific, timed, geographically coherent, technically plausible, and officially checked against the relevant military source. For UFO history, that is about as strong as a debunking gets.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aEkRpXuqZqo" title="Twenty-Nine Palms UFO - Flares Identified" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aEkRpXuqZqo" target="_blank" rel="noopener noreferrer">Twenty-Nine Palms UFO - Flares Identified</a></p><p class="youtube-embed-meta">Channel: Mick West</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aEkRpXuqZqo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aEkRpXuqZqo">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why this solved case still belongs in the department’s UFO history
 

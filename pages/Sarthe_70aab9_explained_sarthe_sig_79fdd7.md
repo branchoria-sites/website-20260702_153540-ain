@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 03:43:35'
+date: '2026-06-30 03:43:35'
 parent_title: Sarthe UFOs
 parent_permalink: /what-sarthes-ufo-files-really-show/
 parent_nav_short_title: Sarthe UFOs
@@ -270,7 +270,13 @@ The Marolles-les-Saint-Calais case of 21 November 1978 shows the same process wi
 
 This is a good example of why Venus is so often involved in UFO reports. It is bright, often seen low in the morning or evening sky, and can appear oddly coloured or flashing when viewed near the horizon. The Royal Museums Greenwich notes that Venus’s brightness and horizon twinkling can create striking colour effects that are often reported as peculiar objects or UFOs. BBC Sky at Night Magazine similarly lists Venus among common UFO confusions because it can look like a hovering aircraft light while remaining almost stationary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Open source on rmg.co.uk.</span></span></span>
 
-In the Sarthe file, the key issue was timing. If the witnesses’ time estimate had been exact and incompatible with the planet’s rise, the Venus explanation would have been weaker. Instead, the record shows how investigators handled uncertainty: the explanation was not simply assumed, but accepted after comparing the reported behaviour with the astronomical conditions and the known difficulty of witness timing.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VkCR0C92nEA" title="Committee for Skeptical Inquiry - UFO Balloons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VkCR0C92nEA" target="_blank" rel="noopener noreferrer">Committee for Skeptical Inquiry - UFO Balloons</a></p><p class="youtube-embed-meta">Channel: Center for Inquiry &middot; Views: 11.1K &middot; Uploaded: October 2010 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VkCR0C92nEA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VkCR0C92nEA">Open on YouTube</a></p></div></div></div>
+In the Sarthe file, the key issue was timing. If the witnesses’ time estimate had been exact and incompatible with the planet’s rise, the Venus explanation would have been weaker. Instead, the record shows how investigators handled uncertainty: the explanation was not simply assumed, but accepted after comparing the reported behaviour with the astronomical conditions and the known difficulty of witness timing.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VkCR0C92nEA" title="Committee for Skeptical Inquiry - UFO Balloons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VkCR0C92nEA" target="_blank" rel="noopener noreferrer">Committee for Skeptical Inquiry - UFO Balloons</a></p><p class="youtube-embed-meta">Channel: Center for Inquiry &middot; Views: 11.1K &middot; Uploaded: October 2010 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VkCR0C92nEA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VkCR0C92nEA">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The Auvours captive balloon on the A11
 
@@ -297,8 +303,6 @@ The Sarthe files are persuasive because they do not require witnesses to be fool
 
 **Missing reference points.** At night, especially in rural or semi-rural settings, it is hard to judge distance, altitude, and size. A planet can seem close; a balloon can seem larger or farther away than it is; a tether can be invisible. The Auvours and Coulaines balloon cases both turned on objects that appeared stationary and hard to scale.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2010-09-02646" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-**Emotional interpretation.** Fear changes the story a witness tells themselves while watching. GEIPAN’s Saint-Mars-d’Outillé case, although not a Moon, Venus, or balloon file, illustrates the same risk: a witness on a moped reported being followed for several kilometres by an illuminated craft, but GEIPAN judged the lights probably consistent with an aircraft such as a helicopter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1977-10-02656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c7-xa66QiMs" title="Chinese Balloon Shows Why UFO Sightings Matter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c7-xa66QiMs" target="_blank" rel="noopener noreferrer">Chinese Balloon Shows Why UFO Sightings Matter</a></p><p class="youtube-embed-meta">Channel: Bloomberg News &middot; Views: 1.6K &middot; Uploaded: February 2023 &middot; Length: 1 minute 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c7-xa66QiMs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c7-xa66QiMs">Open on YouTube</a></p></div></div></div>
 
 ## What these explanations do and do not prove
@@ -307,7 +311,13 @@ The Moon, Venus, and balloon cases do not prove that every Sarthe UFO report is 
 
 They also show why category C cases should not be casually turned into mysteries. GEIPAN’s glossary explains that category C means the case is not analysable for lack of information, not that it is a strong unexplained event. By contrast, A and B cases are cases where an explanation has been established or judged very probable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/glossaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-For readers following Sarthe’s wider UFO history, this is the key distinction. A category A Moon case, a category B balloon case, and an unresolved case are not points on the same dramatic scale. They represent different evidential situations. The explained cases reduce the noise in the archive. They make it easier to see which reports are weak, which are probably ordinary, and which deserve separate attention because the available evidence has not been reduced to a known cause.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hn2xTieploU" title="GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer">GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés</a></p><p class="youtube-embed-meta">Channel: france tv &middot; Views: 4.6K &middot; Uploaded: May 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hn2xTieploU">Open on YouTube</a></p></div></div></div>
+For readers following Sarthe’s wider UFO history, this is the key distinction. A category A Moon case, a category B balloon case, and an unresolved case are not points on the same dramatic scale. They represent different evidential situations. The explained cases reduce the noise in the archive. They make it easier to see which reports are weak, which are probably ordinary, and which deserve separate attention because the available evidence has not been reduced to a known cause.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hn2xTieploU" title="GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer">GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés</a></p><p class="youtube-embed-meta">Channel: france tv &middot; Views: 4.6K &middot; Uploaded: May 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hn2xTieploU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The practical test Sarthe adds to UFO reading
 

@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 07:00:27'
+date: '2026-06-30 07:00:27'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -723,7 +723,13 @@ GEIPAN’s summary describes three phases. A green light appeared, moved rapidly
 
 This is the Somme case most likely to interest readers looking for aviation or military connections. Its value is not that radar confirmed an object — it did not — but that trained personnel at a radar station gave a structured account and GEIPAN later compared it with astronomical and aircraft possibilities. The doubts are equally important: without a working radar record, the case rests on visual testimony, angular estimates, weather reconstruction and later interpretation.
 
-Doullens also shows how “unexplained” should be understood. GEIPAN did not say the phenomenon was extraterrestrial. It said the known hypotheses did not explain the report well enough on the available evidence. That is a narrower, more cautious conclusion than the popular phrase “UFO case” often suggests.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+Doullens also shows how “unexplained” should be understood. GEIPAN did not say the phenomenon was extraterrestrial. It said the known hypotheses did not explain the report well enough on the available evidence. That is a narrower, more cautious conclusion than the popular phrase “UFO case” often suggests.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The weaker 1954 cases still tell the local story
 
@@ -744,7 +750,13 @@ That does not mean the witness invented the experience. It means the published v
 
 A separate Abbeville-linked report from 31 October 1954 shows the same problem of journalistic linkage. Le Courrier Picard connected a near-ground sighting at Long with later sightings towards Abbeville, but a later archival discussion warns that there was not necessarily a real relationship between the Long case and the Abbeville mention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufologie.patrickgross.org/1954/31oct1954abbevillef.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
 
-This is a recurring lesson in Somme’s UFO history: local press archives are essential, but they are not neutral instruments. They preserve names, dates, places and public reaction, while also adding jokes, assumptions and sometimes speculative links between separate reports.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OKNkF34KLCk" title="Flying Saucers (1952)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OKNkF34KLCk" target="_blank" rel="noopener noreferrer">Flying Saucers (1952)</a></p><p class="youtube-embed-meta">Channel: British Pathé &middot; Views: 113.3K &middot; Uploaded: April 2014 &middot; Length: 1 minute 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OKNkF34KLCk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OKNkF34KLCk">Open on YouTube</a></p></div></div></div>
+This is a recurring lesson in Somme’s UFO history: local press archives are essential, but they are not neutral instruments. They preserve names, dates, places and public reaction, while also adding jokes, assumptions and sometimes speculative links between separate reports.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OKNkF34KLCk" title="Flying Saucers (1952)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OKNkF34KLCk" target="_blank" rel="noopener noreferrer">Flying Saucers (1952)</a></p><p class="youtube-embed-meta">Channel: British Pathé &middot; Views: 113.3K &middot; Uploaded: April 2014 &middot; Length: 1 minute 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OKNkF34KLCk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OKNkF34KLCk">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Modern Somme sightings: more often weak, explained or under-documented
 
@@ -766,7 +778,13 @@ For Somme, the key tests are:
 * **Physical or instrumental evidence.** Harponville had no ground traces; Doullens had a radar-station setting but no operating radar; Le Crotoy and Hem-Hardinval depended on brief gendarmerie or witness records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1954-09-00008" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+3Geipan+3Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 * **Plausible conventional explanations.** GEIPAN explicitly considers the Moon, Jupiter, aircraft, helicopters, bolides, lasers, insects, meteors and ball lightning across different cases. The fact that an explanation is considered but not proven is not the same as a debunking; it is a measure of how much the surviving evidence can bear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1954-10-09217" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+2Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-This method keeps the department’s history interesting without turning every report into a mystery of equal weight.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sW_31Fu0EFQ" title="OVNI : Cet Être l’observait en SECRET" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sW_31Fu0EFQ" target="_blank" rel="noopener noreferrer">OVNI : Cet Être l’observait en SECRET</a></p><p class="youtube-embed-meta">Channel: TOUNY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sW_31Fu0EFQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sW_31Fu0EFQ">Open on YouTube</a></p></div></div></div>
+This method keeps the department’s history interesting without turning every report into a mystery of equal weight.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sW_31Fu0EFQ" title="OVNI : Cet Être l’observait en SECRET" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sW_31Fu0EFQ" target="_blank" rel="noopener noreferrer">OVNI : Cet Être l’observait en SECRET</a></p><p class="youtube-embed-meta">Channel: TOUNY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sW_31Fu0EFQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sW_31Fu0EFQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What Somme adds to French UFO history
 

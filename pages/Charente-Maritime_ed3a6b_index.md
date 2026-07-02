@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /charente-maritime-ed3a6b-index/
 description: Focused pages that expand on What Really Happened in Charente Maritime's....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Charente-Maritime_ed3a6b
 parent_title: What Really Happened in Charente Maritime's...

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /aude-f0dc3d-index/
 description: Focused pages that expand on What Do Aude's UFO Cases Really Show?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Aude_f0dc3d
 parent_title: What Do Aude's UFO Cases Really Show?

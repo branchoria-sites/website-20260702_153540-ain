@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 05:23:26'
+date: '2026-06-30 05:23:26'
 parent_title: Seine Maritime UFOs
 parent_permalink: /what-makes-seine-maritimes-ufo-files/
 parent_nav_short_title: Seine Maritime UFOs
@@ -274,7 +274,10 @@ Yet three limitations keep it from becoming a strong proof case:<div class="cont
 
 * **The observation was extremely short:** GEIPAN’s own summary says the total sighting lasted only a few seconds.
 * **The witness was in motion:** a driver’s changing viewpoint can affect apparent distance, height, relative movement and the interpretation of lights.
+
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
 
 ## What the short observation changes
 
@@ -300,7 +303,13 @@ The missing corroboration is the hinge of the case. Saint-Martin-de-Boscherville
 
 That absence does not disprove the witness. A few-second sighting can easily be missed by everyone else nearby. People indoors, drivers facing the wrong way, or pedestrians not looking up would not necessarily see it. But it does lower the case’s evidential ceiling. Without another independent angle, the file cannot test the most important claims: altitude, size, shape, trajectory and duration.
 
-This is why the case is best described as unresolved rather than robust. It has enough strangeness and detail to avoid a casual explanation, but not enough independent evidence to support a confident extraordinary interpretation. That is precisely the kind of middle ground that category D cases often occupy.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I7MToY5eaBY" title="Ovnis inexpliqués près de Rennes : reconstitution filmée du cas d&#x27;Étrelles 🛸" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I7MToY5eaBY" target="_blank" rel="noopener noreferrer">Ovnis inexpliqués près de Rennes : reconstitution filmée du cas d&#x27;Étrelles 🛸</a></p><p class="youtube-embed-meta">Channel: Le Télégramme &middot; Views: 321.5K &middot; Uploaded: June 2023 &middot; Length: 3 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I7MToY5eaBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I7MToY5eaBY">Open on YouTube</a></p></div></div></div>
+This is why the case is best described as unresolved rather than robust. It has enough strangeness and detail to avoid a casual explanation, but not enough independent evidence to support a confident extraordinary interpretation. That is precisely the kind of middle ground that category D cases often occupy.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I7MToY5eaBY" title="Ovnis inexpliqués près de Rennes : reconstitution filmée du cas d&#x27;Étrelles 🛸" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I7MToY5eaBY" target="_blank" rel="noopener noreferrer">Ovnis inexpliqués près de Rennes : reconstitution filmée du cas d&#x27;Étrelles 🛸</a></p><p class="youtube-embed-meta">Channel: Le Télégramme &middot; Views: 321.5K &middot; Uploaded: June 2023 &middot; Length: 3 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I7MToY5eaBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I7MToY5eaBY">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why this case matters in Seine-Maritime’s UFO history
 
@@ -308,7 +317,13 @@ In the department-level picture, Boscherville matters because it is one of the f
 
 It also shows why local UFO history should not be written as either belief or debunking. The Boscherville sighting is not just folklore: it is in the official GEIPAN record. But the official record itself is cautious, anonymised and evidence-limited. It gives a striking account, records basic conditions, and then stops short of explanation.
 
-That makes it a useful anchor for related Seine-Maritime pages: it can be compared with weaker category C files where information is missing, with category A or B cases where meteors, aircraft, satellites or lighting effects are identified, and with later reports that show how improved data can change a case’s status. The comparison helps readers see that “unexplained” is not a single dramatic category. Some cases are unresolved because they are rich and puzzling; others because they are thin. Boscherville sits between those poles: rich in description, thin in corroboration.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UURTNMtAVHc" title="Cas d’observations de présence d’ovnis recensés en Belgique en 1992" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UURTNMtAVHc" target="_blank" rel="noopener noreferrer">Cas d’observations de présence d’ovnis recensés en Belgique en 1992</a></p><p class="youtube-embed-meta">Channel: Radio-Canada Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UURTNMtAVHc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UURTNMtAVHc">Open on YouTube</a></p></div></div></div>
+That makes it a useful anchor for related Seine-Maritime pages: it can be compared with weaker category C files where information is missing, with category A or B cases where meteors, aircraft, satellites or lighting effects are identified, and with later reports that show how improved data can change a case’s status. The comparison helps readers see that “unexplained” is not a single dramatic category. Some cases are unresolved because they are rich and puzzling; others because they are thin. Boscherville sits between those poles: rich in description, thin in corroboration.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UURTNMtAVHc" title="Cas d’observations de présence d’ovnis recensés en Belgique en 1992" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UURTNMtAVHc" target="_blank" rel="noopener noreferrer">Cas d’observations de présence d’ovnis recensés en Belgique en 1992</a></p><p class="youtube-embed-meta">Channel: Radio-Canada Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UURTNMtAVHc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UURTNMtAVHc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Was the Boscherville marsh sighting really unexplained?
 

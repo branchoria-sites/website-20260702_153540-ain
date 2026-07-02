@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 20:32:39'
+date: '2026-06-29 20:32:39'
 parent_title: Nord UFOs
 parent_permalink: /what-makes-nords-ufo-record-so-puzzling/
 parent_nav_short_title: Nord UFOs
@@ -254,7 +254,13 @@ This is where Nord’s official record differs from its folklore. The famous 195
 
 Douai’s 27 March 2022 case is another important modern example. GEIPAN classed it as D1, with strangeness 0.65 and consistency 0.72, after a report of a silent triangular phenomenon with coloured lights moving in a straight path for around 10 to 20 seconds. The investigation considered aircraft and drone possibilities, including a drone near the prison area, but noted problems: the described triangular form did not match known civil drone models, the estimated size would imply a large and likely audible machine at close range, and enquiries did not identify an operator matching the report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2022-03-51336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-Douai 2022 is especially helpful for readers because it shows unresolved does not mean unexamined. GEIPAN did not simply accept the witness’s impression. It tested aircraft, drone, distance, sound, lighting and regulatory issues, then still judged the case unidentified. The result is a good example of the line between a weak mystery and a more serious unresolved file: not because it proves something exotic, but because ordinary explanations were actively explored and found wanting.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+Douai 2022 is especially helpful for readers because it shows unresolved does not mean unexamined. GEIPAN did not simply accept the witness’s impression. It tested aircraft, drone, distance, sound, lighting and regulatory issues, then still judged the case unidentified. The result is a good example of the line between a weak mystery and a more serious unresolved file: not because it proves something exotic, but because ordinary explanations were actively explored and found wanting.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Lanterns, lights and aircraft: why many Nord files become explainable
 
@@ -279,7 +285,15 @@ Nord’s record therefore contains three different kinds of uncertainty. One is 
 
 Ledringhem’s 17 April 2011 case shows this middle territory well. A witness reported hearing a dull turbine-like noise and seeing a black cylindrical object pass very low over a house roof at high speed. GEIPAN classed it D1, noting that an investigator found no coherent hypothesis, although the object resembled a drone of an unknown model. The same summary also warns of the file’s limits: single witness, very brief observation, no photo or video, and performance not very far from known machines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2011-04-02778?field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=%2C79&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-That is a sober official unresolved case. It resists a neat explanation, but it also resists overclaiming. The file’s value is that it shows GEIPAN’s boundary line in practice: a case can be non-identified while still being modest, fragile and open to future reinterpretation.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sI1NHe8PuSA" title="MICHAEL VAILLANT - UAP Check and Patters in UFO Waves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sI1NHe8PuSA" target="_blank" rel="noopener noreferrer">MICHAEL VAILLANT - UAP Check and Patters in UFO Waves</a></p><p class="youtube-embed-meta">Channel: UAP EDUCATION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sI1NHe8PuSA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sI1NHe8PuSA">Open on YouTube</a></p></div></div></div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lXi5B0NTwVc" title="France&#x27;s Official UFO Investigation Agency (GEIPAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer">France&#x27;s Official UFO Investigation Agency (GEIPAN)</a></p><p class="youtube-embed-meta">Channel: Kryptoscipher &middot; Views: 108 &middot; Uploaded: February 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lXi5B0NTwVc">Open on YouTube</a></p></div></div></div>
+That is a sober official unresolved case. It resists a neat explanation, but it also resists overclaiming. The file’s value is that it shows GEIPAN’s boundary line in practice: a case can be non-identified while still being modest, fragile and open to future reinterpretation.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sI1NHe8PuSA" title="MICHAEL VAILLANT - UAP Check and Patters in UFO Waves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sI1NHe8PuSA" target="_blank" rel="noopener noreferrer">MICHAEL VAILLANT - UAP Check and Patters in UFO Waves</a></p><p class="youtube-embed-meta">Channel: UAP EDUCATION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sI1NHe8PuSA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sI1NHe8PuSA">Open on YouTube</a></p></div></div></div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lXi5B0NTwVc" title="France&#x27;s Official UFO Investigation Agency (GEIPAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer">France&#x27;s Official UFO Investigation Agency (GEIPAN)</a></p><p class="youtube-embed-meta">Channel: Kryptoscipher &middot; Views: 108 &middot; Uploaded: February 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lXi5B0NTwVc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What Nord’s official files really show
 

@@ -7,7 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /lot-et-garonne-6df799-index/
 description: Focused pages that expand on What Really Happened in Lot et Garonne's
   UFO....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Lot-et-Garonne_6df799
 parent_title: What Really Happened in Lot et Garonne's UFO...

@@ -1,16 +1,16 @@
 ---
-title:'Dordogne UFOs: Folklore, Files and... Sub-Topic Index'
-title_full:'Dordogne UFOs: Folklore, Files and... Sub-Topic Index'
+title: 'Dordogne UFOs: Folklore, Files and... Sub-Topic Index'
+title_full: 'Dordogne UFOs: Folklore, Files and... Sub-Topic Index'
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /dordogne-e9b4bd-index/
-description:'Focused pages that expand on Dordogne UFOs: Folklore, Files and....'
-date:'2026'
+description: 'Focused pages that expand on Dordogne UFOs: Folklore, Files and....'
+date: '2026'
 layout: default
 parent_basename: Dordogne_e9b4bd
-parent_title:'Dordogne UFOs: Folklore, Files and...'
-parent_nav_short_title:'Dordogne UFOs: Folklore, Files and...'
+parent_title: 'Dordogne UFOs: Folklore, Files and...'
+parent_nav_short_title: 'Dordogne UFOs: Folklore, Files and...'
 parent_permalink: /dordogne-ufos-folklore-files-and/
 ---
 

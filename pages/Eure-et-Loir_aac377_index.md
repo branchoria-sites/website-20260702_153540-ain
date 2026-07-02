@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /eure-et-loir-aac377-index/
 description: Focused pages that expand on What Really Happened in Eure et Loir Skies?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Eure-et-Loir_aac377
 parent_title: What Really Happened in Eure et Loir Skies?

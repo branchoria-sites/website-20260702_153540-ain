@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 00:33:27'
+date: '2026-06-30 00:33:27'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -713,7 +713,13 @@ This is exactly the kind of case that can sound stronger in retelling than it be
 
 The explanation also matched the visual description. GEIPAN noted that such flares can rise to roughly 200–400 metres before a parachute opens and a strong light illuminates the ground; depending on the flare, the colour may appear red-orange, yellow-silver, or white, and the light may seem static for several tens of seconds. GEIPAN therefore classified the linked observations as class A: a perfectly identified military [flare case]({{'flare-case/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete104.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Compte rendu enquete104</span><span class="citation-popover-snippet">Compte rendu enquete104</span></span></span>
 
-The case matters because it shows why aviation witnesses should be taken seriously but not treated as automatically unexplainable. A pilot, a controller, a photograph, and a ground witness made the report worth investigating. The same evidence also made it possible to solve.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hfrg0rhIaGg" title="UFO Emits Weird White Material Onto Small French Town | Close Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hfrg0rhIaGg" target="_blank" rel="noopener noreferrer">UFO Emits Weird White Material Onto Small French Town | Close Encounters</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 1.4M &middot; Uploaded: October 2019 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hfrg0rhIaGg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hfrg0rhIaGg">Open on YouTube</a></p></div></div></div>
+The case matters because it shows why aviation witnesses should be taken seriously but not treated as automatically unexplainable. A pilot, a controller, a photograph, and a ground witness made the report worth investigating. The same evidence also made it possible to solve.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hfrg0rhIaGg" title="UFO Emits Weird White Material Onto Small French Town | Close Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hfrg0rhIaGg" target="_blank" rel="noopener noreferrer">UFO Emits Weird White Material Onto Small French Town | Close Encounters</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 1.4M &middot; Uploaded: October 2019 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hfrg0rhIaGg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hfrg0rhIaGg">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Older mountain reports and the value of rechecking
 
@@ -730,7 +736,13 @@ In July 2020, a Perpignan witness saw silent “lights” or “luminous circles
 
 A similar interpretive problem appears in the September 2024 Perpignan report. A witness saw five white points moving in a straight line from north-east to south-west for about five seconds, and the regular spacing made the group seem like one large object rather than separate lights. GEIPAN’s investigation judged it very probably to be storks lit by urban lighting, noting both the route towards Villeneuve-de-la-Raho and an unusual number of white storks in Perpignan and the wider department in late August and early September. The case was classed B: probable group of birds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/sites/default/files/Compte%20rendu%20enquete820.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Compte rendu enquete820</span><span class="citation-popover-snippet">Compte rendu enquete820</span></span></span>
 
-These cases are not throwaway debunks. They explain why “formation” is not enough by itself. Birds can hold a formation; reflected city light can make them appear luminous; and a short night-time observation can compress separate objects into a single imagined structure.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6We0GMqqoko" title="Implications of UFO Phenomena with Jacques Vallée" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6We0GMqqoko" target="_blank" rel="noopener noreferrer">Implications of UFO Phenomena with Jacques Vallée</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 15.7K &middot; Uploaded: December 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6We0GMqqoko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6We0GMqqoko">Open on YouTube</a></p></div></div></div>
+These cases are not throwaway debunks. They explain why “formation” is not enough by itself. Birds can hold a formation; reflected city light can make them appear luminous; and a short night-time observation can compress separate objects into a single imagined structure.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6We0GMqqoko" title="Implications of UFO Phenomena with Jacques Vallée" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6We0GMqqoko" target="_blank" rel="noopener noreferrer">Implications of UFO Phenomena with Jacques Vallée</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 15.7K &middot; Uploaded: December 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6We0GMqqoko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6We0GMqqoko">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Lanterns, celebrations, and reports that look coordinated
 
@@ -749,7 +761,13 @@ The 3 February 2011 Perpignan case shows another type of re-evaluation. A witnes
 
 The 2 February 2015 Perpignan case is more sensitive because it concerns the witness’s visual condition. The witness reported a series of dramatic observations, including an orange-red ball, a large dark silent craft, and a brilliant white point that departed rapidly. GEIPAN later sent a local investigator; during a 25-minute visit, the witness repeatedly reported seeing UFO-like points that the investigator could not see. The file notes severe eyesight problems and later artificial lens surgery, after which the witness reported seeing “armadas” of objects every night. GEIPAN classified the case B, concluding that the witness’s vision was very probably disturbed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/cas/2015-02-09347?field_date_value=2020-11-18&amp;field_is_new_value=1&amp;page=%2C61" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-These examples are important because they show three different meanings often blurred together in UFO discussion: insufficient evidence, later probable identification, and witness-specific perceptual factors. None should be turned into a confirmed mystery.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t1KQQB2GDLU" title="UFO hoax fools several French media • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t1KQQB2GDLU" target="_blank" rel="noopener noreferrer">UFO hoax fools several French media • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t1KQQB2GDLU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t1KQQB2GDLU">Open on YouTube</a></p></div></div></div>
+These examples are important because they show three different meanings often blurred together in UFO discussion: insufficient evidence, later probable identification, and witness-specific perceptual factors. None should be turned into a confirmed mystery.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t1KQQB2GDLU" title="UFO hoax fools several French media • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t1KQQB2GDLU" target="_blank" rel="noopener noreferrer">UFO hoax fools several French media • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t1KQQB2GDLU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t1KQQB2GDLU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What the Pyrénées-Orientales pattern suggests
 

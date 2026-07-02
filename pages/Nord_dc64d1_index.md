@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nord-dc64d1-index/
 description: Focused pages that expand on What Makes Nord's UFO Record So Puzzling?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Nord_dc64d1
 parent_title: What Makes Nord's UFO Record So Puzzling?

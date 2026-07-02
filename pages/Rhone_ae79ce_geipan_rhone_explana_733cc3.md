@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 02:06:05'
+date: '2026-06-30 02:06:05'
 parent_title: Rhone UFOs
 parent_permalink: /what-really-happened-in-rhones-ufo/
 parent_nav_short_title: Rhone UFOs
@@ -241,8 +241,6 @@ GEIPAN’s [Rhone]({{'what-really-happened-in-rhones-ufo/' | relative_url }}) ca
 
 Rhone’s UFO record looks different when read through GEIPAN rather than only through press anecdotes or local legend. The official files do not mainly build a dramatic chain of unexplained craft over Lyon. They show a department where urban lighting, hills, hospitals, aircraft, bright planets and short-lived astronomical events can produce reports that feel extraordinary to sincere observers. That matters because Rhone is a good test bed for a basic question in UFO history: what survives after a report is checked against ordinary sky traffic and the night sky?
 
-GEIPAN’s classification system is central to this. A “Class A” case is considered perfectly identified after investigation; “Class B” is probably identified; “Class C” remains unidentified because the information is insufficient; and “Class D” remains unidentified after investigation. GEIPAN also states that older cases can be revisited if new information or better analysis becomes available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PLyEO0jNt6M" title="Explained: &quot;Go Fast&quot; UFO Video - Not Low and Not Fast - Like a Balloon!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PLyEO0jNt6M" target="_blank" rel="noopener noreferrer">Explained: &quot;Go Fast&quot; UFO Video - Not Low and Not Fast - Like a Balloon!</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 154.2K &middot; Uploaded: June 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PLyEO0jNt6M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PLyEO0jNt6M">Open on YouTube</a></p></div></div></div>
 
 ## The 1985 fireball reclassification
@@ -263,8 +261,6 @@ The 27 August 1997 Lyon file is one of the clearest Rhone examples of a report t
 GEIPAN classifies the case as “A”, with the phenomenon identified as a helicopter. The reason is highly local: the sighting occurred above an area used for helicopter movement and landing at a hospital. The witnesses’ own descriptions included features consistent with a helicopter, including low-speed movement, red and green navigation lights, a cockpit-like view and a beam directed towards the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1997-10-01485" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 The main puzzle was silence. At the time, GEIPAN says this was one reason the helicopter explanation had not been retained. On re-examination, however, the file treats the absence of perceived noise as less decisive. GEIPAN notes that in other cases witnesses have failed to hear helicopters at roughly 100 to 200 metres, especially when their attention is captured by the visual scene and emotion, and that wind conditions can affect sound.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1997-10-01485" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
-This case matters for Rhone because Lyon is not an empty rural sky. It is a major urban and medical centre with real helicopter activity. Modern Lyon still has visible emergency aviation links: the Hospices Civils de Lyon describe SAMU 69 helicopter operations carrying patients to Edouard Herriot Hospital, while the local airport at Lyon-Bron is connected with business aviation, helicopters and medical transport services. These later sources do not prove the details of the 1997 flight, but they support GEIPAN’s broader point that helicopter checks are not speculative in the Lyon environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.chu-lyon.fr/une-journee-avec-helicoptere-samu-69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chu-lyon.fr">[Chu Lyon+2businessaviation.lyonaeroports.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chu-lyon.fr</span><span class="citation-popover-title">une journee avec helicoptere samu 69</span><span class="citation-popover-snippet">une journee avec helicoptere samu 69</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q7jcBGLIpus" title="Explained: New Navy UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q7jcBGLIpus" target="_blank" rel="noopener noreferrer">Explained: New Navy UFO Videos</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 281.7K &middot; Uploaded: April 2020 &middot; Length: 2 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q7jcBGLIpus" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q7jcBGLIpus">Open on YouTube</a></p></div></div></div>
 
@@ -294,6 +290,8 @@ The Rhone examples are not solved by waving away sightings as “just lights”.
 This makes GEIPAN’s Rhone archive more than a list of debunks. It is a practical demonstration of what evidence can and cannot do. A sighting can be sincere, vivid and still explained. A witness can be observant and still misjudge distance, sound or scale. A video can help, but only if it is tied to direction, time, equipment behaviour and known celestial positions.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
 
 ## What these cases mean for Rhone UFO history
 

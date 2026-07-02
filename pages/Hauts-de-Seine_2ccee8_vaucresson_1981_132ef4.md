@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,7 +190,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -227,7 +227,7 @@ prev_link:
   permalink: /orange-lights-9d44f9/
   short_title: Orange Lights
   heading_title: When City Lights Become UFO Reports
-date:'2026-07-02 15:26:29'
+date: '2026-07-02 15:26:29'
 header:
   og_image: /assets/images/Hauts-de-Seine_2ccee8_vaucresson_1981_132ef4-overview-social.jpg
   preview_image: /assets/images/Hauts-de-Seine_2ccee8_vaucresson_1981_132ef4-overview.webp
@@ -276,7 +276,13 @@ The case’s strongest points are not spectacular physical findings, but the str
 
 **Official survival as a D case:** GEIPAN’s public case-search table still lists Vaucresson as a D case in Hauts-de-Seine, with the phenomenon type described as strange to very strange and of medium to strong consistency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/recherche/cas/tab?field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=1&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=10&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-These points explain why the Vaucresson case remains prominent in a department where many reported aerial oddities are less well supported, later explained, or too thin to analyse.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+These points explain why the Vaucresson case remains prominent in a department where many reported aerial oddities are less well supported, later explained, or too thin to analyse.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What evidence is still missing
 
@@ -303,13 +309,21 @@ A balloon, lantern, flare or illuminated drifting object could account for slow 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q9sQ2HCiSBE" title="[Today in History] 8 January 1981 – UFO Sighting in Trans-en-Provence, France" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q9sQ2HCiSBE" target="_blank" rel="noopener noreferrer">[Today in History] 8 January 1981 – UFO Sighting in Trans-en-Provence, France</a></p><p class="youtube-embed-meta">Channel: Qrio &middot; Views: 119 &middot; Uploaded: January 2025 &middot; Length: 2 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q9sQ2HCiSBE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q9sQ2HCiSBE">Open on YouTube</a></p></div></div></div>
 
+
+
 ## How Vaucresson compares with better-known 1981 French cases
 
 Vaucresson happened at the start of a year that also includes one of France’s most discussed UFO files: Trans-en-Provence, reported on 8 January 1981 in the Var department. That case is very different. GEIPAN’s Trans-en-Provence summary includes gendarmerie involvement, ground traces and samples of soil and vegetation taken around the alleged landing mark.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1981-01-00849" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 The comparison helps define what Vaucresson is and is not. Vaucresson has more formal witness credibility than many casual reports, but far less physical or investigative material than Trans-en-Provence. It is a classic testimony-led case: interesting because of who reported it and how they described it, limited because the trail of evidence stops almost immediately after the sighting.
 
-This distinction is useful for readers following Hauts-de-Seine UFO history. Vaucresson is not the department’s standout case because it is richly documented. It is the standout case because, despite its brevity and gaps, it remains one of the few official Hauts-de-Seine reports not assigned an ordinary explanation.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BUgjzQ7vpsg" title="Des gendarmes face à l&#x27;inexpliqué - OVNIS, la fascinante histoire (8/9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BUgjzQ7vpsg" target="_blank" rel="noopener noreferrer">Des gendarmes face à l&#x27;inexpliqué - OVNIS, la fascinante histoire (8/9)</a></p><p class="youtube-embed-meta">Channel: RTBF &middot; Views: 140.1K &middot; Uploaded: August 2023 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BUgjzQ7vpsg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BUgjzQ7vpsg">Open on YouTube</a></p></div></div></div>
+This distinction is useful for readers following Hauts-de-Seine UFO history. Vaucresson is not the department’s standout case because it is richly documented. It is the standout case because, despite its brevity and gaps, it remains one of the few official Hauts-de-Seine reports not assigned an ordinary explanation.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BUgjzQ7vpsg" title="Des gendarmes face à l&#x27;inexpliqué - OVNIS, la fascinante histoire (8/9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BUgjzQ7vpsg" target="_blank" rel="noopener noreferrer">Des gendarmes face à l&#x27;inexpliqué - OVNIS, la fascinante histoire (8/9)</a></p><p class="youtube-embed-meta">Channel: RTBF &middot; Views: 140.1K &middot; Uploaded: August 2023 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BUgjzQ7vpsg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BUgjzQ7vpsg">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What later reporting has changed
 

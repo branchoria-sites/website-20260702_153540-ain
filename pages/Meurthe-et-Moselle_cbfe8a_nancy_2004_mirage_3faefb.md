@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 17:28:45'
+date: '2026-06-29 17:28:45'
 parent_title: Meurthe UFOs
 parent_permalink: /meurthe-et-moselle/
 parent_nav_short_title: Meurthe UFOs
@@ -237,7 +237,13 @@ image: /assets/images/Meurthe-et-Moselle_cbfe8a_nancy_2004_mirage_3faefb-overvie
 ## Introduction
 
 The Nancy Mirage sighting of 15 October 2004 stands out because it is the one [Meurthe-et-Moselle]({{'meurthe-et-moselle/' | relative_url }}) case in GEIPAN’s public record that combines trained military aircrew, an aircraft-like report and an official unresolved classification. The core claim is narrow: a Mirage patrol was briefly “followed” by an unknown traffic near Nancy, the patrol leader also saw a point, it vanished after about 15 to 20 seconds, and ground controllers found no matching trace. GEIPAN, the French space agency CNES unit that investigates unidentified aerospace phenomena, still classifies the case as D, meaning not identified after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/53093?field_is_revisited_value=1&amp;page=%2C2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GEIPAN[AERO MIL] NANCY (54) 15.10.2004Une patrouille de mirage est fugitivement &quot;suivie&quot; par un trafic inconnu. Description. Le 15 octobr...</span></span></span><img src="{{"/assets/images/Meurthe-et-Moselle_cbfe8a_nancy_2004_mirage_3faefb-overview.webp" | relative_url }}" alt="Overview image for Nancy 2004" loading="eager" decoding="sync" fetchpriority="high">
-That makes the case important, but not spectacular in the way popular UFO retellings often imply. The evidence is better than a casual ground sighting because it involves military pilots and air-traffic checking. It is also limited because the observation was fleeting, apparently point-like, and not supported by a public radar return, photograph or long witness narrative. Its value in Meurthe-et-Moselle’s UFO history is therefore precise: it is a compact aviation mystery, not proof of an extraordinary craft.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/STwN8daYHnc" title="Mirage IV | The unthinkable secret of the Cold War" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=STwN8daYHnc" target="_blank" rel="noopener noreferrer">Mirage IV | The unthinkable secret of the Cold War</a></p><p class="youtube-embed-meta">Channel: Weapon Detective</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=STwN8daYHnc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=STwN8daYHnc">Open on YouTube</a></p></div></div></div>
+That makes the case important, but not spectacular in the way popular UFO retellings often imply. The evidence is better than a casual ground sighting because it involves military pilots and air-traffic checking. It is also limited because the observation was fleeting, apparently point-like, and not supported by a public radar return, photograph or long witness narrative. Its value in Meurthe-et-Moselle’s UFO history is therefore precise: it is a compact aviation mystery, not proof of an extraordinary craft.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/STwN8daYHnc" title="Mirage IV | The unthinkable secret of the Cold War" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=STwN8daYHnc" target="_blank" rel="noopener noreferrer">Mirage IV | The unthinkable secret of the Cold War</a></p><p class="youtube-embed-meta">Channel: Weapon Detective</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=STwN8daYHnc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=STwN8daYHnc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What the aircrew reported
 
@@ -265,6 +271,8 @@ That lack of public technical detail cuts both ways. It prevents an easy sceptic
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
+
+
 ## Why this is Meurthe-et-Moselle’s strongest unresolved file
 
 Within Nancy itself, the 2004 case is not just one item among many of equal weight. CarteOvni, an independent map built from public GEIPAN data, lists ten GEIPAN-documented Nancy observations and shows only one class D case there: the 15 October 2004 military-aircraft report. Other Nancy entries in that list include identified or probably identified cases, such as lanterns in 2009 and multiple pilot observations in 2013 that GEIPAN classed A.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/commune/nancy-54" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[CarteOvni.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-snippet">Observations OVNI à Nancy — CarteOvni.frLe GEIPAN a documenté 10 observation(s) d&#x27;OVNI à Nancy (54). Sur l... 15 octobre 2004 [AERO MIL]...</span></span></span>
@@ -290,7 +298,13 @@ A balanced reading leaves several possibilities open:<div class="content-enhance
 * **Genuine unknown traffic:** possible in the limited sense that GEIPAN did not identify the reported phenomenon.
 * **Extraordinary craft:** not demonstrated by the public evidence.</div>
 
-The best conclusion is not that the case is debunked, and not that it proves anything exotic. It remains a small, stubborn unresolved aviation report.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ENatvidAiC0" title="GEIPAN : les OVNI passionnent toujours autant (Toulouse)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ENatvidAiC0" target="_blank" rel="noopener noreferrer">GEIPAN : les OVNI passionnent toujours autant (Toulouse)</a></p><p class="youtube-embed-meta">Channel: teletoulouse</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ENatvidAiC0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ENatvidAiC0">Open on YouTube</a></p></div></div></div>
+The best conclusion is not that the case is debunked, and not that it proves anything exotic. It remains a small, stubborn unresolved aviation report.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ENatvidAiC0" title="GEIPAN : les OVNI passionnent toujours autant (Toulouse)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ENatvidAiC0" target="_blank" rel="noopener noreferrer">GEIPAN : les OVNI passionnent toujours autant (Toulouse)</a></p><p class="youtube-embed-meta">Channel: teletoulouse</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ENatvidAiC0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ENatvidAiC0">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What later reporting changed
 

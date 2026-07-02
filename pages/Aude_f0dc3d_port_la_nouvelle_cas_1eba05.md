@@ -13,8 +13,8 @@ keywords:
 - port-la-nouvelle
 affiliate_category: aude
 show_ads: true
-description:'Port-la-Nouvelle shows both sides of Aude''s record: one rocket-stage identification and one still-unexplained low silent object.'
-hero_summary:'Port-la-Nouvelle shows both sides of Aude''s record: one rocket-stage identification and one still-unexplained low silent object.'
+description: 'Port-la-Nouvelle shows both sides of Aude''s record: one rocket-stage identification and one still-unexplained low silent object.'
+hero_summary: 'Port-la-Nouvelle shows both sides of Aude''s record: one rocket-stage identification and one still-unexplained low silent object.'
 layout: default
 permalink: /port-la-nouvelle/
 sidebar_expanded_urls:
@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-28 19:02:45'
+date: '2026-06-28 19:02:45'
 parent_title: Aude UFOs
 parent_permalink: /what-do-audes-ufo-cases-really-show/
 parent_nav_short_title: Aude UFOs
@@ -246,8 +246,6 @@ That distinction is central here. A classification A case is a phenomenon identi
 
 The older Port-la-Nouvelle case took place on 26 January 1988 at 21:15. According to GEIPAN’s public summary, a single witness observed an imposing object several times at low altitude. The shape was compared to a helmet with two wings. The object reportedly made no sound while moving, emitted a white light from inside that became orange, changed direction, and then disappeared by moving away rapidly. GEIPAN lists the department as Aude, the region as Languedoc-Roussillon, and the classification as D.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1988-01-01123" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Fr No information is available for this page</span><span class="citation-popover-snippet">Geipan Fr No information is available for this page</span></span></span>
 
-The case is intriguing because the reported features do not immediately fit the most ordinary night-sky errors: it was described as low, silent, large, shaped, manoeuvring and internally lit. Those are precisely the kinds of details that make a witness report feel strong to readers. Yet the public file also shows the limits. GEIPAN says no further information could be gathered about the phenomenon. There is no public photograph, video, radar track, second independent witness, technical measurement, or detailed reconstruction comparable to the 2019 file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1988-01-01123?customGetLattitude=49.399140188353826&amp;customGetLongitude=-0.5712890625&amp;customGetZoom=5&amp;field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=57.58655886615978&amp;field_latitude_value%5Bmin%5D=41.21172151054787&amp;field_longitude_value%5Bmax%5D=14.370117187500002&amp;field_longitude_value%5Bmin%5D=-15.512695312500002&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=2%2C37&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CWt2zkuxRNQ" title="GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer">GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)</a></p><p class="youtube-embed-meta">Channel: Science &amp; Vie &middot; Views: 36.9K &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CWt2zkuxRNQ">Open on YouTube</a></p></div></div></div>
 
 ## The 2019 rocket-stage explanation
@@ -265,7 +263,15 @@ The value of Port-la-Nouvelle is the contrast. The 2019 report shows how a since
 
 The 1988 report shows the opposite problem. Its description is memorable, but the public evidence is sparse. Low altitude, silence and a defined shape are all important witness claims, yet without independent corroboration or reconstructable data they leave investigators with a residue rather than a solution. This is why D classification should be read carefully: it is stronger than “not enough information” in GEIPAN’s system, but it is still not a positive identification of an exotic object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1988-01-01123" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Fr No information is available for this page</span><span class="citation-popover-snippet">Geipan Fr No information is available for this page</span></span></span>
 
-For Aude’s wider UFO history, Port-la-Nouvelle therefore works as a compact lesson in method. A solved case can still be valuable because it teaches what rocket bodies, satellites and reference-point errors can look like from the ground. An unresolved case can still be valuable because it marks a report that official investigators did not close. Neither should be exaggerated. The town’s record is most useful precisely because it contains both outcomes side by side.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jdN-BBirSA8" title="CNES&#x27;s UFO Archive!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jdN-BBirSA8" target="_blank" rel="noopener noreferrer">CNES&#x27;s UFO Archive!</a></p><p class="youtube-embed-meta">Channel: Science Of Space &middot; Views: 164 &middot; Uploaded: July 2021 &middot; Length: 2 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jdN-BBirSA8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jdN-BBirSA8">Open on YouTube</a></p></div></div></div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+For Aude’s wider UFO history, Port-la-Nouvelle therefore works as a compact lesson in method. A solved case can still be valuable because it teaches what rocket bodies, satellites and reference-point errors can look like from the ground. An unresolved case can still be valuable because it marks a report that official investigators did not close. Neither should be exaggerated. The town’s record is most useful precisely because it contains both outcomes side by side.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jdN-BBirSA8" title="CNES&#x27;s UFO Archive!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jdN-BBirSA8" target="_blank" rel="noopener noreferrer">CNES&#x27;s UFO Archive!</a></p><p class="youtube-embed-meta">Channel: Science Of Space &middot; Views: 164 &middot; Uploaded: July 2021 &middot; Length: 2 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jdN-BBirSA8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jdN-BBirSA8">Open on YouTube</a></p></div></div></div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to judge Port-la-Nouvelle without overstating it
 

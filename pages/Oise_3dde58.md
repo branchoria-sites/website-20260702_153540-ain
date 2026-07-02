@@ -107,8 +107,8 @@ keywords:
 - oise
 affiliate_category: oise
 show_ads: true
-description:'Oise has a modest but unusually useful UFO record: not because it contains a single world-famous “landing” case, but because its official files show the full...'
-hero_summary:'Oise has a modest but unusually useful UFO record: not because it contains a single world-famous “landing” case, but because its official files show the full range of what French UFO history often becomes once it is investigated.'
+description: 'Oise has a modest but unusually useful UFO record: not because it contains a single world-famous “landing” case, but because its official files show the full...'
+hero_summary: 'Oise has a modest but unusually useful UFO record: not because it contains a single world-famous “landing” case, but because its official files show the full range of what French UFO history often becomes once it is investigated.'
 layout: default
 permalink: /what-really-happened-in-oises-ufo-files/
 nav_short_title: What Really Happened in Oise's UFO Files?
@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 20:32:40'
+date: '2026-06-29 20:32:40'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -725,8 +725,6 @@ The most useful way to read the Compiègne file is as a durable local anomaly: s
 
 Oise has a noticeable run of official files from the late 1970s and early 1980s, but most should not be grouped with the unresolved cases. GEIPAN’s listings include Pont-Sainte-Maxence in 1976, Marseille-en-Beauvaisis in 1979, Beauvais in July 1979, Pont-Sainte-Maxence again in November 1979, Compiègne on 1 January 1980, Neuilly-en-Thelle on 3 January 1980, and a department-wide Oise case on 5 January 1980.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/recherche/cas/tab?field_date_value=2004-04-23&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=50&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-The pattern is revealing. Pont-Sainte-Maxence on 5 April 1976 is classed A and described as a hoax involving exploding firecrackers, smoke and ground traces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1976-04-00297" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span> Neuilly-en-Thelle on 3 January 1980 is classed B, with the summary pointing to a probable sighting of the full Moon reddened by the rising Sun.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1980-01-00711" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span> The department-wide 5 January 1980 case is classed A and identified by the independent CarteOvni index, which reuses GEIPAN data, as an observation of Venus.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/48336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mww3arniyt0" title="UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer">UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 260.4K &middot; Uploaded: May 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mww3arniyt0">Open on YouTube</a></p></div></div></div>
 
 ## The thin-evidence cases: why “unidentified” is not always strong
@@ -749,7 +747,13 @@ Not every part of Oise’s UFO history comes through GEIPAN. Local press and dep
 
 The 1954 French UFO wave also touched Oise in the press. A reproduction of a 25 September 1954 L’Oise-Matin article discusses “flying saucers” and mentions recent claims in Oise by Mr and Mrs Lucien Masse of Villers-sur-Coudun and Mr Pérez of Compiègne, while also comparing the saucer idea with an experimental British vertical-take-off aircraft design.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/press/loisematin25sep1954f.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span> That article is valuable less as proof of a sighting than as evidence of the period’s imagination: newspapers were already trying to connect local reports, Cold War aviation, American UFO stories and speculative explanations.
 
-This archive layer helps explain why Oise has a UFO memory even where the official case record is modest. The department’s sightings were never isolated from national anxieties about aircraft, secret technology, military radar, space activity and the changing vocabulary of “saucers”, “UFOs” and later “unidentified aerospace phenomena”.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C94mtZ8L7R4" title="L&#x27;histoire du premier cas d&#x27;Ovni dans le Pas-de-Calais à Quarouble en 1954" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C94mtZ8L7R4" target="_blank" rel="noopener noreferrer">L&#x27;histoire du premier cas d&#x27;Ovni dans le Pas-de-Calais à Quarouble en 1954</a></p><p class="youtube-embed-meta">Channel: BFM Grand Lille</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C94mtZ8L7R4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C94mtZ8L7R4">Open on YouTube</a></p></div></div></div>
+This archive layer helps explain why Oise has a UFO memory even where the official case record is modest. The department’s sightings were never isolated from national anxieties about aircraft, secret technology, military radar, space activity and the changing vocabulary of “saucers”, “UFOs” and later “unidentified aerospace phenomena”.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C94mtZ8L7R4" title="L&#x27;histoire du premier cas d&#x27;Ovni dans le Pas-de-Calais à Quarouble en 1954" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C94mtZ8L7R4" target="_blank" rel="noopener noreferrer">L&#x27;histoire du premier cas d&#x27;Ovni dans le Pas-de-Calais à Quarouble en 1954</a></p><p class="youtube-embed-meta">Channel: BFM Grand Lille</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C94mtZ8L7R4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C94mtZ8L7R4">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What usually explains Oise sightings?
 
@@ -757,7 +761,13 @@ The recurring explanations in Oise are not exotic. Across the official files, th
 
 Creil in 2021 is a good modern example. GEIPAN classed the case A after a witness filmed or reported a dark object shaped like a “dragon” or “embryo”; the official explanation was a festive child’s balloon carried by the wind. The file had videos, a drawing, a questionnaire and an investigation report, making it more evidentially useful than a bare anecdote even though the final answer was mundane.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/cas/2021-06-51189?field_date_value=2019-08-31&amp;field_is_new_value=1&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=18&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-This does not make witnesses foolish. Many reports begin with real surprise: an object is silent, oddly coloured, moving against a cloudy sky, partly hidden by trees, or seen while driving. Those are exactly the conditions under which human perception is under strain. Oise’s cases are a reminder that a sincere witness can report accurately what an experience felt like while still misidentifying the cause.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rRie93bYkWk" title="Survols de drones : la base de Creil touchée à son tour｜LCI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rRie93bYkWk" target="_blank" rel="noopener noreferrer">Survols de drones : la base de Creil touchée à son tour｜LCI</a></p><p class="youtube-embed-meta">Channel: LCI</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rRie93bYkWk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rRie93bYkWk">Open on YouTube</a></p></div></div></div>
+This does not make witnesses foolish. Many reports begin with real surprise: an object is silent, oddly coloured, moving against a cloudy sky, partly hidden by trees, or seen while driving. Those are exactly the conditions under which human perception is under strain. Oise’s cases are a reminder that a sincere witness can report accurately what an experience felt like while still misidentifying the cause.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rRie93bYkWk" title="Survols de drones : la base de Creil touchée à son tour｜LCI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rRie93bYkWk" target="_blank" rel="noopener noreferrer">Survols de drones : la base de Creil touchée à son tour｜LCI</a></p><p class="youtube-embed-meta">Channel: LCI</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rRie93bYkWk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rRie93bYkWk">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The fairest reading of Oise’s UFO history
 

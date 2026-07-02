@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 01:10:57'
+date: '2026-06-29 01:10:57'
 parent_title: Creuse UFOs
 parent_permalink: /what-do-creuse-ufo-reports-really-show/
 parent_nav_short_title: Creuse UFOs
@@ -236,7 +236,6 @@ image: /assets/images/Creuse_73fb1d_geipan_creuse_files_cd11f1-overview-social.j
 
 ## Introduction
 
-[Creuse]({{'what-do-creuse-ufo-reports-really-show/' | relative_url }})’s GEIPAN record is thin, but that is exactly why it is useful. The French space agency’s public UFO archive does not show a department crowded with dramatic unresolved cases. It shows a small set of reports in which the decisive issue is usually evidence quality: who saw the object, whether there was a photograph, whether the timing could be checked, and whether later investigation could test the claim. In the current public case list, Creuse includes a handful of files ranging from a 1976 case classed as probably identified, to a 1988 Saint-Sulpice-le-Dunois case classed as category C because the information is insufficient, to later cases explained as astronomical scintillation, an aircraft, and a gas balloon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?order=field_departement_textuel&amp;page=133&amp;sort=desc&amp;undefined=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span><img src="{{"/assets/images/Creuse_73fb1d_geipan_creuse_files_cd11f1-overview.webp" | relative_url }}" alt="Overview image for GEIPAN Files" loading="eager" decoding="sync" fetchpriority="high">
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zFD_jB_DISw" title="Ground Frequency #S2E15 Avec Frédéric COURTADE : responsable du GEIPAN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zFD_jB_DISw" target="_blank" rel="noopener noreferrer">Ground Frequency #S2E15 Avec Frédéric COURTADE : responsable du GEIPAN</a></p><p class="youtube-embed-meta">Channel: Ground Frequency</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zFD_jB_DISw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zFD_jB_DISw">Open on YouTube</a></p></div></div></div>
 
 ## What GEIPAN Records for Creuse
@@ -260,7 +259,13 @@ There are several details that make the testimony interesting. The main witness 
 
 The file also contains the beginnings of a check for alternative witnesses and obvious official [explanations]({{'explanations/' | relative_url }}). Gendarmes contacted people in the surrounding area and found no other witness. A fishmonger’s lorry, which might have provided an independent sighting because it usually passed at that hour, had not passed through on the evening in question. The file also states that no military air or ground manoeuvre had been reported in the region on 13 October 1988.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0528%20%281988307092%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-Those points matter, but they do not close the gap. The case has two related witnesses in the same household, no photograph, no radar or air-traffic correlation in the published file, no independent local corroboration, no precise angular measurements, no exact direction beyond the broad north-east indication, and no documented reconstruction that would allow modern readers to test aircraft, celestial, balloon, vehicle-light or atmospheric explanations with confidence. The report is valuable as a historical witness record, but it is not a strong evidential platform.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+Those points matter, but they do not close the gap. The case has two related witnesses in the same household, no photograph, no radar or air-traffic correlation in the published file, no independent local corroboration, no precise angular measurements, no exact direction beyond the broad north-east indication, and no documented reconstruction that would allow modern readers to test aircraft, celestial, balloon, vehicle-light or atmospheric explanations with confidence. The report is valuable as a historical witness record, but it is not a strong evidential platform.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How Category C Changes the Claim
 
@@ -274,8 +279,6 @@ This is especially important in a rural department such as Creuse. INSEE describ
 ## Why the Thin Record Still Matters
 
 A thin official file can matter in two opposite ways. It can preserve a report that might otherwise survive only as local rumour, and it can stop that rumour from being inflated beyond the evidence. The Saint-Sulpice-le-Dunois file does both. It records the human story: a witness watching from a farm courtyard, calling her husband, seeing a silent light that seemed too fast and too strange to identify. It also records the evidential limits: delayed reporting, no independent witnesses, no confirmed military activity, and no follow-up evidence capable of settling the cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0528%20%281988307092%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+2Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
-The contrast with Sermur and the N145 case is useful. In both modern examples, GEIPAN had a photograph. At Sermur, the photograph’s light pattern and exposure time were enough to support an aircraft explanation. In the N145 case, a photograph plus position and external tracking data led to a specific balloon explanation. These are not spectacular debunkings; they are examples of how a modest extra piece of evidence can move a case from “puzzling account” to “identified phenomenon”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2018-08-50680" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZgDkf64XkNE" title="Le GEIPAN étudie les PANs/OVNIs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZgDkf64XkNE" target="_blank" rel="noopener noreferrer">Le GEIPAN étudie les PANs/OVNIs</a></p><p class="youtube-embed-meta">Channel: Académie de l&#x27;air et de l&#x27;espace (AAE)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZgDkf64XkNE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZgDkf64XkNE">Open on YouTube</a></p></div></div></div>
 

@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-28 19:02:46'
+date: '2026-06-28 19:02:46'
 parent_title: Aveyron UFOs
 parent_permalink: /what-really-happened-in-aveyrons-ufo/
 parent_nav_short_title: Aveyron UFOs
@@ -264,7 +264,13 @@ On the surface, that description invites a familiar explanation: a meteor, atmos
 
 The local setting also matters. GEIPAN notes the proximity of military installations, but says that this did not allow the phenomenon to be identified. In the Millau area, that point naturally brings the Larzac military environment into view: the Larzac plateau lies by Millau, and Camp du Larzac is a military installation around La Cavalerie in the arrondissement of Millau. That context is relevant, but it does not solve the case. GEIPAN’s public file does not identify the objects as military activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1999-03-01528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+2Mapcarta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-Millau is therefore less visually detailed than Flavin, but it survives because one key reported feature resists the simplest explanation. If both lights had moved steadily in a conventional straight path, a meteor or re-entry explanation would be much stronger. The claimed valley dip and climb is the hinge of the case.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+Millau is therefore less visually detailed than Flavin, but it survives because one key reported feature resists the simplest explanation. If both lights had moved steadily in a conventional straight path, a meteor or re-entry explanation would be much stronger. The claimed valley dip and climb is the hinge of the case.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why GEIPAN kept them unidentified
 
@@ -285,8 +291,6 @@ Its strongest points are straightforward:<div class="content-enhancement content
 * **Structure:** the description includes a lower ovoid form, cylinder, dome and lights, rather than only brightness or colour.
 * **Silence:** the object was described as silent despite being close and apparently large.
 * **Prompt documentation:** GEIPAN says drawings and notes were made the same evening and gendarmerie testimony followed the next day.
-* **Negative checks:** air traffic and radar checks reportedly showed nothing abnormal, and local searches produced no traces or additional witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1997-11-01489" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span></div>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dDxYZyMEmUU" title="UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dDxYZyMEmUU" target="_blank" rel="noopener noreferrer">UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic</a></p><p class="youtube-embed-meta">Channel: National Geographic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dDxYZyMEmUU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dDxYZyMEmUU">Open on YouTube</a></p></div></div></div>
 
 ## Why Millau remains intriguing but thinner

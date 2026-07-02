@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-28 14:37:56'
+date: '2026-06-28 14:37:56'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -717,8 +717,6 @@ At Guise on 24 October 1977, three residents reported a red or fiery ball on the
 
 That is an important distinction. The official finding does not say the witnesses were foolish or dishonest. It says they likely saw a real, familiar object under conditions that made it feel strange. For readers trying to understand UFO history, Guise is a useful case precisely because it separates witness credibility from interpretation.
 
-Two January 1979 cases add a more ambiguous note. At Trélou-sur-Marne, a witness reported a dumbbell-shaped luminous object in a courtyard area at about 06:15: two pale yellow spheres with halos, joined by a vivid blue-violet section, apparently stationary before departing rapidly. GEIPAN classifies the case as C because no other witness was found and the information was insufficient. The following day, at Coulonges-Cohan, two witnesses saw a bright sphere in the eastern sky between 05:30 and 07:00; after later review, GEIPAN judged it a probable observation of Venus, possibly affected by mist or a halo effect, and classified it as B.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1979-01-00591" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ## Modern Aisne reports show familiar causes, not stronger mystery
@@ -746,7 +744,13 @@ A recurring feature in Aisne’s older cases is the role of the gendarmerie. GEI
 
 That warning fits Aisne very well. Guise had several witnesses and a press mention, yet the later conclusion was the setting Sun. Saint-Paul-aux-Bois involved four witnesses and rapid gendarmerie involvement, yet GEIPAN’s later analysis pointed to Venus. Venizel had an aviation-related check, and the likely answer was a gendarmerie helicopter. In these cases, official paperwork helps preserve what was reported, but it does not by itself validate the most exotic interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1977-10-00446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr+2cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The best way to read these records is therefore neither dismissive nor credulous. A gendarmerie report can strengthen the historical reliability of a sighting claim: someone really did report something, at a certain time, in a certain place, with a recorded description. But the explanation still depends on astronomy, meteorology, aircraft activity, witness geometry, image analysis and the quality of the remaining evidence.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jdN-BBirSA8" title="CNES&#x27;s UFO Archive!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jdN-BBirSA8" target="_blank" rel="noopener noreferrer">CNES&#x27;s UFO Archive!</a></p><p class="youtube-embed-meta">Channel: Science Of Space &middot; Views: 164 &middot; Uploaded: July 2021 &middot; Length: 2 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jdN-BBirSA8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jdN-BBirSA8">Open on YouTube</a></p></div></div></div>
+The best way to read these records is therefore neither dismissive nor credulous. A gendarmerie report can strengthen the historical reliability of a sighting claim: someone really did report something, at a certain time, in a certain place, with a recorded description. But the explanation still depends on astronomy, meteorology, aircraft activity, witness geometry, image analysis and the quality of the remaining evidence.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jdN-BBirSA8" title="CNES&#x27;s UFO Archive!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jdN-BBirSA8" target="_blank" rel="noopener noreferrer">CNES&#x27;s UFO Archive!</a></p><p class="youtube-embed-meta">Channel: Science Of Space &middot; Views: 164 &middot; Uploaded: July 2021 &middot; Length: 2 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jdN-BBirSA8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jdN-BBirSA8">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Aviation and military links: relevant background, limited explanatory weight
 
@@ -755,6 +759,8 @@ Aisne has a real aviation and military landscape. Saint-Simon-Clastres, for exam
 For UFO history, that matters in two ways. First, it means some residents lived in places where aircraft, airfields and military infrastructure were part of the local background. Secondly, it provides plausible ordinary explanations for some reports, especially lights, low-flying objects or aircraft-like movement.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q9sQ2HCiSBE" title="[Today in History] 8 January 1981 – UFO Sighting in Trans-en-Provence, France" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q9sQ2HCiSBE" target="_blank" rel="noopener noreferrer">[Today in History] 8 January 1981 – UFO Sighting in Trans-en-Provence, France</a></p><p class="youtube-embed-meta">Channel: Qrio &middot; Views: 119 &middot; Uploaded: January 2025 &middot; Length: 2 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q9sQ2HCiSBE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q9sQ2HCiSBE">Open on YouTube</a></p></div></div></div>
+
+
 
 ## How Aisne fits into French UFO history
 

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /calvados-b13668-index/
 description: Focused pages that expand on What Really Happened In Calvados Skies?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Calvados_b13668
 parent_title: What Really Happened In Calvados Skies?

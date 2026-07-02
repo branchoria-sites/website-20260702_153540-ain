@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-28 21:08:03'
+date: '2026-06-28 21:08:03'
 parent_title: Bouches UFOs
 parent_permalink: /what-really-happened-in-bouches-du-rhone/
 parent_nav_short_title: Bouches UFOs
@@ -270,8 +270,6 @@ That distinction is crucial. A weak case is not the same as a strong mystery. In
 
 **Birds and balloons.** Recent Marseille entries include a 16 October 2021 case classified as a child’s balloon and a 14 December 2022 case classified as a bird.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=2019-08-31&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=1&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=14&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span> These are not glamorous explanations, but they are exactly the kind that matter in urban UFO work. A bird close to a camera can look like a fast dark object. A reflective balloon can seem metallic, self-luminous or direction-changing because it turns in the wind and catches sunlight.
 
-**Aircraft, lanterns and flares.** GEIPAN’s Marseille listings include cases classified as probable airliners, lanterns and a probable flare. The 5 August 2014 case involved a light in the night sky leaving a white trail for several hundred metres; GEIPAN considered a flare likely, noting that the persistent smoke trail could remain visible because it was illuminated by city lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2014-08-08943" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span> Other Marseille entries in the database include probable airliner cases in 2012 and 2014 and lantern cases in 2009, 2013 and 2014.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/recherche/cas/tab?order=title&amp;page=76&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hn2xTieploU" title="GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer">GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés</a></p><p class="youtube-embed-meta">Channel: france tv &middot; Views: 4.6K &middot; Uploaded: May 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hn2xTieploU">Open on YouTube</a></p></div></div></div>
 
 ## The Venus case: a small Marseille lesson in big misperception
@@ -317,7 +315,13 @@ Marseille’s ordinary UFO explanations are not random. They repeat because the 
 
 **Reflections** are a special urban problem. A photograph through glass can turn an indoor lamp into a “sky object”. The 11 January 2009 Marseille case is a clean example because GEIPAN identified the circular light as a kitchen neon reflection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2009-01-02214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-These explanations do not prove that every Marseille report is solved. They do show why a startling appearance is not enough. In this city, ordinary candidates are abundant before any exotic hypothesis is needed.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+These explanations do not prove that every Marseille report is solved. They do show why a startling appearance is not enough. In this city, ordinary candidates are abundant before any exotic hypothesis is needed.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What Marseille adds to the wider Bouches-du-Rhône UFO story
 
@@ -325,7 +329,13 @@ Within Bouches-du-Rhône, Marseille is best understood as the department’s lar
 
 That is why Marseille’s solved and probably solved cases are not side notes. They are the control sample. They show what ordinary confusion looks like in a real French department record. They also prevent a common mistake in UFO history: treating every local report as if it belongs to the same mystery. A weak balcony sighting of Venus is not equivalent to a case that remains unexplained after investigation.
 
-The Marseille pattern therefore strengthens, rather than weakens, a balanced department-level approach. It says: take witnesses seriously, but do not stop at the first description. Ask what aircraft were nearby. Check the planets. Consider the horizon. Look for glass, reflections, birds and balloons. Distinguish “not yet identified by the witness” from “unidentified after investigation”.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S7RQecHwGAM" title="Strange High-Altitude Encounters Get Stranger - Episode 288" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S7RQecHwGAM" target="_blank" rel="noopener noreferrer">Strange High-Altitude Encounters Get Stranger - Episode 288</a></p><p class="youtube-embed-meta">Channel: Flight Safety Detectives &middot; Views: 22.0K &middot; Uploaded: August 2025 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S7RQecHwGAM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S7RQecHwGAM">Open on YouTube</a></p></div></div></div>
+The Marseille pattern therefore strengthens, rather than weakens, a balanced department-level approach. It says: take witnesses seriously, but do not stop at the first description. Ask what aircraft were nearby. Check the planets. Consider the horizon. Look for glass, reflections, birds and balloons. Distinguish “not yet identified by the witness” from “unidentified after investigation”.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S7RQecHwGAM" title="Strange High-Altitude Encounters Get Stranger - Episode 288" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S7RQecHwGAM" target="_blank" rel="noopener noreferrer">Strange High-Altitude Encounters Get Stranger - Episode 288</a></p><p class="youtube-embed-meta">Channel: Flight Safety Detectives &middot; Views: 22.0K &middot; Uploaded: August 2025 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S7RQecHwGAM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S7RQecHwGAM">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The reader’s takeaway
 

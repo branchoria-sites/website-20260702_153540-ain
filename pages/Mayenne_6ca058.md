@@ -108,7 +108,7 @@ keywords:
 affiliate_category: mayenne
 show_ads: true
 description: Mayenne is not one of France’s dramatic UFO hotspots.
-hero_summary:'Mayenne is not one of France’s dramatic UFO hotspots. The strongest public record points to a quieter, more instructive pattern: a small number of reports, no GEIPAN cases currently listed as genuinely unexplained, and several sightings that show how ordinary skies can become puzzling when witnesses lack distance, scale, direction, or reliable timing.'
+hero_summary: 'Mayenne is not one of France’s dramatic UFO hotspots. The strongest public record points to a quieter, more instructive pattern: a small number of reports, no GEIPAN cases currently listed as genuinely unexplained, and several sightings that show how ordinary skies can become puzzling when witnesses lack distance, scale, direction, or reliable timing.'
 layout: default
 permalink: /why-mayennes-ufo-files-matter/
 nav_short_title: Why Mayenne's UFO Files Matter
@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 17:28:44'
+date: '2026-06-29 17:28:44'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -721,8 +721,6 @@ The interesting detail is that the witness did not recognise the test fireworks 
 
 ### Évron, 2015: video evidence helped solve the case
 
-The Évron case shows how a stronger file can become less mysterious, not more. On 7 October 2015, a resident saw a blue-reflecting light from his window, called his son, then later joined relatives and a neighbour nearby. Several luminous points were reported, and the witness filmed parts of the observations on 7 and 9 October. GEIPAN classified the case as A after identifying the lights as astronomical objects including Arcturus, Vega, Capella, Aldebaran, Sirius, Jupiter and Regulus.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2015-10-09352" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8sHg90llfKQ" title="Objets volants non identifiés, un secret d&#x27;état ? | bande annonce | Science &amp; Vie TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8sHg90llfKQ" target="_blank" rel="noopener noreferrer">Objets volants non identifiés, un secret d&#x27;état ? | bande annonce | Science &amp; Vie TV</a></p><p class="youtube-embed-meta">Channel: SCREEN+ - Bandes annonces</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8sHg90llfKQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8sHg90llfKQ">Open on YouTube</a></p></div></div></div>
 
 ### Aron, 2019: two sightings, two very different outcomes
@@ -748,11 +746,15 @@ The absence of a class D case in the Mayenne public record is not proof that eve
 
 GEIPAN’s own method helps explain why. Since 2008, it has assessed cases partly through “strangeness” and “consistency”: how far the report is from known phenomena, and how much reliable, objective information is available. A spectacular story with one witness, uncertain timing and contradictory conditions can score high for strangeness but still fail as evidence. Conversely, a bright moving light with a precise time, direction and photograph may be easy to explain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN+2GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">GEIPANMission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">GEIPANMission &amp; Geipan &#124; GEIPAN</span></span></span>
 
-For readers, this is the main lesson of Mayenne’s UFO history: the best cases are not necessarily the weirdest-sounding ones. The best cases are those with precise timing, multiple independent witnesses, stable direction data, photos or video that preserve context, and enough external information to test against aircraft, satellites, stars, planets, fireworks, meteors and local activity.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OLXDikL331Y" title="Geipan : la France aussi s’intéresse aux ovnis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer">Geipan : la France aussi s’intéresse aux ovnis</a></p><p class="youtube-embed-meta">Channel: C dans l&#x27;air - France Télévisions &middot; Views: 22.3K &middot; Uploaded: April 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OLXDikL331Y">Open on YouTube</a></p></div></div></div>
+For readers, this is the main lesson of Mayenne’s UFO history: the best cases are not necessarily the weirdest-sounding ones. The best cases are those with precise timing, multiple independent witnesses, stable direction data, photos or video that preserve context, and enough external information to test against aircraft, satellites, stars, planets, fireworks, meteors and local activity.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OLXDikL331Y" title="Geipan : la France aussi s’intéresse aux ovnis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer">Geipan : la France aussi s’intéresse aux ovnis</a></p><p class="youtube-embed-meta">Channel: C dans l&#x27;air - France Télévisions &middot; Views: 22.3K &middot; Uploaded: April 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OLXDikL331Y">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The sky over Mayenne still produces dramatic mistakes
-
-Mayenne has also appeared in wider sky-event analysis through meteor cases, which are not UFO mysteries once identified but can easily trigger UFO reports in real time. A GEIPAN case from La Turballe in Loire-Atlantique, observed on 22 December 2024, was explained as a bolide seen by many witnesses. GEIPAN’s write-up says the event was recorded by 73 reports in the International Meteor Organization database and captured by four FRIPON fireball-network cameras; the reconstructed luminous path began over Mayenne, about 15 km south-west of Laval, before travelling north-east and fragmenting near the Orne boundary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2024-12-51617" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yDqQGyAwWCg" title="Bureau des ovnis : la vérité est-elle ailleurs ? • FRANCE 24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer">Bureau des ovnis : la vérité est-elle ailleurs ? • FRANCE 24</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 &middot; Views: 24.0K &middot; Uploaded: October 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yDqQGyAwWCg">Open on YouTube</a></p></div></div></div>
 

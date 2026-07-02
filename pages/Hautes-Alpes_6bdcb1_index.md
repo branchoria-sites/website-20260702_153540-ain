@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /hautes-alpes-6bdcb1-index/
 description: Focused pages that expand on Why the Hautes Alpes UFO Record Stays....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Hautes-Alpes_6bdcb1
 parent_title: Why the Hautes Alpes UFO Record Stays...

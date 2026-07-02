@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 05:23:29'
+date: '2026-06-30 05:23:29'
 parent_title: Yvelines UFOs
 parent_permalink: /what-really-happened-in-yvelines-skies/
 parent_nav_short_title: Yvelines UFOs
@@ -236,7 +236,6 @@ image: /assets/images/Yvelines_722ea1_ecquevilly_1993_case_78cc8a-overview-socia
 
 ## Introduction
 
-Ecquevilly is the [Yvelines]({{'what-really-happened-in-yvelines-skies/' | relative_url }}) UFO case that most deserves careful attention, not because it proves anything extraordinary, but because it has remained officially unexplained after a structured re-examination. In the early hours of 15 November 1993, a single witness at home near Ecquevilly reported a silent circle of white, yellow and bluish lights, first apparently low and static, then moving towards and over the house before disappearing. GEIPAN, the French official unit within CNES that investigates unidentified aerospace phenomena, still classifies the case as D, meaning unexplained after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1993-11-01335" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanECQUEVILLY (78) 15.11.1993 &#124; GEIPAN...</span></span></span><img src="{{"/assets/images/Yvelines_722ea1_ecquevilly_1993_case_78cc8a-overview.webp" | relative_url }}" alt="Overview image for Ecquevilly" loading="eager" decoding="sync" fetchpriority="high">
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yDqQGyAwWCg" title="Bureau des ovnis : la vérité est-elle ailleurs ? • FRANCE 24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer">Bureau des ovnis : la vérité est-elle ailleurs ? • FRANCE 24</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 &middot; Views: 24.0K &middot; Uploaded: October 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yDqQGyAwWCg">Open on YouTube</a></p></div></div></div>
 
 ## The night-time sighting and witness account
@@ -256,7 +255,13 @@ The gendarmerie material mattered because it preserved the scene soon after the 
 
 Weather and aviation context were also checked. GEIPAN used Pontoise weather data for wind and Trappes data for cloud and visibility, noting a very lightly clouded sky, visibility falling from 10,000 metres to 8,000 metres and then 3,020 metres, and a weak north-westerly wind. The report also placed the witness in a busy aviation region west-north-west of Paris, noting nearby civil and military aerodromes, including Les Mureaux about 4 km away, Beynes-Thivernal about 13 km away, and Chavenay-Villepreux about 14 km away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete171.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Microsoft Word</span><span class="citation-popover-snippet">GeipanMicrosoft Word - CR AC JPA MPD.docx...</span></span></span>
 
-That context does not solve the case, but it sets the right standard. In Yvelines, a night-time object report has to be tested against aviation, weather, light effects and astronomical explanations before it can be treated as genuinely unresolved. Ecquevilly remains notable because GEIPAN did that basic checking and still did not find a satisfactory identification.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+That context does not solve the case, but it sets the right standard. In Yvelines, a night-time object report has to be tested against aviation, weather, light effects and astronomical explanations before it can be treated as genuinely unresolved. Ecquevilly remains notable because GEIPAN did that basic checking and still did not find a satisfactory identification.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What GEIPAN re-examined decades later
 
@@ -272,8 +277,6 @@ The 2018 contact with the witness added colour but did not greatly strengthen th
 The most important doubt is simple: this is a one-witness case. No neighbour, family member or passer-by confirmed the sighting, and GEIPAN’s public case page says no trace was found and no other testimony was collected during the gendarmerie enquiry. That does not make the witness unreliable, but it means the case cannot be independently cross-checked in the way a stronger multi-witness or instrument-supported case could be.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1993-11-01335" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanECQUEVILLY (78) 15.11.1993 &#124; GEIPAN...</span></span></span>
 
 The timing also matters. The witness had just woken up at about 4.30 am. GEIPAN considered the possibility of a hypnopompic hallucination, the kind that can occur in the first moments of waking and feel clear and real. The report did not say this was the explanation; in fact, it found no positive element in the file that predisposed the case towards hallucination. But without a GEIPAN field interview and cognitive interview at the time, it could not be excluded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete171.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Microsoft Word</span><span class="citation-popover-snippet">GeipanMicrosoft Word - CR AC JPA MPD.docx...</span></span></span>
-
-There are measurement gaps too. GEIPAN regretted the absence of precise angular measurements taken during the original on-site investigation. The later reconstruction depended on sketches, photographs, trees and site references rather than formal measurements made at the time. That is good enough to make the file analysable, but not good enough to remove uncertainty about exact size, height, path and distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete171.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Microsoft Word</span><span class="citation-popover-snippet">GeipanMicrosoft Word - CR AC JPA MPD.docx...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tZLA0pMTO5E" title="Nick Pope’s Global UFO Investigation | Ancient Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tZLA0pMTO5E" target="_blank" rel="noopener noreferrer">Nick Pope’s Global UFO Investigation | Ancient Aliens</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tZLA0pMTO5E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tZLA0pMTO5E">Open on YouTube</a></p></div></div></div>
 

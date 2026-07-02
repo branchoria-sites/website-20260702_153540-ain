@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bas-rhin-ad02bb-index/
 description: Focused pages that expand on What Really Happened in Bas Rhin Skies?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Bas-Rhin_ad02bb
 parent_title: What Really Happened in Bas Rhin Skies?

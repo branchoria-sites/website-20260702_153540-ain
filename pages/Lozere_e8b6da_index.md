@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /lozere-e8b6da-index/
 description: Focused pages that expand on What Really Happened in Lozere's UFO Files?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Lozere_e8b6da
 parent_title: What Really Happened in Lozere's UFO Files?

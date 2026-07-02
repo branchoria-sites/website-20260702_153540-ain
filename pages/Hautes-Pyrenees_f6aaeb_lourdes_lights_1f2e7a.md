@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 00:33:25'
+date: '2026-06-30 00:33:25'
 parent_title: Hautes Pyrenees UFOs
 parent_permalink: /hautes-pyrenees/
 parent_nav_short_title: Hautes Pyrenees UFOs
@@ -241,8 +241,6 @@ Lourdes is one of the clearest places in Hautes-Pyrénées where repeated UFO-li
 
 Lourdes has several ingredients that make unusual-light reports more likely to feel significant. It is a busy town, visited by large numbers of people, surrounded by darker Pyrenean horizons and close to open views where a low light can appear to hang over the landscape. In that setting, a bright planet, a drifting lantern or a fast meteor can be misread as closer, lower, slower or more deliberate than it really is.
 
-The official French context also matters. GEIPAN, the CNES group created in 1977 to collect, analyse and publish accounts of unidentified aerospace phenomena, treats witness reports as serious raw material but does not treat every puzzling report as evidence of an extraordinary object. CNES describes GEIPAN’s mission as collecting, analysing and archiving eyewitness accounts, with partners including the gendarmerie, police, the air and space force, CNRS and Météo-France. Its own figures show that most cases are identified or probably identified, while only a small minority remain unidentified after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yeznl3GM0vs" title="Ovnis: le Geipan, au CNES, enquête sur ces phénomènes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yeznl3GM0vs" target="_blank" rel="noopener noreferrer">Ovnis: le Geipan, au CNES, enquête sur ces phénomènes</a></p><p class="youtube-embed-meta">Channel: AFP &middot; Views: 9.2K &middot; Uploaded: December 2015 &middot; Length: 2 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yeznl3GM0vs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yeznl3GM0vs">Open on YouTube</a></p></div></div></div>
 
 ## The 2009, 2013 and 2015 Sightings
@@ -268,8 +266,6 @@ The Lourdes pattern depends on three ordinary mechanisms that can look extraordi
 
 That matches the Lourdes-area record. In the 13 February 2011 case on the D940 road towards Lourdes, an automobilist saw an orange luminous ball near the horizon for about thirty minutes, with apparent slow movement and colour changes. GEIPAN found that the direction remained roughly the same along the witness’s route and that Venus was visible in that direction. It also explained the colour changes as atmospheric scintillation, strongest near the horizon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2011-02-08605" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The 2013 Lourdes report used a similar mechanism. GEIPAN explicitly described the “following ball” impression as a classic misidentification: a very bright object close to the horizon, seen over a long period and on several days, can seem to accompany the observer even though it is a fixed astronomical target from the observer’s point of view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2013-09-08606" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H8vlCp6WaFM" title="The Object That Appeared On Venus And Why We Ignored It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H8vlCp6WaFM" target="_blank" rel="noopener noreferrer">The Object That Appeared On Venus And Why We Ignored It</a></p><p class="youtube-embed-meta">Channel: Mystral</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H8vlCp6WaFM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H8vlCp6WaFM">Open on YouTube</a></p></div></div></div>
 
 ## What the Lourdes Cases Teach About Local Context
@@ -291,7 +287,13 @@ The strongest identifications are the A cases. The 2009 Lourdes lantern case was
 
 The weaker but still plausible identifications are B cases. The 2015 Christmas-night Lourdes lantern report fits that category: the colour, duration, silence, motion and festive timing all supported a lantern explanation, but the limited video context prevented the same level of certainty as in 2009.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2015-12-09380" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The important point for readers is that Lourdes does not need to be forced into either extreme. It is not a famous unresolved UFO hotspot, but nor is it merely a place where nothing interesting happened. Its interest lies in the pattern itself: several sincere reports, several different ordinary causes, and enough official detail to show how investigators move from “strange light” to “probable or confirmed explanation”.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O4vKMT7ytTk" title="GEIPAN : qui étudie les ovnis ? - Science En Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O4vKMT7ytTk" target="_blank" rel="noopener noreferrer">GEIPAN : qui étudie les ovnis ? - Science En Questions</a></p><p class="youtube-embed-meta">Channel: L&#x27;Esprit Sorcier TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O4vKMT7ytTk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O4vKMT7ytTk">Open on YouTube</a></p></div></div></div>
+The important point for readers is that Lourdes does not need to be forced into either extreme. It is not a famous unresolved UFO hotspot, but nor is it merely a place where nothing interesting happened. Its interest lies in the pattern itself: several sincere reports, several different ordinary causes, and enough official detail to show how investigators move from “strange light” to “probable or confirmed explanation”.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O4vKMT7ytTk" title="GEIPAN : qui étudie les ovnis ? - Science En Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O4vKMT7ytTk" target="_blank" rel="noopener noreferrer">GEIPAN : qui étudie les ovnis ? - Science En Questions</a></p><p class="youtube-embed-meta">Channel: L&#x27;Esprit Sorcier TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O4vKMT7ytTk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O4vKMT7ytTk">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why This Matters for Hautes-Pyrénées UFO History
 

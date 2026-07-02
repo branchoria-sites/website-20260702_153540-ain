@@ -108,7 +108,7 @@ keywords:
 affiliate_category: bouches-du-rhone
 show_ads: true
 description: Bouches-du-Rhône is one of the more useful French departments for studying UFO history, not because it proves exotic craft, but because it combines three...
-hero_summary:'Bouches-du-Rhône is one of the more useful French departments for studying UFO history, not because it proves exotic craft, but because it combines three things: many ordinary reports, a few genuinely unresolved GEIPAN files, and a strong aviation setting around Marseille, Marignane, Istres and Salon-de-Provence.'
+hero_summary: 'Bouches-du-Rhône is one of the more useful French departments for studying UFO history, not because it proves exotic craft, but because it combines three things: many ordinary reports, a few genuinely unresolved GEIPAN files, and a strong aviation setting around Marseille, Marignane, Istres and Salon-de-Provence.'
 layout: default
 permalink: /what-really-happened-in-bouches-du-rhone/
 nav_short_title: What Really Happened in Bouches du Rhone Skies?
@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-28 21:08:02'
+date: '2026-06-28 21:08:02'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -729,7 +729,13 @@ GEIPAN’s listings include class-C reports at places such as Saint-Martin-de-Cr
 
 The Tarascon 1994 case shows the problem well. GEIPAN describes a late testimony made in 2014 about an old event in April 1994. Two witnesses reportedly saw a whitish lenticular glow for about an hour and a half, apparently low on the horizon, before it disappeared. GEIPAN notes that this kind of long, low, whitish glow evokes the Moon, perhaps partly hidden by clouds, but the lack of a precise date prevents the hypothesis from being verified or ruled out. The case is therefore classed C for lack of precise information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/51995?field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=%2C390&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-For readers, this is one of the most important distinctions in French UFO records. “Unidentified” can mean “still unexplained after investigation”, or it can mean “not enough data to test”. Those are very different claims.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+For readers, this is one of the most important distinctions in French UFO records. “Unidentified” can mean “still unexplained after investigation”, or it can mean “not enough data to test”. Those are very different claims.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Marseille and the pattern of ordinary explanations
 
@@ -750,13 +756,21 @@ This case is important, but not because it is strong by modern standards. It is 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q_Pe9_QpesY" title="QUE SAIT-ON RÉELLEMENT DES OVNIS ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q_Pe9_QpesY" target="_blank" rel="noopener noreferrer">QUE SAIT-ON RÉELLEMENT DES OVNIS ?</a></p><p class="youtube-embed-meta">Channel: Xavier Tytelman &middot; Views: 289.5K &middot; Uploaded: March 2025 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q_Pe9_QpesY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q_Pe9_QpesY">Open on YouTube</a></p></div></div></div>
 
+
+
 ## Local archives make the department unusually useful
 
 Bouches-du-Rhône is not only a place of sightings; it is also a place where UFO history has been archived. Historian Pierre Lagrange’s work on the history of French ufology notes that from 2007 GEIPAN placed many gendarmerie reports and official studies online, making them far more accessible to researchers. He also notes that private UFO archives collected by SCEAU include thousands of pages in departmental archive centres, including the Bouches-du-Rhône archives in Marseille.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://interfas.univ-tlse2.fr/nacelles/379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interfas.univ-tlse2.fr">[interfas.univ-tlse2.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interfas.univ-tlse2.fr</span><span class="citation-popover-snippet">Open source on univ-tlse2.fr.</span></span></span>
 
 That Bouches-du-Rhône archive holding is especially relevant because it contains material from local or regional groups, including CERPA and GREPO, along with correspondence, meeting records, administrative material, manuscripts, publicity and UFO periodicals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://interfas.univ-tlse2.fr/nacelles/379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interfas.univ-tlse2.fr">[interfas.univ-tlse2.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interfas.univ-tlse2.fr</span><span class="citation-popover-snippet">Open source on univ-tlse2.fr.</span></span></span>
 
-This changes how the department should be studied. A serious page on Bouches-du-Rhône UFO history should not rely only on spectacular cases. The archive trail can show how reports were collected, how local investigators worked, how claims moved through newsletters and meetings, and how private ufology differed from official GEIPAN classification. That local research culture is part of the phenomenon.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NhSR1fqz08w" title="Ancien pilote de chasse dans l&#x27;aéronavale, il a été témoin d&#x27;un PAN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NhSR1fqz08w" target="_blank" rel="noopener noreferrer">Ancien pilote de chasse dans l&#x27;aéronavale, il a été témoin d&#x27;un PAN</a></p><p class="youtube-embed-meta">Channel: César Mourot</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NhSR1fqz08w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NhSR1fqz08w">Open on YouTube</a></p></div></div></div>
+This changes how the department should be studied. A serious page on Bouches-du-Rhône UFO history should not rely only on spectacular cases. The archive trail can show how reports were collected, how local investigators worked, how claims moved through newsletters and meetings, and how private ufology differed from official GEIPAN classification. That local research culture is part of the phenomenon.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NhSR1fqz08w" title="Ancien pilote de chasse dans l&#x27;aéronavale, il a été témoin d&#x27;un PAN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NhSR1fqz08w" target="_blank" rel="noopener noreferrer">Ancien pilote de chasse dans l&#x27;aéronavale, il a été témoin d&#x27;un PAN</a></p><p class="youtube-embed-meta">Channel: César Mourot</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NhSR1fqz08w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NhSR1fqz08w">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What recurring explanations teach us
 

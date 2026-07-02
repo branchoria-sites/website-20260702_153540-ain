@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 10:11:04'
+date: '2026-06-30 10:11:04'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -719,8 +719,6 @@ Two Vienne cases from 2009 show a recurring problem in UFO reports: slow orange 
 
 At Poitiers on 6 September 2009, a witness saw three orange luminous balls moving silently and in a straight line from a home window between midnight and 00:15. The objects appeared to change direction and then vanish as they rose. GEIPAN classified the case as B, meaning probably identified, and concluded that the description matched sky lanterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/54253" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-At Nieuil-l’Espoir on 3 October 2009, a family observed groups of bright round objects moving across the sky for six to seven minutes, again without sound. The gendarmerie inquiry found that Chinese lanterns had been released for a birthday, and a person connected with the release provided photographs. GEIPAN still noted an awkward point: the declared launch time did not match the reported observation time, although the photo data supported the later launch time. The case was therefore not presented as absolutely proved, but as a probable lantern explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/54317?field_date_valu_valu=04-23&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=160&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z3EETqjkKVE" title="L’ex-directeur du GEPAN brise le silence (J.J Velasco)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z3EETqjkKVE" target="_blank" rel="noopener noreferrer">L’ex-directeur du GEPAN brise le silence (J.J Velasco)</a></p><p class="youtube-embed-meta">Channel: Biomécanique</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z3EETqjkKVE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z3EETqjkKVE">Open on YouTube</a></p></div></div></div>
 
 ## La Trimouille and La Villedieu-du-Clain point to fast re-entries and slow satellite puzzles
@@ -742,13 +740,17 @@ The Cenon story concerns Yves David, a young farmer, reportedly seeing a strange
 
 The Béruges story, dated 7 October 1954, is described in later ufological catalogues as a farmer seeing a luminous circular object on or near the ground, emitting a beam of light. The problem is not that these accounts are impossible to study; it is that their evidential chain is weaker, more dependent on later retellings, and embedded in a national period when “flying saucer” expectations were spreading through newspapers, conversation and popular imagination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/1954/7oct1954beruges.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
 
-For a Vienne UFO history page, these 1954 stories should be treated as folklore-adjacent historical claims rather than established local events. They matter because they show that Vienne was not outside the great mid-century French saucer wave. They do not, on the available public evidence, outweigh the better-documented modern files.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hkDXEZPb1B0" title="Vie extraterrestre : bientôt des preuves ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hkDXEZPb1B0" target="_blank" rel="noopener noreferrer">Vie extraterrestre : bientôt des preuves ?</a></p><p class="youtube-embed-meta">Channel: Usbek &amp; Rica</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hkDXEZPb1B0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hkDXEZPb1B0">Open on YouTube</a></p></div></div></div>
+For a Vienne UFO history page, these 1954 stories should be treated as folklore-adjacent historical claims rather than established local events. They matter because they show that Vienne was not outside the great mid-century French saucer wave. They do not, on the available public evidence, outweigh the better-documented modern files.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hkDXEZPb1B0" title="Vie extraterrestre : bientôt des preuves ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hkDXEZPb1B0" target="_blank" rel="noopener noreferrer">Vie extraterrestre : bientôt des preuves ?</a></p><p class="youtube-embed-meta">Channel: Usbek &amp; Rica</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hkDXEZPb1B0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hkDXEZPb1B0">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Aviation around Poitiers is relevant, but not a shortcut explanation
 
 Vienne’s aviation setting is worth noting because misidentified aircraft, navigation lights, training activity and airport traffic can all shape UFO reports. Poitiers-Biard airport, west of Poitiers, has a long aviation history: the airport’s own history page dates early local flying activity to 1913, the first commercial flight to Paris and the creation of the Aéro-club du Poitou to 1924, and the extension of the main runway to 2,350 metres in 1971.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.poitiers.aeroport.fr/en/corporate/aeroport/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poitiers.aeroport.fr">[Aéroport Poitiers-Biard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poitiers.aeroport.fr</span><span class="citation-popover-title">Aéroport Poitiers-Biard Airport</span><span class="citation-popover-snippet">Aéroport Poitiers-Biard Airport</span></span></span>
-
-That background does not mean every Vienne sighting near Poitiers is “just a plane”. In the main GEIPAN examples above, the best explanations are meteors, lanterns, re-entry-like phenomena or satellite reflections rather than ordinary aircraft. But aviation context still matters because GEIPAN’s work is explicitly connected to aerospace knowledge and official partners, including the Air and Space Force, and because the department’s sky is not an empty stage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C94mtZ8L7R4" title="L&#x27;histoire du premier cas d&#x27;Ovni dans le Pas-de-Calais à Quarouble en 1954" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C94mtZ8L7R4" target="_blank" rel="noopener noreferrer">L&#x27;histoire du premier cas d&#x27;Ovni dans le Pas-de-Calais à Quarouble en 1954</a></p><p class="youtube-embed-meta">Channel: BFM Grand Lille</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C94mtZ8L7R4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C94mtZ8L7R4">Open on YouTube</a></p></div></div></div>
 

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /vaucluse-17bae7-index/
 description: Focused pages that expand on What Really Happened in Vaucluse's UFO....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Vaucluse_17bae7
 parent_title: What Really Happened in Vaucluse's UFO...

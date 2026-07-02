@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /vosges-53546a-index/
 description: Focused pages that expand on What Do Vosges UFO Reports Really Show?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Vosges_53546a
 parent_title: What Do Vosges UFO Reports Really Show?

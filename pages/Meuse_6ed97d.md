@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 19:00:14'
+date: '2026-06-29 19:00:14'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -721,8 +721,6 @@ The Revigny-sur-Ornain photographic story is probably the most colourful Meuse c
 
 The witness profile is what makes the case memorable: a gendarme, with photographic experience, reporting and photographing a close, low-altitude event. Those features are naturally attractive to UFO researchers, because they appear to offer more than a fleeting anonymous light in the sky. The same source presents the case as having two photographs and a gendarmerie report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ldlnufologie.com/category/archives/page/3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ldlnufologie.com">[Lumières Dans La Nuit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ldlnufologie.com</span><span class="citation-popover-title">Lumières Dans La Nuit Archives – Page 3 – Lumières Dans La Nuit</span><span class="citation-popover-snippet">Lumières Dans La Nuit Archives – Page 3 – Lumières Dans La Nuit</span></span></span>
 
-The caution is equally important. The public source is a later specialist UFO republication of an older magazine item, not a complete modern GEIPAN case page with a full current re-analysis. A separate catalogue-style page found online labels the 6 June 1975 Revigny-sur-Ornain photographic case as “Fake”, while also listing older references including Lumières Dans La Nuit, Phénomènes Spatiaux, a gendarmerie report and later UFO books. That label should not be treated as a settled official judgement by itself, but it does show that the case has been contested in later cataloguing rather than simply preserved as an unquestioned classic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yumpu.com/en/document/view/16893111/consulter-le-pdf-ufomania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumpu.com">[YUMPU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumpu.com</span><span class="citation-popover-title">Consulter le PDF</span><span class="citation-popover-snippet">Consulter le PDF</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ## Modern cases show how ordinary sky events become UFO reports
@@ -744,15 +742,11 @@ Meuse is not just rural sky and villages. It also has aviation and military cont
 
 Historically, Étain-Rouvres also has a layered aviation past. It was built before the Second World War, used by French, British, German and American forces, later developed in the NATO period, and eventually became an Army aviation base after the American departure from France.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Base_a%C3%A9rienne_d%27%C3%89tain-Rouvres" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Base aérienne d&#x27;Étain-Rouvres</span><span class="citation-popover-snippet">Base aérienne d&#x27;Étain-Rouvres</span></span></span>
 
-This background should be used carefully. It does not mean that every Meuse UFO report is a military aircraft, helicopter or exercise. But it does mean that aircraft activity, training routes, low-level flight, navigation lights, and reflections from aircraft should remain part of any grounded investigation. GEIPAN’s wider method explicitly uses partners such as the Air and Space Force, civil aviation, Météo-France and other institutions, and the gendarmerie has described how military information can help identify aircraft involved in puzzling reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QaufLOMHuko" title="Témoignage OVNI : Gendarme Michel Flouret Vendredi 6 juin 1975 à Revigny-Sur-Ornain (MEUSE)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QaufLOMHuko" target="_blank" rel="noopener noreferrer">Témoignage OVNI : Gendarme Michel Flouret Vendredi 6 juin 1975 à Revigny-Sur-Ornain (MEUSE)</a></p><p class="youtube-embed-meta">Channel: mIm mOUm</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QaufLOMHuko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QaufLOMHuko">Open on YouTube</a></p></div></div></div>
 
 ## How Meuse sightings entered the official system
 
 The official French pathway helps explain why Meuse has usable records at all. GEIPAN, housed within CNES, was created in the French official UFO tradition beginning in 1977 and now collects, analyses, archives and publishes anonymised reports of unidentified aerospace phenomena. CNES describes its mission as collecting eyewitness accounts, analysing them and making documented reports public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span>
-
-The gendarmerie is a major entry point because of its local coverage and its routine contact with witnesses. Its role is not to endorse extraordinary claims, but to collect statements, separate witness accounts where possible, preserve details such as drawings and timings, and pass material to GEIPAN for analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gendarmerie.interieur.gouv.fr/gendinfo/actualites/2022/comment-la-gendarmerie-prend-elle-en-compte-les-etrangetes-dans-le-ciel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gendarmerie.interieur.gouv.fr">[Gendarmerie Nationale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gendarmerie.interieur.gouv.fr</span><span class="citation-popover-snippet">Open source on gouv.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dcMrAX4zRwo" title="Ancient Aliens: 300+ &quot;Flying Saucer&quot; Incidents in France (Season 19) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dcMrAX4zRwo" target="_blank" rel="noopener noreferrer">Ancient Aliens: 300+ &quot;Flying Saucer&quot; Incidents in France (Season 19) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dcMrAX4zRwo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dcMrAX4zRwo">Open on YouTube</a></p></div></div></div>
 

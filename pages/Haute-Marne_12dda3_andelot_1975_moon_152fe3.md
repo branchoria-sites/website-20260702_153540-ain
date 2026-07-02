@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 17:28:43'
+date: '2026-06-29 17:28:43'
 parent_title: Haute Marne UFOs
 parent_permalink: /what-really-happened-in-haute-marnes-ufo/
 parent_nav_short_title: Haute Marne UFOs
@@ -253,8 +253,6 @@ The photographs are central because they sound, at first, like hard evidence. In
 Raoul Robé’s 1996 reanalysis is important because it did not simply wave away the testimony. It broke the event into observation sites and directions. From the first stop near the D44, he estimated the reported viewing direction as roughly south to south-west, about 190 to 220 degrees. At the N65/D137 junction he put the direction around 220 to 230 degrees. Along the D137 he gave about 220 to 240 degrees. Near Blancheville, between Chantraines and Blancheville, he again placed the direction around 230 to 240 degrees. His conclusion was that the successive observation directions clustered in the same south-western sector.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fichier-pdf.fr/2016/03/19/andelot-1975/andelot-1975.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fichier-pdf.fr">[Fichier PDF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fichier-pdf.fr</span><span class="citation-popover-title">andelot 1975</span><span class="citation-popover-snippet">andelot 1975</span></span></span>
 
 That route reconstruction matters more than the strangeness of any single phrase. A witness saying an object “followed” the car can be compelling, but a distant Moon can seem to follow any moving observer because its position against the local foreground barely changes. Trees, houses, ridges and bends then create the illusion of stops, starts and reappearances. Robé explicitly compared this with a classic “following ball” effect in astronomical misidentifications, where a bright fixed object seems to accompany a vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fichier-pdf.fr/2016/03/19/andelot-1975/andelot-1975.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fichier-pdf.fr">[Fichier PDF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fichier-pdf.fr</span><span class="citation-popover-title">andelot 1975</span><span class="citation-popover-snippet">andelot 1975</span></span></span>
-
-The other witness reports also fit the sceptical reading better than they first appear. Robé cited gendarmerie-linked witness material in which one woman saw an abnormal glow earlier in the evening while travelling on the N65, in the direction of Cirey-lès-Mareilles, and compared it to a very intense sunset rather than to an aircraft. He also mentioned another witness who saw red luminous rays in the same broad sector. These reports are useful because they do not necessarily confirm a close object; they may confirm that a bright, low, orange celestial light was noticeable to several people that evening.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fichier-pdf.fr/2016/03/19/andelot-1975/andelot-1975.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fichier-pdf.fr">[Fichier PDF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fichier-pdf.fr</span><span class="citation-popover-title">andelot 1975</span><span class="citation-popover-snippet">andelot 1975</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HEQkrZ977bM" title="1975 : un OVNI observé dans le Nord" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HEQkrZ977bM" target="_blank" rel="noopener noreferrer">1975 : un OVNI observé dans le Nord</a></p><p class="youtube-embed-meta">Channel: France 3 Hauts-de-France</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HEQkrZ977bM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HEQkrZ977bM">Open on YouTube</a></p></div></div></div>
 

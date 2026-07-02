@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-02T14:27:46.397940Z",
+  "generated_at_utc": "2026-07-02T18:14:23.517703Z",
   "summary": {
     "total_pages_with_permalink": 384,
     "visible_pages": 288,
@@ -9,12 +9,12 @@
     "visible_pages_with_empty_branch_sections": 0,
     "visible_pages_with_missing_parent_target": 0,
     "branch_navigation_coverage_percent": 100.0,
-    "inline_internal_edge_count": 503,
+    "inline_internal_edge_count": 499,
     "inline_internal_target_page_count": 288,
     "visible_pages_gaining_inbound_from_inline_links": 0,
     "visible_pages_without_inline_inbound_links": 0,
-    "visible_pages_with_inline_outbound_links": 191,
-    "average_inline_inbound_links_per_visible_page": 1.75,
+    "visible_pages_with_inline_outbound_links": 187,
+    "average_inline_inbound_links_per_visible_page": 1.73,
     "unresolved_inline_internal_target_count": 0,
     "sample_edge_count": 200
   },
@@ -40,7 +40,7 @@
       },
       {
         "basename": "Alpes-de-Haute-Prove_b1f7bc_valensole_1965_evide_a68243",
-        "title": "Valensole",
+        "title": "What Really Happened at Valensole?",
         "permalink": "/valensole/",
         "inline_inbound_count": 3
       },
@@ -58,7 +58,7 @@
       },
       {
         "basename": "Aude_f0dc3d_port_la_nouvelle_cas_1eba05",
-        "title": "Port la Nouvelle",
+        "title": "Why Port la Nouvelle Still Stands Out",
         "permalink": "/port-la-nouvelle/",
         "inline_inbound_count": 3
       },
@@ -88,7 +88,7 @@
       },
       {
         "basename": "Cantal_202658_cussac_1967_2ce0b9",
-        "title": "Cussac 1967",
+        "title": "Was Cussac a Close Encounter or Misperception?",
         "permalink": "/cussac-1967/",
         "inline_inbound_count": 3
       },
@@ -112,7 +112,7 @@
       },
       {
         "basename": "Cotes-d_Armor_789c20_binic_dinan_unresolv_ba1ca4",
-        "title": "Unresolved Cases",
+        "title": "Why Binic and Dinan Still Stand Out",
         "permalink": "/unresolved-cases-e4d60f/",
         "inline_inbound_count": 3
       },
@@ -124,7 +124,7 @@
       },
       {
         "basename": "Creuse_73fb1d_aircraft_balloon_exp_078868",
-        "title": "Explanations",
+        "title": "How Ordinary Lights Became Creuse UFOs",
         "permalink": "/explanations/",
         "inline_inbound_count": 3
       },
@@ -142,13 +142,13 @@
       },
       {
         "basename": "Doubs_70fb5f_besancon_red_lights_2b9012",
-        "title": "Red Lights",
+        "title": "Were Besancon's Red Lights Really Lanterns?",
         "permalink": "/red-lights/",
         "inline_inbound_count": 3
       },
       {
         "basename": "Drome_06f265_chabeuil_ufo_hotspot_75ff84",
-        "title": "Chabeuil",
+        "title": "Why Did Chabeuil Become Drome's UFO Name?",
         "permalink": "/chabeuil/",
         "inline_inbound_count": 3
       },
@@ -165,14 +165,8 @@
         "inline_inbound_count": 3
       },
       {
-        "basename": "Finistere_3f7bbd_crozon_2020_red_ligh_63737b",
-        "title": "Crozon 2020",
-        "permalink": "/crozon-2020/",
-        "inline_inbound_count": 3
-      },
-      {
         "basename": "Gers_631401_boulaur_convent_sigh_d837b9",
-        "title": "Boulaur",
+        "title": "Why the Boulaur Convent Sighting Still Stands Out",
         "permalink": "/boulaur/",
         "inline_inbound_count": 3
       },
@@ -190,7 +184,7 @@
       },
       {
         "basename": "Haut-Rhin_0c01ce_huningue_rixheim_unr_0d51dd",
-        "title": "Unresolved Cases",
+        "title": "Why These Two Haut Rhin Cases Still Matter",
         "permalink": "/unresolved-cases-6ed91b/",
         "inline_inbound_count": 3
       },
@@ -256,7 +250,7 @@
       },
       {
         "basename": "Indre-et-Loire_b45e62_geipan_no_class_d_945fa6",
-        "title": "GEIPAN Record",
+        "title": "Why Are There No Class D Cases?",
         "permalink": "/geipan-record-f63425/",
         "inline_inbound_count": 3
       },
@@ -264,6 +258,12 @@
         "basename": "Indre_4b1413",
         "title": "Were Indre's UFOs Ever Truly Unexplained?",
         "permalink": "/were-indres-ufos-ever-truly-unexplained/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Indre_4b1413_chateauroux_aviation_efe5ac",
+        "title": "Did Chateauroux Shape Indre UFO Sightings?",
+        "permalink": "/aviation-context/",
         "inline_inbound_count": 3
       }
     ],

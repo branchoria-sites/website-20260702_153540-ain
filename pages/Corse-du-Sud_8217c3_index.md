@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /corse-du-sud-8217c3-index/
 description: Focused pages that expand on What Really Happened in Corse du Sud's UFO....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Corse-du-Sud_8217c3
 parent_title: What Really Happened in Corse du Sud's UFO...

@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 09:10:34'
+date: '2026-06-29 09:10:34'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -709,8 +709,6 @@ On the independent CarteOvni summary, Indre-et-Loire is listed with 34 GEIPAN-de
 
 The 1976 Chambourg-sur-Indre case is one of the best examples of a report that remains interesting but weakly supported. [GEIPAN records]({{'geipan-record-f63425/' | relative_url }}) a brief observation of a green-emeral colour circular luminous form, with a copper-red halo, moving west to east at 5:50 pm. It was silent, disappeared quickly behind the landscape and then at the horizon, and no other testimony was collected. GEIPAN classifies the case C because the available information is not reliable or complete enough for a firm explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/cas/1976-01-02676" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-For a reader, the lesson is not that the 1976 report is secretly stronger than the file says. It is almost the opposite. The details are memorable — colour, halo, direction, silence — but the observation was short and single-witness, with no corroborating material in the public summary beyond the old official record. GEIPAN’s C classification is a restraint: it preserves the case without turning it into an unresolved mystery of high evidential value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/cas/1976-01-02676" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ## The 1993 Chinon and Île-Bouchard cases show how “strange lights” became lasers
@@ -732,8 +730,6 @@ The Parçay-Meslay case of 13 April 2015 makes that point neatly because it occu
 
 Recent Indre-et-Loire reports continue the same pattern. On 14 February 2023 in Tours, a witness filmed and photographed a bright, scintillating point seen first around 1:30 am and then again around 3:00 am. The object seemed too large for a star and appeared to change colours. GEIPAN concluded that the witness had observed two different stars, Betelgeuse and Procyon, in two phases; atmospheric effects explained the colour changes, and zoomed images made the point look blurred. The case is classed A.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/cas/2023-02-51420" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-At Château-Renault on 4 August 2025, a single witness saw a silent orange spherical light moving slowly and rectilinearly for about forty seconds before it disappeared behind trees. GEIPAN considered the file moderately consistent but noted the lack of photo or video. It classed the case A as a very probable sky lantern, citing the orange colour, fluctuating brightness, slow silent movement, calm summer conditions and the short observation duration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/cas/2025-08-51671" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2wBIkZ646gA" title="Ancient Aliens: French Government EXPOSES Evidence of UFOs (Special) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2wBIkZ646gA" target="_blank" rel="noopener noreferrer">Ancient Aliens: French Government EXPOSES Evidence of UFOs (Special) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 336.7K &middot; Uploaded: February 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2wBIkZ646gA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2wBIkZ646gA">Open on YouTube</a></p></div></div></div>
 
 ## The recurring explanations: lanterns, satellites, stars, lasers and weak data
@@ -748,8 +744,6 @@ Finally, some cases are simply too thin. Chambourg-sur-Indre in 1976, Chanceaux-
 ## Local archives preserve the folklore, but official files test it
 
 The local Touraine UFO scene adds colour that official case tables cannot provide. Rémy Borne’s 2021 book is presented by retailers and local press as a catalogue of regional observations based on private association work, press archives and field enquiry, with nearly four hundred pages and coverage of many accounts beyond the public GEIPAN summaries. That makes it valuable for local memory, especially where older sightings never became complete official files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fnac.com/a15735390/Remy-Borne-L-ufologie-en-Touraine-Catalogue-des-observations-d-Ovnis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fnac.com">[Fnac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fnac.com</span><span class="citation-popover-title">L&#x27;ufologie en Touraine</span><span class="citation-popover-snippet">L&#x27;ufologie en Touraine</span></span></span>
-
-The same local reporting also shows the limits of non-official archives. Info Tours quotes Borne discussing a New Year 2021 light over Tours, seen from the Rives du Cher, as “probably” a weather balloon but not definitively explained because wind direction seemed awkward. The article also notes that some accounts are incomplete because they depend on whether witnesses ever report them. This is exactly where public readers need caution: a case can be culturally interesting and still remain evidentially weak.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://info-tours.fr/indre-et-loire/2021/04/15/ovni-en-touraine-un-livre-pour-raconter-85-ans-dobservations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info-tours.fr">[info-tours.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info-tours.fr</span><span class="citation-popover-title">Info Tours &#124; OVNI en Touraine: un livre pour raconter 85 ans d’observations</span><span class="citation-popover-snippet">Info Tours &#124; OVNI en Touraine: un livre pour raconter 85 ans d’observations</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lXi5B0NTwVc" title="France&#x27;s Official UFO Investigation Agency (GEIPAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer">France&#x27;s Official UFO Investigation Agency (GEIPAN)</a></p><p class="youtube-embed-meta">Channel: Kryptoscipher &middot; Views: 108 &middot; Uploaded: February 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lXi5B0NTwVc">Open on YouTube</a></p></div></div></div>
 

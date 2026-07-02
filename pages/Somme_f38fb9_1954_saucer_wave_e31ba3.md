@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 07:00:27'
+date: '2026-06-30 07:00:27'
 parent_title: Somme UFOs
 parent_permalink: /what-really-happened-in-sommes-ufo-wave/
 parent_nav_short_title: Somme UFOs
@@ -256,7 +256,13 @@ This distinction is often missed in popular UFO retellings. A C case is not the 
 
 GEIPAN’s wider methodology also warns against treating old witness reports as simple photographs of reality. Its guidance stresses that testimony can be affected by perception errors, memory, emotional reaction, cultural interpretation and later reconstruction. It also notes that the less easily recognisable a sighting is, the more strongly social and cultural interpretations may enter the witness’s account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Methodology &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan Methodology &#124; GEIPAN</span></span></span>
 
-That is why the 1954 Somme wave remains historically valuable even where the evidence is weak. It shows how a department with fields, roads, small communes and local papers became part of France’s most famous saucer season. The result was not a neat catalogue of proven events, but a layered record: witness reaction, gendarmerie note, newspaper framing, later ufological cataloguing and modern official classification.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+That is why the 1954 Somme wave remains historically valuable even where the evidence is weak. It shows how a department with fields, roads, small communes and local papers became part of France’s most famous saucer season. The result was not a neat catalogue of proven events, but a layered record: witness reaction, gendarmerie note, newspaper framing, later ufological cataloguing and modern official classification.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Le Crotoy: an orange disc with too little surviving detail
 
@@ -287,6 +293,8 @@ This is exactly the kind of report that made the 1954 wave so durable. It has a 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dcMrAX4zRwo" title="Ancient Aliens: 300+ &quot;Flying Saucer&quot; Incidents in France (Season 19) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dcMrAX4zRwo" target="_blank" rel="noopener noreferrer">Ancient Aliens: 300+ &quot;Flying Saucer&quot; Incidents in France (Season 19) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dcMrAX4zRwo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dcMrAX4zRwo">Open on YouTube</a></p></div></div></div>
 
+
+
 ## Weather, astronomy and perception as later filters
 
 The weaker Somme reports are not all likely to have one explanation. A long orange object at Le Crotoy, a fast multicoloured sphere at Hem-Hardinval, and a red near-ground light at Long may have had different causes. What unites them is the difficulty of testing those causes decades later.
@@ -301,8 +309,6 @@ That does not explain Le Crotoy, Hem-Hardinval or Long by itself, but it is a us
 Later reporting strengthened the 1954 Somme wave as a historical cluster. The GEIPAN database confirms that multiple Somme cases from September and October 1954 remain identifiable in the public record, and local-press-derived catalogues preserve how Picardy newspapers talked about the wave at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation&amp;page=1&amp;select-category-export=nothing&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
 But later reporting also weakened the stronger saucer reading of several cases. GEIPAN did not elevate Le Crotoy, Hem-Hardinval or Long into its unexplained-after-investigation category. It kept them in category C, the category for cases that cannot be identified because the data are inadequate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/46572" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+3Geipan+3Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
-Hem-Hardinval is the clearest example of weakening. The old saucer-wave framing could present it as a mysterious craft seen by serious rural witnesses. The modern GEIPAN note, however, says the file is merely a succinct information sheet without witness testimony and that the described features suggest a bolide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1954-10-09218?page=%2C546" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/coESrQNDRgI" title="Francuskie bliskie spotkanie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=coESrQNDRgI" target="_blank" rel="noopener noreferrer">Francuskie bliskie spotkanie</a></p><p class="youtube-embed-meta">Channel: SEKIELSKI BROTHERS STUDIO &middot; Views: 20.1K &middot; Uploaded: August 2025 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=coESrQNDRgI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=coESrQNDRgI">Open on YouTube</a></p></div></div></div>
 

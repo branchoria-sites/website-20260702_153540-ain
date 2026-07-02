@@ -7,7 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /essonne-7f5f7b-index/
 description: Focused pages that expand on Why Essonne's UFO Files Usually Come Back
   to....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Essonne_7f5f7b
 parent_title: Why Essonne's UFO Files Usually Come Back to...

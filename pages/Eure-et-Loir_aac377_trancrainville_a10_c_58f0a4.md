@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 05:17:07'
+date: '2026-06-29 05:17:07'
 parent_title: Eure et Loir UFOs
 parent_permalink: /what-really-happened-in-eure-et-loir/
 parent_nav_short_title: Eure et Loir UFOs
@@ -252,8 +252,6 @@ The witnesses stopped at around kilometre point 69. The driver got out and shone
 
 Most local UFO files become weak when the reader asks basic questions: who saw it, for how long, from where, under what conditions, and what checks were made afterwards? Trancrainville is different. GEIPAN’s case page lists it as a D case with medium-to-strong strangeness and consistency scores, and its file includes witness statements, a gendarmerie summary, nine site photographs, a situation map, weather material, a humidity graph, an article from the local press, a letter from a separate earlier witness near Ingré, and a list of power lines crossing the A10.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/temoignage/3744" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-The witness status also matters. These were not anonymous late-night callers describing a momentary light. They were motorway gendarmes on duty, trained to observe roads, accidents and unusual hazards. That does not make them infallible, especially in darkness, cloud and a moving car, but it gives the report more weight than a single casual glimpse. GEIPAN’s 2018 summary explicitly says the consistency is good because there were two witnesses, a detailed account especially from the driver, and a prompt gendarmerie reconstruction with kilometre readings, weather and astronomical checks, a pylon sketch and press material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/sites/default/files/Compte%20rendu%20enquete22.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Microsoft Word</span><span class="citation-popover-snippet">Microsoft Word</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ## Why GEIPAN rejected simple explanations
@@ -269,8 +267,6 @@ But GEIPAN still rejected that explanation as too weak. The cloud layers were re
 
 The strongest evidence is not a spectacular photograph or a piece of debris; there is none. It is the convergence of several modest but useful elements: two official witnesses, a long observation time, route reconstruction, named motorway features, localised environmental illumination, and early administrative handling. The original gendarmerie file was treated as a formal preliminary inquiry into unidentified flying objects on the A10, not merely as a rumour, and was transmitted through official channels including judicial, prefectural, military and defence-gendarmerie recipients.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0154%20%281982308101%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The case also benefits from internal detail. The witnesses did not simply say “a UFO followed us”. They described changes in viewing angle, disappearance and reappearance, stationary and moving impressions, the lack of a visible beam, the lighting of particular landscape elements, the absence of sound, and the low traffic on the motorway. Such texture does not prove the event was extraordinary, but it gives investigators more to test than a vague light-in-the-sky claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/sites/default/files/Compte%20rendu%20enquete22.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Microsoft Word</span><span class="citation-popover-snippet">Microsoft Word</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K-dgmfIOYBE" title="GEIPAN: Everything You Need to Know About UFOs and Aerial Phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K-dgmfIOYBE" target="_blank" rel="noopener noreferrer">GEIPAN: Everything You Need to Know About UFOs and Aerial Phenomena</a></p><p class="youtube-embed-meta">Channel: Science And Life &middot; Views: 16 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K-dgmfIOYBE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K-dgmfIOYBE">Open on YouTube</a></p></div></div></div>
 
 ## The evidence that limits the case
@@ -283,8 +279,6 @@ There are small inconsistencies too. The driver and passenger did not interpret 
 ## What “unresolved” does and does not mean
 
 For GEIPAN, a D classification means a phenomenon remains unidentified after investigation. It is different from a C case, where the phenomenon is not identified because there is not enough information. That distinction is why Trancrainville is more interesting than a merely thin report: GEIPAN found enough consistency and strangeness to keep it in the unexplained category rather than writing it off as unusable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
-Yet GEIPAN’s own wording is cautious. The 2018 report says the case is at the limit between unexplained and insufficiently exploitable because no GEIPAN field investigation with the witnesses could be conducted so long after the event. It therefore used the older ABCD classification rather than the current D1/D2 system, which would imply a stronger validation of the unexplained status. That is an important warning against overclaiming.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/sites/default/files/Compte%20rendu%20enquete22.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Microsoft Word</span><span class="citation-popover-snippet">Microsoft Word</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jN2YOEPrMi4" title="UFO Evidence Found in Denmark and France – Still Unexplained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jN2YOEPrMi4" target="_blank" rel="noopener noreferrer">UFO Evidence Found in Denmark and France – Still Unexplained</a></p><p class="youtube-embed-meta">Channel: Stories Lost</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jN2YOEPrMi4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jN2YOEPrMi4">Open on YouTube</a></p></div></div></div>
 

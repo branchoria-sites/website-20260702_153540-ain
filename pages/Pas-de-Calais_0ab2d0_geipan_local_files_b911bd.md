@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 22:28:28'
+date: '2026-06-29 22:28:28'
 parent_title: Pas de Calais UFOs
 parent_permalink: /what-really-happened-in-pas-de-calais/
 parent_nav_short_title: Pas de Calais UFOs
@@ -248,8 +248,6 @@ That distinction matters in Pas-de-Calais because several local cases that might
 
 The strongest unresolved Pas-de-Calais file in GEIPAN’s public record is Longuenesse, dated 8 September 1990. GEIPAN currently lists it as category D, with the phenomenon described as strange to very strange and of medium to strong consistency. The report involved ovoid forms with red and green lights, seen over several days from about 9.30 pm, sometimes moving slowly and sometimes appearing stationary. GEIPAN’s summary says the observations were made by several witnesses and also by a Police Nationale patrol.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1990-09-01214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The case is interesting because it is not merely a single fleeting light in the sky. A police-linked file, repeated observations and multiple witnesses give it more weight than many casual reports. A third-party reproduction of the underlying police record describes the file as procès-verbal No. 755, transmitted to GEPAN at the Toulouse space centre, and says the sightings occurred on 8, 9 and 11 September 1990 and again in mid-October. It also reports that a police patrol saw a fixed luminous point with blue-green and red flashes, while another patrol reported four lights in a V formation moving east to west.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufotransparency.com/files/intl-fr-geipan-longuenesse-1990-pv-n755-1990307161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl fr geipan longuenesse 1990 pv n755 1990307161</span><span class="citation-popover-snippet">intl fr geipan longuenesse 1990 pv n755 1990307161</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yDqQGyAwWCg" title="Bureau des ovnis : la vérité est-elle ailleurs ? • FRANCE 24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer">Bureau des ovnis : la vérité est-elle ailleurs ? • FRANCE 24</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 &middot; Views: 24.0K &middot; Uploaded: October 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yDqQGyAwWCg">Open on YouTube</a></p></div></div></div>
 
 ## Why Calais shows how old mysteries can shrink after review
@@ -265,7 +263,13 @@ Category C files are easy to overlook because they are unsatisfying: neither exp
 
 For readers, the distinction is crucial. A category C case should not be counted with Longuenesse as though both were equally unexplained. GEIPAN’s own methodology says C means the observation is not usable enough to conclude. In practical terms, that can mean no precise direction, no reliable timing, no usable image, no independent witness, no weather or traffic cross-check, or simply too much delay between the event and the report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">La méthodologie de classification au GEIPAN &#124; GEIPAN</span><span class="citation-popover-snippet">La méthodologie de classification au GEIPAN &#124; GEIPAN</span></span></span>
 
-That is why Pas-de-Calais is a good test case for public interpretation. It contains the whole range: a D case that still deserves attention, C cases that mostly teach caution, and many A or B cases that show how ordinary objects become strange when seen at night, at low angle, at distance, or in poor photographic conditions.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I7MToY5eaBY" title="Ovnis inexpliqués près de Rennes : reconstitution filmée du cas d&#x27;Étrelles 🛸" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I7MToY5eaBY" target="_blank" rel="noopener noreferrer">Ovnis inexpliqués près de Rennes : reconstitution filmée du cas d&#x27;Étrelles 🛸</a></p><p class="youtube-embed-meta">Channel: Le Télégramme &middot; Views: 321.5K &middot; Uploaded: June 2023 &middot; Length: 3 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I7MToY5eaBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I7MToY5eaBY">Open on YouTube</a></p></div></div></div>
+That is why Pas-de-Calais is a good test case for public interpretation. It contains the whole range: a D case that still deserves attention, C cases that mostly teach caution, and many A or B cases that show how ordinary objects become strange when seen at night, at low angle, at distance, or in poor photographic conditions.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I7MToY5eaBY" title="Ovnis inexpliqués près de Rennes : reconstitution filmée du cas d&#x27;Étrelles 🛸" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I7MToY5eaBY" target="_blank" rel="noopener noreferrer">Ovnis inexpliqués près de Rennes : reconstitution filmée du cas d&#x27;Étrelles 🛸</a></p><p class="youtube-embed-meta">Channel: Le Télégramme &middot; Views: 321.5K &middot; Uploaded: June 2023 &middot; Length: 3 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I7MToY5eaBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I7MToY5eaBY">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The recurring explanations: aircraft, meteors, lanterns and balloons
 
@@ -283,8 +287,6 @@ Balloons and birds complete the picture. Billy-Montigny 2019 was classed B after
 Modern readers often assume that a photo or video should end uncertainty. The Pas-de-Calais files show why that is too simple. Images can help, but they can also introduce artefacts, framing problems and false precision.
 
 The Avion case of 24 September 2012 is a good example. A witness saw white flashes behind a large cloud around 12.45 am and filmed for eight minutes with a small “spy pen” camera. Later, the witness noticed luminous balls on the footage that had not been seen directly. GEIPAN classed the case A: distant lightning before a storm. It also noted that the camera was weak in low light, that the lightning flashes may not have registered properly, and that fixed luminous points in the video were probably urban lights rather than aerial objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2012-09-08339" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
-Billy-Montigny shows the more constructive side of imagery. There, the witness photographed a fast, silent anthracite object, and GEIPAN combined the photograph with later witness information, photo analysis and wind data to support the balloon hypothesis. The case was not made certain, but it became a good category B file: not unexplained, not dismissed, but probably resolved by combining witness evidence with environmental checks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2019-07-50871" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hn2xTieploU" title="GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer">GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés</a></p><p class="youtube-embed-meta">Channel: france tv &middot; Views: 4.6K &middot; Uploaded: May 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hn2xTieploU">Open on YouTube</a></p></div></div></div>
 

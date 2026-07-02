@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alpes-de-haute-prove-b1f7bc-index/
 description: Focused pages that expand on The UFO Files of Alpes de Haute Provence.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Alpes-de-Haute-Prove_b1f7bc
 parent_title: The UFO Files of Alpes de Haute Provence

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /gard-40724c-index/
 description: Focused pages that expand on What Really Happened in Gard's UFO Files?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Gard_40724c
 parent_title: What Really Happened in Gard's UFO Files?

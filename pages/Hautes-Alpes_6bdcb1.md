@@ -107,8 +107,8 @@ keywords:
 - hautes-alpes
 affiliate_category: hautes-alpes
 show_ads: true
-description:'Hautes-Alpes has a small but revealing UFO record: not a department of famous “unknown craft” cases, but a mountain region where ordinary skywatching,...'
-hero_summary:'Hautes-Alpes has a small but revealing UFO record: not a department of famous “unknown craft” cases, but a mountain region where ordinary skywatching, aviation, weather, relief, and witness interpretation repeatedly turn normal phenomena into unsettling reports.'
+description: 'Hautes-Alpes has a small but revealing UFO record: not a department of famous “unknown craft” cases, but a mountain region where ordinary skywatching,...'
+hero_summary: 'Hautes-Alpes has a small but revealing UFO record: not a department of famous “unknown craft” cases, but a mountain region where ordinary skywatching, aviation, weather, relief, and witness interpretation repeatedly turn normal phenomena into unsettling reports.'
 layout: default
 permalink: /why-the-hautes-alpes-ufo-record-stays/
 nav_short_title: Why the Hautes Alpes UFO Record Stays Interesting
@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-28 16:47:53'
+date: '2026-06-28 16:47:53'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -720,8 +720,6 @@ At La Roche-des-Arnauds on 26 January 2015, a witness reported an orange ball in
 
 The Ribiers case of 24 January 2012 shows a different version of the same problem. A driver saw a very bright stationary white object at low altitude, stopped, made signs, then felt the object was following him as he drove. GEIPAN found that the first direction matched Venus, low and very bright in the south-west, while the later south-eastern view corresponded to Sirius. Because of uncertainty over the exact directions, the file was classed B rather than A.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2012-01-08180" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-Chanousse, on 13 September 2011, adds a useful twist: the witness had already suggested an astronomical explanation, but named the wrong star. GEIPAN found that the reported direction and timing matched Arcturus setting in the west, where a bright star can appear orange and scintillate strongly. The case was classed A.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2011-09-02850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ## Aircraft, trails and aviation: why Hautes-Alpes produces convincing false alarms
@@ -745,15 +743,19 @@ The Gap report of 25 February 2015 involved a red-orange oval mass seen high in 
 
 The Ceillac case of 29 June 2008 is a reminder that UFO archives also contain camera artefacts and near-lens objects. A witness noticed an unexpected element in a photograph, without having seen it directly at the time. GEIPAN found the image probably showed an insect close to the lens, blurred and briefly lit by the camera flash, and classed the case B.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2008-06-02107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-These minor files should not be dismissed as filler. They explain why department-level UFO history is often less about “extraordinary craft” and more about perception under imperfect conditions: brief views, darkness, mountain horizons, camera limitations, and ordinary phenomena seen from an unlucky angle.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lXi5B0NTwVc" title="France&#x27;s Official UFO Investigation Agency (GEIPAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer">France&#x27;s Official UFO Investigation Agency (GEIPAN)</a></p><p class="youtube-embed-meta">Channel: Kryptoscipher &middot; Views: 108 &middot; Uploaded: February 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lXi5B0NTwVc">Open on YouTube</a></p></div></div></div>
+These minor files should not be dismissed as filler. They explain why department-level UFO history is often less about “extraordinary craft” and more about perception under imperfect conditions: brief views, darkness, mountain horizons, camera limitations, and ordinary phenomena seen from an unlucky angle.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lXi5B0NTwVc" title="France&#x27;s Official UFO Investigation Agency (GEIPAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer">France&#x27;s Official UFO Investigation Agency (GEIPAN)</a></p><p class="youtube-embed-meta">Channel: Kryptoscipher &middot; Views: 108 &middot; Uploaded: February 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lXi5B0NTwVc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The two weak files: why “not identified” is not the same as “unexplained”
 
 Hautes-Alpes has two public class C cases in the department-level index, and that distinction matters. A class C case is not a confirmed mystery; it is a case GEIPAN cannot resolve because the information is inadequate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan Mission &amp; Geipan &#124; GEIPAN</span></span></span>
 
 Saint-Bonnet-en-Champsaur in 1977 is one of them. It is the more dramatic of the two, but the gendarmerie found no traces and no additional local testimony, leaving the case short of the corroboration needed for a stronger status.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1977-08-00420" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
-The other clear Hautes-Alpes class C file is Laragne-Montéglin on 12 November 2013. A witness observed a multicoloured light from 6.55 am to 7.15 am, first fixed and then moving in a straight line and a curve, at about the speed of a hot-air balloon. GEIPAN considered small motorised craft such as a helicopter, microlight or drone possible, but the lighting and some physical characteristics did not fully match what was known, no matching local aircraft event was reported, and there were no photographs, videos or other witnesses. The case was classed C for lack of information, with GEIPAN noting that later witness evidence could change the conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2013-11-50071" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bA7QVmwXJyo" title="France&#x27;s Most Famous UFO Encounter: The Valensole Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bA7QVmwXJyo" target="_blank" rel="noopener noreferrer">France&#x27;s Most Famous UFO Encounter: The Valensole Incident</a></p><p class="youtube-embed-meta">Channel: Marshall Alessi</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bA7QVmwXJyo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bA7QVmwXJyo">Open on YouTube</a></p></div></div></div>
 

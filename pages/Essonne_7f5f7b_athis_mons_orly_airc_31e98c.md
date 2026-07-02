@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 12:01:08'
+date: '2026-06-30 12:01:08'
 parent_title: Essonne UFOs
 parent_permalink: /why-essonnes-ufo-files-usually-come/
 parent_nav_short_title: Essonne UFOs
@@ -264,7 +264,13 @@ The place is crucial. The witness was in a car on the RN7, close to Paris-Orly, 
 
 That distinction is fair and important. GEIPAN did not say, “This was Flight X.” It stated that radar data were not available for exploitation, so the exact aircraft could not be identified. Even so, the combination of location, geometry, brightness and known perceptual effects made the aircraft hypothesis strong enough for a B classification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2016-07-09506?field_date_value=2020-11-18&amp;field_is_new_value=1&amp;order=title&amp;page=0&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The case also shows how a road observation can be deceptive. A witness stopped at traffic lights has only a short window, limited reference points, windscreen framing, road attention, nearby lights and a changing line of sight. A bright landing light aimed close to the observer can appear as a single intense object rather than a recognisable aircraft. Once the aircraft turns, crosses the line of sight, changes angle, or its lights become less head-on, the same object can appear suddenly to “move” or “accelerate”.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+The case also shows how a road observation can be deceptive. A witness stopped at traffic lights has only a short window, limited reference points, windscreen framing, road attention, nearby lights and a changing line of sight. A bright landing light aimed close to the observer can appear as a single intense object rather than a recognisable aircraft. Once the aircraft turns, crosses the line of sight, changes angle, or its lights become less head-on, the same object can appear suddenly to “move” or “accelerate”.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why approach lights can seem motionless
 
@@ -291,7 +297,13 @@ Read together, they form a useful local lesson for Essonne. The department’s U
 
 This also shows why GEIPAN classifications should be read carefully. A case C can look more mysterious to the public than a case B, but that is sometimes because it is less documented, not because it is more robust. GEIPAN’s own classification scheme makes this difference explicit: B is probably identified after investigation; C is not identified because of insufficient data; D is still unidentified after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-For a reader trying to understand Athis-Mons, the most balanced assessment is this: the 1980 cylinder remains an unresolved report only in the limited sense that too little reliable information was gathered, while the 2016 RN7 light is a strong example of how aircraft on approach to Orly can generate a UFO-like experience.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0M1J9qQX1TQ" title="Aircraft lights | They&#x27;re not UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer">Aircraft lights | They&#x27;re not UFOs</a></p><p class="youtube-embed-meta">Channel: flight-club &middot; Views: 99.0K &middot; Uploaded: February 2020 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0M1J9qQX1TQ">Open on YouTube</a></p></div></div></div>
+For a reader trying to understand Athis-Mons, the most balanced assessment is this: the 1980 cylinder remains an unresolved report only in the limited sense that too little reliable information was gathered, while the 2016 RN7 light is a strong example of how aircraft on approach to Orly can generate a UFO-like experience.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0M1J9qQX1TQ" title="Aircraft lights | They&#x27;re not UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer">Aircraft lights | They&#x27;re not UFOs</a></p><p class="youtube-embed-meta">Channel: flight-club &middot; Views: 99.0K &middot; Uploaded: February 2020 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0M1J9qQX1TQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The Orly aircraft question in Essonne’s UFO history
 
@@ -299,7 +311,13 @@ Athis-Mons gives Essonne a distinctive aviation-linked subtheme. Many department
 
 The Orly connection also gives investigators a practical checklist. For any Athis-Mons UFO report, the first questions should include time, exact location, direction of view, whether the witness was moving, weather, visibility, aircraft approach direction, runway use, whether landing lights were likely facing the observer, and whether radar or flight-tracking data can be checked. If those details are missing, the case may remain interesting but fragile, as in 1980. If they are present, a probable aircraft explanation may become strong, as in 2016.
 
-This does not erase the human side of the reports. A bright object seen unexpectedly over a road near dusk, or a black form seen overhead by someone used to aircraft, can genuinely unsettle a witness. The lesson of Athis-Mons is not that people mistake everything. It is that a town beside Orly is a natural laboratory for the gap between what the eye experiences and what the sky is actually doing.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jZHy9ASOj8w" title="UFOs, drones, mystery sightings: What government reports, NASA, and investigators say" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jZHy9ASOj8w" target="_blank" rel="noopener noreferrer">UFOs, drones, mystery sightings: What government reports, NASA, and investigators say</a></p><p class="youtube-embed-meta">Channel: WGN News &middot; Views: 3.0K &middot; Uploaded: March 2026 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jZHy9ASOj8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jZHy9ASOj8w">Open on YouTube</a></p></div></div></div>
+This does not erase the human side of the reports. A bright object seen unexpectedly over a road near dusk, or a black form seen overhead by someone used to aircraft, can genuinely unsettle a witness. The lesson of Athis-Mons is not that people mistake everything. It is that a town beside Orly is a natural laboratory for the gap between what the eye experiences and what the sky is actually doing.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jZHy9ASOj8w" title="UFOs, drones, mystery sightings: What government reports, NASA, and investigators say" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jZHy9ASOj8w" target="_blank" rel="noopener noreferrer">UFOs, drones, mystery sightings: What government reports, NASA, and investigators say</a></p><p class="youtube-embed-meta">Channel: WGN News &middot; Views: 3.0K &middot; Uploaded: March 2026 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jZHy9ASOj8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jZHy9ASOj8w">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## A balanced reading of Athis-Mons
 

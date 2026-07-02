@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /haute-garonne-34cc0a-index/
 description: Focused pages that expand on What Makes Haute Garonne's UFO Record....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Haute-Garonne_34cc0a
 parent_title: What Makes Haute Garonne's UFO Record...

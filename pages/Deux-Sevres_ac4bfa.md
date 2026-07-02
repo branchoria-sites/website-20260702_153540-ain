@@ -108,7 +108,7 @@ keywords:
 affiliate_category: deux-sevres
 show_ads: true
 description: Deux-Sèvres does not have a single famous UFO case on the scale of France’s best-known national incidents, but it does have a useful, well-documented...
-hero_summary:'Deux-Sèvres does not have a single famous UFO case on the scale of France’s best-known national incidents, but it does have a useful, well-documented departmental pattern: a small archive of official French aerospace-phenomenon files in which most reports are later judged as lanterns, storm light, sky-tracer projectors, atmospheric entries or too weakly...'
+hero_summary: 'Deux-Sèvres does not have a single famous UFO case on the scale of France’s best-known national incidents, but it does have a useful, well-documented departmental pattern: a small archive of official French aerospace-phenomenon files in which most reports are later judged as lanterns, storm light, sky-tracer projectors, atmospheric entries or too weakly...'
 layout: default
 permalink: /what-really-happened-in-deux-sevres/
 nav_short_title: What Really Happened in Deux Sevres Skies?
@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 07:00:26'
+date: '2026-06-30 07:00:26'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -729,8 +729,6 @@ These two 1978 cases are useful side by side. Beauvoir-sur-Niort shows a report 
 
 The year 1980 brings the department’s most notable contrast. Sainte-Soline is the stronger unresolved file, while Courlay, reported less than a month later, is intriguing but officially weaker.
 
-At Courlay, in the night of 9 to 10 September 1980, a witness standing at the door reportedly saw a light illuminating a road sign about 100 metres away, then an elongated object moving jerkily about 1.5 metres above the ground. The object was said to rise gradually and disappear into the landscape. GEIPAN records no unusual smell and no additional witnesses, and classifies the case as C for lack of reliable information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1980-09-00804" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2wBIkZ646gA" title="Ancient Aliens: French Government EXPOSES Evidence of UFOs (Special) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2wBIkZ646gA" target="_blank" rel="noopener noreferrer">Ancient Aliens: French Government EXPOSES Evidence of UFOs (Special) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 336.7K &middot; Uploaded: February 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2wBIkZ646gA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2wBIkZ646gA">Open on YouTube</a></p></div></div></div>
 
 ## Aviation and atmospheric cases point away from spacecraft explanations
@@ -774,7 +772,13 @@ A Bouillé-Loretz report from August 1954, later published in a UFO magazine, de
 
 There are also scattered references to Saint-Maixent-l’Ecole, Augé and Bressuire in 1954-era compilations or press-derived summaries. One listing says two witnesses at Saint-Maixent-l’Ecole saw a red-orange cigar on 3 October 1954, while another page reproduces a brief report of an oval or haloed luminous object near Bressuire. These accounts help place Deux-Sèvres inside the national 1954 wave, but they are not comparable in evidential quality to GEIPAN files with published investigation summaries, witness forms or gendarmerie documents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/1954/2oct1954lusignan2f.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
 
-The cautious conclusion is that 1954 gives the department historical texture, not a reliable anchor case. It shows how UFO stories circulated through press snippets, specialist catalogues and later retellings, but it should not dominate a balanced page on Deux-Sèvres UFO history.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AEYkLD05a8M" title="VIDÉO. Deux-Sèvres : Niort, Parthenay et Thouars ont célébré les 80 ans de la Libération" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AEYkLD05a8M" target="_blank" rel="noopener noreferrer">VIDÉO. Deux-Sèvres : Niort, Parthenay et Thouars ont célébré les 80 ans de la Libération</a></p><p class="youtube-embed-meta">Channel: La Nouvelle République - NRCO</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AEYkLD05a8M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AEYkLD05a8M">Open on YouTube</a></p></div></div></div>
+The cautious conclusion is that 1954 gives the department historical texture, not a reliable anchor case. It shows how UFO stories circulated through press snippets, specialist catalogues and later retellings, but it should not dominate a balanced page on Deux-Sèvres UFO history.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AEYkLD05a8M" title="VIDÉO. Deux-Sèvres : Niort, Parthenay et Thouars ont célébré les 80 ans de la Libération" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AEYkLD05a8M" target="_blank" rel="noopener noreferrer">VIDÉO. Deux-Sèvres : Niort, Parthenay et Thouars ont célébré les 80 ans de la Libération</a></p><p class="youtube-embed-meta">Channel: La Nouvelle République - NRCO</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AEYkLD05a8M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AEYkLD05a8M">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What patterns emerge across the department?
 
@@ -783,8 +787,6 @@ The Deux-Sèvres record is small enough to read case by case, but several patter
 **Night-time lights dominate.** Many reports involve orange, yellow, red, white or green lights seen at night or in low-light conditions: lantern-like balls, projected shapes on cloud, fast incandescent objects, oval lights or brief luminous explosions. This is typical of many UFO archives because night observations reduce distance and size cues.
 
 **Several cases become more ordinary with context.** Beauvoir-sur-Niort points towards storm light; Saint-Varent, Saint-Maixent-l’Ecole 2014 and Airvault-to-Viennay point towards lanterns; Niort 1997 and Coulon 2025 point towards sky-tracers; Sepvret 1999 and Saint-Loup-Lamaire 1984 point towards atmospheric re-entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1978-02-00490" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+7Geipan+7Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
-**The unresolved material is narrow.** Sainte-Soline is the major D case. Courlay, Saint-Maixent-l’Ecole 1978, Parthenay 2022 and other C cases are unresolved in a weaker sense because the information is insufficient, not because a strong exotic hypothesis survived extensive testing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1980-08-01694" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+3Geipan+3Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C94mtZ8L7R4" title="L&#x27;histoire du premier cas d&#x27;Ovni dans le Pas-de-Calais à Quarouble en 1954" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C94mtZ8L7R4" target="_blank" rel="noopener noreferrer">L&#x27;histoire du premier cas d&#x27;Ovni dans le Pas-de-Calais à Quarouble en 1954</a></p><p class="youtube-embed-meta">Channel: BFM Grand Lille</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C94mtZ8L7R4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C94mtZ8L7R4">Open on YouTube</a></p></div></div></div>
 

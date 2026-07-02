@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 03:43:38'
+date: '2026-06-30 03:43:38'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -721,8 +721,6 @@ Paris has several reports that are worth reading because they show the gap betwe
 
 The 9 January 2014 case is stronger as an investigation lesson. A driver on the A6 motorway, heading towards Paris, glimpsed an intense white object between clouds for only three-quarters of a second. GEIPAN checked commercial flight data and identified an Air France Airbus climbing after departure from Roissy, positioned so that the rising Sun could reflect from its fuselage towards the witness. GEIPAN therefore classed the report A: sunlight reflected from an aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/56506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The 22 June 2025 Paris case is a modern version of the same problem. A resident watching from a terrace saw a very dark object, apparently around 3,000 feet up, moving slowly east and seeming to shift between a single dark form and two spherical volumes. GEIPAN classed the case A as one or more balloons carried by the wind, while noting that the precise origin of the balloon release or loss could not be determined. That caveat is important: identifying the type of phenomenon does not always mean identifying the exact owner, launch point or object history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/en/node/61346?field_date_value=2025-12-18&amp;field_is_new_value=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ## Paris in the air: pilots, routes and satellite confusion
@@ -752,8 +750,6 @@ The Paris record is useful because the explanations are varied but recurring. Th
 
 **Birds and photographic artefacts** matter because many modern UFO reports are discovered only after a photo is taken. A bird, insect, motion blur or compression effect can look like a structured object when frozen in a single frame. GEIPAN’s 2008 and 2024 Paris photographic cases fit this pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2008-03-01794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-**Astronomical and space objects** include the Moon, Jupiter, meteoroids, the International Space Station and satellite flashes. Paris GEIPAN listings include cases attributed to the ISS, Jupiter, a meteoroid and the Moon, while the 2023 aviation case towards Paris was explained as Starlink flashes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=c&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=103&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan+2Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C94mtZ8L7R4" title="L&#x27;histoire du premier cas d&#x27;Ovni dans le Pas-de-Calais à Quarouble en 1954" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C94mtZ8L7R4" target="_blank" rel="noopener noreferrer">L&#x27;histoire du premier cas d&#x27;Ovni dans le Pas-de-Calais à Quarouble en 1954</a></p><p class="youtube-embed-meta">Channel: BFM Grand Lille</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C94mtZ8L7R4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C94mtZ8L7R4">Open on YouTube</a></p></div></div></div>
 
 ## How strong is the Paris UFO evidence?
@@ -762,7 +758,13 @@ The best answer is: stronger as a record of public perception than as evidence f
 
 The weakest Paris cases are not necessarily the least dramatic. A short account of a bright object accelerating sharply may sound more spectacular than a slowly drifting balloon, but without time, direction, duration, weather, corroboration or sensor data, it cannot carry much evidential weight. That is why GEIPAN’s C category is so important for readers: it protects against pretending that “not explained” means “strongly anomalous”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-For Paris, later reporting has generally weakened rather than strengthened extraordinary claims. Modern case files tend to turn sightings into solved or probably solved events; older 1954 reports often look more meteor-like or media-wave-related when revisited; and recent aviation mysteries increasingly meet satellite explanations. None of this proves that every Paris witness was wrong. It does show that the department’s public UFO history is dominated by investigation, filtering and ordinary causes rather than by a small set of landmark unresolved cases.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CWt2zkuxRNQ" title="GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer">GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)</a></p><p class="youtube-embed-meta">Channel: Science &amp; Vie &middot; Views: 36.9K &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CWt2zkuxRNQ">Open on YouTube</a></p></div></div></div>
+For Paris, later reporting has generally weakened rather than strengthened extraordinary claims. Modern case files tend to turn sightings into solved or probably solved events; older 1954 reports often look more meteor-like or media-wave-related when revisited; and recent aviation mysteries increasingly meet satellite explanations. None of this proves that every Paris witness was wrong. It does show that the department’s public UFO history is dominated by investigation, filtering and ordinary causes rather than by a small set of landmark unresolved cases.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CWt2zkuxRNQ" title="GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer">GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)</a></p><p class="youtube-embed-meta">Channel: Science &amp; Vie &middot; Views: 36.9K &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CWt2zkuxRNQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why Paris still matters in French UFO history
 

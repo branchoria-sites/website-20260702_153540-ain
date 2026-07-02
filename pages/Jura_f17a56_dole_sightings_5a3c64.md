@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 10:53:38'
+date: '2026-06-29 10:53:38'
 parent_title: Jura UFOs
 parent_permalink: /what-really-happened-in-juras-ufo-files/
 parent_nav_short_title: Jura UFOs
@@ -258,6 +258,8 @@ This is a good example of how night geometry changes perception. A large aircraf
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
+
+
 ## The 2020 lantern video and wind checks
 
 The 5 August 2020 Dole case is especially useful because it did not collapse through lack of evidence. It had fairly good evidence. GEIPAN’s page records precise witness data, a phone video, a nearby weather-station document from Tavaux, Google Earth material, and calculations of distance and speed. The case was nevertheless classed B: a very probable misidentification of Thai lanterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/cas/2020-08-51065" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
@@ -283,7 +285,13 @@ The 29 July 2021 Dole case moved in the other direction: not slow and drifting, 
 
 GEIPAN noted that no other local testimony was collected and that the file was not especially rich: it had a single concise witness statement, no technical questionnaire, no sketch, no photograph and no video. Even so, the description matched a bolide closely: very bright, white, straight, extremely fast and lasting only seconds. GEIPAN also found a corresponding atmospheric entry in bolide databases, observed from northern Italy with a matching time and trajectory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/cas/2021-07-51218?field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=%2C48&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-This matters because a bolide can feel much more artificial than people expect. It may appear as a compact bright body rather than a delicate “shooting star”, and its silence can be misleading: a distant meteor high in the atmosphere may produce no sound at the observer’s position. In the Dole case, the apparently constant altitude did not prevent identification, because brief sightings give poor depth and height cues.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CrjqhD6lN7M" title="Boeing 737 Landing | Tarbes‑Lourdes | Runway 20 Approach | Pyrenees &amp; Aircraft Recycling | VLIEGPIET" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CrjqhD6lN7M" target="_blank" rel="noopener noreferrer">Boeing 737 Landing | Tarbes‑Lourdes | Runway 20 Approach | Pyrenees &amp; Aircraft Recycling | VLIEGPIET</a></p><p class="youtube-embed-meta">Channel: VLIEGPIET cockpit videos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CrjqhD6lN7M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CrjqhD6lN7M">Open on YouTube</a></p></div></div></div>
+This matters because a bolide can feel much more artificial than people expect. It may appear as a compact bright body rather than a delicate “shooting star”, and its silence can be misleading: a distant meteor high in the atmosphere may produce no sound at the observer’s position. In the Dole case, the apparently constant altitude did not prevent identification, because brief sightings give poor depth and height cues.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CrjqhD6lN7M" title="Boeing 737 Landing | Tarbes‑Lourdes | Runway 20 Approach | Pyrenees &amp; Aircraft Recycling | VLIEGPIET" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CrjqhD6lN7M" target="_blank" rel="noopener noreferrer">Boeing 737 Landing | Tarbes‑Lourdes | Runway 20 Approach | Pyrenees &amp; Aircraft Recycling | VLIEGPIET</a></p><p class="youtube-embed-meta">Channel: VLIEGPIET cockpit videos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CrjqhD6lN7M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CrjqhD6lN7M">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What modern documentation can and cannot prove
 
@@ -306,7 +314,13 @@ The Dole-area pattern is not that witnesses are unusually unreliable. It is that
 * **Brief events:** bolides last only seconds, leaving little time to judge height, size or trajectory.
 * **Documentation cuts both ways:** photos, videos and precise witness estimates can support the witness’s sincerity while undermining the exotic interpretation.</div>
 
-This is why Dole is a useful local chapter in Jura’s UFO history. It does not provide a landmark unexplained case. It provides something more practical: a set of examples showing how official investigation can move a sighting from “unsettling light in the sky” to a plausible mechanism.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pKztIkBM3i4" title="PILOT EYE VIEW - Boeing 737 Landing At Nice Airport (NCE) RWY 04L | Cockpit View" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pKztIkBM3i4" target="_blank" rel="noopener noreferrer">PILOT EYE VIEW - Boeing 737 Landing At Nice Airport (NCE) RWY 04L | Cockpit View</a></p><p class="youtube-embed-meta">Channel: Aviation Attract</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pKztIkBM3i4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pKztIkBM3i4">Open on YouTube</a></p></div></div></div>
+This is why Dole is a useful local chapter in Jura’s UFO history. It does not provide a landmark unexplained case. It provides something more practical: a set of examples showing how official investigation can move a sighting from “unsettling light in the sky” to a plausible mechanism.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pKztIkBM3i4" title="PILOT EYE VIEW - Boeing 737 Landing At Nice Airport (NCE) RWY 04L | Cockpit View" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pKztIkBM3i4" target="_blank" rel="noopener noreferrer">PILOT EYE VIEW - Boeing 737 Landing At Nice Airport (NCE) RWY 04L | Cockpit View</a></p><p class="youtube-embed-meta">Channel: Aviation Attract</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pKztIkBM3i4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pKztIkBM3i4">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What the Dole pattern means for Jura’s UFO record
 

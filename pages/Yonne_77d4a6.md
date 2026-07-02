@@ -107,8 +107,8 @@ keywords:
 - yonne
 affiliate_category: yonne
 show_ads: true
-description:'Yonne’s UFO history is less a story of one famous “crash” or landmark mystery than a department-level pattern: old press stories, repeated local witness...'
-hero_summary:'Yonne’s UFO history is less a story of one famous “crash” or landmark mystery than a department-level pattern: old press stories, repeated local witness collecting, several official GEIPAN files, and one national mass-sighting night that strongly shaped local memory.'
+description: 'Yonne’s UFO history is less a story of one famous “crash” or landmark mystery than a department-level pattern: old press stories, repeated local witness...'
+hero_summary: 'Yonne’s UFO history is less a story of one famous “crash” or landmark mystery than a department-level pattern: old press stories, repeated local witness collecting, several official GEIPAN files, and one national mass-sighting night that strongly shaped local memory.'
 layout: default
 permalink: /what-really-happened-in-yonnes-ufo-files/
 nav_short_title: What Really Happened in Yonne's UFO Files?
@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 12:01:02'
+date: '2026-06-30 12:01:02'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -727,8 +727,6 @@ No account of UFOs in Yonne can ignore 5 November 1990. Across France and neighb
 
 Yonne’s connection is not accidental. A CNES-hosted bibliography of UFO waves specifically lists Rémy Fauchereau and Rémi Couvignou’s 2009 book *UFOs in Yonne: the November 1990 wave*, showing that the national event had enough local resonance to justify a department-specific treatment. The same bibliography also lists Fauchereau’s broader work on 50 years of Yonne UFO manifestations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/UFO_Waves.__An_International_Bibliography__November__1___2015.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">UFO Waves. An International Bibliography November</span><span class="citation-popover-snippet">UFO Waves. An International Bibliography November</span></span></span>
 
-The mainstream technical explanation is that the spectacular event was the atmospheric re-entry of the third stage of a Soviet Proton rocket. A sceptical historical analysis of CNES and SEPRA’s handling of re-entries says the 5 November 1990 observation crossed much of France, was seen from the Atlantic to Alsace, produced many calls to gendarmeries, airport control towers and newspapers, and was later identified with a Proton stage associated with the launch of the Gorizont 21 satellite.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zetetique.fr/wp-content/uploads/2019/03/OvniDuCnes_chapitre8.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zetetique.fr">[Observatoire zététique]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zetetique.fr</span><span class="citation-popover-title">Observatoire zététique Microsoft Word</span><span class="citation-popover-snippet">Observatoire zététique Microsoft Word</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l0J7zroZ6Rk" title="The French UFO Wave of 1954: The Humanoids" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l0J7zroZ6Rk" target="_blank" rel="noopener noreferrer">The French UFO Wave of 1954: The Humanoids</a></p><p class="youtube-embed-meta">Channel: Preston Dennett &middot; Views: 25.1K &middot; Uploaded: September 2023 &middot; Length: 1 hour 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l0J7zroZ6Rk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l0J7zroZ6Rk">Open on YouTube</a></p></div></div></div>
 
 ## Recent Yonne cases show how ordinary sky objects become strange
@@ -754,8 +752,6 @@ That C classification is important for readers. It does not mean “unexplained 
 
 Yonne does have aviation history that can matter when interpreting sightings. The former Auxerre air base, BA 177, operated at Auxerre-Monéteau from the 1930s to 1970, and the French defence historical service records BA 177 Auxerre for 1944–1970, noting that a radar instruction division was installed there in 1946.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.servicehistorique.sga.defense.gouv.fr/ark/139630" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: servicehistorique.sga.defense.gouv.fr">[Service Historique de la Défense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">servicehistorique.sga.defense.gouv.fr</span><span class="citation-popover-snippet">Open source on gouv.fr.</span></span></span>
 
-That background is relevant but should not be overused. It helps explain why aircraft, training, radar culture and military associations may enter local UFO narratives, especially around Auxerre and Monéteau. But a former air base is not evidence that a given sighting was secret military activity. In the published GEIPAN cases reviewed here, the more common explanations are aircraft holding patterns, lanterns, stars, the Moon, or insufficient data — not exotic military tests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1977-09-00435" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+3cnes-geipan.fr+3cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qfMwCC3XmoQ" title="Ufologie dans l&#x27;Yonne - Juin 2017" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qfMwCC3XmoQ" target="_blank" rel="noopener noreferrer">Ufologie dans l&#x27;Yonne - Juin 2017</a></p><p class="youtube-embed-meta">Channel: ODH Tv Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qfMwCC3XmoQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qfMwCC3XmoQ">Open on YouTube</a></p></div></div></div>
 
 ## What the evidence says overall
@@ -767,7 +763,13 @@ The best-supported conclusion is that Yonne has a real and varied UFO record, bu
 * **The national 5 November 1990 event**, which had a Yonne afterlife in local publications but is officially and technically tied to an atmospheric re-entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/actualites/simulation-rentree-atmospherique-1990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr+3cnes-geipan.fr+3cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">simulation rentree atmospherique 1990</span><span class="citation-popover-snippet">simulation rentree atmospherique 1990</span></span></span>
 * **Local collection work**, especially by Rémy Fauchereau and AEPA, which has preserved many claims and witness materials that would otherwise be hard to trace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://data.bnf.fr/en/ark%3A/12148/cb156817806.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.bnf.fr">[BnF Data+2yannickpetit.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.bnf.fr</span><span class="citation-popover-title">Bn F Data Rémy Fauchereau</span><span class="citation-popover-snippet">Bn F Data Rémy Fauchereau</span></span></span></div>
 
-For a curious reader, the most useful stance is neither belief nor dismissal. Yonne’s UFO history is strongest when read as a layered record of human observation: people saw things, sometimes many people saw the same broad event, and some reports were intriguing enough to be recorded by gendarmerie, local investigators or GEIPAN. But the later explanations often become more convincing, not less, when the details are checked: low Moon, bright star, lanterns, aircraft patterns, atmospheric re-entry, or simply too little information to decide.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K-dgmfIOYBE" title="GEIPAN: Everything You Need to Know About UFOs and Aerial Phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K-dgmfIOYBE" target="_blank" rel="noopener noreferrer">GEIPAN: Everything You Need to Know About UFOs and Aerial Phenomena</a></p><p class="youtube-embed-meta">Channel: Science And Life &middot; Views: 16 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K-dgmfIOYBE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K-dgmfIOYBE">Open on YouTube</a></p></div></div></div>
+For a curious reader, the most useful stance is neither belief nor dismissal. Yonne’s UFO history is strongest when read as a layered record of human observation: people saw things, sometimes many people saw the same broad event, and some reports were intriguing enough to be recorded by gendarmerie, local investigators or GEIPAN. But the later explanations often become more convincing, not less, when the details are checked: low Moon, bright star, lanterns, aircraft patterns, atmospheric re-entry, or simply too little information to decide.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K-dgmfIOYBE" title="GEIPAN: Everything You Need to Know About UFOs and Aerial Phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K-dgmfIOYBE" target="_blank" rel="noopener noreferrer">GEIPAN: Everything You Need to Know About UFOs and Aerial Phenomena</a></p><p class="youtube-embed-meta">Channel: Science And Life &middot; Views: 16 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K-dgmfIOYBE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K-dgmfIOYBE">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to judge a Yonne UFO claim
 

@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-28 14:37:52'
+date: '2026-06-28 14:37:52'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -711,8 +711,6 @@ The important lesson is not that the witnesses were careless. On the contrary, t
 
 The Montluel sighting of 14 May 2022 is the most significant recent Ain case because GEIPAN classed it D: not identified after investigation. At about 3.10 am, a single witness on a balcony reported seeing a dark anthracite-grey rectangular object moving silently from west to east at low elevation. The observation lasted about eight seconds. The witness described no lights and no trail, but did report a faint white halo and an apparent deformation of clouds behind the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2022-05-51350" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-GEIPAN’s investigation treated the case as more substantial than an ordinary brief sighting because the witness completed the technical questionnaire only three days later and later cooperated with a field investigation. The agency reported that reconstruction and calculations suggested that, if the object really disappeared behind a hill as described, it would have had to be at least about 15 metres long and moving at a minimum of about 130 km/h. GEIPAN also noted that no aircraft appeared in radar or CAPCODA data for the relevant observation, while still acknowledging that an aircraft-like explanation was physically possible in terms of size and speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2022-05-51350" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ## Why orange lights recur in Ain reports
@@ -727,8 +725,6 @@ These cases matter because they explain why local UFO history often grows from s
 Not every Ain report follows the lantern or balloon pattern. Around Bourg-en-Bresse in the night of 16 to 17 April 2010, a woman and her daughter saw a very fast green luminous phenomenon descending in the sky, splitting in two and disappearing. GEIPAN judged it probably to be the atmospheric entry of a meteor, noting that the time, direction, green colour, high-altitude trajectory and witness drawings matched a bolide recorded by an amateur meteor observation station at Chaligny, south of Nancy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2010-04-02560" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 At Villars-les-Dombes on 20 October 2024, a more recent GEIPAN entry was classed B and identified by type as a bird. Its strangeness score was low, which is a reminder that “UFO report” does not automatically mean an extraordinary object; it means a witness reported something initially unidentified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2024-10-51585" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
-Older cases are harder to assess. At Hauteville-Lompnes, a witness reported in 2009 two much older observations, including a 13 December 1972 sighting in which two people in a car saw a round white-yellow-blue luminous object move rapidly in a straight line and disappear behind the horizon. GEIPAN classed the 1972 case C because there were no independent corroborating witnesses or checks, and it noted that a second reported observation from 1985 probably corresponded to a bolide if treated separately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1972-12-02331?field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=%2C176&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YK6Tz12Ze-c" title="Mysterious crop circle pops up in France" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YK6Tz12Ze-c" target="_blank" rel="noopener noreferrer">Mysterious crop circle pops up in France</a></p><p class="youtube-embed-meta">Channel: Breakfast Television</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YK6Tz12Ze-c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YK6Tz12Ze-c">Open on YouTube</a></p></div></div></div>
 
@@ -745,7 +741,13 @@ Ain’s UFO history is not only an official archive; it also includes local curi
 
 Local media also show how quickly ambiguous rural phenomena can be connected to UFO ideas. In 2022, Le Progrès reported a crop-circle-like formation in a barley field at Saint-Denis-en-Bugey, noting that internet users joked about extraterrestrials. This belongs at the edge of Ain’s UFO history rather than its centre: a field pattern is not a sky observation, and the article does not establish an unknown aerial phenomenon. Still, it shows how “UFO” language circulates locally whenever a strange-looking trace appears in the landscape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leprogres.fr/economie/2022/05/30/un-mysterieux-cercle-de-culture-trace-dans-un-champ-d-orge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leprogres.fr">[Le Progrès]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leprogres.fr</span><span class="citation-popover-title">Le Progrès Un mystérieux cercle de culture découvert dans un champ</span><span class="citation-popover-snippet">Le Progrès Un mystérieux cercle de culture découvert dans un champ</span></span></span>
 
-The risk for readers is to merge three different things: official unexplained cases, local social belief, and playful media framing. Ain has all three, but they do not carry the same evidential weight. A GEIPAN class D case after investigation is not equivalent to a dinner talk claim, and neither is equivalent to a crop-circle headline.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pv3KyQ7G5A8" title="Bizarre crop circle appears in German field" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pv3KyQ7G5A8" target="_blank" rel="noopener noreferrer">Bizarre crop circle appears in German field</a></p><p class="youtube-embed-meta">Channel: Reuters</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pv3KyQ7G5A8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pv3KyQ7G5A8">Open on YouTube</a></p></div></div></div>
+The risk for readers is to merge three different things: official unexplained cases, local social belief, and playful media framing. Ain has all three, but they do not carry the same evidential weight. A GEIPAN class D case after investigation is not equivalent to a dinner talk claim, and neither is equivalent to a crop-circle headline.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pv3KyQ7G5A8" title="Bizarre crop circle appears in German field" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pv3KyQ7G5A8" target="_blank" rel="noopener noreferrer">Bizarre crop circle appears in German field</a></p><p class="youtube-embed-meta">Channel: Reuters</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pv3KyQ7G5A8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pv3KyQ7G5A8">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to read Ain’s UFO record fairly
 

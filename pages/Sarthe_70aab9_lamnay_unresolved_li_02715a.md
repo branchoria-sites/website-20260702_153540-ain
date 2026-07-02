@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 03:43:34'
+date: '2026-06-30 03:43:34'
 parent_title: Sarthe UFOs
 parent_permalink: /what-sarthes-ufo-files-really-show/
 parent_nav_short_title: Sarthe UFOs
@@ -252,8 +252,6 @@ GEIPAN’s classification system is important here. A category D case is not sim
 
 D1 is a more precise warning label. GEIPAN’s glossary says D1 cases are strange phenomena of medium consistency, for example a single-witness case without photo or video recording. D2 cases, by contrast, are very strange and strongly consistent, typically involving several independent witnesses, recordings or ground traces. Lamnay fits D1 almost exactly: it was strange enough not to be explained by the hypotheses considered, but it lacked the extra evidence that would make the case robust.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/glossaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Le glossaire du Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan Le glossaire du Geipan &#124; GEIPAN</span></span></span>
 
-GEIPAN’s method weighs two ideas: strangeness and consistency. Strangeness means how far the observation remains from known phenomena after the best candidate explanations are tested. Consistency means how much reliable information the investigation has: number of witnesses, precision of answers, photographs, traces, coherence and source reliability. GEIPAN explicitly says that the stranger a case is, the more consistent the evidence needs to be before the unexplained status carries much weight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan La méthodologie de classification au GEIPAN &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan La méthodologie de classification au GEIPAN &#124; GEIPAN</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ## The hypotheses that did not quite work
@@ -279,7 +277,15 @@ This leaves three big unknowns:<div class="content-enhancement content-enhanceme
 * **Actual size:** the apparent width of 20 to 30 metres depends heavily on whether the phenomenon was truly nearby or much farther away.
 * **Actual nature of the “cloud”:** the reported thick cloud is central to the case, but the public file does not provide a recording or physical data that would let readers judge whether it was cloud, haze, smoke, illuminated vapour or a perceptual description.</div>
 
-That is the evidence problem in its simplest form. Lamnay is unresolved because the known explanations were not good enough; it is limited because the available evidence was not strong enough.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CWt2zkuxRNQ" title="GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer">GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)</a></p><p class="youtube-embed-meta">Channel: Science &amp; Vie &middot; Views: 36.9K &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CWt2zkuxRNQ">Open on YouTube</a></p></div></div></div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/04uz8wMsf4k" title="OVNI : un ancien du GEIPAN et du MUFON parle enfin." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=04uz8wMsf4k" target="_blank" rel="noopener noreferrer">OVNI : un ancien du GEIPAN et du MUFON parle enfin.</a></p><p class="youtube-embed-meta">Channel: Helgoland</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=04uz8wMsf4k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=04uz8wMsf4k">Open on YouTube</a></p></div></div></div>
+That is the evidence problem in its simplest form. Lamnay is unresolved because the known explanations were not good enough; it is limited because the available evidence was not strong enough.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CWt2zkuxRNQ" title="GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer">GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)</a></p><p class="youtube-embed-meta">Channel: Science &amp; Vie &middot; Views: 36.9K &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CWt2zkuxRNQ">Open on YouTube</a></p></div></div></div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/04uz8wMsf4k" title="OVNI : un ancien du GEIPAN et du MUFON parle enfin." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=04uz8wMsf4k" target="_blank" rel="noopener noreferrer">OVNI : un ancien du GEIPAN et du MUFON parle enfin.</a></p><p class="youtube-embed-meta">Channel: Helgoland</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=04uz8wMsf4k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=04uz8wMsf4k">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why Lamnay stands out in Sarthe without becoming a landmark case
 

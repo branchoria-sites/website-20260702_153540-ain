@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /sarthe-70aab9-index/
 description: Focused pages that expand on What Sarthe's UFO Files Really Show.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Sarthe_70aab9
 parent_title: What Sarthe's UFO Files Really Show

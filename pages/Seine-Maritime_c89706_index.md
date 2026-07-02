@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /seine-maritime-c89706-index/
 description: Focused pages that expand on What Makes Seine Maritime's UFO Files Worth....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Seine-Maritime_c89706
 parent_title: What Makes Seine Maritime's UFO Files Worth...

@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 15:49:23'
+date: '2026-06-29 15:49:23'
 parent_title: Marne UFOs
 parent_permalink: /what-marnes-ufo-files-really-show/
 parent_nav_short_title: Marne UFOs
@@ -254,8 +254,6 @@ GEIPAN linked Broyes and Sommesous because they were close in time, close in pla
 
 The file also explains why the cases were originally grouped. GEIPAN’s 2018 re-examination says they had first been treated together under the case name “SEZANNE-EPERNAY (51) 10.01.2000”, because the gendarmerie report grouped two observations that appeared close in time and space. The Broyes report triggered immediate gendarmerie action, while the Sommesous witness came forward when gendarmes were making enquiries at an EDF office.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete190.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">GEIPANMicrosoft Word</span><span class="citation-popover-snippet">GEIPANMicrosoft Word</span></span></span>
 
-That sequence is crucial. It means Sommesous was not an entirely independent report arriving before anyone had discussed Broyes. The Sommesous witness had heard about the Broyes matter before making her deposition, and GEIPAN later treated that as a potential reliability problem. This does not mean she invented the incident; it means the later statement may have been shaped, consciously or not, by a more dramatic nearby report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2000-01-01542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ## What Makes the Pair Interesting
@@ -283,7 +281,13 @@ GEIPAN gave several reasons for the downgrade:
 * **Possible cultural influence:** for Broyes, GEIPAN noted similarities with science-fiction scenes involving a vehicle being illuminated by an intense light, while also acknowledging that this could not be demonstrated after so many years.
 * **Unresolved ordinary hypotheses:** for Sommesous, GEIPAN mentioned possible physical explanations such as a meteor, camera flash, or fireworks around New Year’s Eve, but also said the file lacked the information needed to weigh those hypotheses properly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2000-01-01542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The downgrade therefore did not solve the cases. It changed the official meaning of their unresolved status. They moved from “unexplained despite the evidence” to “not reliably analysable because the evidence is too thin”.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lXi5B0NTwVc" title="France&#x27;s Official UFO Investigation Agency (GEIPAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer">France&#x27;s Official UFO Investigation Agency (GEIPAN)</a></p><p class="youtube-embed-meta">Channel: Kryptoscipher &middot; Views: 108 &middot; Uploaded: February 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lXi5B0NTwVc">Open on YouTube</a></p></div></div></div>
+The downgrade therefore did not solve the cases. It changed the official meaning of their unresolved status. They moved from “unexplained despite the evidence” to “not reliably analysable because the evidence is too thin”.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lXi5B0NTwVc" title="France&#x27;s Official UFO Investigation Agency (GEIPAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer">France&#x27;s Official UFO Investigation Agency (GEIPAN)</a></p><p class="youtube-embed-meta">Channel: Kryptoscipher &middot; Views: 108 &middot; Uploaded: February 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lXi5B0NTwVc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Did the Car Failures Prove Anything?
 
@@ -302,7 +306,13 @@ The change also shows how GEIPAN’s public archive can evolve. CNES describes G
 
 That matters here because Broyes and Sommesous straddle institutional eras. The original work belonged to the SEPRA/gendarmerie period; the later public re-evaluation was a GEIPAN review using a more explicit consistency-and-strangeness framework. The result is a useful before-and-after example: what looked like a notable D case became, under later scrutiny, a C case because the file could not carry the weight placed on it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete190.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">GEIPANMicrosoft Word</span><span class="citation-popover-snippet">GEIPANMicrosoft Word</span></span></span>
 
-For readers following Marne’s UFO history, this makes the cases more instructive rather than less interesting. They show the difference between an eerie local story and a robust unexplained case. They also help explain why the department’s record contains many reports that are worth preserving, but fewer that can support firm conclusions.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/46vv3THsgQE" title="Project Blue Book: The 1957 Levelland Car Shutdown Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=46vv3THsgQE" target="_blank" rel="noopener noreferrer">Project Blue Book: The 1957 Levelland Car Shutdown Mystery</a></p><p class="youtube-embed-meta">Channel: The Declassified Report &middot; Views: 6 &middot; Uploaded: November 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=46vv3THsgQE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=46vv3THsgQE">Open on YouTube</a></p></div></div></div>
+For readers following Marne’s UFO history, this makes the cases more instructive rather than less interesting. They show the difference between an eerie local story and a robust unexplained case. They also help explain why the department’s record contains many reports that are worth preserving, but fewer that can support firm conclusions.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/46vv3THsgQE" title="Project Blue Book: The 1957 Levelland Car Shutdown Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=46vv3THsgQE" target="_blank" rel="noopener noreferrer">Project Blue Book: The 1957 Levelland Car Shutdown Mystery</a></p><p class="youtube-embed-meta">Channel: The Declassified Report &middot; Views: 6 &middot; Uploaded: November 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=46vv3THsgQE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=46vv3THsgQE">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The Most Fair-Minded Verdict
 

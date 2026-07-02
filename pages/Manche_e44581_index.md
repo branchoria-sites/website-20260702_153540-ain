@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /manche-e44581-index/
 description: Focused pages that expand on Are Manche's UFO Reports Mystery or....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Manche_e44581
 parent_title: Are Manche's UFO Reports Mystery or...

@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 05:23:28'
+date: '2026-06-30 05:23:28'
 parent_title: Seine UFOs
 parent_permalink: /what-really-happened-in-seine-et/
 parent_nav_short_title: Seine UFOs
@@ -254,8 +254,6 @@ The Ussy-sur-Marne report is usually remembered as a “silent triangle”, but 
 
 The gendarmes’ own sketch, included in the file, shows three large lighted points at the corners of a triangular outline, with internal lines meeting towards a central point. It is not a photograph or measurement, but it is valuable because it preserves what the patrol believed it had seen before the case was retold by others.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/2023-08/USSY-SUR-MARNE%20%2877%29%2024.06.1994%20%5BT-M%20PV%20T%2CD%2CC%20S%2CA%5D%201994307799-1544-94-R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The location material is also useful. The file includes a plan of the Ussy-sur-Marne and Changis-sur-Marne area, with the patrol’s direction and the reported departure direction marked near the D3E and the A4 crossing. This helps keep the story anchored in a specific road environment rather than a vague “lights in the countryside” account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/2023-08/USSY-SUR-MARNE%20%2877%29%2024.06.1994%20%5BT-M%20PV%20T%2CD%2CC%20S%2CA%5D%201994307799-1544-94-R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ## Why this file stands out in Seine-et-Marne
@@ -277,6 +275,8 @@ For Ussy-sur-Marne, the D classification appears to rest on the combination of c
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6zikRBV8DwQ" title="Episode 337 LIVE: The Belgian UFO Wave" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6zikRBV8DwQ" target="_blank" rel="noopener noreferrer">Episode 337 LIVE: The Belgian UFO Wave</a></p><p class="youtube-embed-meta">Channel: 13 O&#x27;Clock Podcast &middot; Views: 2.7K &middot; Uploaded: February 2023 &middot; Length: 2 hours 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6zikRBV8DwQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6zikRBV8DwQ">Open on YouTube</a></p></div></div></div>
 
+
+
 ## The main doubts and weak points
 
 The strongest reason to take the case seriously is also the reason to handle it carefully: it is witness-led. There is no photograph, video, radar track, physical trace or independent external confirmation in the public file. The witnesses were trained public officers, but they were still human observers at night, estimating the behaviour of an unfamiliar light source without reliable distance, altitude or scale.
@@ -291,8 +291,6 @@ There is also a broader interpretive caution around triangular UFOs. In a later 
 A cautious reading should test ordinary possibilities first. Aircraft lights are an obvious candidate in busy Île-de-France airspace, and GEIPAN has shown in other cases how aircraft can be misread as huge, slow or oddly shaped objects when seen at night from a road or stationary vehicle. Its general methodology gives a concrete example of a C-130 Hercules transport aircraft being perceived by witnesses as a flying saucer or a huge slow triangle, with radar later helping explain the scene.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan Mission &amp; Geipan &#124; GEIPAN</span></span></span>
 
 For Ussy-sur-Marne, however, the available public file does not show the decisive cross-checks that would settle such an explanation. The record does not provide a matching aircraft track, altitude, route, transponder identification or independent aviation reconstruction. Nor does it show a clear match with a helicopter, drone, balloon, satellite, meteor or advertising light. Some of those explanations fit one part of the report but fail another: a helicopter can hover but is unlikely to be silent at close range; a meteor can vanish fast but cannot hover for ten minutes; a balloon can drift silently but does not explain the reported sudden westward departure.
-
-A formation of separate lights is another possibility, because three points can make a triangle whether or not a solid body links them. But the gendarmes said the lights came from the underside of a triangular object, and their sketch shows a single form rather than three unrelated sources. That makes the formation hypothesis possible but unproven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/2023-08/USSY-SUR-MARNE%20%2877%29%2024.06.1994%20%5BT-M%20PV%20T%2CD%2CC%20S%2CA%5D%201994307799-1544-94-R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BUgjzQ7vpsg" title="Des gendarmes face à l&#x27;inexpliqué - OVNIS, la fascinante histoire (8/9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BUgjzQ7vpsg" target="_blank" rel="noopener noreferrer">Des gendarmes face à l&#x27;inexpliqué - OVNIS, la fascinante histoire (8/9)</a></p><p class="youtube-embed-meta">Channel: RTBF &middot; Views: 140.1K &middot; Uploaded: August 2023 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BUgjzQ7vpsg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BUgjzQ7vpsg">Open on YouTube</a></p></div></div></div>
 

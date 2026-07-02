@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 01:10:57'
+date: '2026-06-29 01:10:57'
 parent_title: Cotes d'Armor UFOs
 parent_permalink: /what-really-happened-in-cotes-darmor/
 parent_nav_short_title: Cotes d'Armor UFOs
@@ -252,8 +252,6 @@ The Ploumilliau case also illustrates why aircraft can generate UFO-like reports
 
 Satellites create a different kind of confusion because they are silent, high, steady and often visible only when sunlight catches them after the ground is already dark. In Lannion on 23 July 2017, a witness and companion saw a white point move slowly from west to east in a clear sky, fading as it went. GEIPAN found that the sighting matched the International Space Station pass exactly in time and sky position, including the loss of brightness as it moved east, and classified the case as A. NASA’s own public guidance describes the ISS as looking like a very bright star or aircraft crossing the sky without flashing lights or changing direction, which is close to the kind of description that can trigger a UFO report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2017-07-09698" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The newer Belle-Isle-en-Terre case from 1 September 2025 shows the same mechanism in a more modern form. The witness saw a very bright white spherical object in the eastern sky before dawn, apparently growing and then vanishing after about two minutes. GEIPAN checked radar with the French air-defence operations planning and control centre and found no matching radar track. It then tested a satellite flare hypothesis: a brief brightening caused by sunlight reflecting from a satellite. The CNES space surveillance centre identified two Starlink satellites in the relevant part of the sky at the relevant time, with a final visibility and descending apparent track matching the witness account, so GEIPAN classed the case as B: probable satellite flare.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2025-09-51681" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ## Balloons, meteors and re-entry trails
@@ -274,8 +272,6 @@ That file also shows the limits of “checking the databases”. GEIPAN asked th
 The biggest change in modern Côtes-d’Armor casework is not that witnesses have stopped seeing strange things. It is that investigators now have more ways to test the sky after the event. A report with a precise time, direction, elevation, duration, photograph or video can be compared with satellite passes, ISS visibility, aircraft data, weather-balloon schedules, fireball reports and re-entry records. That is why the Lannion ISS case became an A, while Belle-Isle-en-Terre and Saint-Michel-en-Grève became B cases: the available data were good enough to make a strong or probable match, but the certainty level differed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2017-07-09698" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+2Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 Aircraft tracking has also changed the balance of evidence. Public flight-tracking systems largely depend on ADS-B signals, in which equipped aircraft broadcast identity, position, speed, altitude and related data; Flightradar24 notes that some older civilian aircraft and many military aircraft may provide less complete data, requiring other methods such as multilateration. For local UFO interpretation, that means aircraft data are powerful but not magic. A civilian aircraft may be easy to match, while military activity, low-level routes or incomplete transponder data can leave more uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24+2Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Open source on flightradar24.com.</span></span></span>
-
-Images help, but only when they can be analysed in context. The Saint-Michel-en-Grève case had a 30-second exposure photograph that GEIPAN considered exploitable, allowing measurement and velocity estimation with specialised image-analysis software. By contrast, a single unaided memory of a bright moving object may be enough to file a report, but not enough to identify it. This is why GEIPAN’s “consistency” measure matters: more reliable, objective information can either strengthen a mystery or remove it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2024-04-51547" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7K1xFb1REHU" title="How does ADS-B work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7K1xFb1REHU" target="_blank" rel="noopener noreferrer">How does ADS-B work?</a></p><p class="youtube-embed-meta">Channel: Flightradar24 &middot; Views: 66.0K &middot; Uploaded: April 2024 &middot; Length: 1 minute 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7K1xFb1REHU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7K1xFb1REHU">Open on YouTube</a></p></div></div></div>
 

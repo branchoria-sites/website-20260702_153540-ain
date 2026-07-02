@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 19:00:16'
+date: '2026-06-29 19:00:16'
 parent_title: Moselle UFOs
 parent_permalink: /what-really-happened-in-moselles-ufo/
 parent_nav_short_title: Moselle UFOs
@@ -236,7 +236,6 @@ image: /assets/images/Moselle_b6f07c_ars_1990_unresolved_4a1aca-overview-social.
 
 ## Introduction
 
-The Ars-sur-[Moselle]({{'what-really-happened-in-moselles-ufo/' | relative_url }}) sighting of 27 February 1990 remains one of the most important unresolved UFO cases in Moselle because it is not just a local anecdote. It appears in the public files of GEIPAN, the French CNES unit that collects, analyses and publishes reports of unidentified aerospace phenomena, and it is classified as category D: unidentified after investigation. GEIPAN’s summary describes two young witnesses in a car observing a silent, round or oval object with three powerful white lights, moving slowly at very low altitude before leaving at high speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1990-02-01195" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GEIPANARS SUR MOSELLE (57) 1990 &#124; GEIPAN...</span></span></span><img src="{{"/assets/images/Moselle_b6f07c_ars_1990_unresolved_4a1aca-overview.webp" | relative_url }}" alt="Overview image for Ars 1990" loading="eager" decoding="sync" fetchpriority="high">
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SbQhrIRCs-c" title="This European UFO Was Spotted by Thousands of People | Belgian UFO Wave" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SbQhrIRCs-c" target="_blank" rel="noopener noreferrer">This European UFO Was Spotted by Thousands of People | Belgian UFO Wave</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 7.6K &middot; Uploaded: January 2026 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SbQhrIRCs-c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SbQhrIRCs-c">Open on YouTube</a></p></div></div></div>
 
 ## What the witnesses said happened
@@ -262,6 +261,8 @@ That framework fits Ars-sur-Moselle well. The case is stronger than many because
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
+
+
 ## What makes the Ars case different in Moselle
 
 Moselle has many published GEIPAN entries, but most are not category D cases. A GEIPAN-derived independent mapping site lists 53 Moselle cases, including 10 class A, 17 class B, 22 class C and 4 class D, with Ars-sur-Moselle among the small unresolved group. The same site is independent and should not outrank GEIPAN, but it is useful for seeing the case’s place in the department-level pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/departement/moselle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[CarteOvni.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-title">Carte Ovni.fr OVN I dans le Moselle (57) — Carte Ovni.fr</span><span class="citation-popover-snippet">Carte Ovni.fr OVN I dans le Moselle (57) — Carte Ovni.fr</span></span></span>
@@ -283,7 +284,13 @@ The silence is suggestive but not decisive. A very low, nearby engine-driven cra
 
 The reported departure at very high speed is another key but difficult point. It is one of the details that makes the case strange, yet it is also the sort of observation that can be distorted by loss of visual reference. A light that goes out, passes behind terrain, changes direction, is obscured by cloud, or moves away along the line of sight may be experienced as a sudden acceleration or disappearance. GEIPAN did not find a satisfactory ordinary explanation, but the remaining data are not enough to calculate an actual speed.
 
-The absence of other witnesses cuts both ways. It reduces the chance that the story was a public contagion created by media attention, especially if the incident was not publicised at the time. But it also means the event left no wider observational footprint. For a low-altitude object with powerful lights near roads and built-up infrastructure, one might hope for more independent observers. The fact that none came forward leaves the case unresolved rather than confirmed.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6zikRBV8DwQ" title="Episode 337 LIVE: The Belgian UFO Wave" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6zikRBV8DwQ" target="_blank" rel="noopener noreferrer">Episode 337 LIVE: The Belgian UFO Wave</a></p><p class="youtube-embed-meta">Channel: 13 O&#x27;Clock Podcast &middot; Views: 2.7K &middot; Uploaded: February 2023 &middot; Length: 2 hours 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6zikRBV8DwQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6zikRBV8DwQ">Open on YouTube</a></p></div></div></div>
+The absence of other witnesses cuts both ways. It reduces the chance that the story was a public contagion created by media attention, especially if the incident was not publicised at the time. But it also means the event left no wider observational footprint. For a low-altitude object with powerful lights near roads and built-up infrastructure, one might hope for more independent observers. The fact that none came forward leaves the case unresolved rather than confirmed.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6zikRBV8DwQ" title="Episode 337 LIVE: The Belgian UFO Wave" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6zikRBV8DwQ" target="_blank" rel="noopener noreferrer">Episode 337 LIVE: The Belgian UFO Wave</a></p><p class="youtube-embed-meta">Channel: 13 O&#x27;Clock Podcast &middot; Views: 2.7K &middot; Uploaded: February 2023 &middot; Length: 2 hours 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6zikRBV8DwQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6zikRBV8DwQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why the case still stands out
 

@@ -7,7 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /saone-et-loire-d3ab2b-index/
 description: Focused pages that expand on What Really Happened in Saone et Loire's
   UFO....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Saone-et-Loire_d3ab2b
 parent_title: What Really Happened in Saone et Loire's UFO...

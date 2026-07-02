@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 10:11:07'
+date: '2026-06-30 10:11:07'
 parent_title: Haute Vienne UFOs
 parent_permalink: /what-really-happened-over-haute-vienne/
 parent_nav_short_title: Haute Vienne UFOs
@@ -237,7 +237,13 @@ image: /assets/images/Haute-Vienne_e44500_solved_weak_sighting_1687fc-overview-s
 ## Introduction
 
 [Haute-Vienne]({{'what-really-happened-over-haute-vienne/' | relative_url }}) is a useful place to compare weak and solved UFO reports because its official files show several different ways a mystery can shrink. One 1978 report at Saint-Junien/Saillat-sur-Vienne sounds striking at first: a bright rectangular object, apparently stationary, then moving rapidly in opposite directions. Yet GEIPAN, France’s official unit for unidentified aerospace phenomena, classifies it as C, meaning not identified because the available information is too poor for proper analysis. By contrast, two modern Haute-Vienne reports near Rilhac-Rancon in 2024 and Saint-Priest-Taurion in 2025 were solved as ordinary aerial activity after radar, aviation and contextual checks: a crewed gas balloon and a light aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/47784?field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=%2C506&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan+2Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span><img src="{{"/assets/images/Haute-Vienne_e44500_solved_weak_sighting_1687fc-overview.webp" | relative_url }}" alt="Overview image for Solved Cases" loading="eager" decoding="sync" fetchpriority="high">
-The comparison matters because “unidentified” does not always mean “strong”. In these files, the strongest lesson is methodological: missing data keeps a case open, while better timing, radar tracks, photographs, witness questionnaires and aviation records can turn an apparently odd object into something familiar.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+The comparison matters because “unidentified” does not always mean “strong”. In these files, the strongest lesson is methodological: missing data keeps a case open, while better timing, radar tracks, photographs, witness questionnaires and aviation records can turn an apparently odd object into something familiar.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How Haute-Vienne Cases Change Strength
 
@@ -255,6 +261,8 @@ The detail that keeps the case from being dismissed too casually is the involvem
 This is the kind of case that often becomes inflated in retelling. A bright rectangular object, a cloudy sky, rapid movement and a nearby airport can sound more dramatic when separated from the classification. But the official status is not “a strong unknown”. It is “not identified because the data are insufficient”. That distinction should guide how the case is used in Haute-Vienne UFO history.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PLyEO0jNt6M" title="Explained: &quot;Go Fast&quot; UFO Video - Not Low and Not Fast - Like a Balloon!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PLyEO0jNt6M" target="_blank" rel="noopener noreferrer">Explained: &quot;Go Fast&quot; UFO Video - Not Low and Not Fast - Like a Balloon!</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 154.2K &middot; Uploaded: June 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PLyEO0jNt6M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PLyEO0jNt6M">Open on YouTube</a></p></div></div></div>
+
+
 
 ## Modern Balloon and Aircraft Identifications
 
@@ -277,7 +285,13 @@ CaseInitial impressionKey missing or added evidenceOfficial outcomeSaint-Junien/
 
 This is also why Haute-Vienne’s weaker and solved cases should not be treated as failures of UFO reporting. They are useful public records of how uncertainty works. Some reports remain open because they are too thin. Some are solved because later checks add enough independent information. Some older files can even change classification when methods improve. GEIPAN has explicitly described a programme of revisiting old cases, noting in 2017 that a group of older D cases from 1978 to 1998 had been republished after new review allowed reclassification to A, B or C, and that digital tools and improved methods had made deeper investigation possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/actualites/geipan-revisite-cas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-The Châteauneuf-style dramatic case is not the only kind of local UFO history worth reading. Haute-Vienne’s solved and weak files show the quieter but more reliable lesson: a report’s value depends less on how strange it sounds in the first paragraph than on whether its time, location, direction, duration, weather, imagery, radar and aviation context can be checked.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6NrAQbco7dQ" title="The UFO &#x27;cookbook&#x27;: How the American government investigates the unexplainable" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6NrAQbco7dQ" target="_blank" rel="noopener noreferrer">The UFO &#x27;cookbook&#x27;: How the American government investigates the unexplainable</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 17.1K &middot; Uploaded: May 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6NrAQbco7dQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6NrAQbco7dQ">Open on YouTube</a></p></div></div></div>
+The Châteauneuf-style dramatic case is not the only kind of local UFO history worth reading. Haute-Vienne’s solved and weak files show the quieter but more reliable lesson: a report’s value depends less on how strange it sounds in the first paragraph than on whether its time, location, direction, duration, weather, imagery, radar and aviation context can be checked.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6NrAQbco7dQ" title="The UFO &#x27;cookbook&#x27;: How the American government investigates the unexplainable" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6NrAQbco7dQ" target="_blank" rel="noopener noreferrer">The UFO &#x27;cookbook&#x27;: How the American government investigates the unexplainable</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 17.1K &middot; Uploaded: May 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6NrAQbco7dQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6NrAQbco7dQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What Readers Should Take from These Files
 

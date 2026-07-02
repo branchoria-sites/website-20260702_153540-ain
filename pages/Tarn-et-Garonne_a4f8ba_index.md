@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /tarn-et-garonne-a4f8ba-index/
 description: Focused pages that expand on What Really Happened in Tarn et Garonne's....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Tarn-et-Garonne_a4f8ba
 parent_title: What Really Happened in Tarn et Garonne's...

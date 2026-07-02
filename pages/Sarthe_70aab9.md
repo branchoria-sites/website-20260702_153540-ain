@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 03:43:34'
+date: '2026-06-30 03:43:34'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -727,7 +727,13 @@ The Lamnay sighting of 26 October 2011 is the main Sarthe case that deserves att
 
 GEIPAN considered possible explanations including aircraft, lasers, and air ionisation, but did not find any sufficiently convincing. The case was therefore classed as D1: strange, but limited by the lack of recording, trace evidence, and multiple independent testimony. That distinction is crucial. Lamnay is not “proof” of a craft, nor of an extraterrestrial event. It is an official unresolved case in which the available evidence did not support a conventional explanation strongly enough.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2011-10-02840" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-For Sarthe’s UFO history, Lamnay matters because it is one of the few local files where the best official conclusion is not “the Moon”, “Venus”, “Sirius”, “aircraft”, “balloon”, or “camera reflection”. Its weakness is also clear: no photo, no video, no radar data, no physical trace, and only limited witness independence. In plain terms, it is worth remembering, but not worth exaggerating.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2wBIkZ646gA" title="Ancient Aliens: French Government EXPOSES Evidence of UFOs (Special) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2wBIkZ646gA" target="_blank" rel="noopener noreferrer">Ancient Aliens: French Government EXPOSES Evidence of UFOs (Special) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 336.7K &middot; Uploaded: February 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2wBIkZ646gA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2wBIkZ646gA">Open on YouTube</a></p></div></div></div>
+For Sarthe’s UFO history, Lamnay matters because it is one of the few local files where the best official conclusion is not “the Moon”, “Venus”, “Sirius”, “aircraft”, “balloon”, or “camera reflection”. Its weakness is also clear: no photo, no video, no radar data, no physical trace, and only limited witness independence. In plain terms, it is worth remembering, but not worth exaggerating.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2wBIkZ646gA" title="Ancient Aliens: French Government EXPOSES Evidence of UFOs (Special) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2wBIkZ646gA" target="_blank" rel="noopener noreferrer">Ancient Aliens: French Government EXPOSES Evidence of UFOs (Special) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 336.7K &middot; Uploaded: February 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2wBIkZ646gA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2wBIkZ646gA">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Balloons, aircraft, stars, and reflections explain much of the modern record
 
@@ -746,13 +752,17 @@ The 30 October 2013 Sablé-sur-Sarthe report is a useful example of category C. 
 
 The problem is that the supporting data did not line up cleanly. GEIPAN noted that the BOAM fireball network recorded numerous fireballs that night, including one at 22:38 UTC, but those were seen from eastern France and were not the same event; the network also had no camera near Sablé-sur-Sarthe. Given the brevity of the observation, the single witness, and the unusual three-object formation, GEIPAN judged the fireball explanation too fragile and left the case in category C pending possible future corroboration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2013-10-08600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-This is exactly the kind of file that is easy to overstate. It is not a strong unknown in the same sense as an investigated category D case. It is an information gap. The most responsible reading is that meteors or a fragmented bolide remain plausible, but the official file does not have enough evidence to close the case.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dcMrAX4zRwo" title="Ancient Aliens: 300+ &quot;Flying Saucer&quot; Incidents in France (Season 19) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dcMrAX4zRwo" target="_blank" rel="noopener noreferrer">Ancient Aliens: 300+ &quot;Flying Saucer&quot; Incidents in France (Season 19) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dcMrAX4zRwo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dcMrAX4zRwo">Open on YouTube</a></p></div></div></div>
+This is exactly the kind of file that is easy to overstate. It is not a strong unknown in the same sense as an investigated category D case. It is an information gap. The most responsible reading is that meteors or a fragmented bolide remain plausible, but the official file does not have enough evidence to close the case.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dcMrAX4zRwo" title="Ancient Aliens: 300+ &quot;Flying Saucer&quot; Incidents in France (Season 19) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dcMrAX4zRwo" target="_blank" rel="noopener noreferrer">Ancient Aliens: 300+ &quot;Flying Saucer&quot; Incidents in France (Season 19) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dcMrAX4zRwo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dcMrAX4zRwo">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How many Sarthe sightings are there?
 
 GEIPAN’s public search interface and exported case tables are the best starting point, but counts can vary depending on whether one includes only published files, revised cases, meteor-related entries, or independent re-indexing sites. GEIPAN’s national case search lists thousands of published French cases and allows filtering by department, classification, observation type, and date.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/recherche/cas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Recherche de cas &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan Recherche de cas &#124; GEIPAN</span></span></span>
-
-An independent map built from GEIPAN public data summarises Pays de la Loire as containing 34 Sarthe cases, including 3 non-identified cases and 12 meteor or fireball-related entries. Because it is not GEIPAN itself, that figure should be treated as a reader-friendly index rather than the controlling official count. It is nevertheless useful because it captures the broad shape of the department’s record: Sarthe has a moderate number of archived sightings, but only a small minority are unresolved in the stronger sense.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/region/pays-de-la-loire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[CarteOvni.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-title">Carte Ovni.fr Observations OVNI en Pays de la Loire</span><span class="citation-popover-snippet">Carte Ovni.fr Observations OVNI en Pays de la Loire</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RfXsJ5p5Xa8" title="Sarthe : portes ouvertes au 2ème RIMA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RfXsJ5p5Xa8" target="_blank" rel="noopener noreferrer">Sarthe : portes ouvertes au 2ème RIMA</a></p><p class="youtube-embed-meta">Channel: France 3 Pays de la Loire</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RfXsJ5p5Xa8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RfXsJ5p5Xa8">Open on YouTube</a></p></div></div></div>
 

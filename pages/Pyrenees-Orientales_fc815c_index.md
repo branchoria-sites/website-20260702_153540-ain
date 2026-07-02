@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /pyrenees-orientales-fc815c-index/
 description: Focused pages that expand on Pyrenees Orientales.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Pyrenees-Orientales_fc815c
 parent_title: Pyrenees Orientales

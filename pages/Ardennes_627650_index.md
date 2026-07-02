@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ardennes-627650-index/
 description: Focused pages that expand on What Really Happened in Ardennes UFO Files?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Ardennes_627650
 parent_title: What Really Happened in Ardennes UFO Files?

@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 10:53:38'
+date: '2026-06-29 10:53:38'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -723,6 +723,8 @@ Montchaboud is therefore stronger than many casual light-in-the-sky reports, but
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
+
+
 ## The larger Isère pattern: many mysteries shrink under investigation
 
 Most of the department’s public record becomes more understandable when cases are grouped by explanation type rather than treated as isolated wonders. GEIPAN’s Isère list includes many A, B and C classifications as well as the unresolved cases. A means the phenomenon is identified; B means the explanation is probable; C usually means there is not enough reliable information to decide; D/D1 indicates an unresolved case after investigation. GEIPAN says its classification method is based mainly on residual strangeness after investigation and the consistency of the information gathered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">methodologie classification geipan</span><span class="citation-popover-snippet">methodologie classification geipan</span></span></span>
@@ -742,8 +744,6 @@ These cases are not boring footnotes. They are the substance of Isère UFO histo
 
 France is unusual because it has a long-running official public route for UFO and UAP reporting. CNES says GEIPAN was created in 1977 and works to collect, analyse and archive reports of unidentified aerospace phenomena, with partners including the gendarmerie, police, Air and Space Force, CNRS and Météo-France.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">Open source on cnes.fr.</span></span></span> GEIPAN’s stated method begins with witness collection, file creation, first analysis, investigation and processing, then classification and publication where appropriate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-For Isère, that matters because several older cases survive not as rumours but as administrative files. Saint-Geoirs includes a gendarmerie report and later GEIPAN notes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1976-11-02763" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span> Montchaboud includes a gendarmerie record and an investigation report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2012-07-08299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span> This gives the department’s UFO history a firmer documentary base than local folklore alone.
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C94mtZ8L7R4" title="L&#x27;histoire du premier cas d&#x27;Ovni dans le Pas-de-Calais à Quarouble en 1954" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C94mtZ8L7R4" target="_blank" rel="noopener noreferrer">L&#x27;histoire du premier cas d&#x27;Ovni dans le Pas-de-Calais à Quarouble en 1954</a></p><p class="youtube-embed-meta">Channel: BFM Grand Lille</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C94mtZ8L7R4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C94mtZ8L7R4">Open on YouTube</a></p></div></div></div>
 
 ## Did 1954 leave a strong Isère legacy?
@@ -752,7 +752,13 @@ The French UFO wave of 1954 is essential background for any department-level UFO
 
 There are references in UFO catalogues to a Grenoble observation on 24 September 1954 involving a dark sphere or disc allegedly photographed, but the available web evidence is secondary and catalogue-based rather than a robust official Isère case file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/1954/24sep1954grenoblef.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span> For this page’s Isère scope, that means the 1954 wave should be treated as background texture, not as the department’s strongest evidential anchor.
 
-The more dependable Isère story begins with the official-era files: mid-1970s gendarmerie records, later GEIPAN re-examinations, and modern cases with structured questionnaires, meteorological checks, videos or digital tools. That may be less romantic than the saucer-wave narrative, but it is more useful for readers trying to understand what can actually be verified.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O4vKMT7ytTk" title="GEIPAN : qui étudie les ovnis ? - Science En Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O4vKMT7ytTk" target="_blank" rel="noopener noreferrer">GEIPAN : qui étudie les ovnis ? - Science En Questions</a></p><p class="youtube-embed-meta">Channel: L&#x27;Esprit Sorcier TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O4vKMT7ytTk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O4vKMT7ytTk">Open on YouTube</a></p></div></div></div>
+The more dependable Isère story begins with the official-era files: mid-1970s gendarmerie records, later GEIPAN re-examinations, and modern cases with structured questionnaires, meteorological checks, videos or digital tools. That may be less romantic than the saucer-wave narrative, but it is more useful for readers trying to understand what can actually be verified.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O4vKMT7ytTk" title="GEIPAN : qui étudie les ovnis ? - Science En Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O4vKMT7ytTk" target="_blank" rel="noopener noreferrer">GEIPAN : qui étudie les ovnis ? - Science En Questions</a></p><p class="youtube-embed-meta">Channel: L&#x27;Esprit Sorcier TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O4vKMT7ytTk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O4vKMT7ytTk">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to read an Isère UFO case without overclaiming
 

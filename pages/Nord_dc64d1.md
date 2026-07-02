@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 20:32:39'
+date: '2026-06-29 20:32:39'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -725,8 +725,6 @@ In Lille on 6 June 1997, GEIPAN records a D-class case: one witness saw a lumino
 
 By contrast, a Lille case from 21 February 2015 shows how quickly a puzzling sighting can become weak once the data are thin. A driver and passenger saw several silent orange lights moving through the night sky. GEIPAN noted that the description strongly resembled sky lanterns, especially on a weekend soon after Chinese New Year, but because the moving car made the trajectory difficult to reconstruct and there were no other reports, the case was classified C for lack of reliable information rather than firmly explained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/cas/2015-02-09113?customGetLattitude=49.98977423589942&amp;customGetLongitude=3.5211181640625004&amp;customGetZoom=8&amp;field_agregation_index_value=&amp;field_classification_des_cas_target_id=All&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=51.01375465718821&amp;field_latitude_value%5Bmin%5D=48.96579381461063&amp;field_longitude_value%5Bmax%5D=5.388793945312501&amp;field_longitude_value%5Bmin%5D=1.6534423828125002&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=%2C11&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-Merville, on 31 March 2008, is a good example of a local aviation setting producing an initially odd observation. A group at an aerodrome saw successive white luminous rings moving in the sky without noise. A local witness said advertising or entertainment laser projectors were frequently used in the area by restaurants or dance venues, and GEIPAN classified the case B: probable light animation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/cas/2008-03-01811?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation_textuel&amp;page=3&amp;s=09&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ## Douai and Sainghin-en-Weppes: modern cases show better tools, not instant certainty
@@ -750,7 +748,13 @@ In Nord, several recurring explanations appear:<div class="content-enhancement c
 * **Aircraft or drones:** plausible in a densely connected region, but only when sound, lighting, route and regulations fit.
 * **Insufficient evidence:** a single witness, no usable video, no corroborating reports, or an uncertain trajectory.</div>
 
-This pattern does not make every case trivial. It makes the stronger cases easier to identify. A valuable Nord case is not simply one that sounds dramatic; it is one where independent witnesses, timing, direction, weather, images, radar or other records can be compared. The 1997 Lille D case is therefore more interesting than many colourful C cases, while Quarouble remains historically central because of its cultural impact and alleged traces, even though its evidential chain is far messier than a modern file.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HEQkrZ977bM" title="1975 : un OVNI observé dans le Nord" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HEQkrZ977bM" target="_blank" rel="noopener noreferrer">1975 : un OVNI observé dans le Nord</a></p><p class="youtube-embed-meta">Channel: France 3 Hauts-de-France</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HEQkrZ977bM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HEQkrZ977bM">Open on YouTube</a></p></div></div></div>
+This pattern does not make every case trivial. It makes the stronger cases easier to identify. A valuable Nord case is not simply one that sounds dramatic; it is one where independent witnesses, timing, direction, weather, images, radar or other records can be compared. The 1997 Lille D case is therefore more interesting than many colourful C cases, while Quarouble remains historically central because of its cultural impact and alleged traces, even though its evidential chain is far messier than a modern file.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HEQkrZ977bM" title="1975 : un OVNI observé dans le Nord" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HEQkrZ977bM" target="_blank" rel="noopener noreferrer">1975 : un OVNI observé dans le Nord</a></p><p class="youtube-embed-meta">Channel: France 3 Hauts-de-France</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HEQkrZ977bM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HEQkrZ977bM">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to judge a Nord UFO claim fairly
 
@@ -758,7 +762,13 @@ A fair reading of Nord’s UFO history needs two cautions at once. The first is 
 
 The second caution is historical: do not flatten every witness account into “just a mistake”. Nord’s record includes sincere witnesses, official reports, local press attention, and cases where investigators could not prove a conventional explanation. The right question is not “was it aliens?” but “what would the available evidence allow a careful person to conclude?”
 
-For Nord, the answer is mixed but not sensational. Quarouble is the department’s landmark UFO story: culturally powerful, locally rooted, repeatedly retold, but difficult to verify cleanly after seven decades. The modern [GEIPAN files]({{'geipan-files-e12abb/' | relative_url }}) show a more prosaic landscape in which many sightings become lanterns, balloons, light projections or weakly documented unknowns. A small number remain more interesting, not because they prove an extraordinary origin, but because they resist the easy explanations available in the file.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZTSJzm2N2kQ" title="Quarouble 1954, l&#x27;histoire de Marius Dewilde" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZTSJzm2N2kQ" target="_blank" rel="noopener noreferrer">Quarouble 1954, l&#x27;histoire de Marius Dewilde</a></p><p class="youtube-embed-meta">Channel: France 3 Hauts-de-France</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZTSJzm2N2kQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZTSJzm2N2kQ">Open on YouTube</a></p></div></div></div>
+For Nord, the answer is mixed but not sensational. Quarouble is the department’s landmark UFO story: culturally powerful, locally rooted, repeatedly retold, but difficult to verify cleanly after seven decades. The modern [GEIPAN files]({{'geipan-files-e12abb/' | relative_url }}) show a more prosaic landscape in which many sightings become lanterns, balloons, light projections or weakly documented unknowns. A small number remain more interesting, not because they prove an extraordinary origin, but because they resist the easy explanations available in the file.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZTSJzm2N2kQ" title="Quarouble 1954, l&#x27;histoire de Marius Dewilde" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZTSJzm2N2kQ" target="_blank" rel="noopener noreferrer">Quarouble 1954, l&#x27;histoire de Marius Dewilde</a></p><p class="youtube-embed-meta">Channel: France 3 Hauts-de-France</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZTSJzm2N2kQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZTSJzm2N2kQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What Nord’s UFO record really tells us
 

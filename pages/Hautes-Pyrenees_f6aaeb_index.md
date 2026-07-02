@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /hautes-pyrenees-f6aaeb-index/
 description: Focused pages that expand on Hautes Pyrenees.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Hautes-Pyrenees_f6aaeb
 parent_title: Hautes Pyrenees

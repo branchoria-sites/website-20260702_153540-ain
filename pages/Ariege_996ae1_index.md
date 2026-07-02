@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ariege-996ae1-index/
 description: Focused pages that expand on Ariege.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Ariege_996ae1
 parent_title: Ariege

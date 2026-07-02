@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /jura-f17a56-index/
 description: Focused pages that expand on What Really Happened in Jura's UFO Files?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Jura_f17a56
 parent_title: What Really Happened in Jura's UFO Files?

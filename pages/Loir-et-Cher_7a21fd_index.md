@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /loir-et-cher-7a21fd-index/
 description: Focused pages that expand on Why Loir et Cher's UFO Record Looks....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Loir-et-Cher_7a21fd
 parent_title: Why Loir et Cher's UFO Record Looks...

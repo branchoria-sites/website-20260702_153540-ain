@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 01:10:56'
+date: '2026-06-29 01:10:56'
 parent_title: Haute Corse UFOs
 parent_permalink: /what-haute-corse-ufo-files-really-show/
 parent_nav_short_title: Haute Corse UFOs
@@ -274,7 +274,13 @@ On paper, Borgo is the most aviation-like of the three early cases: a moving obj
 
 That makes Borgo an important weak-evidence case rather than a strong “unknown”. A 40-second observation can be sincere and still be hard to reconstruct decades later. To test such a report properly, investigators would ideally need precise location, viewing direction, angular elevation, weather, aircraft activity, possible firework or flare activity, military or civil aviation records, and independent witnesses along the claimed path. The public summary does not show that kind of corroborating framework.
 
-Borgo is also a useful warning against reading cinematic detail as evidential strength. The “multicoloured flame” and low flight path make the account vivid, but they do not by themselves establish what was seen. A file can be strange in description and still weak in consistency. GEIPAN’s class C label reflects that mismatch.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+Borgo is also a useful warning against reading cinematic detail as evidential strength. The “multicoloured flame” and low flight path make the account vivid, but they do not by themselves establish what was seen. A file can be strange in description and still weak in consistency. GEIPAN’s class C label reflects that mismatch.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Vescovato shows the pattern lasted beyond 1981
 
@@ -303,7 +309,13 @@ The most important interpretive point is simple: class C does not mean “unexpl
 
 That distinction changes how the Haute-Corse early 1980s cluster should be understood. Vezzani, Borgo and Vescovato are not official proof that unknown craft operated over Haute-Corse. They are cases where the records were not strong enough to support a firm ordinary explanation, but also not strong enough to support a robust extraordinary conclusion. Favalello, by contrast, shows that even a memorable multi-witness experience can be downgraded once astronomy and viewing geometry are considered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1980-03-00746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+3Geipan+3Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanFAVALELLO (2B) 03.03.19803 Mar 1980 — Le 03 mars 1980 à partir 20h 45 des témoins dans un véhicule aperçoivent au-dessus des crêtes...</span></span></span>
 
-This also helps explain why the cluster still matters. Weak evidence is not useless evidence. It tells researchers where the archive is thin, what kinds of observation were being reported, and how official French investigators separated probable identifications from under-documented reports. It also helps readers avoid two common mistakes: dismissing every witness account as worthless, or treating every unresolved file as confirmation of something extraordinary.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k5_j6Z-HIX4" title="1952 - 1982: Famous UFO Cases in France [FULL VERSION]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k5_j6Z-HIX4" target="_blank" rel="noopener noreferrer">1952 - 1982: Famous UFO Cases in France [FULL VERSION]</a></p><p class="youtube-embed-meta">Channel: The Hidden Truth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k5_j6Z-HIX4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k5_j6Z-HIX4">Open on YouTube</a></p></div></div></div>
+This also helps explain why the cluster still matters. Weak evidence is not useless evidence. It tells researchers where the archive is thin, what kinds of observation were being reported, and how official French investigators separated probable identifications from under-documented reports. It also helps readers avoid two common mistakes: dismissing every witness account as worthless, or treating every unresolved file as confirmation of something extraordinary.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k5_j6Z-HIX4" title="1952 - 1982: Famous UFO Cases in France [FULL VERSION]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k5_j6Z-HIX4" target="_blank" rel="noopener noreferrer">1952 - 1982: Famous UFO Cases in France [FULL VERSION]</a></p><p class="youtube-embed-meta">Channel: The Hidden Truth</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k5_j6Z-HIX4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k5_j6Z-HIX4">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What would strengthen or weaken the cluster today
 
@@ -311,7 +323,13 @@ Later reporting has not, on the public record, turned the early 1980s Haute-Cors
 
 The cluster would become more significant if new material emerged that connected the reports independently: local press accounts from the same nights, additional witness statements from separated locations, aviation or military logs, weather records, photographs, or documentation of physical traces collected at the time. GEIPAN’s classification guidance also leaves room for revisiting class C and D cases if new information is communicated after the initial investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-At present, the opposite is truer: the passage of time weakens the cases as evidence. Memories fade, local context becomes harder to reconstruct, aircraft and weather records may be incomplete or harder to retrieve, and older files often lack the structured questionnaires, digital timestamps and image metadata that modern investigations can use. That does not erase the sightings. It narrows what can responsibly be claimed about them.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lXi5B0NTwVc" title="France&#x27;s Official UFO Investigation Agency (GEIPAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer">France&#x27;s Official UFO Investigation Agency (GEIPAN)</a></p><p class="youtube-embed-meta">Channel: Kryptoscipher &middot; Views: 108 &middot; Uploaded: February 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lXi5B0NTwVc">Open on YouTube</a></p></div></div></div>
+At present, the opposite is truer: the passage of time weakens the cases as evidence. Memories fade, local context becomes harder to reconstruct, aircraft and weather records may be incomplete or harder to retrieve, and older files often lack the structured questionnaires, digital timestamps and image metadata that modern investigations can use. That does not erase the sightings. It narrows what can responsibly be claimed about them.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lXi5B0NTwVc" title="France&#x27;s Official UFO Investigation Agency (GEIPAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer">France&#x27;s Official UFO Investigation Agency (GEIPAN)</a></p><p class="youtube-embed-meta">Channel: Kryptoscipher &middot; Views: 108 &middot; Uploaded: February 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lXi5B0NTwVc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The lasting value of a weak cluster
 

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /herault-0fa4db-index/
 description: Focused pages that expand on What Really Happened Over Herault?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Herault_0fa4db
 parent_title: What Really Happened Over Herault?

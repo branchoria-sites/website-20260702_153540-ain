@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 05:23:25'
+date: '2026-06-30 05:23:25'
 parent_title: Paris UFOs
 parent_permalink: /why-paris-ufos-usually-become-ordinary/
 parent_nav_short_title: Paris UFOs
@@ -262,7 +262,13 @@ The 30 July 2008 case adds a more cinematic version of the same problem. Two wit
 
 A more recent case, from 22 June 2025, shows that the same trigger has not disappeared in the phone-camera era. A Paris resident saw a dark object from a terrace, estimated it at roughly 3,000 feet, and described a changing form that seemed to alternate between one full structure and two linked spherical volumes. Photos and video were taken, and a second witness saw the end of the observation. GEIPAN classed it A as one or more balloons carried by the wind, with the apparent trajectory matching wind direction and the changing look fitting linked balloons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2025-06-51662" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The pattern across these Paris balloon files is consistent: the more a balloon reflects, rotates, deforms, or appears against a skyline without scale, the easier it becomes to describe it as a structured craft. The better question is rarely “could a balloon look exactly like the witness’s first phrase?” It is “does a wind-carried, reflective, shape-changing object explain the whole sequence better than a controlled aircraft or unknown machine?”<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4Btns91W5J8" title="Gimbal UFO: New Footage Proves Glare Rotation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4Btns91W5J8" target="_blank" rel="noopener noreferrer">Gimbal UFO: New Footage Proves Glare Rotation</a></p><p class="youtube-embed-meta">Channel: Mick West</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4Btns91W5J8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4Btns91W5J8">Open on YouTube</a></p></div></div></div>
+The pattern across these Paris balloon files is consistent: the more a balloon reflects, rotates, deforms, or appears against a skyline without scale, the easier it becomes to describe it as a structured craft. The better question is rarely “could a balloon look exactly like the witness’s first phrase?” It is “does a wind-carried, reflective, shape-changing object explain the whole sequence better than a controlled aircraft or unknown machine?”
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4Btns91W5J8" title="Gimbal UFO: New Footage Proves Glare Rotation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4Btns91W5J8" target="_blank" rel="noopener noreferrer">Gimbal UFO: New Footage Proves Glare Rotation</a></p><p class="youtube-embed-meta">Channel: Mick West</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4Btns91W5J8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4Btns91W5J8">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Aircraft, sunlight and brief sightings
 
@@ -304,7 +310,13 @@ Photo-based Paris UFO reports therefore need a slightly different reading discip
 * Did digital zoom, autofocus or compression change the apparent shape?
 * Does the image show motion, or only a single ambiguous instant?</div>
 
-For Paris, this is not a minor caveat. The city is full of pigeons, reflective windows, moving vehicles, skyline lights and tourists taking rapid photos. A camera can reveal a real object, but it can also create a persuasive false UFO by isolating a normal object from time, scale and context.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pCZCn71w78g" title="Hundreds of flights cancelled as French air traffic controllers go on strike • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pCZCn71w78g" target="_blank" rel="noopener noreferrer">Hundreds of flights cancelled as French air traffic controllers go on strike • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pCZCn71w78g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pCZCn71w78g">Open on YouTube</a></p></div></div></div>
+For Paris, this is not a minor caveat. The city is full of pigeons, reflective windows, moving vehicles, skyline lights and tourists taking rapid photos. A camera can reveal a real object, but it can also create a persuasive false UFO by isolating a normal object from time, scale and context.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pCZCn71w78g" title="Hundreds of flights cancelled as French air traffic controllers go on strike • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pCZCn71w78g" target="_blank" rel="noopener noreferrer">Hundreds of flights cancelled as French air traffic controllers go on strike • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pCZCn71w78g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pCZCn71w78g">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why these explanations do not mean witnesses are unreliable
 
@@ -315,6 +327,8 @@ The 25 August 2019 balloon case had two careful witnesses, optical aids, photos 
 That is the lesson Paris contributes to department-level UFO history. Evidence quality is not simply about witness sincerity or whether a camera was used. It depends on whether the report contains enough testable information: exact time, direction, duration, weather, wind, viewing position, camera sequence, aircraft context, and independent corroboration.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_YIS16GfzfQ" title="My UFO Mistake" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_YIS16GfzfQ" target="_blank" rel="noopener noreferrer">My UFO Mistake</a></p><p class="youtube-embed-meta">Channel: Hank Green &middot; Views: 330.4K &middot; Uploaded: January 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_YIS16GfzfQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_YIS16GfzfQ">Open on YouTube</a></p></div></div></div>
+
+
 
 ## What a strong Paris UFO report would need to rise above these triggers
 

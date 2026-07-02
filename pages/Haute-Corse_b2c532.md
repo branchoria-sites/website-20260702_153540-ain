@@ -107,8 +107,8 @@ keywords:
 - haute-corse
 affiliate_category: haute-corse
 show_ads: true
-description:'Haute-Corse has a modest but useful UFO record: not a dramatic “hotspot”, but a department where the official French files show the difference between an...'
-hero_summary:'Haute-Corse has a modest but useful UFO record: not a dramatic “hotspot”, but a department where the official French files show the difference between an unexplained story and a case that simply lacks enough data.'
+description: 'Haute-Corse has a modest but useful UFO record: not a dramatic “hotspot”, but a department where the official French files show the difference between an...'
+hero_summary: 'Haute-Corse has a modest but useful UFO record: not a dramatic “hotspot”, but a department where the official French files show the difference between an unexplained story and a case that simply lacks enough data.'
 layout: default
 permalink: /what-haute-corse-ufo-files-really-show/
 nav_short_title: What Haute Corse UFO Files Really Show
@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 01:10:55'
+date: '2026-06-29 01:10:55'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -717,8 +717,6 @@ The most interesting Haute-Corse concentration is not a single famous incident, 
 
 The Favalello case of 3 March 1980 is a good example of a witness report becoming less mysterious after astronomical checking. GEIPAN records it as a class B case and identifies the likely phenomenon as Venus. The testimony describes a single yellow-white spherical object, slow-moving and silent, seen under clear night conditions. Those details can feel striking to a witness, especially from a moving vehicle or rural road, but they also fit a bright planet viewed in a dark sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/temoignage/3603" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-Vezzani, on 27 April 1980, is more unusual in narrative terms. A witness reported a red-orange ball, roughly the size of a football, near a house at around half past midnight. Another person was woken and also saw the light, but GEIPAN classifies the case as C because the later record does not provide enough reliable information to test an explanation. The absence of traces the following day matters: it does not disprove the sighting, but it weakens any claim that a physical object landed or interacted with the environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/48555?page=%2C467&amp;undefined=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zFD_jB_DISw" title="Ground Frequency #S2E15 Avec Frédéric COURTADE : responsable du GEIPAN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zFD_jB_DISw" target="_blank" rel="noopener noreferrer">Ground Frequency #S2E15 Avec Frédéric COURTADE : responsable du GEIPAN</a></p><p class="youtube-embed-meta">Channel: Ground Frequency</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zFD_jB_DISw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zFD_jB_DISw">Open on YouTube</a></p></div></div></div>
 
 ## Why Santo-Pietro-di-Venaco matters more than it first appears
@@ -744,7 +742,13 @@ On 30 August 2009, a witness reported two blinking static lights above the sea, 
 
 The 15 August 2017 San-Martino-di-Lota report is even more revealing. The witness described repeated white flashes in different parts of the sky over roughly ten minutes. GEIPAN noted that the witness was especially interested in UFOs and had combined several observations in his own analysis before investigators narrowed the focus to the 15 August event. Checks with aviation gendarmerie, local gendarmeries and Bastia-Poretta air navigation did not confirm another matching report or radar evidence. GEIPAN’s conclusion pointed instead towards a lack of reliable information, while noting that 15 August in Corsica often involves fireworks for public celebrations and private tourist-season events, with powerful lasers also possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2017-08-50453" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-That case is not a debunk in the simplistic sense. It is better read as a cautionary file: multiple flashes on a festive summer night, one witness, no corroborating official reports, no firm radar confirmation, and plausible local light sources.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O4vKMT7ytTk" title="GEIPAN : qui étudie les ovnis ? - Science En Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O4vKMT7ytTk" target="_blank" rel="noopener noreferrer">GEIPAN : qui étudie les ovnis ? - Science En Questions</a></p><p class="youtube-embed-meta">Channel: L&#x27;Esprit Sorcier TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O4vKMT7ytTk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O4vKMT7ytTk">Open on YouTube</a></p></div></div></div>
+That case is not a debunk in the simplistic sense. It is better read as a cautionary file: multiple flashes on a festive summer night, one witness, no corroborating official reports, no firm radar confirmation, and plausible local light sources.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O4vKMT7ytTk" title="GEIPAN : qui étudie les ovnis ? - Science En Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O4vKMT7ytTk" target="_blank" rel="noopener noreferrer">GEIPAN : qui étudie les ovnis ? - Science En Questions</a></p><p class="youtube-embed-meta">Channel: L&#x27;Esprit Sorcier TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O4vKMT7ytTk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O4vKMT7ytTk">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What counts as “unresolved” in Haute-Corse
 
@@ -753,6 +757,8 @@ A common misunderstanding is to treat class C as “mysterious after investigati
 This changes the reader’s takeaway. Vezzani, Borgo and Vescovato are not official “best evidence” cases. They are unresolved in the weaker sense: old reports with striking descriptions but limited investigable detail. They may deserve preservation, especially because they are part of local memory and official gendarmerie-linked archives, but they should not be presented as proof of extraordinary craft.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CWt2zkuxRNQ" title="GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer">GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)</a></p><p class="youtube-embed-meta">Channel: Science &amp; Vie &middot; Views: 36.9K &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CWt2zkuxRNQ">Open on YouTube</a></p></div></div></div>
+
+
 
 ## The real Haute-Corse pattern: ordinary explanations, difficult geography
 

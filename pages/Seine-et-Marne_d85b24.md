@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 05:23:28'
+date: '2026-06-30 05:23:28'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -721,7 +721,13 @@ The difficulty is that the best evidence is not as tidy as the simple story sugg
 
 Sceptical researchers have pressed further. A detailed critical review published by the French sceptical site Zetetique argues that the radar and visual elements may not have referred to the same thing at all. It notes that the radar echo was reportedly on the right of the Airbus near Coulommiers, while the object was visually reported on the left, towards Paris, producing a possible separation of 25 to 50 nautical miles between the radar track and the object seen by the crew.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zetetique.fr/wp-content/uploads/2019/03/OvniDuCnes_chapitre17.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zetetique.fr">[Observatoire zététique]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zetetique.fr</span><span class="citation-popover-title">Observatoire zététique Microsoft Word</span><span class="citation-popover-snippet">Observatoire zététique Microsoft Word</span></span></span> The same review also points out that witness reports were formally collected years later, that the chief steward was not later interviewed in the same way, and that the pilot and co-pilot differed on duration, apparent motion and form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zetetique.fr/wp-content/uploads/2019/03/OvniDuCnes_chapitre17.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zetetique.fr">[Observatoire zététique]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zetetique.fr</span><span class="citation-popover-title">Observatoire zététique Microsoft Word</span><span class="citation-popover-snippet">Observatoire zététique Microsoft Word</span></span></span>
 
-For a public reader, the fairest conclusion is this: AF3532 is a serious and historically important Seine-et-Marne case, but it is not a clean proof of an extraordinary craft. It remains valuable because it shows how even a pilot case with radar discussion can become uncertain once timing, geometry, witness memory and later interpretation are separated.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dcMrAX4zRwo" title="Ancient Aliens: 300+ &quot;Flying Saucer&quot; Incidents in France (Season 19) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dcMrAX4zRwo" target="_blank" rel="noopener noreferrer">Ancient Aliens: 300+ &quot;Flying Saucer&quot; Incidents in France (Season 19) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dcMrAX4zRwo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dcMrAX4zRwo">Open on YouTube</a></p></div></div></div>
+For a public reader, the fairest conclusion is this: AF3532 is a serious and historically important Seine-et-Marne case, but it is not a clean proof of an extraordinary craft. It remains valuable because it shows how even a pilot case with radar discussion can become uncertain once timing, geometry, witness memory and later interpretation are separated.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dcMrAX4zRwo" title="Ancient Aliens: 300+ &quot;Flying Saucer&quot; Incidents in France (Season 19) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dcMrAX4zRwo" target="_blank" rel="noopener noreferrer">Ancient Aliens: 300+ &quot;Flying Saucer&quot; Incidents in France (Season 19) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dcMrAX4zRwo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dcMrAX4zRwo">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Ussy-sur-Marne: the silent triangle reported by gendarmes
 
@@ -746,7 +752,13 @@ A different kind of explanation appears in the Provins-to-Chenoise road case of 
 
 Chanteloup-en-Brie, 12 June 2022, shows how recent reports can be resolved through imagery and context. GEIPAN classifies it as A, meaning explained without ambiguity, and identifies the phenomenon as a Mylar balloon. The file includes photos and videos in its documents, and the witness described a white, round, silent object seen in daylight in an urbanised setting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/temoignage/10216" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-These ordinary cases matter because they stop the department’s UFO history from becoming distorted. If a reader only studies AF3532 and Ussy-sur-Marne, Seine-et-Marne looks like a place of dramatic aviation and police mysteries. If the full GEIPAN pattern is considered, it becomes a more balanced department-level record: a few unresolved or debated cases embedded in a much larger flow of normal misidentification, weak data and later explanation.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OLXDikL331Y" title="Geipan : la France aussi s’intéresse aux ovnis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer">Geipan : la France aussi s’intéresse aux ovnis</a></p><p class="youtube-embed-meta">Channel: C dans l&#x27;air - France Télévisions &middot; Views: 22.3K &middot; Uploaded: April 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OLXDikL331Y">Open on YouTube</a></p></div></div></div>
+These ordinary cases matter because they stop the department’s UFO history from becoming distorted. If a reader only studies AF3532 and Ussy-sur-Marne, Seine-et-Marne looks like a place of dramatic aviation and police mysteries. If the full GEIPAN pattern is considered, it becomes a more balanced department-level record: a few unresolved or debated cases embedded in a much larger flow of normal misidentification, weak data and later explanation.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OLXDikL331Y" title="Geipan : la France aussi s’intéresse aux ovnis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer">Geipan : la France aussi s’intéresse aux ovnis</a></p><p class="youtube-embed-meta">Channel: C dans l&#x27;air - France Télévisions &middot; Views: 22.3K &middot; Uploaded: April 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OLXDikL331Y">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What investigators actually do with a Seine-et-Marne report
 
@@ -768,6 +780,8 @@ The second is geometry. A pilot can be highly credible and still misjudge size, 
 The third is lack of independent corroboration. Ussy-sur-Marne is impressive because of the witnesses, but it lacks the kind of public supporting data that would transform it from strong testimony into a multi-source case. AF3532 has a richer document trail, but that trail is also why its contradictions are visible.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hn2xTieploU" title="GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer">GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés</a></p><p class="youtube-embed-meta">Channel: france tv &middot; Views: 4.6K &middot; Uploaded: May 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hn2xTieploU">Open on YouTube</a></p></div></div></div>
+
+
 
 ## How the department should be understood
 

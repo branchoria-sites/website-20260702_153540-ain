@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 05:17:09'
+date: '2026-06-29 05:17:09'
 parent_title: Finistere UFOs
 parent_permalink: /what-really-happened-in-finisteres-skies/
 parent_nav_short_title: Finistere UFOs
@@ -237,7 +237,10 @@ image: /assets/images/Finistere_3f7bbd_coastal_military_exp_7f6907-overview-soci
 ## Introduction
 
 Finistère turns ordinary lights into UFO reports because it is a rare mix of dark countryside, rough Atlantic weather, heavy maritime lighting and active aviation. A light seen over the sea, through rain, mist or a low cloud base can lose its scale; a boat may seem to hover, a lighthouse beam may look airborne, and an aircraft near Brest, Landivisiau or Lanvéoc-Poulmic may be misread as something stranger. This does not mean every local case is solved. It means the department’s UFO record has to be read through its setting: coast first, military sky second, witness evidence third.<img src="{{"/assets/images/Finistere_3f7bbd_coastal_military_exp_7f6907-overview.webp" | relative_url }}" alt="Overview image for Sky Clues" loading="eager" decoding="sync" fetchpriority="high">
+
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZgDkf64XkNE" title="Le GEIPAN étudie les PANs/OVNIs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZgDkf64XkNE" target="_blank" rel="noopener noreferrer">Le GEIPAN étudie les PANs/OVNIs</a></p><p class="youtube-embed-meta">Channel: Académie de l&#x27;air et de l&#x27;espace (AAE)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZgDkf64XkNE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZgDkf64XkNE">Open on YouTube</a></p></div></div></div>
+
+
 
 ## Coastal lights, weather and distance mistakes
 
@@ -255,8 +258,6 @@ The Crozon case of 13 January 2020 is valuable because it shows both sides of th
 GEIPAN did not simply label it mysterious. The investigation considered drones, helicopters, a lighthouse or semaphore, wind-turbine lights, a laser or nightclub projector, internal windscreen reflections, an aircraft, reflective plates, and vehicle lights. That list is important because it maps the main Finistère explanation families: coastal infrastructure, road reflections, aviation, drones and military activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2020-01-50998" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 The nearby naval air base at Lanvéoc-Poulmic was checked. GEIPAN reports that the base said none of its aircraft were manoeuvring at the time, and later confirmed that it had not carried out a drone exercise that evening. A French Navy drone instructor was also consulted and said the appearance did not match military drone lighting. GEIPAN still allowed for the possibility of drones from another base or private use, but judged that explanation weak in the stated conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2020-01-50998" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
-The lighthouse or semaphore idea was also tested rather than dismissed casually. GEIPAN judged it very unlikely because a semaphore is not intended to emit such signals, because no sufficiently powerful local lighthouse was found that could produce three fixed, red, rectangular forms for about two minutes in that direction, and because a beam in rain should probably have been visible below the rectangles. The witness’s local familiarity also counted: GEIPAN noted that someone used to the area would be less likely to confuse ordinary lighthouse lights in weather typical for the region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2020-01-50998" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5ZkxbMjTo1c" title="UFO sightings: Tic Tac Incident, Navy Sightings &amp; Las Vegas Reports | UFO Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5ZkxbMjTo1c" target="_blank" rel="noopener noreferrer">UFO sightings: Tic Tac Incident, Navy Sightings &amp; Las Vegas Reports | UFO Mysteries</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 163.9K &middot; Uploaded: February 2026</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5ZkxbMjTo1c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5ZkxbMjTo1c">Open on YouTube</a></p></div></div></div>
 
@@ -284,8 +285,6 @@ Those examples show the range of “sky clues” that matter in Finistère:<div 
 * **Local lighting:** Lighthouses, beacons, ports, vehicles and windscreen reflections must be considered, especially near the coast.
 * **Aviation context:** Brest-Guipavas, Landivisiau and Lanvéoc-Poulmic make aircraft, helicopters and drones plausible first-pass hypotheses.
 * **Witness delay:** The longer the gap before a questionnaire or field reconstruction, the more cautious the interpretation should be.</div>
-
-GEIPAN’s own classification method helps make this distinction. It assesses both the consistency of a report and the residual strangeness left after investigation. A case can be strange but weakly documented, or well documented but explained. Its D1 and D2 categories separate unexplained cases with medium consistency from those with stronger consistency, rather than treating “unexplained” as one dramatic category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanMethodology8. How does GEIPAN classify observation cases? The classification process is done according a quantitative and qualitati...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PhyQ8LnrM_Q" title="Fast Jet Flightline-French Naval Airbase Landivisiau. Dassault Etendard &amp; Rafale M. #rafale #france" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PhyQ8LnrM_Q" target="_blank" rel="noopener noreferrer">Fast Jet Flightline-French Naval Airbase Landivisiau. Dassault Etendard &amp; Rafale M. #rafale #france</a></p><p class="youtube-embed-meta">Channel: Military Aviation TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PhyQ8LnrM_Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PhyQ8LnrM_Q">Open on YouTube</a></p></div></div></div>
 

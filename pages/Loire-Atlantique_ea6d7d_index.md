@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /loire-atlantique-ea6d7d-index/
 description: Focused pages that expand on What Really Happened in Loire Atlantique....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Loire-Atlantique_ea6d7d
 parent_title: What Really Happened in Loire Atlantique...

@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 00:33:26'
+date: '2026-06-30 00:33:26'
 parent_title: Hautes Pyrenees UFOs
 parent_permalink: /hautes-pyrenees/
 parent_nav_short_title: Hautes Pyrenees UFOs
@@ -264,7 +264,13 @@ Maubourguet on 22 August 2009 is more instructive because it remained B rather t
 
 Lourdes on Christmas night 2015 adds another layer. Two witnesses saw and filmed a red-orange light moving in a clear sky at 18:40, with no sound, before it disappeared. GEIPAN classified it B, as a probable lantern. The file notes a festive date, a reddish-orange luminous object, a short duration, weak wind readings from Tarbes-Lourdes-Pyrénées airport, and a local relief pattern that could plausibly bend the apparent path through nearby valleys. The video helped, but GEIPAN still called the video only partly useful because it was tightly framed and lacked surrounding reference points.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2015-12-09380" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-These three files make a practical point for the reader: lantern cases are not solved simply by saying “orange light equals lantern”. GEIPAN looks for fit across several features: colour, silence, motion, wind, date, local event context, duration and disappearance. When enough of those line up, a dramatic-looking light becomes ordinary without implying that the witness invented it.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+These three files make a practical point for the reader: lantern cases are not solved simply by saying “orange light equals lantern”. GEIPAN looks for fit across several features: colour, silence, motion, wind, date, local event context, duration and disappearance. When enough of those line up, a dramatic-looking light becomes ordinary without implying that the witness invented it.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Bagnères-de-Bigorre: an older case with real limits
 
@@ -286,8 +292,6 @@ For Hautes-Pyrénées, Fontrailles is one of the most useful official files beca
 
 The Jézeau case, observed on 10 July 2024 and updated by GEIPAN in March 2026, is the most recent high-value example in the department’s public record. Two witnesses, a mother and son, saw a very bright white light near an antenna relay on a hill, from about 01:00 to 04:00 for the first witness and about 02:30 to 04:00 for the second. The light seemed to move irregularly, split at times, and send smaller white lights vertically downwards before they rose again. No sound was heard, and a short video was made.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2024-07-51592" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-At face value, this is more striking than a passing orange light. It lasted for hours, involved apparent vertical movements, and was seen in a rural landscape near a ridge. GEIPAN initially considered several possibilities, including aircraft, a helicopter or drone, activity connected with the Saint-Lary-Soulan ski area, and work on a TDF antenna structure. The final explanation was the last of these. TDF confirmed night maintenance on the antenna infrastructure; GEIPAN’s field inquiry found fresh paint traces, and the movements were attributed to technicians with lamps moving up and down the pylon during a night painting operation designed to reduce service disruption.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2024-07-51592" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qeKE6RtfpcI" title="Ce que la France sait (et ne sait pas) sur les OVNIs – Interview GEIPAN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qeKE6RtfpcI" target="_blank" rel="noopener noreferrer">Ce que la France sait (et ne sait pas) sur les OVNIs – Interview GEIPAN</a></p><p class="youtube-embed-meta">Channel: Ground Frequency</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qeKE6RtfpcI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qeKE6RtfpcI">Open on YouTube</a></p></div></div></div>
 
 ## Why explained cases still matter
@@ -296,7 +300,13 @@ Explained cases are often treated as less interesting than unresolved ones, but 
 
 GEIPAN itself makes a similar point in its methodology material. It stresses that human testimony is central but fragile: distance, speed and size are hard to judge when the object is not recognised; emotion can increase perceived strangeness; and later memory or interpretation can alter the report. The organisation also notes that explained and unexplained cases are both useful, because explained cases help improve the reliability of whatever remains unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Methodology &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan Methodology &#124; GEIPAN</span></span></span>
 
-For this department, the most responsible reading is therefore not “nothing happened” and not “official files prove UFOs”. Something did happen in each reported case: witnesses saw lights or objects that were puzzling to them. The official question is narrower and more testable: what best explains the observation? In Hautes-Pyrénées, the answer is usually a known cause, sometimes confirmed and sometimes probable.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OZn3kge28e4" title="Why NOBODY Talks About The Real UFO Geography" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OZn3kge28e4" target="_blank" rel="noopener noreferrer">Why NOBODY Talks About The Real UFO Geography</a></p><p class="youtube-embed-meta">Channel: Map Pack</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OZn3kge28e4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OZn3kge28e4">Open on YouTube</a></p></div></div></div>
+For this department, the most responsible reading is therefore not “nothing happened” and not “official files prove UFOs”. Something did happen in each reported case: witnesses saw lights or objects that were puzzling to them. The official question is narrower and more testable: what best explains the observation? In Hautes-Pyrénées, the answer is usually a known cause, sometimes confirmed and sometimes probable.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OZn3kge28e4" title="Why NOBODY Talks About The Real UFO Geography" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OZn3kge28e4" target="_blank" rel="noopener noreferrer">Why NOBODY Talks About The Real UFO Geography</a></p><p class="youtube-embed-meta">Channel: Map Pack</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OZn3kge28e4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OZn3kge28e4">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The official record in plain terms
 

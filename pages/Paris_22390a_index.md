@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /paris-22390a-index/
 description: Focused pages that expand on Why Paris UFOs Usually Become Ordinary....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Paris_22390a
 parent_title: Why Paris UFOs Usually Become Ordinary...

@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 09:10:33'
+date: '2026-06-29 09:10:33'
 parent_title: Indre UFOs
 parent_permalink: /were-indres-ufos-ever-truly-unexplained/
 parent_nav_short_title: Indre UFOs
@@ -265,7 +265,13 @@ The absence of class D cases in Indre does not prove that every local sighting w
 
 That is a meaningful result because GEIPAN’s national statistics do include class D cases. Its public statistics, calculated dynamically from published classified cases, show class D as a small but real category nationally: 106 class D cases, or 3.1 per cent, out of 3,368 cases in the statistics dated 25 June 2026. Indre’s zero-D profile therefore is not just a quirk of GEIPAN never using the category. It is a department-level pattern within a national system that does sometimes leave cases unexplained after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-For readers, this changes the question. The most honest reading of Indre’s official record is not “Where is the hidden breakthrough case?” but “What do these files teach about how puzzling reports are sorted?” In Indre, the answer is that the stronger files tend to become ordinary once tested, while the older odder files remain limited by missing information.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+For readers, this changes the question. The most honest reading of Indre’s official record is not “Where is the hidden breakthrough case?” but “What do these files teach about how puzzling reports are sorted?” In Indre, the answer is that the stronger files tend to become ordinary once tested, while the older odder files remain limited by missing information.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The best modern example: Maron in 2023
 
@@ -296,7 +302,13 @@ Two other cases widen the record beyond the classic “lights in the sky” patt
 
 Écueillé, dated by GEIPAN to 21 October 1982, involved three witnesses seeing a very bright ball for a few seconds, moving very quickly, initially white with a trail and then turning red before disappearing. GEIPAN summarised it as a probable atmospheric re-entry. This is one of the clearest examples of a report sounding dramatic at witness level while fitting a known category at investigation level: fast movement, brief duration, brightness, a trail and colour change all point away from a hovering craft and towards a high-energy object entering the atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/cas/1982-10-00944" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-These two cases are important because they stop the Indre record from becoming too narrowly framed as “misread lights”. GEIPAN’s public files include ground observations, possible hoax or human-action contexts, astronomical misidentification, aircraft, lanterns, balloons and atmospheric phenomena. The department’s official record is small, but it is varied.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HuDYW5Q8aX0" title="REPLAY: NASA unveils report on unidentified anomalous phenomena • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HuDYW5Q8aX0" target="_blank" rel="noopener noreferrer">REPLAY: NASA unveils report on unidentified anomalous phenomena • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 4.6K &middot; Uploaded: September 2023</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HuDYW5Q8aX0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HuDYW5Q8aX0">Open on YouTube</a></p></div></div></div>
+These two cases are important because they stop the Indre record from becoming too narrowly framed as “misread lights”. GEIPAN’s public files include ground observations, possible hoax or human-action contexts, astronomical misidentification, aircraft, lanterns, balloons and atmospheric phenomena. The department’s official record is small, but it is varied.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HuDYW5Q8aX0" title="REPLAY: NASA unveils report on unidentified anomalous phenomena • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HuDYW5Q8aX0" target="_blank" rel="noopener noreferrer">REPLAY: NASA unveils report on unidentified anomalous phenomena • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 4.6K &middot; Uploaded: September 2023</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HuDYW5Q8aX0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HuDYW5Q8aX0">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What Indre’s official files really show
 
@@ -304,7 +316,13 @@ Indre’s GEIPAN record shows three things clearly. First, a sincere witness rep
 
 Second, the classification letter matters more than the strangeness of the story. The two class C files, Issoudun and Le Blanc, sound more mysterious than some of the class B cases, but GEIPAN’s point is that they lack enough reliable information. A class C case should not be marketed as an unexplained case in the same sense as class D. It is a warning label about evidence quality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/cas/1980-07-00781" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+2Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanLE BLANC (36) 1980 &#124; GEIPAN...</span></span></span>
 
-Third, Indre’s public record is more useful as a local investigation guide than as a catalogue of dramatic anomalies. It shows what questions should be asked first in department-level UFO history: Was there aircraft activity near Châteauroux or another airfield? Was the light low in the sky near a bright star or planet? Was the date close to a festival or weekend lantern release? Did the wind match the observed movement? Is there a photograph, video, police report, weather record or independent witness? Without those checks, a striking anecdote remains only a striking anecdote.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7GtoO00G_No" title="Identifier les OVNIS / Super Pouvoirs Anti-Mythos - Info ou Mytho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7GtoO00G_No" target="_blank" rel="noopener noreferrer">Identifier les OVNIS / Super Pouvoirs Anti-Mythos - Info ou Mytho</a></p><p class="youtube-embed-meta">Channel: Info ou Mytho ?</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7GtoO00G_No" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7GtoO00G_No">Open on YouTube</a></p></div></div></div>
+Third, Indre’s public record is more useful as a local investigation guide than as a catalogue of dramatic anomalies. It shows what questions should be asked first in department-level UFO history: Was there aircraft activity near Châteauroux or another airfield? Was the light low in the sky near a bright star or planet? Was the date close to a festival or weekend lantern release? Did the wind match the observed movement? Is there a photograph, video, police report, weather record or independent witness? Without those checks, a striking anecdote remains only a striking anecdote.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7GtoO00G_No" title="Identifier les OVNIS / Super Pouvoirs Anti-Mythos - Info ou Mytho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7GtoO00G_No" target="_blank" rel="noopener noreferrer">Identifier les OVNIS / Super Pouvoirs Anti-Mythos - Info ou Mytho</a></p><p class="youtube-embed-meta">Channel: Info ou Mytho ?</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7GtoO00G_No" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7GtoO00G_No">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to read the record without overclaiming
 

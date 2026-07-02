@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /loire-9faa19-index/
 description: Focused pages that expand on Why Loire's UFO Files Became Ordinary.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Loire_9faa19
 parent_title: Why Loire's UFO Files Became Ordinary

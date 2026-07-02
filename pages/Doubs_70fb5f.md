@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 03:07:50'
+date: '2026-06-29 03:07:50'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -725,7 +725,13 @@ On 2 April 2011, several people reported numerous orange luminous balls moving s
 
 A later Besançon case, dated in the GEIPAN page title as 26 June 2017 but described in the file as an observation made late on 26 August 2017, involved two [red lights]({{'red-lights/' | relative_url }}) seen from a bedroom window above the Fort de Bregille area. They first seemed fixed, then moved slowly and dimmed sharply, with no notable sound. GEIPAN found the direction, slow movement, fading luminosity, weak variable wind and summer weekend timing compatible with lanterns, and classed the case B as a probable lantern release.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2008-06-02366" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The lesson is not that every red light is a lantern. It is that lanterns are a particularly strong explanation when several conditions line up: warm-season evening, group or paired lights, reddish or orange colour, silence, slow drift, fading or sudden extinction, and no corresponding aircraft noise. In Doubs, those signs explain more than one public-facing case and help readers distinguish an unresolved report from a weakly mysterious one.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-MhoTe3HHlo" title="40 ANS DE LA MISE EN SERVICE DU MIRAGE 2000 17 Sept 25 BA 116 LUXEUIL SAINT- SAUVEUR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-MhoTe3HHlo" target="_blank" rel="noopener noreferrer">40 ANS DE LA MISE EN SERVICE DU MIRAGE 2000 17 Sept 25 BA 116 LUXEUIL SAINT- SAUVEUR</a></p><p class="youtube-embed-meta">Channel: FRANCE AVIATION Michel LAURENT</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-MhoTe3HHlo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-MhoTe3HHlo">Open on YouTube</a></p></div></div></div>
+The lesson is not that every red light is a lantern. It is that lanterns are a particularly strong explanation when several conditions line up: warm-season evening, group or paired lights, reddish or orange colour, silence, slow drift, fading or sudden extinction, and no corresponding aircraft noise. In Doubs, those signs explain more than one public-facing case and help readers distinguish an unresolved report from a weakly mysterious one.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-MhoTe3HHlo" title="40 ANS DE LA MISE EN SERVICE DU MIRAGE 2000 17 Sept 25 BA 116 LUXEUIL SAINT- SAUVEUR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-MhoTe3HHlo" target="_blank" rel="noopener noreferrer">40 ANS DE LA MISE EN SERVICE DU MIRAGE 2000 17 Sept 25 BA 116 LUXEUIL SAINT- SAUVEUR</a></p><p class="youtube-embed-meta">Channel: FRANCE AVIATION Michel LAURENT</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-MhoTe3HHlo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-MhoTe3HHlo">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Older echoes: the 1954 French flap reaches Doubs, but weakens under review
 
@@ -742,8 +748,6 @@ Doubs has several features that make misidentification plausible without requiri
 
 That matters because aircraft at night are poor intuitive measuring tools. A viewer may not know the distance, altitude or size of a light source, so speed and proximity can be badly misread. GEIPAN makes this point more generally when discussing the fragility of testimony: witnesses can misjudge distance and speed, experience perceptual effects, and later interpret a sighting through memory, emotion and cultural expectations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan Mission &amp; Geipan &#124; GEIPAN</span></span></span>
 
-The Vieilley Mirage case shows the issue sharply. A low, fast military aircraft in afterburner can become, to an unprepared witness, a huge fiery ball with an overwhelming sound. The explanation was not obvious from the witness’s perspective; it became strong only after the military air operations centre confirmed the nearby aircraft track.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2022-05-51344" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O4vKMT7ytTk" title="GEIPAN : qui étudie les ovnis ? - Science En Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O4vKMT7ytTk" target="_blank" rel="noopener noreferrer">GEIPAN : qui étudie les ovnis ? - Science En Questions</a></p><p class="youtube-embed-meta">Channel: L&#x27;Esprit Sorcier TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O4vKMT7ytTk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O4vKMT7ytTk">Open on YouTube</a></p></div></div></div>
 
 ## What remains weak, unresolved, or worth checking?
@@ -752,7 +756,13 @@ The most striking fact about Doubs is the absence of a public GEIPAN class D pat
 
 Category C should not be mistaken for “mysterious evidence”. It usually means the opposite: the report cannot be identified because the available information is too poor. The Saint-Vit 1998 file is a useful Doubs example. GEIPAN lists it as class C, with testimony from Besançon and Goux-sous-Landet linked to the file, but the phenomenon type is “lack of reliable information”. The reported details include a stationary white-and-black spherical form, yet the classification signals that the case cannot carry much evidential weight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/temoignage/6124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-This is where sceptical and open-minded readings can meet. A sceptical reader should not dismiss witnesses as foolish: GEIPAN’s cases show that people often report carefully and in good faith. An open-minded reader should not treat “not identified” or “strange” as a shortcut to extraordinary conclusions. In Doubs, the better-supported cases mostly become ordinary once time, direction, aircraft, planets, lanterns and satellites are checked.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VmX76iz8Gkw" title="This Is Why the Patriots SIGNED Romeo Doubs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VmX76iz8Gkw" target="_blank" rel="noopener noreferrer">This Is Why the Patriots SIGNED Romeo Doubs</a></p><p class="youtube-embed-meta">Channel: Underdog Fantasy Football - Josh &amp; Hayden</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VmX76iz8Gkw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VmX76iz8Gkw">Open on YouTube</a></p></div></div></div>
+This is where sceptical and open-minded readings can meet. A sceptical reader should not dismiss witnesses as foolish: GEIPAN’s cases show that people often report carefully and in good faith. An open-minded reader should not treat “not identified” or “strange” as a shortcut to extraordinary conclusions. In Doubs, the better-supported cases mostly become ordinary once time, direction, aircraft, planets, lanterns and satellites are checked.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VmX76iz8Gkw" title="This Is Why the Patriots SIGNED Romeo Doubs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VmX76iz8Gkw" target="_blank" rel="noopener noreferrer">This Is Why the Patriots SIGNED Romeo Doubs</a></p><p class="youtube-embed-meta">Channel: Underdog Fantasy Football - Josh &amp; Hayden</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VmX76iz8Gkw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VmX76iz8Gkw">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to read a Doubs sighting report without overclaiming
 

@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 12:27:11'
+date: '2026-06-29 12:27:11'
 parent_title: Haute Loire UFOs
 parent_permalink: /what-really-happened-in-haute-loires-ufo/
 parent_nav_short_title: Haute Loire UFOs
@@ -264,8 +264,6 @@ The file gives the key reason. A translucent, roughly spherical balloon with a s
 
 That is a valuable correction to a common assumption. A pilot report can be sincere, detailed and aviation-related without being immune to distance error. The Brioude case matters precisely because it sounds strong at first: trained witnesses, daylight, an apparent object, and an attempted approach. Yet the official explanation does not require dishonesty or incompetence. It requires a distant, high-altitude balloon and the normal difficulty of judging scale and motion against a largely empty sky.
 
-The Saint-Cirgues case from 9 October 1994 adds a more local, ground-level version of the same problem. A witness on a hunting post observed a silent white cylindrical luminous object with metallic reflections for 25 to 30 minutes. A second witness nearby also described an intriguing object, partly cylindrical and partly rounded, reflecting sunlight and moving through the landscape. GEIPAN later re-examined the case, which had previously been treated as more puzzling under the name Lavoûte-Chilhac, and reclassified it as B: probable Mylar balloon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1994-10-01372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ## ISS Passes and Modern Launches Have Changed the Case Mix
@@ -304,7 +302,13 @@ Haute-Loire’s explained cases show several recurring mechanisms:
 * **Silent orbital movement:** Sainte-Sigolène shows how the ISS can look like a bright, noiseless object crossing the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58856" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 * **Spaceflight debris and burns:** Malrevers shows how modern launch activity can create luminous clouds and shapes visible far from the launch site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2021-05-51304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span></div>
 
-The common thread is not that witnesses invented stories. It is that the sky offers few reliable cues. Without instruments, a nearby small object and a distant large object can look alike. A stationary planet can seem to hover. A balloon drifting with weak currents can seem to choose a path. A rocket-related gas cloud can appear suddenly and vanish before a witness has time to understand it.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RbYzToocNZk" title="REPLAY 🔴 LANCEMENT FALCON 9 DE SPACEX : STARLINK 10-38 (FR) !" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RbYzToocNZk" target="_blank" rel="noopener noreferrer">REPLAY 🔴 LANCEMENT FALCON 9 DE SPACEX : STARLINK 10-38 (FR) !</a></p><p class="youtube-embed-meta">Channel: Vulga-Space</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RbYzToocNZk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RbYzToocNZk">Open on YouTube</a></p></div></div></div>
+The common thread is not that witnesses invented stories. It is that the sky offers few reliable cues. Without instruments, a nearby small object and a distant large object can look alike. A stationary planet can seem to hover. A balloon drifting with weak currents can seem to choose a path. A rocket-related gas cloud can appear suddenly and vanish before a witness has time to understand it.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RbYzToocNZk" title="REPLAY 🔴 LANCEMENT FALCON 9 DE SPACEX : STARLINK 10-38 (FR) !" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RbYzToocNZk" target="_blank" rel="noopener noreferrer">REPLAY 🔴 LANCEMENT FALCON 9 DE SPACEX : STARLINK 10-38 (FR) !</a></p><p class="youtube-embed-meta">Channel: Vulga-Space</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RbYzToocNZk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RbYzToocNZk">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Re-Examination Can Weaken a Mystery
 
@@ -314,7 +318,13 @@ That is an important historical point. UFO cases are not fixed in amber. A repor
 
 The same principle applies to modern launch-related cases. A glowing sky cloud caused by a rocket stage may have been extremely puzzling before widespread public tracking of launches, satellite trains and upper-stage deorbit burns. In the Starlink era, those same observations can be compared with launch times, trajectories, other reports and video from distant regions. Malrevers is a good example of a local sighting explained through a wider sky event rather than a local source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2021-05-51304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-This does not mean every unresolved case will eventually be explained. It means that the evidential status of a case can move in either direction. Later information can strengthen a report, but in Haute-Loire the most visible movement in the GEIPAN record is towards ordinary explanations.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CWt2zkuxRNQ" title="GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer">GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)</a></p><p class="youtube-embed-meta">Channel: Science &amp; Vie &middot; Views: 36.9K &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CWt2zkuxRNQ">Open on YouTube</a></p></div></div></div>
+This does not mean every unresolved case will eventually be explained. It means that the evidential status of a case can move in either direction. Later information can strengthen a report, but in Haute-Loire the most visible movement in the GEIPAN record is towards ordinary explanations.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CWt2zkuxRNQ" title="GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer">GEIPAN : Tout savoir sur les OVNIS et Phénomènes Aérospatiaux (PAN)</a></p><p class="youtube-embed-meta">Channel: Science &amp; Vie &middot; Views: 36.9K &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CWt2zkuxRNQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CWt2zkuxRNQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What the Haute-Loire Record Teaches
 

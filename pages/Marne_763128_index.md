@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /marne-763128-index/
 description: Focused pages that expand on What Marne's UFO Files Really Show.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Marne_763128
 parent_title: What Marne's UFO Files Really Show

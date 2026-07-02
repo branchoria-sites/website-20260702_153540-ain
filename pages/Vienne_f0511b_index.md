@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /vienne-f0511b-index/
 description: Focused pages that expand on What Really Happened in Vienne's UFO Files?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Vienne_f0511b
 parent_title: What Really Happened in Vienne's UFO Files?

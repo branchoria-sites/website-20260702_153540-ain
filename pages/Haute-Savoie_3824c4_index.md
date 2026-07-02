@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /haute-savoie-3824c4-index/
 description: Focused pages that expand on What Really Happened in Haute Savoie Skies?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Haute-Savoie_3824c4
 parent_title: What Really Happened in Haute Savoie Skies?

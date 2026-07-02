@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /rhone-ae79ce-index/
 description: Focused pages that expand on What Really Happened in Rhone's UFO Reports?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Rhone_ae79ce
 parent_title: What Really Happened in Rhone's UFO Reports?

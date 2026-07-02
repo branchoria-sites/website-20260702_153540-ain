@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /aube-200d42-index/
 description: Focused pages that expand on What Aube's UFO Files Really Show.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Aube_200d42
 parent_title: What Aube's UFO Files Really Show

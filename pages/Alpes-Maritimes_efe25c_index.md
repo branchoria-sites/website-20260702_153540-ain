@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alpes-maritimes-efe25c-index/
 description: Focused pages that expand on Why Alpes Maritimes Became A UFO Hotspot.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Alpes-Maritimes_efe25c
 parent_title: Why Alpes Maritimes Became A UFO Hotspot

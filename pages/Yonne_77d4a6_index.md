@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /yonne-77d4a6-index/
 description: Focused pages that expand on What Really Happened in Yonne's UFO Files?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Yonne_77d4a6
 parent_title: What Really Happened in Yonne's UFO Files?

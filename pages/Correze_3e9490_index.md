@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /correze-3e9490-index/
 description: Focused pages that expand on Correze.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Correze_3e9490
 parent_title: Correze

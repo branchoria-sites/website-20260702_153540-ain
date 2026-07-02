@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 00:33:29'
+date: '2026-06-30 00:33:29'
 parent_title: Bas Rhin UFOs
 parent_permalink: /what-really-happened-in-bas-rhin-skies/
 parent_nav_short_title: Bas Rhin UFOs
@@ -248,8 +248,6 @@ A similar pattern appears in the 9 May 2018 Haguenau case. A witness at a rugby 
 
 Airport context does not explain every report, but it changes how a reader should assess low lights, silent shapes and apparent hovering in the Strasbourg area. Aircraft approaching or leaving an airport can appear slow, almost motionless or oddly bright depending on angle. Landing lights can face a witness directly; fuselage reflection can hide wings; navigation lights can look like separate objects; and approach paths can produce the impression that a light is hanging over a fixed point.
 
-The 19 November 2017 Fouchy-to-Urbeis files show how this can happen inside a single car journey. Two people saw coloured lights through the windscreen and described the phenomenon differently. GEIPAN split the event into two linked cases. For the front passenger, four points in a cross-like pattern, with one blinking in the middle, were matched to a Boeing 717 on approach to Strasbourg; GEIPAN noted that from a distance, through car glass, navigation light colours may not be properly distinguished.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/cas/2017-11-50565" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ## Drachenbronn explains the surveillance setting, not every UFO claim
@@ -265,8 +263,6 @@ This is a useful corrective to a common UFO-reading mistake. Radar information d
 
 Bas-Rhin’s airport and radar setting is only part of the story. Some local “UFO” impressions came from far above normal aviation altitude. The major French example is the evening of 5 November 1990, when more than a thousand witnesses across France saw a large luminous phenomenon crossing a clear sky. GEIPAN’s later simulation describes it as the atmospheric re-entry of debris from the third stage of a Soviet Proton rocket, travelling at roughly 90 to 50 kilometres altitude and slowing from about 7 to 2 kilometres per second.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/actualites/simulation-rentree-atmospherique-1990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">simulation rentree atmospherique 1990</span><span class="citation-popover-snippet">simulation rentree atmospherique 1990</span></span></span>
 
-The event is especially relevant to Bas-Rhin because contemporary reporting and later summaries describe a west-to-east track across France, with Strasbourg and Alsace among the regions where the spectacle was discussed. Le Monde’s archive account described the burning rocket debris entering the denser atmosphere on a path from Pau towards Strasbourg, while GEIPAN emphasised that the brightness made the phenomenon appear much lower and closer than it was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lemonde.fr/archives/article/1990/11/14/les-debris-d-un-mystere-trois-jours-auront-suffi-pour-donner-une-explication-a-un-phenomene-etrange-apparu-dans-le-ciel-d-europe_3980116_1819218.html?srsltid=AfmBOopk-SqzEu3h1bxtfFyHB6MwQXacgNNSPaXLU3SQjZy2SLy5eVy4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lemonde.fr">[Le Monde.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lemonde.fr</span><span class="citation-popover-title">Le Monde.fr Les débris d&#x27;un mystère Trois jours auront suffi pour</span><span class="citation-popover-snippet">Le Monde.fr Les débris d&#x27;un mystère Trois jours auront suffi pour</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a3rZqkAvPVQ" title="Pentagon UFO Footage Looks Impossible. Here’s the Catch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a3rZqkAvPVQ" target="_blank" rel="noopener noreferrer">Pentagon UFO Footage Looks Impossible. Here’s the Catch</a></p><p class="youtube-embed-meta">Channel: SciQuest</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a3rZqkAvPVQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a3rZqkAvPVQ">Open on YouTube</a></p></div></div></div>
 
 ## Recent solved cases show three repeating failure modes
@@ -281,8 +277,6 @@ Bas-Rhin’s solved files are not all the same. They show several distinct ways 
 ## What radar and flight data can and cannot prove
 
 Radar, flight trackers and official air-operation data are powerful in Bas-Rhin investigations, but they are not magic. They can match time, direction, altitude and movement. They can show that a reported light coincided with a known airliner, a military tanker, fighters, or an approach path into Strasbourg. They can also expose when a witness’s estimate of size or distance is physically unlikely.
-
-Their limits are just as important. A radar match does not reproduce the witness’s emotional experience, and it may not explain every detail unless the optical conditions are reconstructed. Conversely, the absence of a public flight-tracker match is not proof of an unknown craft: military aircraft, transponder settings, low-level coverage, data gaps and delayed reporting can all complicate the picture. GEIPAN’s methodology explicitly weighs both “strangeness” and “consistency”, using witness detail, photographs, radar or other detection data where available, and classifying cases from A to D depending on how well the explanation survives investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jWE8nqSyz4w" title="La surveillance aérienne" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jWE8nqSyz4w" target="_blank" rel="noopener noreferrer">La surveillance aérienne</a></p><p class="youtube-embed-meta">Channel: AérostarTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jWE8nqSyz4w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jWE8nqSyz4w">Open on YouTube</a></p></div></div></div>
 

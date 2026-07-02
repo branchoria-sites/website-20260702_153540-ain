@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /landes-7a79d9-index/
 description: Focused pages that expand on What Really Happened in Landes Skies?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Landes_7a79d9
 parent_title: What Really Happened in Landes Skies?

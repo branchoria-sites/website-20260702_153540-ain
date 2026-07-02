@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 17:28:44'
+date: '2026-06-29 17:28:44'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -721,6 +721,8 @@ That makes Saint-Dizier a good example of the difference between “unexplained�
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7GtoO00G_No" title="Identifier les OVNIS / Super Pouvoirs Anti-Mythos - Info ou Mytho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7GtoO00G_No" target="_blank" rel="noopener noreferrer">Identifier les OVNIS / Super Pouvoirs Anti-Mythos - Info ou Mytho</a></p><p class="youtube-embed-meta">Channel: Info ou Mytho ?</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7GtoO00G_No" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7GtoO00G_No">Open on YouTube</a></p></div></div></div>
 
+
+
 ## Sommerecourt 1983: the dramatic case with a down-to-earth explanation
 
 Sommerecourt, 17 July 1983, is probably the most dramatic GEIPAN-listed Haute-Marne case. The official summary says that after several night-time observations of luminous phenomena on 15 and 16 July, a witness went out on 17 July at about 21:30 with binoculars to observe activity on a hill. Hours later, relatives found him at home in a dazed state, injured and traumatised. He claimed to have been caught by a yellow-orange “ball of fire” and dropped several kilometres away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1983-08-00992?field_agregation_index_value=06&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=%2C115&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
@@ -755,7 +757,13 @@ Haute-Marne’s UFO record does not show a single repeating phenomenon. Instead,
 * **Aviation context.** Saint-Dizier adds a military-airbase dimension, but the official case outcome still depends on evidence quality rather than witness status.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1978-08-00536" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 * **Later reinterpretation.** Andelot shows how an initially dramatic newspaper story can become less mysterious when astronomical geometry and the psychology of a “following” light are considered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/press/ledauphine19aug1975f.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span></div>
 
-The department’s strongest lesson is methodological. The label “UFO” often arrives before the investigation has separated the observed stimulus from the witness’s interpretation. In Haute-Marne, the stimulus may have been the Moon, Jupiter, the ISS, ground lights, electrical arcing, a possible sky-tracer, or something too poorly documented to identify.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hn2xTieploU" title="GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer">GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés</a></p><p class="youtube-embed-meta">Channel: france tv &middot; Views: 4.6K &middot; Uploaded: May 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hn2xTieploU">Open on YouTube</a></p></div></div></div>
+The department’s strongest lesson is methodological. The label “UFO” often arrives before the investigation has separated the observed stimulus from the witness’s interpretation. In Haute-Marne, the stimulus may have been the Moon, Jupiter, the ISS, ground lights, electrical arcing, a possible sky-tracer, or something too poorly documented to identify.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hn2xTieploU" title="GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer">GEIPAN : dans les coulisses de l’organisme qui étudie les phénomènes aérospatiaux non identifiés</a></p><p class="youtube-embed-meta">Channel: france tv &middot; Views: 4.6K &middot; Uploaded: May 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hn2xTieploU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What remains genuinely unresolved?
 

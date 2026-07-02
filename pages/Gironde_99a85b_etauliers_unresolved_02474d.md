@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 07:07:45'
+date: '2026-06-29 07:07:45'
 parent_title: Gironde UFOs
 parent_permalink: /what-girondes-ufo-files-really-show/
 parent_nav_short_title: Gironde UFOs
@@ -254,8 +254,6 @@ GEIPAN’s public case page gives Étauliers a class D rating and describes the 
 
 The classification is important because GEIPAN does not use “unidentified” as a single loose bucket. Its methodology weighs two linked ideas: residual strangeness after investigation, and consistency, meaning the quantity and reliability of the information collected. GEIPAN explains that category D is used when a case remains unexplained after investigation, while category C is used when a case cannot be analysed properly because the information is insufficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan La méthodologie de classification au GEIPAN &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan La méthodologie de classification au GEIPAN &#124; GEIPAN</span></span></span>
 
-Étauliers therefore sits above the weakest kind of uncertainty. It was not simply filed as “we do not know because there is almost nothing to work with”. GEIPAN considered the report strange and reasonably consistent. But it also falls short of the strongest form of unresolved case. GEIPAN’s glossary describes D1-style cases as strange but of medium consistency, for example where there is one witness and no photograph or video; D2-style cases involve stronger consistency, such as several independent witnesses, recordings or ground traces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/glossaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Le glossaire du Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan Le glossaire du Geipan &#124; GEIPAN</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ## What makes the case stronger than an ordinary light report
@@ -272,8 +270,6 @@ The case also gains importance from its place in Gironde’s wider record. Carte
 The weakness of the Étauliers case begins exactly where the story becomes most intriguing. A silent, five-to-six-metre saucer-shaped object moving slowly near a road would be an important observation if independently confirmed. But the public file does not provide independent confirmation. GEIPAN states that no other witness came forward locally and that no additional information was gathered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1980-01-00716?field_is_revisited_value=1&amp;page=%2C32" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 That absence does not prove the witness was wrong. Rural roads can be quiet, fog can reduce visibility, and early-morning or evening conditions can limit the chance of corroboration. But it does mean the case cannot be pushed beyond testimony. There is no known photograph, video, radar return, landing trace, recovered material, official aviation match or second account in the public summary.
-
-There is also a notable ambiguity in the published information. GEIPAN’s narrative summary gives the observation time as about 7.10 am, while the testimonial detail page lists the local date and time as 13 January 1980 at 18:30.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1980-01-00716?field_is_revisited_value=1&amp;page=%2C32" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span> This may reflect a data-entry issue, a difference between observation and deposition timing, or some other archival inconsistency, but the public pages do not resolve it. For a careful reader, that matters. A morning sighting and an evening sighting have different lighting conditions, traffic patterns, possible astronomical context and witness circumstances.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lXi5B0NTwVc" title="France&#x27;s Official UFO Investigation Agency (GEIPAN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer">France&#x27;s Official UFO Investigation Agency (GEIPAN)</a></p><p class="youtube-embed-meta">Channel: Kryptoscipher &middot; Views: 108 &middot; Uploaded: February 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lXi5B0NTwVc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lXi5B0NTwVc">Open on YouTube</a></p></div></div></div>
 
@@ -295,8 +291,6 @@ This is why the case remains useful for Gironde’s UFO history even though it d
 * **A weak unresolved report**, where almost nothing can be checked.
 * **A serious but uncorroborated report**, where the witness account is detailed but stands alone.
 * **A robust unresolved case**, where multiple independent lines of evidence survive scrutiny.</div>
-
-Étauliers belongs in the middle. It is stronger than a vague anecdote, but weaker than a case supported by independent witnesses, photographs, radar data or physical traces. GEIPAN’s own language — medium-to-strong consistency, strange to very strange, class D — captures that tension better than either believers or sceptics often do.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1980-01-00716?field_is_revisited_value=1&amp;page=%2C32" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K-dgmfIOYBE" title="GEIPAN: Everything You Need to Know About UFOs and Aerial Phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K-dgmfIOYBE" target="_blank" rel="noopener noreferrer">GEIPAN: Everything You Need to Know About UFOs and Aerial Phenomena</a></p><p class="youtube-embed-meta">Channel: Science And Life &middot; Views: 16 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K-dgmfIOYBE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K-dgmfIOYBE">Open on YouTube</a></p></div></div></div>
 

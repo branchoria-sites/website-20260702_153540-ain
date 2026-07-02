@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 05:17:06'
+date: '2026-06-29 05:17:06'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -733,7 +733,13 @@ The clearest example is Conches-en-Ouche in February 2016. Around midnight, seve
 
 The case is valuable because GEIPAN did not simply say “it was an aircraft” and stop. Its explanation discusses why the aircraft looked so strange: a large military transport can seem too big and too slow; witnesses moving in a car can experience a “pivot” illusion that makes a moving object seem stationary; trees can disrupt distance and height judgement; and moonlight or diffusion can create halo-like effects. GEIPAN also noted how witnesses in the same car gave very different distance estimates and different shape descriptions, ranging from circular to triangular.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2016-02-09429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-For readers, Conches-en-Ouche is a cautionary case. It does not mock the witnesses; on the contrary, it shows how an unfamiliar but real aircraft, seen briefly and emotionally at night, can become a compelling UFO report. It also explains why aviation-linked departments such as Eure need aircraft traffic, base activity and radar checks before any strong conclusion is drawn.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eELvF8hznE8" title="Presentation of GEIPAN, the Official UAP Study Group in France" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eELvF8hznE8" target="_blank" rel="noopener noreferrer">Presentation of GEIPAN, the Official UAP Study Group in France</a></p><p class="youtube-embed-meta">Channel: EuroUFO &middot; Views: 314 &middot; Uploaded: January 2025 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eELvF8hznE8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eELvF8hznE8">Open on YouTube</a></p></div></div></div>
+For readers, Conches-en-Ouche is a cautionary case. It does not mock the witnesses; on the contrary, it shows how an unfamiliar but real aircraft, seen briefly and emotionally at night, can become a compelling UFO report. It also explains why aviation-linked departments such as Eure need aircraft traffic, base activity and radar checks before any strong conclusion is drawn.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eELvF8hznE8" title="Presentation of GEIPAN, the Official UAP Study Group in France" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eELvF8hznE8" target="_blank" rel="noopener noreferrer">Presentation of GEIPAN, the Official UAP Study Group in France</a></p><p class="youtube-embed-meta">Channel: EuroUFO &middot; Views: 314 &middot; Uploaded: January 2025 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eELvF8hznE8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eELvF8hznE8">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The late-1970s cluster: not one single “flap”, but a busy archive period
 
@@ -774,8 +780,6 @@ The official files show several recurring explanations or near-explanations.
 
 **Astronomical objects.** Saint-André-de-l’Eure in 1989 was probably a bright planet or star seen through high-magnification binoculars, while Gisors in 2013 was judged a probable Moon misidentification: the witness reported a fixed dark-red light, and GEIPAN found the Moon at almost the same azimuth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/cas/1989-01-01164" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-**Atmospheric re-entry or meteors.** Les Andelys in 1977 and Poses in 2001 are both classed as probable atmospheric re-entry-style events. At Poses, four witnesses saw six to twelve very bright points burn up quickly over about fifteen seconds, a description GEIPAN considered probably consistent with atmospheric re-entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1977-11-00455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a7MmSfdFN0A" title="Un OVNI survole la France | Archive INA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a7MmSfdFN0A" target="_blank" rel="noopener noreferrer">Un OVNI survole la France | Archive INA</a></p><p class="youtube-embed-meta">Channel: INA Société</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a7MmSfdFN0A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a7MmSfdFN0A">Open on YouTube</a></p></div></div></div>
 
 ## How gendarmerie reports shape the record
@@ -785,6 +789,8 @@ The gendarmerie is central to the French UFO archive because many witness accoun
 That procedure is visible in Eure’s files. Conches-en-Ouche included four gendarmerie depositions. Older cases such as Louviers, Les Andelys, Poses and Bacqueville include police or gendarmerie documents in the GEIPAN record. The practical effect is that Eure’s UFO history is not only a set of anecdotes; it is also a paper trail of witness statements, official summaries, re-examinations and classifications.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I5jqQgm0Anw" title="Bizarre UFO-ervaring, aliens &amp; Stijns vreemde nacht in Chersonissos | De Nummer 1 Allertijden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I5jqQgm0Anw" target="_blank" rel="noopener noreferrer">Bizarre UFO-ervaring, aliens &amp; Stijns vreemde nacht in Chersonissos | De Nummer 1 Allertijden</a></p><p class="youtube-embed-meta">Channel: Podimo Nederland</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I5jqQgm0Anw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I5jqQgm0Anw">Open on YouTube</a></p></div></div></div>
+
+
 
 ## What the Eure record really supports
 

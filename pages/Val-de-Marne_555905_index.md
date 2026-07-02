@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /val-de-marne-555905-index/
 description: Focused pages that expand on What Really Happened in Val de Marne's UFO....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Val-de-Marne_555905
 parent_title: What Really Happened in Val de Marne's UFO...

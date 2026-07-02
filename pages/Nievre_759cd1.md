@@ -108,7 +108,7 @@ keywords:
 affiliate_category: nievre
 show_ads: true
 description: Nievre is not one of the French departments with a famous, nationally argued UFO mystery at its centre.
-hero_summary:'Nievre is not one of the French departments with a famous, nationally argued UFO mystery at its centre. Its public record is more revealing for another reason: the official cases are mostly modest, rural, and ultimately explainable or too thinly documented to resolve.'
+hero_summary: 'Nievre is not one of the French departments with a famous, nationally argued UFO mystery at its centre. Its public record is more revealing for another reason: the official cases are mostly modest, rural, and ultimately explainable or too thinly documented to resolve.'
 layout: default
 permalink: /what-really-happened-in-nievres-ufo/
 nav_short_title: What Really Happened in Nievre's UFO Files?
@@ -132,7 +132,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -280,13 +280,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 19:00:17'
+date: '2026-06-29 19:00:17'
 sibling_links:
 - basename: Manche_e44581
   title: Manche UFOs
@@ -725,8 +725,6 @@ The Lormes case, linked in GEIPAN’s record to an observation date in early Nov
 
 The modern Nievre files are dominated by familiar night-sky and near-sky explanations. At Guerigny on 20 July 2013, two witnesses saw intense coloured lights with no sound; GEIPAN’s derived public summary says the case was classified B as probable Thai lanterns, with variable wind around Nevers helping explain why two lights might not follow identical paths.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/cas/guerigny-2013-0708498" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[CarteOvni.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-title">guerigny 2013 0708498</span><span class="citation-popover-snippet">guerigny 2013 0708498</span></span></span>
 
-Narcy in 2016 is a daylight version of the same lesson. A witness and a roofer saw a very bright object in a clear sky; it appeared to move towards them and then change direction. GEIPAN classified the case B, probably a wind-carried object, especially a child’s balloon. The report highlights the subjectivity of perceived speed when the witness does not know the object’s distance, and it notes that changing wind could explain the apparent change in direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/cas/2016-08-09529" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
 
 ## The 1954 wave in Nievre: folklore, press memory and meteor problems
@@ -756,15 +754,19 @@ The Nievre record points to several recurring explanations rather than one drama
 
 **Lanterns and wind-borne objects.** Guerigny and Narcy show the continuing importance of small human-made objects. Lanterns can appear silent, orange, red or drifting; balloons can shine brightly and seem to change course when wind conditions vary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/cas/guerigny-2013-0708498" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[CarteOvni.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-title">guerigny 2013 0708498</span><span class="citation-popover-snippet">guerigny 2013 0708498</span></span></span>
 
-**Meteors and bolides.** Nievre’s wider sky record includes meteor reports, and older UFO-wave material from 1954 illustrates how a bright meteor can be interpreted as a mysterious craft. A GEIPAN-linked press document on a 2014 fireball includes a witness report from Urzy in Nievre describing a green object like a firework or rocket lasting five to six seconds, assessed in that broader event as probably a sporadic meteor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Presse3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">GEIPANSuperbe étoile filante du 17 janvier</span><span class="citation-popover-snippet">GEIPANSuperbe étoile filante du 17 janvier</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DNuDh287q0Q" title="7 CAS D’OVNIS OFFICIELLES complètement fous ( CRNS, GEIPAN… je t’explique tout )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DNuDh287q0Q" target="_blank" rel="noopener noreferrer">7 CAS D’OVNIS OFFICIELLES complètement fous ( CRNS, GEIPAN… je t’explique tout )</a></p><p class="youtube-embed-meta">Channel: INDIANA SPACE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DNuDh287q0Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DNuDh287q0Q">Open on YouTube</a></p></div></div></div>
 
 ## Are there aviation or military links in Nievre?
 
 The public Nievre record does not show a strong aviation or military pattern comparable to departments with major airbases, repeated pilot cases or radar-linked incidents. The most visible official Nievre cases are ground observations by ordinary witnesses: motorists, campers, residents, amateur sky-watchers, or people noticing lights from a garden or rooftop. GEIPAN’s case-search interface does distinguish observation types such as aeronautical, maritime and ground observations, but the Nievre examples surfaced in the public records here are overwhelmingly local ground sightings rather than cockpit or radar cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/recherche/cas/tab?customGetLattitude=46.94358292648825&amp;customGetLongitude=4.4989013671875&amp;customGetZoom=7&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=49.11702904077932&amp;field_latitude_value%5Bmin%5D=44.77013681219717&amp;field_longitude_value%5Bmax%5D=7.668457031250001&amp;field_longitude_value%5Bmin%5D=1.329345703125&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=23&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan+3Geipan+3Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Recherche de cas &#124; GEIPAN</span><span class="citation-popover-snippet">Recherche de cas &#124; GEIPAN</span></span></span>
 
-The absence of a strong aviation thread is itself useful. It keeps the department’s UFO history grounded in everyday witness interpretation rather than defence secrecy. Where aircraft, satellites or space objects matter in Nievre, they mainly matter as explanations, not as signs of a military incident.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ggd8KjQT6_w" title="OVNI en Picardie - Épisode 3 - Les agents du GEIPAN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ggd8KjQT6_w" target="_blank" rel="noopener noreferrer">OVNI en Picardie - Épisode 3 - Les agents du GEIPAN</a></p><p class="youtube-embed-meta">Channel: France 3 Hauts-de-France</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ggd8KjQT6_w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ggd8KjQT6_w">Open on YouTube</a></p></div></div></div>
+The absence of a strong aviation thread is itself useful. It keeps the department’s UFO history grounded in everyday witness interpretation rather than defence secrecy. Where aircraft, satellites or space objects matter in Nievre, they mainly matter as explanations, not as signs of a military incident.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ggd8KjQT6_w" title="OVNI en Picardie - Épisode 3 - Les agents du GEIPAN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ggd8KjQT6_w" target="_blank" rel="noopener noreferrer">OVNI en Picardie - Épisode 3 - Les agents du GEIPAN</a></p><p class="youtube-embed-meta">Channel: France 3 Hauts-de-France</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ggd8KjQT6_w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ggd8KjQT6_w">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How strong is the Nievre evidence overall?
 

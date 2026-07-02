@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /oise-3dde58-index/
 description: Focused pages that expand on What Really Happened in Oise's UFO Files?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Oise_3dde58
 parent_title: What Really Happened in Oise's UFO Files?

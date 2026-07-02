@@ -42,7 +42,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -190,13 +190,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 05:17:08'
+date: '2026-06-29 05:17:08'
 parent_title: Eure UFOs
 parent_permalink: /what-really-happened-in-eures-ufo-files/
 parent_nav_short_title: Eure UFOs
@@ -254,8 +254,6 @@ The radar element is the reason Fauville remains Eure’s most technically inter
 
 That is stronger than a witness merely saying “radar saw it too”. It gives a time, direction, range, movement and speed estimate. It also overlaps with the visual report: the observed red point and the radar echo were both associated with the same general sector. GEIPAN notes that although the radar observation report gives 24 April as the observation date, this appears to have been a typing error, which allows the visual observation and radar trace to be treated as probably simultaneous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1978-04-01879" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanFAUVILLE (27) 23.04.1978 &#124; GEIPAN...</span></span></span>
 
-The caution is equally central. GEIPAN states that it does not have the actual radar recording. It also notes that the radar intensity was very weak, rated 1 out of 5, although the duration was comparatively long at seven minutes. That means the radar return is not a surviving instrument record that independent readers can reanalyse; it is a reported radar observation inside the official file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1978-04-01879" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanFAUVILLE (27) 23.04.1978 &#124; GEIPAN...</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eELvF8hznE8" title="Presentation of GEIPAN, the Official UAP Study Group in France" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eELvF8hznE8" target="_blank" rel="noopener noreferrer">Presentation of GEIPAN, the Official UAP Study Group in France</a></p><p class="youtube-embed-meta">Channel: EuroUFO &middot; Views: 314 &middot; Uploaded: January 2025 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eELvF8hznE8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eELvF8hznE8">Open on YouTube</a></p></div></div></div>
 
 ## Why ordinary explanations did not settle it
@@ -272,8 +270,6 @@ The case therefore sits in an awkward middle ground. It is too well documented t
 GEIPAN classifies Fauville as D, and the witness page specifies D1. In GEIPAN’s system, class A means identified, B means probably identified, C means not identified because of insufficient information, and D means not identified after investigation. Since 2008, D1 and D2 have been used as subcategories for unexplained cases with differing levels of residual strangeness and consistency, but both remain D cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Classification &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan Classification &#124; GEIPAN</span></span></span>
 
 For Fauville, GEIPAN’s own conclusion is measured: the phenomenon is “moderately strange”, distant, and based on testimony of good consistency. The case is not presented as one of France’s most spectacular unexplained incidents. Its value lies in the overlap between a military visual report and a weak radar echo, plus the fact that the investigation did not find a convincing conventional cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1978-04-01879" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GeipanFAUVILLE (27) 23.04.1978 &#124; GEIPAN...</span></span></span>
-
-GEIPAN’s broader methodology helps explain the restraint. The agency says its classification rests on two ideas: residual strangeness after comparison with known phenomena, and consistency, meaning the quantity and reliability of the gathered data. It also states that cases C and D can be revisited if new information appears. That is important for Fauville because a missing radar recording, if ever found, would be exactly the kind of evidence that could strengthen or weaken the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Classification &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan Classification &#124; GEIPAN</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P0OEMT5RyL0" title="Former Navy Fighter Pilot Testifies to Witnessing UFO in Category 4 Winds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P0OEMT5RyL0" target="_blank" rel="noopener noreferrer">Former Navy Fighter Pilot Testifies to Witnessing UFO in Category 4 Winds</a></p><p class="youtube-embed-meta">Channel: NowThis Impact</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P0OEMT5RyL0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P0OEMT5RyL0">Open on YouTube</a></p></div></div></div>
 
@@ -298,7 +294,13 @@ Independent public mapping based on GEIPAN data also lists Fauville among France
 
 Local historical writing has kept the incident in Évreux memory as a curious 1978 event: an operational duty officer at BA 105 saw a red point at around 10 to 15 degrees above the horizon, it was reportedly confirmed by a weak radar signal, and analysts never identified it. That local summary does not add decisive new evidence, but it shows that the case has remained tied to Évreux-Fauville’s aviation history rather than floating free as a generic UFO legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://evreux-histoire.com/evreux-1978.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evreux-histoire.com">[evreux-histoire.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evreux-histoire.com</span><span class="citation-popover-title">evreux 1978</span><span class="citation-popover-snippet">evreux 1978</span></span></span>
 
-Later reporting therefore neither debunks the case nor strengthens it into something firmer. The unresolved status survives because the original file still resists a simple explanation, not because new evidence has made it more dramatic.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FAofX6zmONA" title="Navy Cmdr. David Fravor on 2004 Tic Tac UAP sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FAofX6zmONA" target="_blank" rel="noopener noreferrer">Navy Cmdr. David Fravor on 2004 Tic Tac UAP sighting</a></p><p class="youtube-embed-meta">Channel: Unidentified Anomalous Phenomena</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FAofX6zmONA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FAofX6zmONA">Open on YouTube</a></p></div></div></div>
+Later reporting therefore neither debunks the case nor strengthens it into something firmer. The unresolved status survives because the original file still resists a simple explanation, not because new evidence has made it more dramatic.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FAofX6zmONA" title="Navy Cmdr. David Fravor on 2004 Tic Tac UAP sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FAofX6zmONA" target="_blank" rel="noopener noreferrer">Navy Cmdr. David Fravor on 2004 Tic Tac UAP sighting</a></p><p class="youtube-embed-meta">Channel: Unidentified Anomalous Phenomena</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FAofX6zmONA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FAofX6zmONA">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Was Fauville Eure’s best UFO case?
 

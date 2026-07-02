@@ -7,7 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /seine-et-marne-d85b24-index/
 description: Focused pages that expand on What Really Happened in Seine et Marne's
   UFO....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Seine-et-Marne_d85b24
 parent_title: What Really Happened in Seine et Marne's UFO...

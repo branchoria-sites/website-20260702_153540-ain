@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /gers-631401-index/
 description: Focused pages that expand on What Did Gers UFO Witnesses Really See?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Gers_631401
 parent_title: What Did Gers UFO Witnesses Really See?

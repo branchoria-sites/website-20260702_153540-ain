@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /gironde-99a85b-index/
 description: Focused pages that expand on What Gironde's UFO Files Really Show.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Gironde_99a85b
 parent_title: What Gironde's UFO Files Really Show
