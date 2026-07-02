@@ -16,7 +16,7 @@ parent_permalink: /what-did-seine-saint-denis-witnesses/
 
 # Explore Topics in What Did Seine Saint Denis Witnesses Really...
 
-The following pages expand on the main **[What Did Seine Saint Denis Witnesses Really...]({{'/what-did-seine-saint-denis-witnesses/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Did Seine Saint Denis Witnesses Really...]({{ '/what-did-seine-saint-denis-witnesses/' | relative_url }})** page and cover its key branches in.
 
-- [Urban Lights]({{'/urban-lights/' | relative_url }})
-- [Pantin 1993]({{'/pantin-1993/' | relative_url }})
+- [Urban Lights]({{ '/urban-lights/' | relative_url }})
+- [Pantin 1993]({{ '/pantin-1993/' | relative_url }})

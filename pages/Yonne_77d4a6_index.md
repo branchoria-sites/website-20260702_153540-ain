@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-yonnes-ufo-files/
 
 # Explore Topics in What Really Happened in Yonne's UFO Files?
 
-The following pages expand on the main **[What Really Happened in Yonne's UFO Files?]({{'/what-really-happened-in-yonnes-ufo-files/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Yonne's UFO Files?]({{ '/what-really-happened-in-yonnes-ufo-files/' | relative_url }})** page and cover its key branches in.
 
-- [1990 Wave]({{'/1990-wave/' | relative_url }})
-- [1977 Cluster]({{'/1977-cluster/' | relative_url }})
+- [1990 Wave]({{ '/1990-wave/' | relative_url }})
+- [1977 Cluster]({{ '/1977-cluster/' | relative_url }})

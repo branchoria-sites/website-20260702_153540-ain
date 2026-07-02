@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-finisteres-skies/
 
 # Explore Topics in What Really Happened in Finistere's Skies?
 
-The following pages expand on the main **[What Really Happened in Finistere's Skies?]({{'/what-really-happened-in-finisteres-skies/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Finistere's Skies?]({{ '/what-really-happened-in-finisteres-skies/' | relative_url }})** page and cover its key branches in.
 
-- [Sky Clues]({{'/sky-clues/' | relative_url }})
-- [Crozon 2020]({{'/crozon-2020/' | relative_url }})
+- [Sky Clues]({{ '/sky-clues/' | relative_url }})
+- [Crozon 2020]({{ '/crozon-2020/' | relative_url }})

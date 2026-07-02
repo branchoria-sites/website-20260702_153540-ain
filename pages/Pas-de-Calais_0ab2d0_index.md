@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-pas-de-calais/
 
 # Explore Topics in What Really Happened in Pas de Calais Skies?
 
-The following pages expand on the main **[What Really Happened in Pas de Calais Skies?]({{'/what-really-happened-in-pas-de-calais/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Pas de Calais Skies?]({{ '/what-really-happened-in-pas-de-calais/' | relative_url }})** page and cover its key branches in.
 
-- [1954 Wave]({{'/1954-wave/' | relative_url }})
-- [GEIPAN Files]({{'/geipan-files-d253c3/' | relative_url }})
+- [1954 Wave]({{ '/1954-wave/' | relative_url }})
+- [GEIPAN Files]({{ '/geipan-files-d253c3/' | relative_url }})

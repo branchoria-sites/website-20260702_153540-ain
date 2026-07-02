@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-gards-ufo-files/
 
 # Explore Topics in What Really Happened in Gard's UFO Files?
 
-The following pages expand on the main **[What Really Happened in Gard's UFO Files?]({{'/what-really-happened-in-gards-ufo-files/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Gard's UFO Files?]({{ '/what-really-happened-in-gards-ufo-files/' | relative_url }})** page and cover its key branches in.
 
-- [Nimes Cases]({{'/nimes-cases/' | relative_url }})
-- [Changed Verdicts]({{'/changed-verdicts/' | relative_url }})
+- [Nimes Cases]({{ '/nimes-cases/' | relative_url }})
+- [Changed Verdicts]({{ '/changed-verdicts/' | relative_url }})

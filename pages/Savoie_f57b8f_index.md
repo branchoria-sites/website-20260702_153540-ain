@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-savoies-ufo/
 
 # Explore Topics in What Really Happened in Savoie's UFO Files?
 
-The following pages expand on the main **[What Really Happened in Savoie's UFO Files?]({{'/what-really-happened-in-savoies-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Savoie's UFO Files?]({{ '/what-really-happened-in-savoies-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [Orange Lights]({{'/orange-lights/' | relative_url }})
-- [Mountain Clues]({{'/mountain-clues/' | relative_url }})
+- [Orange Lights]({{ '/orange-lights/' | relative_url }})
+- [Mountain Clues]({{ '/mountain-clues/' | relative_url }})

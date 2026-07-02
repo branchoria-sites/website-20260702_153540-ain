@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-deux-sevres/
 
 # Explore Topics in What Really Happened in Deux Sevres Skies?
 
-The following pages expand on the main **[What Really Happened in Deux Sevres Skies?]({{'/what-really-happened-in-deux-sevres/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Deux Sevres Skies?]({{ '/what-really-happened-in-deux-sevres/' | relative_url }})** page and cover its key branches in.
 
-- [Official Files]({{'/official-files/' | relative_url }})
-- [Sainte Soline]({{'/sainte-soline/' | relative_url }})
+- [Official Files]({{ '/official-files/' | relative_url }})
+- [Sainte Soline]({{ '/sainte-soline/' | relative_url }})

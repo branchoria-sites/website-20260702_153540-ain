@@ -16,7 +16,7 @@ parent_permalink: /what-aubes-ufo-files-really-show/
 
 # Explore Topics in What Aube's UFO Files Really Show
 
-The following pages expand on the main **[What Aube's UFO Files Really Show]({{'/what-aubes-ufo-files-really-show/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Aube's UFO Files Really Show]({{ '/what-aubes-ufo-files-really-show/' | relative_url }})** page and cover its key branches in.
 
-- [Solved Lights]({{'/solved-lights/' | relative_url }})
-- [Mailly 1954]({{'/mailly-1954/' | relative_url }})
+- [Solved Lights]({{ '/solved-lights/' | relative_url }})
+- [Mailly 1954]({{ '/mailly-1954/' | relative_url }})

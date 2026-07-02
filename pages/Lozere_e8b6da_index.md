@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-lozeres-ufo/
 
 # Explore Topics in What Really Happened in Lozere's UFO Files?
 
-The following pages expand on the main **[What Really Happened in Lozere's UFO Files?]({{'/what-really-happened-in-lozeres-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Lozere's UFO Files?]({{ '/what-really-happened-in-lozeres-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [Mende Case]({{'/mende-case/' | relative_url }})
-- [Likely Causes]({{'/likely-causes-702a81/' | relative_url }})
+- [Mende Case]({{ '/mende-case/' | relative_url }})
+- [Likely Causes]({{ '/likely-causes-702a81/' | relative_url }})

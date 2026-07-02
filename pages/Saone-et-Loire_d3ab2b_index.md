@@ -17,7 +17,7 @@ parent_permalink: /what-really-happened-in-saone-et/
 
 # Explore Topics in What Really Happened in Saone et Loire's UFO...
 
-The following pages expand on the main **[What Really Happened in Saone et Loire's UFO...]({{'/what-really-happened-in-saone-et/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Saone et Loire's UFO...]({{ '/what-really-happened-in-saone-et/' | relative_url }})** page and cover its key branches in.
 
-- [GEIPAN Files]({{'/geipan-files-3cb17d/' | relative_url }})
-- [Sky Mix Ups]({{'/sky-mix-ups/' | relative_url }})
+- [GEIPAN Files]({{ '/geipan-files-3cb17d/' | relative_url }})
+- [Sky Mix Ups]({{ '/sky-mix-ups/' | relative_url }})

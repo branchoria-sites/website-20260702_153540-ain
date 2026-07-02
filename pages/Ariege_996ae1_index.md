@@ -16,7 +16,7 @@ parent_permalink: /ariege/
 
 # Explore Topics in Ariege
 
-The following pages expand on the main **[Ariege]({{'/ariege/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Ariege]({{ '/ariege/' | relative_url }})** page and cover its key branches in.
 
-- [Explained Cases]({{'/explained-cases-c71d48/' | relative_url }})
-- [GEIPAN Files]({{'/geipan-files/' | relative_url }})
+- [Explained Cases]({{ '/explained-cases-c71d48/' | relative_url }})
+- [GEIPAN Files]({{ '/geipan-files/' | relative_url }})

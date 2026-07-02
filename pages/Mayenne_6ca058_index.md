@@ -16,7 +16,7 @@ parent_permalink: /why-mayennes-ufo-files-matter/
 
 # Explore Topics in Why Mayenne's UFO Files Matter
 
-The following pages expand on the main **[Why Mayenne's UFO Files Matter]({{'/why-mayennes-ufo-files-matter/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Why Mayenne's UFO Files Matter]({{ '/why-mayennes-ufo-files-matter/' | relative_url }})** page and cover its key branches in.
 
-- [Aron 2019]({{'/aron-2019/' | relative_url }})
-- [Sky Mistakes]({{'/sky-mistakes-9ba738/' | relative_url }})
+- [Aron 2019]({{ '/aron-2019/' | relative_url }})
+- [Sky Mistakes]({{ '/sky-mistakes-9ba738/' | relative_url }})

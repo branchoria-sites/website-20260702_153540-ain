@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-juras-ufo-files/
 
 # Explore Topics in What Really Happened in Jura's UFO Files?
 
-The following pages expand on the main **[What Really Happened in Jura's UFO Files?]({{'/what-really-happened-in-juras-ufo-files/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Jura's UFO Files?]({{ '/what-really-happened-in-juras-ufo-files/' | relative_url }})** page and cover its key branches in.
 
-- [Dole Lights]({{'/dole-lights/' | relative_url }})
-- [Premanon]({{'/premanon/' | relative_url }})
+- [Dole Lights]({{ '/dole-lights/' | relative_url }})
+- [Premanon]({{ '/premanon/' | relative_url }})

@@ -1,159 +1,11 @@
 {
   "version": 1,
-  "page_count": 4,
-  "total_page_seconds": 12.3068,
-  "average_page_seconds": 3.0767,
-  "phase_totals_seconds": {
-    "youtube": 5.8586,
-    "content_assembly": 2.851,
-    "monetization": 2.5845,
-    "media_svg": 0.6151,
-    "quality_write": 0.1789,
-    "content_cleanup_final": 0.1221,
-    "internal_links": 0.0676,
-    "preparation": 0.0251,
-    "content_cleanup_initial": 0.004
-  },
-  "slowest_pages": [
-    {
-      "base_name": "Val-de-Marne_555905_explained_orly_sky_c_99bdf3",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 5.4856,
-      "phases": {
-        "preparation": 0.0034,
-        "content_cleanup_initial": 0.0007,
-        "internal_links": 0.0093,
-        "content_cleanup_final": 0.0284,
-        "media_svg": 0.1796,
-        "youtube": 3.216,
-        "content_assembly": 0.7481,
-        "monetization": 1.2573,
-        "quality_write": 0.0426
-      }
-    },
-    {
-      "base_name": "Val-d_Oise_9a8e5a",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 5.1598,
-      "phases": {
-        "preparation": 0.0142,
-        "content_cleanup_initial": 0.0024,
-        "internal_links": 0.0339,
-        "content_cleanup_final": 0.0591,
-        "media_svg": 0.2201,
-        "youtube": 2.614,
-        "content_assembly": 0.9457,
-        "monetization": 1.2082,
-        "quality_write": 0.0623
-      }
-    },
-    {
-      "base_name": "Val-d_Oise_9a8e5a_cergy_pontoise_hoax_d72cc2",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 0.8709,
-      "phases": {
-        "preparation": 0.0047,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0155,
-        "content_cleanup_final": 0.0199,
-        "media_svg": 0.1405,
-        "youtube": 0.0134,
-        "content_assembly": 0.5791,
-        "monetization": 0.0621,
-        "quality_write": 0.0351
-      }
-    },
-    {
-      "base_name": "Val-d_Oise_9a8e5a_unresolved_geipan_ca_924de2",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 0.7905,
-      "phases": {
-        "preparation": 0.0028,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0089,
-        "content_cleanup_final": 0.0147,
-        "media_svg": 0.0749,
-        "youtube": 0.0152,
-        "content_assembly": 0.5781,
-        "monetization": 0.0569,
-        "quality_write": 0.0389
-      }
-    }
-  ],
-  "pages": [
-    {
-      "base_name": "Val-d_Oise_9a8e5a_cergy_pontoise_hoax_d72cc2",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 0.8709,
-      "phases": {
-        "preparation": 0.0047,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0155,
-        "content_cleanup_final": 0.0199,
-        "media_svg": 0.1405,
-        "youtube": 0.0134,
-        "content_assembly": 0.5791,
-        "monetization": 0.0621,
-        "quality_write": 0.0351
-      }
-    },
-    {
-      "base_name": "Val-de-Marne_555905_explained_orly_sky_c_99bdf3",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 5.4856,
-      "phases": {
-        "preparation": 0.0034,
-        "content_cleanup_initial": 0.0007,
-        "internal_links": 0.0093,
-        "content_cleanup_final": 0.0284,
-        "media_svg": 0.1796,
-        "youtube": 3.216,
-        "content_assembly": 0.7481,
-        "monetization": 1.2573,
-        "quality_write": 0.0426
-      }
-    },
-    {
-      "base_name": "Val-d_Oise_9a8e5a_unresolved_geipan_ca_924de2",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 0.7905,
-      "phases": {
-        "preparation": 0.0028,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0089,
-        "content_cleanup_final": 0.0147,
-        "media_svg": 0.0749,
-        "youtube": 0.0152,
-        "content_assembly": 0.5781,
-        "monetization": 0.0569,
-        "quality_write": 0.0389
-      }
-    },
-    {
-      "base_name": "Val-d_Oise_9a8e5a",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 5.1598,
-      "phases": {
-        "preparation": 0.0142,
-        "content_cleanup_initial": 0.0024,
-        "internal_links": 0.0339,
-        "content_cleanup_final": 0.0591,
-        "media_svg": 0.2201,
-        "youtube": 2.614,
-        "content_assembly": 0.9457,
-        "monetization": 1.2082,
-        "quality_write": 0.0623
-      }
-    }
-  ],
+  "page_count": 0,
+  "total_page_seconds": 0,
+  "average_page_seconds": 0.0,
+  "phase_totals_seconds": {},
+  "slowest_pages": [],
+  "pages": [],
   "parallel": {
     "enabled": true,
     "mode": "process",
@@ -161,82 +13,20 @@
     "workers_raw": "auto",
     "max_workers": 3,
     "progress_interval_seconds": 60.0,
-    "queued_rebuild_pages": 4,
-    "reused_pages": 284,
-    "rebuilt_pages": 4,
+    "queued_rebuild_pages": 0,
+    "reused_pages": 288,
+    "rebuilt_pages": 0,
     "error_pages": 0,
-    "page_work_wall_seconds": 37.7422,
-    "rebuilt_pages_per_minute": 6.3589,
-    "queued_rebuild_pages_per_minute": 6.3589,
-    "apparent_page_work_speedup": 0.3261,
+    "page_work_wall_seconds": 30.9142,
+    "rebuilt_pages_per_minute": 0.0,
+    "queued_rebuild_pages_per_minute": 0.0,
+    "apparent_page_work_speedup": 0.0,
     "process_worker_diagnostics": {
-      "completed_pages": 4,
-      "successful_pages": 4,
+      "completed_pages": 0,
+      "successful_pages": 0,
       "failed_pages": 0,
-      "worker_summary": {
-        "3212": {
-          "pages": 3,
-          "successes": 3,
-          "failures": 0,
-          "total_worker_seconds": 7.2851,
-          "max_worker_seconds": 5.5406,
-          "last_base_name": "Val-d_Oise_9a8e5a_unresolved_geipan_ca_924de2"
-        },
-        "5728": {
-          "pages": 1,
-          "successes": 1,
-          "failures": 0,
-          "total_worker_seconds": 5.2041,
-          "max_worker_seconds": 5.2041,
-          "last_base_name": "Val-d_Oise_9a8e5a"
-        }
-      },
-      "slowest_worker_pages": [
-        {
-          "base_name": "Val-de-Marne_555905_explained_orly_sky_c_99bdf3",
-          "level": 2,
-          "success": true,
-          "worker_pid": 3212,
-          "worker_duration_seconds": 5.5406,
-          "total_seconds": 5.4856,
-          "worker_started_at_utc": "2026-07-02T18:13:21.960800Z",
-          "worker_finished_at_utc": "2026-07-02T18:13:27.446422Z",
-          "result_merge_seconds": 0.0
-        },
-        {
-          "base_name": "Val-d_Oise_9a8e5a",
-          "level": 1,
-          "success": true,
-          "worker_pid": 5728,
-          "worker_duration_seconds": 5.2041,
-          "total_seconds": 5.1598,
-          "worker_started_at_utc": "2026-07-02T18:13:25.326915Z",
-          "worker_finished_at_utc": "2026-07-02T18:13:30.486778Z",
-          "result_merge_seconds": 0.0
-        },
-        {
-          "base_name": "Val-d_Oise_9a8e5a_cergy_pontoise_hoax_d72cc2",
-          "level": 2,
-          "success": true,
-          "worker_pid": 3212,
-          "worker_duration_seconds": 0.9124,
-          "total_seconds": 0.8709,
-          "worker_started_at_utc": "2026-07-02T18:13:27.502884Z",
-          "worker_finished_at_utc": "2026-07-02T18:13:28.373861Z",
-          "result_merge_seconds": 0.0
-        },
-        {
-          "base_name": "Val-d_Oise_9a8e5a_unresolved_geipan_ca_924de2",
-          "level": 2,
-          "success": true,
-          "worker_pid": 3212,
-          "worker_duration_seconds": 0.8321,
-          "total_seconds": 0.7905,
-          "worker_started_at_utc": "2026-07-02T18:13:28.602466Z",
-          "worker_finished_at_utc": "2026-07-02T18:13:29.393043Z",
-          "result_merge_seconds": 0.0
-        }
-      ]
+      "worker_summary": {},
+      "slowest_worker_pages": []
     }
   }
 }

@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-loire-atlantique/
 
 # Explore Topics in What Really Happened in Loire Atlantique...
 
-The following pages expand on the main **[What Really Happened in Loire Atlantique...]({{'/what-really-happened-in-loire-atlantique/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Loire Atlantique...]({{ '/what-really-happened-in-loire-atlantique/' | relative_url }})** page and cover its key branches in.
 
-- [GEIPAN Files]({{'/geipan-files-11a4ca/' | relative_url }})
-- [1954 Flap]({{'/1954-flap/' | relative_url }})
+- [GEIPAN Files]({{ '/geipan-files-11a4ca/' | relative_url }})
+- [1954 Flap]({{ '/1954-flap/' | relative_url }})

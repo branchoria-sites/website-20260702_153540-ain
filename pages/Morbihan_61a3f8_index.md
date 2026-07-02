@@ -16,7 +16,7 @@ parent_permalink: /what-morbihans-ufo-files-really-show/
 
 # Explore Topics in What Morbihan's UFO Files Really Show
 
-The following pages expand on the main **[What Morbihan's UFO Files Really Show]({{'/what-morbihans-ufo-files-really-show/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Morbihan's UFO Files Really Show]({{ '/what-morbihans-ufo-files-really-show/' | relative_url }})** page and cover its key branches in.
 
-- [Airbase Skies]({{'/airbase-skies/' | relative_url }})
-- [Plouhinec]({{'/plouhinec/' | relative_url }})
+- [Airbase Skies]({{ '/airbase-skies/' | relative_url }})
+- [Plouhinec]({{ '/plouhinec/' | relative_url }})

@@ -16,7 +16,7 @@ parent_permalink: /what-do-creuse-ufo-reports-really-show/
 
 # Explore Topics in What Do Creuse UFO Reports Really Show?
 
-The following pages expand on the main **[What Do Creuse UFO Reports Really Show?]({{'/what-do-creuse-ufo-reports-really-show/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Do Creuse UFO Reports Really Show?]({{ '/what-do-creuse-ufo-reports-really-show/' | relative_url }})** page and cover its key branches in.
 
-- [Explanations]({{'/explanations/' | relative_url }})
-- [GEIPAN Files]({{'/geipan-files-7dfdbd/' | relative_url }})
+- [Explanations]({{ '/explanations/' | relative_url }})
+- [GEIPAN Files]({{ '/geipan-files-7dfdbd/' | relative_url }})

@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-viennes-ufo/
 
 # Explore Topics in What Really Happened in Vienne's UFO Files?
 
-The following pages expand on the main **[What Really Happened in Vienne's UFO Files?]({{'/what-really-happened-in-viennes-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Vienne's UFO Files?]({{ '/what-really-happened-in-viennes-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [GEIPAN Cases]({{'/geipan-cases/' | relative_url }})
-- [1954 Wave]({{'/1954-wave-97cead/' | relative_url }})
+- [GEIPAN Cases]({{ '/geipan-cases/' | relative_url }})
+- [1954 Wave]({{ '/1954-wave-97cead/' | relative_url }})

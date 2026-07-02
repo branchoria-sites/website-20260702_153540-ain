@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-puy-de-domes-ufo/
 
 # Explore Topics in What Really Happened in Puy de Dome's UFO...
 
-The following pages expand on the main **[What Really Happened in Puy de Dome's UFO...]({{'/what-really-happened-in-puy-de-domes-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Puy de Dome's UFO...]({{ '/what-really-happened-in-puy-de-domes-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [Official Files]({{'/official-files-76efd1/' | relative_url }})
-- [Lac Chauvet]({{'/lac-chauvet/' | relative_url }})
+- [Official Files]({{ '/official-files-76efd1/' | relative_url }})
+- [Lac Chauvet]({{ '/lac-chauvet/' | relative_url }})

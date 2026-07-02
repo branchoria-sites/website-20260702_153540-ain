@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-eure-et-loir/
 
 # Explore Topics in What Really Happened in Eure et Loir Skies?
 
-The following pages expand on the main **[What Really Happened in Eure et Loir Skies?]({{'/what-really-happened-in-eure-et-loir/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Eure et Loir Skies?]({{ '/what-really-happened-in-eure-et-loir/' | relative_url }})** page and cover its key branches in.
 
-- [GEIPAN Files]({{'/geipan-files-1b56a2/' | relative_url }})
-- [A10 Case]({{'/a10-case/' | relative_url }})
+- [GEIPAN Files]({{ '/geipan-files-1b56a2/' | relative_url }})
+- [A10 Case]({{ '/a10-case/' | relative_url }})

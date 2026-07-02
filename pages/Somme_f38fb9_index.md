@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-sommes-ufo-wave/
 
 # Explore Topics in What Really Happened in Somme's UFO Wave?
 
-The following pages expand on the main **[What Really Happened in Somme's UFO Wave?]({{'/what-really-happened-in-sommes-ufo-wave/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Somme's UFO Wave?]({{ '/what-really-happened-in-sommes-ufo-wave/' | relative_url }})** page and cover its key branches in.
 
-- [1954 Wave]({{'/1954-wave-1da816/' | relative_url }})
-- [Unexplained Cases]({{'/unexplained-cases/' | relative_url }})
+- [1954 Wave]({{ '/1954-wave-1da816/' | relative_url }})
+- [Unexplained Cases]({{ '/unexplained-cases/' | relative_url }})

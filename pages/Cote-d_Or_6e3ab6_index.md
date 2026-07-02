@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-over-cote-dor/
 
 # Explore Topics in What Really Happened Over Cote d'Or?
 
-The following pages expand on the main **[What Really Happened Over Cote d'Or?]({{'/what-really-happened-over-cote-dor/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened Over Cote d'Or?]({{ '/what-really-happened-over-cote-dor/' | relative_url }})** page and cover its key branches in.
 
-- [Arc 1979]({{'/arc-1979/' | relative_url }})
-- [Poncey 1954]({{'/poncey-1954/' | relative_url }})
+- [Arc 1979]({{ '/arc-1979/' | relative_url }})
+- [Poncey 1954]({{ '/poncey-1954/' | relative_url }})

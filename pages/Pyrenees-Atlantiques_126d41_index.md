@@ -16,7 +16,7 @@ parent_permalink: /what-do-pyrenees-atlantiques-ufo-cases/
 
 # Explore Topics in What Do Pyrenees Atlantiques UFO Cases...
 
-The following pages expand on the main **[What Do Pyrenees Atlantiques UFO Cases...]({{'/what-do-pyrenees-atlantiques-ufo-cases/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Do Pyrenees Atlantiques UFO Cases...]({{ '/what-do-pyrenees-atlantiques-ufo-cases/' | relative_url }})** page and cover its key branches in.
 
-- [Biarritz 1951]({{'/biarritz-1951/' | relative_url }})
-- [Pau Airport]({{'/pau-airport/' | relative_url }})
+- [Biarritz 1951]({{ '/biarritz-1951/' | relative_url }})
+- [Pau Airport]({{ '/pau-airport/' | relative_url }})

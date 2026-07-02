@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-landes-skies/
 
 # Explore Topics in What Really Happened in Landes Skies?
 
-The following pages expand on the main **[What Really Happened in Landes Skies?]({{'/what-really-happened-in-landes-skies/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Landes Skies?]({{ '/what-really-happened-in-landes-skies/' | relative_url }})** page and cover its key branches in.
 
-- [1970 Report]({{'/1970-report/' | relative_url }})
-- [Local Skies]({{'/local-skies/' | relative_url }})
+- [1970 Report]({{ '/1970-report/' | relative_url }})
+- [Local Skies]({{ '/local-skies/' | relative_url }})

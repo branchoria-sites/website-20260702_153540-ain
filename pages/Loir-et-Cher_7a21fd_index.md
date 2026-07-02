@@ -16,7 +16,7 @@ parent_permalink: /why-loir-et-chers-ufo-record-looks/
 
 # Explore Topics in Why Loir et Cher's UFO Record Looks...
 
-The following pages expand on the main **[Why Loir et Cher's UFO Record Looks...]({{'/why-loir-et-chers-ufo-record-looks/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Why Loir et Cher's UFO Record Looks...]({{ '/why-loir-et-chers-ufo-record-looks/' | relative_url }})** page and cover its key branches in.
 
-- [Misidentifications]({{'/misidentifications/' | relative_url }})
-- [Ternay 1981]({{'/ternay-1981/' | relative_url }})
+- [Misidentifications]({{ '/misidentifications/' | relative_url }})
+- [Ternay 1981]({{ '/ternay-1981/' | relative_url }})

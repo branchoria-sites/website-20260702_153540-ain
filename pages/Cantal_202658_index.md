@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-cantals-ufo/
 
 # Explore Topics in What Really Happened in Cantal's UFO Files?
 
-The following pages expand on the main **[What Really Happened in Cantal's UFO Files?]({{'/what-really-happened-in-cantals-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Cantal's UFO Files?]({{ '/what-really-happened-in-cantals-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [Cussac 1967]({{'/cussac-1967/' | relative_url }})
-- [GEIPAN Files]({{'/geipan-files-6c1a8f/' | relative_url }})
+- [Cussac 1967]({{ '/cussac-1967/' | relative_url }})
+- [GEIPAN Files]({{ '/geipan-files-6c1a8f/' | relative_url }})

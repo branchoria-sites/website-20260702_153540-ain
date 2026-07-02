@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-vendees-ufo/
 
 # Explore Topics in What Really Happened In Vendee's UFO Files?
 
-The following pages expand on the main **[What Really Happened In Vendee's UFO Files?]({{'/what-really-happened-in-vendees-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened In Vendee's UFO Files?]({{ '/what-really-happened-in-vendees-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [1997 Sighting]({{'/1997-sighting/' | relative_url }})
-- [Moon Cases]({{'/moon-cases/' | relative_url }})
+- [1997 Sighting]({{ '/1997-sighting/' | relative_url }})
+- [Moon Cases]({{ '/moon-cases/' | relative_url }})

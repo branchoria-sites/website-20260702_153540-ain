@@ -16,7 +16,7 @@ parent_permalink: /what-did-gers-ufo-witnesses-really-see/
 
 # Explore Topics in What Did Gers UFO Witnesses Really See?
 
-The following pages expand on the main **[What Did Gers UFO Witnesses Really See?]({{'/what-did-gers-ufo-witnesses-really-see/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Did Gers UFO Witnesses Really See?]({{ '/what-did-gers-ufo-witnesses-really-see/' | relative_url }})** page and cover its key branches in.
 
-- [Boulaur]({{'/boulaur/' | relative_url }})
-- [GEIPAN Records]({{'/geipan-records/' | relative_url }})
+- [Boulaur]({{ '/boulaur/' | relative_url }})
+- [GEIPAN Records]({{ '/geipan-records/' | relative_url }})

@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-tarn-et-garonnes/
 
 # Explore Topics in What Really Happened in Tarn et Garonne's...
 
-The following pages expand on the main **[What Really Happened in Tarn et Garonne's...]({{'/what-really-happened-in-tarn-et-garonnes/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Tarn et Garonne's...]({{ '/what-really-happened-in-tarn-et-garonnes/' | relative_url }})** page and cover its key branches in.
 
-- [GEIPAN Files]({{'/geipan-files-e870ee/' | relative_url }})
-- [Golfech]({{'/golfech/' | relative_url }})
+- [GEIPAN Files]({{ '/geipan-files-e870ee/' | relative_url }})
+- [Golfech]({{ '/golfech/' | relative_url }})

@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-over-haute-vienne/
 
 # Explore Topics in What Really Happened Over Haute Vienne?
 
-The following pages expand on the main **[What Really Happened Over Haute Vienne?]({{'/what-really-happened-over-haute-vienne/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened Over Haute Vienne?]({{ '/what-really-happened-over-haute-vienne/' | relative_url }})** page and cover its key branches in.
 
-- [1953 Limoges]({{'/1953-limoges/' | relative_url }})
-- [Solved Cases]({{'/solved-cases-721183/' | relative_url }})
+- [1953 Limoges]({{ '/1953-limoges/' | relative_url }})
+- [Solved Cases]({{ '/solved-cases-721183/' | relative_url }})

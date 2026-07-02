@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-over-haute-saone/
 
 # Explore Topics in What Really Happened Over Haute Saone?
 
-The following pages expand on the main **[What Really Happened Over Haute Saone?]({{'/what-really-happened-over-haute-saone/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened Over Haute Saone?]({{ '/what-really-happened-over-haute-saone/' | relative_url }})** page and cover its key branches in.
 
-- [Air Base]({{'/air-base/' | relative_url }})
-- [Villers Case]({{'/villers-case/' | relative_url }})
+- [Air Base]({{ '/air-base/' | relative_url }})
+- [Villers Case]({{ '/villers-case/' | relative_url }})

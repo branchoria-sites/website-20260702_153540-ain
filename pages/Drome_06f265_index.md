@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-dromes-ufo-files/
 
 # Explore Topics in What Really Happened in Drome's UFO Files?
 
-The following pages expand on the main **[What Really Happened in Drome's UFO Files?]({{'/what-really-happened-in-dromes-ufo-files/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Drome's UFO Files?]({{ '/what-really-happened-in-dromes-ufo-files/' | relative_url }})** page and cover its key branches in.
 
-- [Chabeuil]({{'/chabeuil/' | relative_url }})
-- [GEIPAN Files]({{'/geipan-files-3cdc1b/' | relative_url }})
+- [Chabeuil]({{ '/chabeuil/' | relative_url }})
+- [GEIPAN Files]({{ '/geipan-files-3cdc1b/' | relative_url }})

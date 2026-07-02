@@ -17,7 +17,7 @@ parent_permalink: /what-really-happened-in-lot-et/
 
 # Explore Topics in What Really Happened in Lot et Garonne's UFO...
 
-The following pages expand on the main **[What Really Happened in Lot et Garonne's UFO...]({{'/what-really-happened-in-lot-et/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Lot et Garonne's UFO...]({{ '/what-really-happened-in-lot-et/' | relative_url }})** page and cover its key branches in.
 
-- [Unresolved Cases]({{'/unresolved-cases-99b19c/' | relative_url }})
-- [Official Record]({{'/official-record/' | relative_url }})
+- [Unresolved Cases]({{ '/unresolved-cases-99b19c/' | relative_url }})
+- [Official Record]({{ '/official-record/' | relative_url }})

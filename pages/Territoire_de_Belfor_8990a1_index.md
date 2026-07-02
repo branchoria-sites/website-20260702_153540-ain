@@ -16,7 +16,7 @@ parent_permalink: /territoire-de-belfort/
 
 # Explore Topics in Territoire de Belfort
 
-The following pages expand on the main **[Territoire de Belfort]({{'/territoire-de-belfort/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Territoire de Belfort]({{ '/territoire-de-belfort/' | relative_url }})** page and cover its key branches in.
 
-- [Explained Cases]({{'/explained-cases-edf61a/' | relative_url }})
-- [GEIPAN Record]({{'/geipan-record-529058/' | relative_url }})
+- [Explained Cases]({{ '/explained-cases-edf61a/' | relative_url }})
+- [GEIPAN Record]({{ '/geipan-record-529058/' | relative_url }})

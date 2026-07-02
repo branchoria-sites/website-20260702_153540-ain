@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-haute-marnes-ufo/
 
 # Explore Topics in What Really Happened in Haute Marne's UFO...
 
-The following pages expand on the main **[What Really Happened in Haute Marne's UFO...]({{'/what-really-happened-in-haute-marnes-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Haute Marne's UFO...]({{ '/what-really-happened-in-haute-marnes-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [Andelot 1975]({{'/andelot-1975/' | relative_url }})
-- [GEIPAN Files]({{'/geipan-files-8c23a0/' | relative_url }})
+- [Andelot 1975]({{ '/andelot-1975/' | relative_url }})
+- [GEIPAN Files]({{ '/geipan-files-8c23a0/' | relative_url }})

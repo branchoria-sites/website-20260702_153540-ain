@@ -16,7 +16,7 @@ parent_permalink: /what-makes-iseres-ufo-record-so-awkward/
 
 # Explore Topics in What Makes Isere's UFO Record So Awkward?
 
-The following pages expand on the main **[What Makes Isere's UFO Record So Awkward?]({{'/what-makes-iseres-ufo-record-so-awkward/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Makes Isere's UFO Record So Awkward?]({{ '/what-makes-iseres-ufo-record-so-awkward/' | relative_url }})** page and cover its key branches in.
 
-- [Explanations]({{'/explanations-dff4bc/' | relative_url }})
-- [Saint Geoirs]({{'/saint-geoirs/' | relative_url }})
+- [Explanations]({{ '/explanations-dff4bc/' | relative_url }})
+- [Saint Geoirs]({{ '/saint-geoirs/' | relative_url }})

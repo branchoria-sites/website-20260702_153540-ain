@@ -16,7 +16,7 @@ parent_permalink: /dordogne-ufos-folklore-files-and/
 
 # Explore Topics in Dordogne UFOs: Folklore, Files and...
 
-The following pages expand on the main **[Dordogne UFOs: Folklore, Files and...]({{'/dordogne-ufos-folklore-files-and/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Dordogne UFOs: Folklore, Files and...]({{ '/dordogne-ufos-folklore-files-and/' | relative_url }})** page and cover its key branches in.
 
-- [1954 Stories]({{'/1954-stories/' | relative_url }})
-- [GEIPAN Files]({{'/geipan-files-fc4aac/' | relative_url }})
+- [1954 Stories]({{ '/1954-stories/' | relative_url }})
+- [GEIPAN Files]({{ '/geipan-files-fc4aac/' | relative_url }})

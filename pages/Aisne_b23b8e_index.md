@@ -16,7 +16,7 @@ parent_permalink: /what-did-aisnes-ufo-reports-really-show/
 
 # Explore Topics in What Did Aisne's UFO Reports Really Show?
 
-The following pages expand on the main **[What Did Aisne's UFO Reports Really Show?]({{'/what-did-aisnes-ufo-reports-really-show/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Did Aisne's UFO Reports Really Show?]({{ '/what-did-aisnes-ufo-reports-really-show/' | relative_url }})** page and cover its key branches in.
 
-- [GEIPAN Patterns]({{'/geipan-patterns/' | relative_url }})
-- [Saint Simon]({{'/saint-simon/' | relative_url }})
+- [GEIPAN Patterns]({{ '/geipan-patterns/' | relative_url }})
+- [Saint Simon]({{ '/saint-simon/' | relative_url }})

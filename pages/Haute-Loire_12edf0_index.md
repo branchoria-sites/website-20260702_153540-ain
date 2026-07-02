@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-haute-loires-ufo/
 
 # Explore Topics in What Really Happened in Haute Loire's UFO...
 
-The following pages expand on the main **[What Really Happened in Haute Loire's UFO...]({{'/what-really-happened-in-haute-loires-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Haute Loire's UFO...]({{ '/what-really-happened-in-haute-loires-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [Brioude 1956]({{'/brioude-1956/' | relative_url }})
-- [Explained Cases]({{'/explained-cases-3e7875/' | relative_url }})
+- [Brioude 1956]({{ '/brioude-1956/' | relative_url }})
+- [Explained Cases]({{ '/explained-cases-3e7875/' | relative_url }})

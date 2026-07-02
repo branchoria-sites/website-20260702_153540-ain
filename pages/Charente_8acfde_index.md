@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-charentes-ufo/
 
 # Explore Topics in What Really Happened in Charente's UFO...
 
-The following pages expand on the main **[What Really Happened in Charente's UFO...]({{'/what-really-happened-in-charentes-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Charente's UFO...]({{ '/what-really-happened-in-charentes-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [Ambernac Poplar]({{'/ambernac-poplar/' | relative_url }})
-- [Cognac Radar]({{'/cognac-radar/' | relative_url }})
+- [Ambernac Poplar]({{ '/ambernac-poplar/' | relative_url }})
+- [Cognac Radar]({{ '/cognac-radar/' | relative_url }})

@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-ains-ufo-files/
 
 # Explore Topics in What Really Happened in Ain's UFO Files?
 
-The following pages expand on the main **[What Really Happened in Ain's UFO Files?]({{'/what-really-happened-in-ains-ufo-files/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Ain's UFO Files?]({{ '/what-really-happened-in-ains-ufo-files/' | relative_url }})** page and cover its key branches in.
 
-- [Explained Cases]({{'/explained-cases/' | relative_url }})
-- [Montluel 2022]({{'/montluel-2022/' | relative_url }})
+- [Explained Cases]({{ '/explained-cases/' | relative_url }})
+- [Montluel 2022]({{ '/montluel-2022/' | relative_url }})

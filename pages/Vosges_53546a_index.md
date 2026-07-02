@@ -16,7 +16,7 @@ parent_permalink: /what-do-vosges-ufo-reports-really-show/
 
 # Explore Topics in What Do Vosges UFO Reports Really Show?
 
-The following pages expand on the main **[What Do Vosges UFO Reports Really Show?]({{'/what-do-vosges-ufo-reports-really-show/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Do Vosges UFO Reports Really Show?]({{ '/what-do-vosges-ufo-reports-really-show/' | relative_url }})** page and cover its key branches in.
 
-- [Explained Cases]({{'/explained-cases-269cb4/' | relative_url }})
-- [They Case]({{'/they-case/' | relative_url }})
+- [Explained Cases]({{ '/explained-cases-269cb4/' | relative_url }})
+- [They Case]({{ '/they-case/' | relative_url }})

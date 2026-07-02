@@ -12,7 +12,7 @@ dir: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -160,7 +160,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -172,5 +172,26 @@ map_view:
   map: /assets/maps/france-departments.svg
   data: /assets/maps/france-departments.json
 site_image_description: A quiet balcony and rooftops in Ain at night, with low clouds over distant hills and a faint dark rectangular shape crossing the...
----<section class="home-map-panel uap-world-map-panel" data-home-map-panel><section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="department" data-map-layout="france-departments" data-map-item-type="department" data-map-label="UFO and UAP French departments map" data-map-fallback-summary="Open this French department file from the map." data-map-src="{{'assets/maps/france-departments.svg' | relative_url }}" data-map-data-src="{{'assets/maps/france-departments.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="FR-50" data-map-preview-preload="all"><div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div><article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview><img src="{{'/assets/images/Manche_e44581-overview.webp' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high"><span class="interactive-map-preview-meta uap-world-map-preview-meta"><span class="interactive-map-preview-chip uap-world-map-preview-chip">50</span><button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="france" data-uap-world-map-region-focus="france" aria-label="Focus map on France">France</button><span class="interactive-map-preview-count uap-world-map-preview-count">3 pages</span></span><span class="interactive-map-preview-kicker uap-world-map-preview-kicker">Manche</span><strong data-interactive-map-preview-title data-uap-world-map-preview-title>Are Manche&#x27;s UFO Reports Mystery or...</strong><span data-interactive-map-preview-summary data-uap-world-map-preview-summary>Manche’s UFO history is not built around one famous “alien” case.</span><span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span></article></section><p class="home-map-panel-note">Use the map to jump into a French department file, or browse the full department list below.</p><p class="home-map-panel-source"><a href="https://mapsvg.com/maps/france-departments" rel="license noopener" target="_blank">Map source (Commercial use allowed; no attribution required.)</a></p><p class="home-map-panel-actions"><a class="nav-pill" href="{{'/contents/' | relative_url }}">Contents</a></p></section>
+---
+
+<section class="home-map-panel uap-world-map-panel" data-home-map-panel>
+<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="department" data-map-layout="france-departments" data-map-item-type="department" data-map-label="UFO and UAP French departments map" data-map-fallback-summary="Open this French department file from the map." data-map-src="{{ 'assets/maps/france-departments.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/france-departments.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="FR-50" data-map-preview-preload="all">
+<div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div>
+<article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
+<img src="{{ '/assets/images/Manche_e44581-overview.webp' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
+<span class="interactive-map-preview-meta uap-world-map-preview-meta">
+<span class="interactive-map-preview-chip uap-world-map-preview-chip">50</span>
+<button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="france" data-uap-world-map-region-focus="france" aria-label="Focus map on France">France</button>
+<span class="interactive-map-preview-count uap-world-map-preview-count">3 pages</span>
+</span>
+<span class="interactive-map-preview-kicker uap-world-map-preview-kicker">Manche</span>
+<strong data-interactive-map-preview-title data-uap-world-map-preview-title>Are Manche&#x27;s UFO Reports Mystery or Misidentification?</strong>
+<span data-interactive-map-preview-summary data-uap-world-map-preview-summary>Manche’s UFO history is not built around one famous “alien” case.</span>
+<span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span>
+</article>
+</section>
+<p class="home-map-panel-note">Use the map to jump into a French department file, or browse the full department list below.</p>
+<p class="home-map-panel-source"><a href="https://mapsvg.com/maps/france-departments" rel="license noopener" target="_blank">Map source (Commercial use allowed; no attribution required.)</a></p>
+<p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Contents</a></p>
+</section>
 

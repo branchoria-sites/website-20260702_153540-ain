@@ -16,7 +16,7 @@ parent_permalink: /indre-et-loire/
 
 # Explore Topics in Indre et Loire
 
-The following pages expand on the main **[Indre et Loire]({{'/indre-et-loire/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Indre et Loire]({{ '/indre-et-loire/' | relative_url }})** page and cover its key branches in.
 
-- [GEIPAN Record]({{'/geipan-record-f63425/' | relative_url }})
-- [Likely Causes]({{'/likely-causes/' | relative_url }})
+- [GEIPAN Record]({{ '/geipan-record-f63425/' | relative_url }})
+- [Likely Causes]({{ '/likely-causes/' | relative_url }})

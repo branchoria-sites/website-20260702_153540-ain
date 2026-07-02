@@ -16,7 +16,7 @@ parent_permalink: /meurthe-et-moselle/
 
 # Explore Topics in Meurthe et Moselle
 
-The following pages expand on the main **[Meurthe et Moselle]({{'/meurthe-et-moselle/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Meurthe et Moselle]({{ '/meurthe-et-moselle/' | relative_url }})** page and cover its key branches in.
 
-- [Explained Cases]({{'/explained-cases-db033e/' | relative_url }})
-- [Nancy 2004]({{'/nancy-2004/' | relative_url }})
+- [Explained Cases]({{ '/explained-cases-db033e/' | relative_url }})
+- [Nancy 2004]({{ '/nancy-2004/' | relative_url }})

@@ -17,7 +17,7 @@ parent_permalink: /why-essonnes-ufo-files-usually-come/
 
 # Explore Topics in Why Essonne's UFO Files Usually Come Back to...
 
-The following pages expand on the main **[Why Essonne's UFO Files Usually Come Back to...]({{'/why-essonnes-ufo-files-usually-come/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Why Essonne's UFO Files Usually Come Back to...]({{ '/why-essonnes-ufo-files-usually-come/' | relative_url }})** page and cover its key branches in.
 
-- [Athis Mons]({{'/athis-mons/' | relative_url }})
-- [Sky Mistakes]({{'/sky-mistakes-ac242d/' | relative_url }})
+- [Athis Mons]({{ '/athis-mons/' | relative_url }})
+- [Sky Mistakes]({{ '/sky-mistakes-ac242d/' | relative_url }})

@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-02T18:14:23.517703Z",
+  "generated_at_utc": "2026-07-02T19:06:19.890742Z",
   "summary": {
     "total_pages_with_permalink": 384,
     "visible_pages": 288,
@@ -9,12 +9,12 @@
     "visible_pages_with_empty_branch_sections": 0,
     "visible_pages_with_missing_parent_target": 0,
     "branch_navigation_coverage_percent": 100.0,
-    "inline_internal_edge_count": 499,
+    "inline_internal_edge_count": 486,
     "inline_internal_target_page_count": 288,
     "visible_pages_gaining_inbound_from_inline_links": 0,
     "visible_pages_without_inline_inbound_links": 0,
-    "visible_pages_with_inline_outbound_links": 187,
-    "average_inline_inbound_links_per_visible_page": 1.73,
+    "visible_pages_with_inline_outbound_links": 176,
+    "average_inline_inbound_links_per_visible_page": 1.69,
     "unresolved_inline_internal_target_count": 0,
     "sample_edge_count": 200
   },
@@ -27,20 +27,8 @@
     "visible_without_inline_inbound_links": [],
     "top_inline_internal_targets": [
       {
-        "basename": "Aisne_b23b8e",
-        "title": "What Did Aisne's UFO Reports Really Show?",
-        "permalink": "/what-did-aisnes-ufo-reports-really-show/",
-        "inline_inbound_count": 3
-      },
-      {
-        "basename": "Allier_716dd6",
-        "title": "What Allier's UFO Files Really Show",
-        "permalink": "/what-alliers-ufo-files-really-show/",
-        "inline_inbound_count": 3
-      },
-      {
         "basename": "Alpes-de-Haute-Prove_b1f7bc_valensole_1965_evide_a68243",
-        "title": "What Really Happened at Valensole?",
+        "title": "Valensole",
         "permalink": "/valensole/",
         "inline_inbound_count": 3
       },
@@ -51,14 +39,8 @@
         "inline_inbound_count": 3
       },
       {
-        "basename": "Ardennes_627650",
-        "title": "What Really Happened in Ardennes UFO Files?",
-        "permalink": "/what-really-happened-in-ardennes-ufo/",
-        "inline_inbound_count": 3
-      },
-      {
         "basename": "Aude_f0dc3d_port_la_nouvelle_cas_1eba05",
-        "title": "Why Port la Nouvelle Still Stands Out",
+        "title": "Port la Nouvelle",
         "permalink": "/port-la-nouvelle/",
         "inline_inbound_count": 3
       },
@@ -75,12 +57,6 @@
         "inline_inbound_count": 3
       },
       {
-        "basename": "Calvados_b13668",
-        "title": "What Really Happened In Calvados Skies?",
-        "permalink": "/what-really-happened-in-calvados-skies/",
-        "inline_inbound_count": 3
-      },
-      {
         "basename": "Cantal_202658",
         "title": "What Really Happened in Cantal's UFO Files?",
         "permalink": "/what-really-happened-in-cantals-ufo/",
@@ -88,7 +64,7 @@
       },
       {
         "basename": "Cantal_202658_cussac_1967_2ce0b9",
-        "title": "Was Cussac a Close Encounter or Misperception?",
+        "title": "Cussac 1967",
         "permalink": "/cussac-1967/",
         "inline_inbound_count": 3
       },
@@ -112,19 +88,13 @@
       },
       {
         "basename": "Cotes-d_Armor_789c20_binic_dinan_unresolv_ba1ca4",
-        "title": "Why Binic and Dinan Still Stand Out",
+        "title": "Unresolved Cases",
         "permalink": "/unresolved-cases-e4d60f/",
         "inline_inbound_count": 3
       },
       {
-        "basename": "Creuse_73fb1d",
-        "title": "What Do Creuse UFO Reports Really Show?",
-        "permalink": "/what-do-creuse-ufo-reports-really-show/",
-        "inline_inbound_count": 3
-      },
-      {
         "basename": "Creuse_73fb1d_aircraft_balloon_exp_078868",
-        "title": "How Ordinary Lights Became Creuse UFOs",
+        "title": "Explanations",
         "permalink": "/explanations/",
         "inline_inbound_count": 3
       },
@@ -142,13 +112,13 @@
       },
       {
         "basename": "Doubs_70fb5f_besancon_red_lights_2b9012",
-        "title": "Were Besancon's Red Lights Really Lanterns?",
+        "title": "Red Lights",
         "permalink": "/red-lights/",
         "inline_inbound_count": 3
       },
       {
         "basename": "Drome_06f265_chabeuil_ufo_hotspot_75ff84",
-        "title": "Why Did Chabeuil Become Drome's UFO Name?",
+        "title": "Chabeuil",
         "permalink": "/chabeuil/",
         "inline_inbound_count": 3
       },
@@ -166,7 +136,7 @@
       },
       {
         "basename": "Gers_631401_boulaur_convent_sigh_d837b9",
-        "title": "Why the Boulaur Convent Sighting Still Stands Out",
+        "title": "Boulaur",
         "permalink": "/boulaur/",
         "inline_inbound_count": 3
       },
@@ -184,7 +154,7 @@
       },
       {
         "basename": "Haut-Rhin_0c01ce_huningue_rixheim_unr_0d51dd",
-        "title": "Why These Two Haut Rhin Cases Still Matter",
+        "title": "Unresolved Cases",
         "permalink": "/unresolved-cases-6ed91b/",
         "inline_inbound_count": 3
       },
@@ -250,7 +220,7 @@
       },
       {
         "basename": "Indre-et-Loire_b45e62_geipan_no_class_d_945fa6",
-        "title": "Why Are There No Class D Cases?",
+        "title": "GEIPAN Record",
         "permalink": "/geipan-record-f63425/",
         "inline_inbound_count": 3
       },
@@ -262,8 +232,38 @@
       },
       {
         "basename": "Indre_4b1413_chateauroux_aviation_efe5ac",
-        "title": "Did Chateauroux Shape Indre UFO Sightings?",
+        "title": "Aviation Context",
         "permalink": "/aviation-context/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Isere_7db861_isere_explanations_8c61cf",
+        "title": "Explanations",
+        "permalink": "/explanations-dff4bc/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Landes_7a79d9",
+        "title": "What Really Happened in Landes Skies?",
+        "permalink": "/what-really-happened-in-landes-skies/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Loir-et-Cher_7a21fd",
+        "title": "Why Loir et Cher's UFO Record Looks Explained",
+        "permalink": "/why-loir-et-chers-ufo-record-looks/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Loire_9faa19",
+        "title": "Why Loire's UFO Files Became Ordinary",
+        "permalink": "/why-loires-ufo-files-became-ordinary/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Loiret_6d08aa",
+        "title": "What Loiret's UFO Files Really Show",
+        "permalink": "/what-loirets-ufo-files-really-show/",
         "inline_inbound_count": 3
       }
     ],

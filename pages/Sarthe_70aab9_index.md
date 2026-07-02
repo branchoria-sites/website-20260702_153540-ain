@@ -16,7 +16,7 @@ parent_permalink: /what-sarthes-ufo-files-really-show/
 
 # Explore Topics in What Sarthe's UFO Files Really Show
 
-The following pages expand on the main **[What Sarthe's UFO Files Really Show]({{'/what-sarthes-ufo-files-really-show/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Sarthe's UFO Files Really Show]({{ '/what-sarthes-ufo-files-really-show/' | relative_url }})** page and cover its key branches in.
 
-- [Explained Cases]({{'/explained-cases-f0bc83/' | relative_url }})
-- [Lamnay]({{'/lamnay/' | relative_url }})
+- [Explained Cases]({{ '/explained-cases-f0bc83/' | relative_url }})
+- [Lamnay]({{ '/lamnay/' | relative_url }})

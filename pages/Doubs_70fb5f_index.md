@@ -16,7 +16,7 @@ parent_permalink: /why-doubs-ufo-cases-usually-became/
 
 # Explore Topics in Why Doubs UFO Cases Usually Became Ordinary
 
-The following pages expand on the main **[Why Doubs UFO Cases Usually Became Ordinary]({{'/why-doubs-ufo-cases-usually-became/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Why Doubs UFO Cases Usually Became Ordinary]({{ '/why-doubs-ufo-cases-usually-became/' | relative_url }})** page and cover its key branches in.
 
-- [Red Lights]({{'/red-lights/' | relative_url }})
-- [GEIPAN Files]({{'/geipan-files-3eb9b5/' | relative_url }})
+- [Red Lights]({{ '/red-lights/' | relative_url }})
+- [GEIPAN Files]({{ '/geipan-files-3eb9b5/' | relative_url }})

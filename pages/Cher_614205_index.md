@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-chers-ufo-files/
 
 # Explore Topics in What Really Happened in Cher's UFO Files?
 
-The following pages expand on the main **[What Really Happened in Cher's UFO Files?]({{'/what-really-happened-in-chers-ufo-files/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Cher's UFO Files?]({{ '/what-really-happened-in-chers-ufo-files/' | relative_url }})** page and cover its key branches in.
 
-- [1987 Lights]({{'/1987-lights/' | relative_url }})
-- [Sky Mistakes]({{'/sky-mistakes-ddca51/' | relative_url }})
+- [1987 Lights]({{ '/1987-lights/' | relative_url }})
+- [Sky Mistakes]({{ '/sky-mistakes-ddca51/' | relative_url }})

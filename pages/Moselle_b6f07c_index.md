@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-moselles-ufo/
 
 # Explore Topics in What Really Happened in Moselle's UFO Files?
 
-The following pages expand on the main **[What Really Happened in Moselle's UFO Files?]({{'/what-really-happened-in-moselles-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Moselle's UFO Files?]({{ '/what-really-happened-in-moselles-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [Ars 1990]({{'/ars-1990/' | relative_url }})
-- [Metz 2020]({{'/metz-2020/' | relative_url }})
+- [Ars 1990]({{ '/ars-1990/' | relative_url }})
+- [Metz 2020]({{ '/metz-2020/' | relative_url }})

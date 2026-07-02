@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-oises-ufo-files/
 
 # Explore Topics in What Really Happened in Oise's UFO Files?
 
-The following pages expand on the main **[What Really Happened in Oise's UFO Files?]({{'/what-really-happened-in-oises-ufo-files/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Oise's UFO Files?]({{ '/what-really-happened-in-oises-ufo-files/' | relative_url }})** page and cover its key branches in.
 
-- [Bornel Case]({{'/bornel-case/' | relative_url }})
-- [Explained Cases]({{'/explained-cases-ee321b/' | relative_url }})
+- [Bornel Case]({{ '/bornel-case/' | relative_url }})
+- [Explained Cases]({{ '/explained-cases-ee321b/' | relative_url }})

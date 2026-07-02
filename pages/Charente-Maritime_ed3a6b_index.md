@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-charente/
 
 # Explore Topics in What Really Happened in Charente Maritime's...
 
-The following pages expand on the main **[What Really Happened in Charente Maritime's...]({{'/what-really-happened-in-charente/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Charente Maritime's...]({{ '/what-really-happened-in-charente/' | relative_url }})** page and cover its key branches in.
 
-- [L Eguille]({{'/l-eguille/' | relative_url }})
-- [Night Lights]({{'/night-lights/' | relative_url }})
+- [L Eguille]({{ '/l-eguille/' | relative_url }})
+- [Night Lights]({{ '/night-lights/' | relative_url }})

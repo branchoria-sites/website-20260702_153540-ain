@@ -16,7 +16,7 @@ parent_permalink: /are-manches-ufo-reports-mystery-or/
 
 # Explore Topics in Are Manche's UFO Reports Mystery or...
 
-The following pages expand on the main **[Are Manche's UFO Reports Mystery or...]({{'/are-manches-ufo-reports-mystery-or/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Are Manche's UFO Reports Mystery or...]({{ '/are-manches-ufo-reports-mystery-or/' | relative_url }})** page and cover its key branches in.
 
-- [Common Explanations]({{'/common-explanations/' | relative_url }})
-- [Saint Lo Case]({{'/saint-lo-case/' | relative_url }})
+- [Common Explanations]({{ '/common-explanations/' | relative_url }})
+- [Saint Lo Case]({{ '/saint-lo-case/' | relative_url }})

@@ -16,7 +16,7 @@ parent_permalink: /what-makes-nords-ufo-record-so-puzzling/
 
 # Explore Topics in What Makes Nord's UFO Record So Puzzling?
 
-The following pages expand on the main **[What Makes Nord's UFO Record So Puzzling?]({{'/what-makes-nords-ufo-record-so-puzzling/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Makes Nord's UFO Record So Puzzling?]({{ '/what-makes-nords-ufo-record-so-puzzling/' | relative_url }})** page and cover its key branches in.
 
-- [GEIPAN Files]({{'/geipan-files-e12abb/' | relative_url }})
-- [Quarouble]({{'/quarouble/' | relative_url }})
+- [GEIPAN Files]({{ '/geipan-files-e12abb/' | relative_url }})
+- [Quarouble]({{ '/quarouble/' | relative_url }})

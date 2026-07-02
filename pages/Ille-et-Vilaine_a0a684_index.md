@@ -17,7 +17,7 @@ parent_permalink: /what-ille-et-vilaines-ufo-files-really/
 
 # Explore Topics in What Ille et Vilaine's UFO Files Really Show
 
-The following pages expand on the main **[What Ille et Vilaine's UFO Files Really Show]({{'/what-ille-et-vilaines-ufo-files-really/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Ille et Vilaine's UFO Files Really Show]({{ '/what-ille-et-vilaines-ufo-files-really/' | relative_url }})** page and cover its key branches in.
 
-- [Etrelles 2014]({{'/etrelles-2014/' | relative_url }})
-- [Solved Sightings]({{'/solved-sightings/' | relative_url }})
+- [Etrelles 2014]({{ '/etrelles-2014/' | relative_url }})
+- [Solved Sightings]({{ '/solved-sightings/' | relative_url }})

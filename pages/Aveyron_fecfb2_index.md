@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-aveyrons-ufo/
 
 # Explore Topics in What Really Happened in Aveyron's UFO Files?
 
-The following pages expand on the main **[What Really Happened in Aveyron's UFO Files?]({{'/what-really-happened-in-aveyrons-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Aveyron's UFO Files?]({{ '/what-really-happened-in-aveyrons-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [Explained Cases]({{'/explained-cases-349ca5/' | relative_url }})
-- [Flavin and Millau]({{'/flavin-and-millau/' | relative_url }})
+- [Explained Cases]({{ '/explained-cases-349ca5/' | relative_url }})
+- [Flavin and Millau]({{ '/flavin-and-millau/' | relative_url }})

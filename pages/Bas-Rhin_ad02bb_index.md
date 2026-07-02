@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-bas-rhin-skies/
 
 # Explore Topics in What Really Happened in Bas Rhin Skies?
 
-The following pages expand on the main **[What Really Happened in Bas Rhin Skies?]({{'/what-really-happened-in-bas-rhin-skies/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Bas Rhin Skies?]({{ '/what-really-happened-in-bas-rhin-skies/' | relative_url }})** page and cover its key branches in.
 
-- [Sky Explanations]({{'/sky-explanations-bcf245/' | relative_url }})
-- [Sélestat 1994]({{'/sélestat-1994/' | relative_url }})
+- [Sky Explanations]({{ '/sky-explanations-bcf245/' | relative_url }})
+- [Sélestat 1994]({{ '/sélestat-1994/' | relative_url }})

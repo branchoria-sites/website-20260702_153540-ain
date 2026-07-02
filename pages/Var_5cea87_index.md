@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-vars-ufo-files/
 
 # Explore Topics in What Really Happened in Var's UFO Files?
 
-The following pages expand on the main **[What Really Happened in Var's UFO Files?]({{'/what-really-happened-in-vars-ufo-files/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Var's UFO Files?]({{ '/what-really-happened-in-vars-ufo-files/' | relative_url }})** page and cover its key branches in.
 
-- [Explained Cases]({{'/explained-cases-239816/' | relative_url }})
-- [Trans en Provence]({{'/trans-en-provence/' | relative_url }})
+- [Explained Cases]({{ '/explained-cases-239816/' | relative_url }})
+- [Trans en Provence]({{ '/trans-en-provence/' | relative_url }})

@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-haute-savoie/
 
 # Explore Topics in What Really Happened in Haute Savoie Skies?
 
-The following pages expand on the main **[What Really Happened in Haute Savoie Skies?]({{'/what-really-happened-in-haute-savoie/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Haute Savoie Skies?]({{ '/what-really-happened-in-haute-savoie/' | relative_url }})** page and cover its key branches in.
 
-- [Alpine Lights]({{'/alpine-lights/' | relative_url }})
-- [Faverges 1954]({{'/faverges-1954/' | relative_url }})
+- [Alpine Lights]({{ '/alpine-lights/' | relative_url }})
+- [Faverges 1954]({{ '/faverges-1954/' | relative_url }})

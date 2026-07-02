@@ -16,7 +16,7 @@ parent_permalink: /hautes-pyrenees/
 
 # Explore Topics in Hautes Pyrenees
 
-The following pages expand on the main **[Hautes Pyrenees]({{'/hautes-pyrenees/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Hautes Pyrenees]({{ '/hautes-pyrenees/' | relative_url }})** page and cover its key branches in.
 
-- [GEIPAN Files]({{'/geipan-files-b3a4c6/' | relative_url }})
-- [Lourdes Lights]({{'/lourdes-lights/' | relative_url }})
+- [GEIPAN Files]({{ '/geipan-files-b3a4c6/' | relative_url }})
+- [Lourdes Lights]({{ '/lourdes-lights/' | relative_url }})

@@ -16,7 +16,7 @@ parent_permalink: /what-alliers-ufo-files-really-show/
 
 # Explore Topics in What Allier's UFO Files Really Show
 
-The following pages expand on the main **[What Allier's UFO Files Really Show]({{'/what-alliers-ufo-files-really-show/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Allier's UFO Files Really Show]({{ '/what-alliers-ufo-files-really-show/' | relative_url }})** page and cover its key branches in.
 
-- [Reclassified Files]({{'/reclassified-files/' | relative_url }})
-- [Explained Cases]({{'/explained-cases-71b6df/' | relative_url }})
+- [Reclassified Files]({{ '/reclassified-files/' | relative_url }})
+- [Explained Cases]({{ '/explained-cases-71b6df/' | relative_url }})

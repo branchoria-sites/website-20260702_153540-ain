@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-ardennes-ufo/
 
 # Explore Topics in What Really Happened in Ardennes UFO Files?
 
-The following pages expand on the main **[What Really Happened in Ardennes UFO Files?]({{'/what-really-happened-in-ardennes-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Ardennes UFO Files?]({{ '/what-really-happened-in-ardennes-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [Explained Files]({{'/explained-files/' | relative_url }})
-- [Mouzon 1978]({{'/mouzon-1978/' | relative_url }})
+- [Explained Files]({{ '/explained-files/' | relative_url }})
+- [Mouzon 1978]({{ '/mouzon-1978/' | relative_url }})

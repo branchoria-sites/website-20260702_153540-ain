@@ -16,7 +16,7 @@ parent_permalink: /what-do-audes-ufo-cases-really-show/
 
 # Explore Topics in What Do Aude's UFO Cases Really Show?
 
-The following pages expand on the main **[What Do Aude's UFO Cases Really Show?]({{'/what-do-audes-ufo-cases-really-show/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Do Aude's UFO Cases Really Show?]({{ '/what-do-audes-ufo-cases-really-show/' | relative_url }})** page and cover its key branches in.
 
-- [Mistaken Skies]({{'/mistaken-skies/' | relative_url }})
-- [Port la Nouvelle]({{'/port-la-nouvelle/' | relative_url }})
+- [Mistaken Skies]({{ '/mistaken-skies/' | relative_url }})
+- [Port la Nouvelle]({{ '/port-la-nouvelle/' | relative_url }})

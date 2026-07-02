@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-over-ardeche/
 
 # Explore Topics in What Really Happened Over Ardeche?
 
-The following pages expand on the main **[What Really Happened Over Ardeche?]({{'/what-really-happened-over-ardeche/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened Over Ardeche?]({{ '/what-really-happened-over-ardeche/' | relative_url }})** page and cover its key branches in.
 
-- [GEIPAN Record]({{'/geipan-record/' | relative_url }})
-- [Pranles 1979]({{'/pranles-1979/' | relative_url }})
+- [GEIPAN Record]({{ '/geipan-record/' | relative_url }})
+- [Pranles 1979]({{ '/pranles-1979/' | relative_url }})

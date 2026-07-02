@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-val-de-marnes/
 
 # Explore Topics in What Really Happened in Val de Marne's UFO...
 
-The following pages expand on the main **[What Really Happened in Val de Marne's UFO...]({{'/what-really-happened-in-val-de-marnes/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Val de Marne's UFO...]({{ '/what-really-happened-in-val-de-marnes/' | relative_url }})** page and cover its key branches in.
 
-- [Choisy 2012]({{'/choisy-2012/' | relative_url }})
-- [Explained Cases]({{'/explained-cases-5ca144/' | relative_url }})
+- [Choisy 2012]({{ '/choisy-2012/' | relative_url }})
+- [Explained Cases]({{ '/explained-cases-5ca144/' | relative_url }})

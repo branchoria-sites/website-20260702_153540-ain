@@ -16,7 +16,7 @@ parent_permalink: /pyrenees-orientales/
 
 # Explore Topics in Pyrenees Orientales
 
-The following pages expand on the main **[Pyrenees Orientales]({{'/pyrenees-orientales/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Pyrenees Orientales]({{ '/pyrenees-orientales/' | relative_url }})** page and cover its key branches in.
 
-- [Formation Lights]({{'/formation-lights/' | relative_url }})
-- [Flare Case]({{'/flare-case/' | relative_url }})
+- [Formation Lights]({{ '/formation-lights/' | relative_url }})
+- [Flare Case]({{ '/flare-case/' | relative_url }})

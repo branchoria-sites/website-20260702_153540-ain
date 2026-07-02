@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-val-doise/
 
 # Explore Topics in What Really Happened in Val d'Oise?
 
-The following pages expand on the main **[What Really Happened in Val d'Oise?]({{'/what-really-happened-in-val-doise/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Val d'Oise?]({{ '/what-really-happened-in-val-doise/' | relative_url }})** page and cover its key branches in.
 
-- [Cergy Hoax]({{'/cergy-hoax/' | relative_url }})
-- [GEIPAN Cases]({{'/geipan-cases-998520/' | relative_url }})
+- [Cergy Hoax]({{ '/cergy-hoax/' | relative_url }})
+- [GEIPAN Cases]({{ '/geipan-cases-998520/' | relative_url }})

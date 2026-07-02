@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-nievres-ufo/
 
 # Explore Topics in What Really Happened in Nievre's UFO Files?
 
-The following pages expand on the main **[What Really Happened in Nievre's UFO Files?]({{'/what-really-happened-in-nievres-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Nievre's UFO Files?]({{ '/what-really-happened-in-nievres-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [GEIPAN Files]({{'/geipan-files-2704ba/' | relative_url }})
-- [Older Cases]({{'/older-cases/' | relative_url }})
+- [GEIPAN Files]({{ '/geipan-files-2704ba/' | relative_url }})
+- [Older Cases]({{ '/older-cases/' | relative_url }})

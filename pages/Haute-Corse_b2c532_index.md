@@ -16,7 +16,7 @@ parent_permalink: /what-haute-corse-ufo-files-really-show/
 
 # Explore Topics in What Haute Corse UFO Files Really Show
 
-The following pages expand on the main **[What Haute Corse UFO Files Really Show]({{'/what-haute-corse-ufo-files-really-show/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Haute Corse UFO Files Really Show]({{ '/what-haute-corse-ufo-files-really-show/' | relative_url }})** page and cover its key branches in.
 
-- [Bastia Lights]({{'/bastia-lights/' | relative_url }})
-- [1980 s Cluster]({{'/1980-s-cluster/' | relative_url }})
+- [Bastia Lights]({{ '/bastia-lights/' | relative_url }})
+- [1980 s Cluster]({{ '/1980-s-cluster/' | relative_url }})

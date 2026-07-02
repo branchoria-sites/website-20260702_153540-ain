@@ -16,7 +16,7 @@ parent_permalink: /what-makes-haute-garonnes-ufo-record/
 
 # Explore Topics in What Makes Haute Garonne's UFO Record...
 
-The following pages expand on the main **[What Makes Haute Garonne's UFO Record...]({{'/what-makes-haute-garonnes-ufo-record/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Makes Haute Garonne's UFO Record...]({{ '/what-makes-haute-garonnes-ufo-record/' | relative_url }})** page and cover its key branches in.
 
-- [GEIPAN]({{'/geipan/' | relative_url }})
-- [2018 Case]({{'/2018-case/' | relative_url }})
+- [GEIPAN]({{ '/geipan/' | relative_url }})
+- [2018 Case]({{ '/2018-case/' | relative_url }})

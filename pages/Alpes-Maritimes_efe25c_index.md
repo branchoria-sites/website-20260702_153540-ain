@@ -16,7 +16,7 @@ parent_permalink: /why-alpes-maritimes-became-a-ufo-hotspot/
 
 # Explore Topics in Why Alpes Maritimes Became A UFO Hotspot
 
-The following pages expand on the main **[Why Alpes Maritimes Became A UFO Hotspot]({{'/why-alpes-maritimes-became-a-ufo-hotspot/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Why Alpes Maritimes Became A UFO Hotspot]({{ '/why-alpes-maritimes-became-a-ufo-hotspot/' | relative_url }})** page and cover its key branches in.
 
-- [Col de Vence]({{'/col-de-vence/' | relative_url }})
-- [Explained Cases]({{'/explained-cases-6fe50d/' | relative_url }})
+- [Col de Vence]({{ '/col-de-vence/' | relative_url }})
+- [Explained Cases]({{ '/explained-cases-6fe50d/' | relative_url }})

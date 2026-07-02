@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-bouches-du-rhone/
 
 # Explore Topics in What Really Happened in Bouches du Rhone...
 
-The following pages expand on the main **[What Really Happened in Bouches du Rhone...]({{'/what-really-happened-in-bouches-du-rhone/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Bouches du Rhone...]({{ '/what-really-happened-in-bouches-du-rhone/' | relative_url }})** page and cover its key branches in.
 
-- [Marseille Produces Many UFO False Alarms Because It]({{'/marseille-produces-many-ufo-false/' | relative_url }})
-- [Unresolved Cases]({{'/unresolved-cases/' | relative_url }})
+- [Marseille Produces Many UFO False Alarms Because It]({{ '/marseille-produces-many-ufo-false/' | relative_url }})
+- [Unresolved Cases]({{ '/unresolved-cases/' | relative_url }})

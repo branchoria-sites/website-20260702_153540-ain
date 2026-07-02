@@ -16,7 +16,7 @@ parent_permalink: /what-makes-hauts-de-seine-ufo-reports/
 
 # Explore Topics in What Makes Hauts de Seine UFO Reports...
 
-The following pages expand on the main **[What Makes Hauts de Seine UFO Reports...]({{'/what-makes-hauts-de-seine-ufo-reports/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Makes Hauts de Seine UFO Reports...]({{ '/what-makes-hauts-de-seine-ufo-reports/' | relative_url }})** page and cover its key branches in.
 
-- [Orange Lights]({{'/orange-lights-9d44f9/' | relative_url }})
-- [Vaucresson]({{'/vaucresson/' | relative_url }})
+- [Orange Lights]({{ '/orange-lights-9d44f9/' | relative_url }})
+- [Vaucresson]({{ '/vaucresson/' | relative_url }})

@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-rhones-ufo/
 
 # Explore Topics in What Really Happened in Rhone's UFO Reports?
 
-The following pages expand on the main **[What Really Happened in Rhone's UFO Reports?]({{'/what-really-happened-in-rhones-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Rhone's UFO Reports?]({{ '/what-really-happened-in-rhones-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [GEIPAN Files]({{'/geipan-files-af6233/' | relative_url }})
-- [1954 Wave]({{'/1954-wave-49adea/' | relative_url }})
+- [GEIPAN Files]({{ '/geipan-files-af6233/' | relative_url }})
+- [1954 Wave]({{ '/1954-wave-49adea/' | relative_url }})

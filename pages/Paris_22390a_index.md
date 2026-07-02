@@ -16,7 +16,7 @@ parent_permalink: /why-paris-ufos-usually-become-ordinary/
 
 # Explore Topics in Why Paris UFOs Usually Become Ordinary...
 
-The following pages expand on the main **[Why Paris UFOs Usually Become Ordinary...]({{'/why-paris-ufos-usually-become-ordinary/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Why Paris UFOs Usually Become Ordinary...]({{ '/why-paris-ufos-usually-become-ordinary/' | relative_url }})** page and cover its key branches in.
 
-- [GEIPAN Records]({{'/geipan-records-5ce788/' | relative_url }})
-- [Common Triggers]({{'/common-triggers/' | relative_url }})
+- [GEIPAN Records]({{ '/geipan-records-5ce788/' | relative_url }})
+- [Common Triggers]({{ '/common-triggers/' | relative_url }})

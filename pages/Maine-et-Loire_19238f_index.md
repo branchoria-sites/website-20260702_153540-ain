@@ -16,7 +16,7 @@ parent_permalink: /what-maine-et-loire-ufo-files-really/
 
 # Explore Topics in What Maine et Loire UFO Files Really Show
 
-The following pages expand on the main **[What Maine et Loire UFO Files Really Show]({{'/what-maine-et-loire-ufo-files-really/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Maine et Loire UFO Files Really Show]({{ '/what-maine-et-loire-ufo-files-really/' | relative_url }})** page and cover its key branches in.
 
-- [GEIPAN Record]({{'/geipan-record-0fdcd2/' | relative_url }})
-- [Explanations]({{'/explanations-bc6d4a/' | relative_url }})
+- [GEIPAN Record]({{ '/geipan-record-0fdcd2/' | relative_url }})
+- [Explanations]({{ '/explanations-bc6d4a/' | relative_url }})

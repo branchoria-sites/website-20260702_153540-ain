@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-tarns-ufo-files/
 
 # Explore Topics in What Really Happened in Tarn's UFO Files?
 
-The following pages expand on the main **[What Really Happened in Tarn's UFO Files?]({{'/what-really-happened-in-tarns-ufo-files/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Tarn's UFO Files?]({{ '/what-really-happened-in-tarns-ufo-files/' | relative_url }})** page and cover its key branches in.
 
-- [Bertre Case]({{'/bertre-case/' | relative_url }})
-- [Case Map]({{'/case-map/' | relative_url }})
+- [Bertre Case]({{ '/bertre-case/' | relative_url }})
+- [Case Map]({{ '/case-map/' | relative_url }})

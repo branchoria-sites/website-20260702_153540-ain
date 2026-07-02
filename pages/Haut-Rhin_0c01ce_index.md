@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-haut-rhins-ufo/
 
 # Explore Topics in What Really Happened in Haut Rhin's UFO...
 
-The following pages expand on the main **[What Really Happened in Haut Rhin's UFO...]({{'/what-really-happened-in-haut-rhins-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Haut Rhin's UFO...]({{ '/what-really-happened-in-haut-rhins-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [Sky Context]({{'/sky-context/' | relative_url }})
-- [Unresolved Cases]({{'/unresolved-cases-6ed91b/' | relative_url }})
+- [Sky Context]({{ '/sky-context/' | relative_url }})
+- [Unresolved Cases]({{ '/unresolved-cases-6ed91b/' | relative_url }})

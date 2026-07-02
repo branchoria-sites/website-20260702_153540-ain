@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-cotes-darmor/
 
 # Explore Topics in What Really Happened in Cotes d'Armor Skies?
 
-The following pages expand on the main **[What Really Happened in Cotes d'Armor Skies?]({{'/what-really-happened-in-cotes-darmor/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Cotes d'Armor Skies?]({{ '/what-really-happened-in-cotes-darmor/' | relative_url }})** page and cover its key branches in.
 
-- [Unresolved Cases]({{'/unresolved-cases-e4d60f/' | relative_url }})
-- [Sky Explanations]({{'/sky-explanations/' | relative_url }})
+- [Unresolved Cases]({{ '/unresolved-cases-e4d60f/' | relative_url }})
+- [Sky Explanations]({{ '/sky-explanations/' | relative_url }})

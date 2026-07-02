@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-vaucluses-ufo/
 
 # Explore Topics in What Really Happened in Vaucluse's UFO...
 
-The following pages expand on the main **[What Really Happened in Vaucluse's UFO...]({{'/what-really-happened-in-vaucluses-ufo/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Vaucluse's UFO...]({{ '/what-really-happened-in-vaucluses-ufo/' | relative_url }})** page and cover its key branches in.
 
-- [Formation Lights]({{'/formation-lights-847e49/' | relative_url }})
-- [Orange 1951]({{'/orange-1951/' | relative_url }})
+- [Formation Lights]({{ '/formation-lights-847e49/' | relative_url }})
+- [Orange 1951]({{ '/orange-1951/' | relative_url }})

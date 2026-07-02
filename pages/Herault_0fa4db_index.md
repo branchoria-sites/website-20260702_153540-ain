@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-over-herault/
 
 # Explore Topics in What Really Happened Over Herault?
 
-The following pages expand on the main **[What Really Happened Over Herault?]({{'/what-really-happened-over-herault/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened Over Herault?]({{ '/what-really-happened-over-herault/' | relative_url }})** page and cover its key branches in.
 
-- [1997 Flap]({{'/1997-flap/' | relative_url }})
-- [1976 Case]({{'/1976-case/' | relative_url }})
+- [1997 Flap]({{ '/1997-flap/' | relative_url }})
+- [1976 Case]({{ '/1976-case/' | relative_url }})

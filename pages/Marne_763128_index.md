@@ -16,7 +16,7 @@ parent_permalink: /what-marnes-ufo-files-really-show/
 
 # Explore Topics in What Marne's UFO Files Really Show
 
-The following pages expand on the main **[What Marne's UFO Files Really Show]({{'/what-marnes-ufo-files-really-show/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Marne's UFO Files Really Show]({{ '/what-marnes-ufo-files-really-show/' | relative_url }})** page and cover its key branches in.
 
-- [Vehicle Cases]({{'/vehicle-cases/' | relative_url }})
-- [Explained Lights]({{'/explained-lights/' | relative_url }})
+- [Vehicle Cases]({{ '/vehicle-cases/' | relative_url }})
+- [Explained Lights]({{ '/explained-lights/' | relative_url }})

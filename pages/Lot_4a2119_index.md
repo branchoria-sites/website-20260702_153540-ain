@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-lots-ufo-files/
 
 # Explore Topics in What Really Happened in Lot's UFO Files?
 
-The following pages expand on the main **[What Really Happened in Lot's UFO Files?]({{'/what-really-happened-in-lots-ufo-files/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Lot's UFO Files?]({{ '/what-really-happened-in-lots-ufo-files/' | relative_url }})** page and cover its key branches in.
 
-- [Explained Cases]({{'/explained-cases-5f5fa0/' | relative_url }})
-- [Figeac 1954]({{'/figeac-1954/' | relative_url }})
+- [Explained Cases]({{ '/explained-cases-5f5fa0/' | relative_url }})
+- [Figeac 1954]({{ '/figeac-1954/' | relative_url }})

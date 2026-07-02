@@ -17,7 +17,7 @@ parent_permalink: /what-really-happened-in-seine-et/
 
 # Explore Topics in What Really Happened in Seine et Marne's UFO...
 
-The following pages expand on the main **[What Really Happened in Seine et Marne's UFO...]({{'/what-really-happened-in-seine-et/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Seine et Marne's UFO...]({{ '/what-really-happened-in-seine-et/' | relative_url }})** page and cover its key branches in.
 
-- [Af 3532 Coulommiers]({{'/af-3532-coulommiers/' | relative_url }})
-- [Ussy Triangle]({{'/ussy-triangle/' | relative_url }})
+- [Af 3532 Coulommiers]({{ '/af-3532-coulommiers/' | relative_url }})
+- [Ussy Triangle]({{ '/ussy-triangle/' | relative_url }})

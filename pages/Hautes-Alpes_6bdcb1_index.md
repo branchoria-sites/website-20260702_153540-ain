@@ -16,7 +16,7 @@ parent_permalink: /why-the-hautes-alpes-ufo-record-stays/
 
 # Explore Topics in Why the Hautes Alpes UFO Record Stays...
 
-The following pages expand on the main **[Why the Hautes Alpes UFO Record Stays...]({{'/why-the-hautes-alpes-ufo-record-stays/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Why the Hautes Alpes UFO Record Stays...]({{ '/why-the-hautes-alpes-ufo-record-stays/' | relative_url }})** page and cover its key branches in.
 
-- [Sky Traps]({{'/sky-traps/' | relative_url }})
-- [1977 Triangle]({{'/1977-triangle/' | relative_url }})
+- [Sky Traps]({{ '/sky-traps/' | relative_url }})
+- [1977 Triangle]({{ '/1977-triangle/' | relative_url }})

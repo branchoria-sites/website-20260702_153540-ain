@@ -16,7 +16,7 @@ parent_permalink: /what-meuses-ufo-files-really-show/
 
 # Explore Topics in What Meuse's UFO Files Really Show
 
-The following pages expand on the main **[What Meuse's UFO Files Really Show]({{'/what-meuses-ufo-files-really-show/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Meuse's UFO Files Really Show]({{ '/what-meuses-ufo-files-really-show/' | relative_url }})** page and cover its key branches in.
 
-- [1976 Lights]({{'/1976-lights/' | relative_url }})
-- [Revigny Case]({{'/revigny-case/' | relative_url }})
+- [1976 Lights]({{ '/1976-lights/' | relative_url }})
+- [Revigny Case]({{ '/revigny-case/' | relative_url }})

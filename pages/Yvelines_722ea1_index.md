@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-yvelines-skies/
 
 # Explore Topics in What Really Happened In Yvelines Skies?
 
-The following pages expand on the main **[What Really Happened In Yvelines Skies?]({{'/what-really-happened-in-yvelines-skies/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened In Yvelines Skies?]({{ '/what-really-happened-in-yvelines-skies/' | relative_url }})** page and cover its key branches in.
 
-- [Ecquevilly]({{'/ecquevilly/' | relative_url }})
-- [Explained Cases]({{'/explained-cases-9f9064/' | relative_url }})
+- [Ecquevilly]({{ '/ecquevilly/' | relative_url }})
+- [Explained Cases]({{ '/explained-cases-9f9064/' | relative_url }})

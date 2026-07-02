@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-corse-du-suds/
 
 # Explore Topics in What Really Happened in Corse du Sud's UFO...
 
-The following pages expand on the main **[What Really Happened in Corse du Sud's UFO...]({{'/what-really-happened-in-corse-du-suds/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Corse du Sud's UFO...]({{ '/what-really-happened-in-corse-du-suds/' | relative_url }})** page and cover its key branches in.
 
-- [Explained Cases]({{'/explained-cases-0a2378/' | relative_url }})
-- [Zonza 2014]({{'/zonza-2014/' | relative_url }})
+- [Explained Cases]({{ '/explained-cases-0a2378/' | relative_url }})
+- [Zonza 2014]({{ '/zonza-2014/' | relative_url }})

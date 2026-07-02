@@ -16,7 +16,7 @@ parent_permalink: /correze/
 
 # Explore Topics in Correze
 
-The following pages expand on the main **[Correze]({{'/correze/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Correze]({{ '/correze/' | relative_url }})** page and cover its key branches in.
 
-- [GEIPAN Files]({{'/geipan-files-76968d/' | relative_url }})
-- [Mouriéras]({{'/mouriéras/' | relative_url }})
+- [GEIPAN Files]({{ '/geipan-files-76968d/' | relative_url }})
+- [Mouriéras]({{ '/mouriéras/' | relative_url }})

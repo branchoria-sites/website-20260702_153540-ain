@@ -16,7 +16,7 @@ parent_permalink: /what-girondes-ufo-files-really-show/
 
 # Explore Topics in What Gironde's UFO Files Really Show
 
-The following pages expand on the main **[What Gironde's UFO Files Really Show]({{'/what-girondes-ufo-files-really-show/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Gironde's UFO Files Really Show]({{ '/what-girondes-ufo-files-really-show/' | relative_url }})** page and cover its key branches in.
 
-- [Sky Checks]({{'/sky-checks/' | relative_url }})
-- [Etauliers]({{'/etauliers/' | relative_url }})
+- [Sky Checks]({{ '/sky-checks/' | relative_url }})
+- [Etauliers]({{ '/etauliers/' | relative_url }})

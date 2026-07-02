@@ -16,7 +16,7 @@ parent_permalink: /the-ufo-files-of-alpes-de-haute-provence/
 
 # Explore Topics in The UFO Files of Alpes de Haute Provence
 
-The following pages expand on the main **[The UFO Files of Alpes de Haute Provence]({{'/the-ufo-files-of-alpes-de-haute-provence/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[The UFO Files of Alpes de Haute Provence]({{ '/the-ufo-files-of-alpes-de-haute-provence/' | relative_url }})** page and cover its key branches in.
 
-- [Sky Mistakes]({{'/sky-mistakes/' | relative_url }})
-- [Valensole]({{'/valensole/' | relative_url }})
+- [Sky Mistakes]({{ '/sky-mistakes/' | relative_url }})
+- [Valensole]({{ '/valensole/' | relative_url }})

@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-eures-ufo-files/
 
 # Explore Topics in What Really Happened in Eure's UFO Files?
 
-The following pages expand on the main **[What Really Happened in Eure's UFO Files?]({{'/what-really-happened-in-eures-ufo-files/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Eure's UFO Files?]({{ '/what-really-happened-in-eures-ufo-files/' | relative_url }})** page and cover its key branches in.
 
-- [Airbase Effects]({{'/airbase-effects/' | relative_url }})
-- [Fauville Radar]({{'/fauville-radar/' | relative_url }})
+- [Airbase Effects]({{ '/airbase-effects/' | relative_url }})
+- [Fauville Radar]({{ '/fauville-radar/' | relative_url }})

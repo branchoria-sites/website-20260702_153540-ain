@@ -16,7 +16,7 @@ parent_permalink: /why-loires-ufo-files-became-ordinary/
 
 # Explore Topics in Why Loire's UFO Files Became Ordinary
 
-The following pages expand on the main **[Why Loire's UFO Files Became Ordinary]({{'/why-loires-ufo-files-became-ordinary/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Why Loire's UFO Files Became Ordinary]({{ '/why-loires-ufo-files-became-ordinary/' | relative_url }})** page and cover its key branches in.
 
-- [Explained Cases]({{'/explained-cases-df5ccf/' | relative_url }})
-- [Roanne 1976]({{'/roanne-1976/' | relative_url }})
+- [Explained Cases]({{ '/explained-cases-df5ccf/' | relative_url }})
+- [Roanne 1976]({{ '/roanne-1976/' | relative_url }})

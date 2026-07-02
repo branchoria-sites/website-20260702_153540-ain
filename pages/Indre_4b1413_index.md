@@ -16,7 +16,7 @@ parent_permalink: /were-indres-ufos-ever-truly-unexplained/
 
 # Explore Topics in Were Indre's UFOs Ever Truly Unexplained?
 
-The following pages expand on the main **[Were Indre's UFOs Ever Truly Unexplained?]({{'/were-indres-ufos-ever-truly-unexplained/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Were Indre's UFOs Ever Truly Unexplained?]({{ '/were-indres-ufos-ever-truly-unexplained/' | relative_url }})** page and cover its key branches in.
 
-- [Aviation Context]({{'/aviation-context/' | relative_url }})
-- [GEIPAN Record]({{'/geipan-record-5a2797/' | relative_url }})
+- [Aviation Context]({{ '/aviation-context/' | relative_url }})
+- [GEIPAN Record]({{ '/geipan-record-5a2797/' | relative_url }})

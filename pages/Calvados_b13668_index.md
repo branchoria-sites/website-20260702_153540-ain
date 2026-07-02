@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-calvados-skies/
 
 # Explore Topics in What Really Happened In Calvados Skies?
 
-The following pages expand on the main **[What Really Happened In Calvados Skies?]({{'/what-really-happened-in-calvados-skies/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened In Calvados Skies?]({{ '/what-really-happened-in-calvados-skies/' | relative_url }})** page and cover its key branches in.
 
-- [Lisieux Case]({{'/lisieux-case/' | relative_url }})
-- [Solved Cases]({{'/solved-cases/' | relative_url }})
+- [Lisieux Case]({{ '/lisieux-case/' | relative_url }})
+- [Solved Cases]({{ '/solved-cases/' | relative_url }})

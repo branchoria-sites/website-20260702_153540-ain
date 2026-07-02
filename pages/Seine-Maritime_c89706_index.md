@@ -16,7 +16,7 @@ parent_permalink: /what-makes-seine-maritimes-ufo-files/
 
 # Explore Topics in What Makes Seine Maritime's UFO Files Worth...
 
-The following pages expand on the main **[What Makes Seine Maritime's UFO Files Worth...]({{'/what-makes-seine-maritimes-ufo-files/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Makes Seine Maritime's UFO Files Worth...]({{ '/what-makes-seine-maritimes-ufo-files/' | relative_url }})** page and cover its key branches in.
 
-- [1989 D Case]({{'/1989-d-case/' | relative_url }})
-- [Patterns]({{'/patterns/' | relative_url }})
+- [1989 D Case]({{ '/1989-d-case/' | relative_url }})
+- [Patterns]({{ '/patterns/' | relative_url }})
