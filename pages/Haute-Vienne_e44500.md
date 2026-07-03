@@ -120,9 +120,9 @@ heading_title: What Really Happened Over Haute Vienne?
 page_heading_title: What Really Happened Over Haute Vienne?
 source_count: 87
 infographic_count: 3
-page_website_name: Haute Vienne UFOs
+page_website_name: Haute Vienne
 page_banner_line: Clear, balanced pages on Haute-Vienne's UFO reports, records and explanations.
-site_website_name: Haute Vienne UFOs
+site_website_name: Haute Vienne
 site_banner_line: Clear, balanced pages on Haute-Vienne's UFO reports, records and explanations.
 site_image_description: A quiet night view over Limoges with a red-orange light crossing the sky above rooftops and a dark airfield edge in the distance.
 output_language: English

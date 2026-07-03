@@ -236,7 +236,7 @@ image: /assets/images/Loire_9faa19_roanne_1976_photo_d38c8f-overview-social.jpg
 
 ## Introduction
 
-The Roanne UFO photograph of 29 March 1976 is memorable because it has the ingredients of a classic [Loire]({{'why-loires-ufo-files-became-ordinary/' | relative_url }}) case: a named town, a dated police file, a daylight photograph, an orange circular object, silence and an apparently sudden departure. But its real lesson is not that the case proves something extraordinary. GEIPAN, the French official archive for unidentified aerospace phenomena, classes it as C: not identified because the information is too thin, not D: still unexplained after investigation. The useful question is therefore not “Was this an alien craft?” but “What can a single photograph and one witness statement actually support?” In Roanne, the answer is limited: something was reported and photographed, the gendarmerie took the witness seriously, but the file lacks the independent checks that would turn a striking anecdote into a strong mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1976-03-00294" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN+2GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span><img src="{{"/assets/images/Loire_9faa19_roanne_1976_photo_d38c8f-overview.webp" | relative_url }}" alt="Overview image for Roanne 1976" loading="eager" decoding="sync" fetchpriority="high">
+The Roanne UFO photograph of 29 March 1976 is memorable because it has the ingredients of a classic [Loire]({{'why-loires-ufo-files-became-ordinary/' | relative_url }}) case: a named town, a dated police file, a daylight photograph, an orange circular object, silence and an apparently sudden departure. But its real lesson is not that the case proves something extraordinary. GEIPAN, the French official archive for unidentified aerospace phenomena, classes it as C: not identified because the information is too thin, not D: still unexplained after investigation. The useful question is therefore not “Was this an alien craft?” but “What can a single photograph and one witness statement actually support?” In Roanne, the answer is limited: something was reported and photographed, the gendarmerie took the witness seriously, but the file lacks the independent checks that would turn a striking anecdote into a strong mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1976-03-00294" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span><img src="{{"/assets/images/Loire_9faa19_roanne_1976_photo_d38c8f-overview.webp" | relative_url }}" alt="Overview image for Roanne 1976" loading="eager" decoding="sync" fetchpriority="high">
 ## The sighting and photograph
 
 The core event took place in Roanne, in the Loire department, at about 5.10 pm on 29 March 1976. GEIPAN’s public summary says a witness observed and photographed an orange circular object moving in the sky. The reported motion is what gives the case its lasting appeal: the object was said to move slowly, stop for a short time, then leave rapidly on a north-south trajectory, with no sound heard. GEIPAN’s case page also records the department as Loire, the region as Rhône-Alpes, and the classification as C, with the stated reason being a lack of reliable information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1976-03-00294" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
@@ -271,7 +271,7 @@ Roanne is important in the Loire record because it is memorable, not because it 
 
 ## What a weak mystery can and cannot prove
 
-A weak mystery can prove that an observation entered the official record. Roanne did. It can prove that a witness made a statement close to the event, and that officers followed up at the location. Roanne did that too. It can also preserve a useful snapshot of how local UFO reports were handled before GEIPAN’s later public web archive: through gendarmerie paperwork, witness statements, attempted neighbourhood checks and forwarding of materials to state authorities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/sites/default/files/PV%20n%C2%B0733%20%281976309234%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN+2GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+A weak mystery can prove that an observation entered the official record. Roanne did. It can prove that a witness made a statement close to the event, and that officers followed up at the location. Roanne did that too. It can also preserve a useful snapshot of how local UFO reports were handled before GEIPAN’s later public web archive: through gendarmerie paperwork, witness statements, attempted neighbourhood checks and forwarding of materials to state authorities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/sites/default/files/PV%20n%C2%B0733%20%281976309234%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 What it cannot prove is the extraordinary nature of the object. The case has no second witness, no documented radar correlation, no detailed public photographic analysis, no preserved chain showing what the military concluded from the original photograph, and no later information strong enough to move it out of class C. The later OVNI Archive summary, based on the GEIPAN/CNES file, repeats the same central point: the report involved a photographed orange object, but the absence of other witnesses or supplementary data prevents a firm conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ovniarchive.com/doc/10357?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovniarchive.com">[OVNI Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovniarchive.com</span><span class="citation-popover-snippet">Open source on ovniarchive.com.</span></span></span>
 
@@ -280,7 +280,7 @@ This is why Roanne is best described as a “weak mystery”. The word “myster
 That distinction is valuable for readers of Loire UFO history. It prevents two opposite mistakes. The first is overclaiming: treating every unexplained-looking photograph as proof of a remarkable vehicle. The second is premature dismissal: assuming that because a case is weak, the witness must have invented it or the file has no value. Roanne sits between those positions. It is a real archived report with a real evidential gap.<img src="{{"/assets/images/Loire_9faa19_roanne_1976_photo_d38c8f-Illustration-3-dark.svg" | relative_url }}" alt="Roanne 1976 illustration 3" data-theme-src-dark="{{"/assets/images/Loire_9faa19_roanne_1976_photo_d38c8f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Loire_9faa19_roanne_1976_photo_d38c8f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The lasting value of the Roanne file
 
-The Roanne case is most useful as a test of UFO literacy. It asks readers to separate a striking story from a strong case. A strong case would ideally have multiple independent witnesses, exact timing, weather data, direction and elevation measurements, original photographic material, aircraft and balloon checks, and a clear investigative conclusion. Roanne has a witness statement, a photocopied photograph, a narrow field-of-view visit, a positive comment on the witness’s seriousness, and an absence of corroboration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/sites/default/files/PV%20n%C2%B0733%20%281976309234%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN+2GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+The Roanne case is most useful as a test of UFO literacy. It asks readers to separate a striking story from a strong case. A strong case would ideally have multiple independent witnesses, exact timing, weather data, direction and elevation measurements, original photographic material, aircraft and balloon checks, and a clear investigative conclusion. Roanne has a witness statement, a photocopied photograph, a narrow field-of-view visit, a positive comment on the witness’s seriousness, and an absence of corroboration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/sites/default/files/PV%20n%C2%B0733%20%281976309234%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 That makes it a good anchor for the Loire project precisely because it is not sensational. It shows how an event can become locally memorable without becoming evidentially strong. It also explains why official classifications matter: class C is not a badge of deep strangeness, but a warning label about missing information. In the Loire record, Roanne 1976 remains a photographed report that cannot be confidently explained from the public file, but also cannot support the heavier claims that UFO folklore often wants to place on it.
 
@@ -292,23 +292,120 @@ That makes it a good anchor for the Loire project precisely because it is not se
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a></h4><p class="fr-book-author">By Carl Sagan</p><p class="fr-book-desc">Useful for understanding evidential limits of photographs.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{'/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{'/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{'/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{'/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="roanne-1976-what-did-the-roanne-ufo-photo-really-show-loire-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-did-the-roanne-ufo-photo-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
-  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket ='';
-    var languageMarket ='';
+    var exactMarket = '';
+    var languageMarket = '';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
@@ -327,24 +424,24 @@ That makes it a good anchor for the Loire project precisely because it is not se
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language ||'';
+    return matches.exact || matches.language || '';
   }
   function inferFromTimezone() {
-    var tz ='';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
-    if (!tz) return'';
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
     for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return'';
+    return '';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey ||'phoenix-affiliate-market';
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -355,7 +452,7 @@ That makes it a good anchor for the Loire project precisely because it is not se
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] ||'';
+    return available[0] || '';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -363,43 +460,45 @@ That makes it a good anchor for the Loire project precisely because it is not se
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();</script><script type="text/javascript">
+})();
+</script>
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket ="EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return'#';
-    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
-    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label ||'eBay';
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
-    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded','false');
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -417,8 +516,8 @@ That makes it a good anchor for the Loire project precisely because it is not se
     var available = availableMarkets(section);
     if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') ||'';
-      var reference = link.getAttribute('data-ebay-reference') ||'';
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -438,11 +537,11 @@ That makes it a good anchor for the Loire project precisely because it is not se
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ?'true' :'false');
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -451,13 +550,13 @@ That makes it a good anchor for the Loire project precisely because it is not se
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
-    section.setAttribute('data-ebay-localized-init','1');
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey:'phoenix-ebay-market',
+        storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
     } else if (available.indexOf(defaultMarket)< 0) {
@@ -474,9 +573,9 @@ That makes it a good anchor for the Loire project precisely because it is not se
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') ==='true';
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -495,7 +594,9 @@ That makes it a good anchor for the Loire project precisely because it is not se
     });
     applyMarket(section, marketId, false);
   });
-})();</script></section>
+})();
+</script>
+</section>
 
 ## Endnotes
 

@@ -120,9 +120,9 @@ heading_title: Why Paris UFOs Usually Become Ordinary Objects
 page_heading_title: Why Paris UFOs Usually Become Ordinary Objects
 source_count: 174
 infographic_count: 3
-page_website_name: Paris UFOs
+page_website_name: Paris
 page_banner_line: Evidence-led Paris UFO history, from GEIPAN files to everyday sky misidentifications.
-site_website_name: Paris UFOs
+site_website_name: Paris
 site_banner_line: Evidence-led Paris UFO history, from GEIPAN files to everyday sky misidentifications.
 site_image_description: A Paris rooftop terrace at dusk with binoculars, a camera, balloons in the distance and the city skyline under a bright urban sky.
 output_language: English
@@ -744,7 +744,7 @@ The 1954 material should not be dismissed simply because it is old, but it shoul
 
 The Paris record is useful because the explanations are varied but recurring. They show what an investigator should check before treating a sighting as genuinely unexplained.
 
-**Balloons and Mylar balloons** recur in Paris because they can move slowly, change apparent shape, flash in sunlight and look metallic or dark depending on angle. The 2012 LED balloon, 2019 Mylar balloon and 2025 balloon cases show how balloons can produce long observations and apparently odd motion without requiring any exotic technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2012-12-50053" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+2Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+**Balloons and Mylar balloons** recur in Paris because they can move slowly, change apparent shape, flash in sunlight and look metallic or dark depending on angle. The 2012 LED balloon, 2019 Mylar balloon and 2025 balloon cases show how balloons can produce long observations and apparently odd motion without requiring any exotic technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2012-12-50053" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 **Aircraft and reflections** are especially important around Paris because of the city’s surrounding airports and air corridors. The 2014 A6 motorway case shows how a commercial aircraft can appear as a brief, brilliant object when sunlight reflects from the fuselage, and the 2015 Paris case was classed B as an aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/56506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 

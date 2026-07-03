@@ -120,9 +120,9 @@ heading_title: What Really Happened in Meurthe's UFO Files?
 page_heading_title: What Really Happened in Meurthe's UFO Files?
 source_count: 67
 infographic_count: 3
-page_website_name: Meurthe UFOs
+page_website_name: Meurthe
 page_banner_line: Evidence-led stories from Meurthe-et-Moselle's unusual sky reports.
-site_website_name: Meurthe UFOs
+site_website_name: Meurthe
 site_banner_line: Evidence-led stories from Meurthe-et-Moselle's unusual sky reports.
 site_image_description: A quiet Lorraine landscape near Nancy at dusk, with a distant aircraft light above fields and a small town skyline below.
 output_language: English
@@ -779,7 +779,7 @@ The right balance is to take aviation cases seriously without exaggerating them.
 
 ## What the department’s UFO pattern really says
 
-The Meurthe-et-Moselle record is best read as a layered pattern rather than a list of wonders. At the top sits one official unexplained case: the 2004 Nancy Mirage patrol report. Below that are good [explained cases]({{'explained-cases-db033e/' | relative_url }}) such as Chambley 2007, where local inquiry and image analysis converted a publicised UFO photo into a child’s balloon. Around those are repeated modern misidentifications: lanterns, Venus, contrails, satellites, birds, sunlight and meteoroids.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/53093?field_is_revisited_value=1&amp;page=%2C2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN+2GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GEIPAN[AERO MIL] NANCY (54) 15.10.2004 &#124; GEIPAN...</span></span></span>
+The Meurthe-et-Moselle record is best read as a layered pattern rather than a list of wonders. At the top sits one official unexplained case: the 2004 Nancy Mirage patrol report. Below that are good [explained cases]({{'explained-cases-db033e/' | relative_url }}) such as Chambley 2007, where local inquiry and image analysis converted a publicised UFO photo into a child’s balloon. Around those are repeated modern misidentifications: lanterns, Venus, contrails, satellites, birds, sunlight and meteoroids.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/53093?field_is_revisited_value=1&amp;page=%2C2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">GEIPAN[AERO MIL] NANCY (54) 15.10.2004 &#124; GEIPAN...</span></span></span>
 
 The department also shows why class C should not be ignored. Neuves-Maisons 1971 and Croismare 2017 are not strong unresolved cases, but they are useful because they show the boundary between curiosity and evidence. A detailed memory from childhood, reported forty-five years later, is not the same as a timely multi-witness investigation. A flash on drone footage is not the same as a trackable object with depth, distance and independent corroboration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1971-11-08602" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 

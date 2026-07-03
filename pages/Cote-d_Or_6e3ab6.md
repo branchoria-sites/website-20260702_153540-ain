@@ -120,9 +120,9 @@ heading_title: What Really Happened Over Cote d'Or?
 page_heading_title: What Really Happened Over Cote d'Or?
 source_count: 107
 infographic_count: 3
-page_website_name: Cote d'Or UFOs
+page_website_name: Cote d'Or
 page_banner_line: Balanced case notes on Cote-d'Or's strange lights, records, and explanations.
-site_website_name: Cote d'Or UFOs
+site_website_name: Cote d'Or
 site_banner_line: Balanced case notes on Cote-d'Or's strange lights, records, and explanations.
 site_image_description: A quiet Cote-d'Or village road at dusk with fields, low cloud, and a pale light near the horizon above distant trees.
 output_language: English
@@ -769,7 +769,7 @@ These recent files are a useful counterweight to older folklore. They show that 
 
 The first pattern is that Cote-d'Or’s strongest stories often involve low lights near the horizon, fields, villages, or cloud cover. That makes them vivid, but also vulnerable to misperception. Low Moon cases, distant turbine lights, cloud-reflected projectors, and lanterns all become harder to judge when distance, height, and direction are estimated without instruments.
 
-The second pattern is that single-witness reports are common. GEIPAN can still investigate them, but the lack of independent confirmation often pushes a case towards B or C rather than a stronger conclusion. Lacour-d'Arcenay was identified because military flight data matched the report; Neuilly-les-Dijon remained C because the lantern hypothesis was plausible but not confirmable; Magnien became a mixed file because some photographed lights were identified but other reported elements lacked enough data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2022-03-51335" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr+2cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+The second pattern is that single-witness reports are common. GEIPAN can still investigate them, but the lack of independent confirmation often pushes a case towards B or C rather than a stronger conclusion. Lacour-d'Arcenay was identified because military flight data matched the report; Neuilly-les-Dijon remained C because the lantern hypothesis was plausible but not confirmable; Magnien became a mixed file because some photographed lights were identified but other reported elements lacked enough data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2022-03-51335" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 The third pattern is that old classifications are not fixed forever. Bierre-les-Semur and Levernois both show GEIPAN revisiting older files with newer tools and a more structured method. In both cases, reports that had once seemed more puzzling were moved towards probable explanations: the Moon in one case, Mir in the other.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1978-07-00528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 

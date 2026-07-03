@@ -120,9 +120,9 @@ heading_title: Why Loir et Cher's UFO Record Looks Explained
 page_heading_title: Why Loir et Cher's UFO Record Looks Explained
 source_count: 98
 infographic_count: 3
-page_website_name: Loir et Cher UFOs
+page_website_name: Loir et Cher
 page_banner_line: Balanced evidence on the department's best-known UFO reports and explanations.
-site_website_name: Loir et Cher UFOs
+site_website_name: Loir et Cher
 site_banner_line: Balanced evidence on the department's best-known UFO reports and explanations.
 site_image_description: A quiet road beside dark woodland in Loir-et-Cher at dusk, with a car stopped on the verge and faint lights low beyond the trees.
 output_language: English
@@ -748,7 +748,7 @@ The 14 May 2014 Villerbon case is different and useful because it shows an aircr
 
 Loir-et-Cher does have meaningful aviation context, especially around Romorantin-Pruniers. The BA 273 Romorantin-Pruniers site is described by the LIFE NaturArmy military-land project as being in Loir-et-Cher and hosting a major aeronautical logistics function for the armed forces; another English-language profile describes the Romorantin-Pruniers air detachment as a French Air Force facility near Romorantin-Lanthenay with roots going back to early aviation and wartime aircraft logistics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lifeterrainsmilitaires.fr/life-naturarmy/les-sites-pilotes/le-detachement-aerien-273-de-romorantin-pruniers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lifeterrainsmilitaires.fr">[Armée et Biodiversité]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lifeterrainsmilitaires.fr</span><span class="citation-popover-title">Armée et BiodiversitéLa base aérienne 273 de Romorantin-Pruniers</span><span class="citation-popover-snippet">Armée et BiodiversitéLa base aérienne 273 de Romorantin-Pruniers</span></span></span>
 
-That background is worth mentioning because aviation infrastructure can shape local skies and local interpretations. Aircraft lights, gliders, training activity, logistics flights, and military associations may affect what witnesses expect or wonder about. But the available Loir-et-Cher GEIPAN case list does not show a strong unresolved cluster around the base. The listed modern explanations are more mundane and varied: the International Space Station at Oisly, an aircraft shadow at Villerbon, lanterns in several communes, satellites at Blois, and likely forestry activity at Ternay.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/departement/loir-et-cher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[CarteOvni.fr+2CarteOvni.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-title">Carte Ovni.fr OVN I dans le Loir-et-Cher (41) — Carte Ovni.fr</span><span class="citation-popover-snippet">Carte Ovni.fr OVN I dans le Loir-et-Cher (41) — Carte Ovni.fr</span></span></span>
+That background is worth mentioning because aviation infrastructure can shape local skies and local interpretations. Aircraft lights, gliders, training activity, logistics flights, and military associations may affect what witnesses expect or wonder about. But the available Loir-et-Cher GEIPAN case list does not show a strong unresolved cluster around the base. The listed modern explanations are more mundane and varied: the International Space Station at Oisly, an aircraft shadow at Villerbon, lanterns in several communes, satellites at Blois, and likely forestry activity at Ternay.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/departement/loir-et-cher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[CarteOvni.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-title">Carte Ovni.fr OVN I dans le Loir-et-Cher (41) — Carte Ovni.fr</span><span class="citation-popover-snippet">Carte Ovni.fr OVN I dans le Loir-et-Cher (41) — Carte Ovni.fr</span></span></span>
 
 The safest reading is therefore modest. Loir-et-Cher’s aviation history is part of the department’s sky culture, but the public UFO record does not support a claim that the department is a military-UFO hotspot. It supports a narrower conclusion: when unusual aerial reports arise, aviation and spaceflight are among the explanations investigators must check before treating a case as unexplained.
 
@@ -758,7 +758,7 @@ The Loir-et-Cher files show why a UFO report can sound strong in conversation bu
 
 In Loir-et-Cher, the strongest cases in human terms are not necessarily the strongest in evidential terms. Ternay had four witnesses and a memorable narrative, but later terrain-based analysis gave it a probable ground explanation. Blois 2011 had an odd description, but only one witness and little scope for follow-up, leaving it in the “lack of information” category rather than the stronger unexplained category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/cas/ternay-1981-0500869" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[CarteOvni.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-title">ternay 1981 0500869</span><span class="citation-popover-snippet">ternay 1981 0500869</span></span></span>
 
-The better-supported identifications tend to be those where independent data can be checked. Oisly’s bright moving object matched an ISS pass. Blois 2017 could be compared with aircraft, planets, constellations and satellite tracks, even though the final conclusion remained probable rather than certain. Villerbon’s aircraft-shadow explanation depended on geometry: witness, aircraft, sun and nearby cloud or particles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/cas/oisly-2008-0501984" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[CarteOvni.fr+2GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-title">oisly 2008 0501984</span><span class="citation-popover-snippet">oisly 2008 0501984</span></span></span>
+The better-supported identifications tend to be those where independent data can be checked. Oisly’s bright moving object matched an ISS pass. Blois 2017 could be compared with aircraft, planets, constellations and satellite tracks, even though the final conclusion remained probable rather than certain. Villerbon’s aircraft-shadow explanation depended on geometry: witness, aircraft, sun and nearby cloud or particles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/cas/oisly-2008-0501984" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[carteovni.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-title">oisly 2008 0501984</span><span class="citation-popover-snippet">oisly 2008 0501984</span></span></span>
 
 A reader should therefore be careful with the phrase “unidentified”. In a public database, it can mean several different things: not yet analysed, lacking enough detail, probably explained, or unexplained after investigation. In Loir-et-Cher, the current public pattern is mostly the middle ground: puzzling reports that become identified or probably identified after checks.
 
@@ -774,7 +774,7 @@ A few themes recur across the department’s record.
 
 **Lights moving silently are often not aircraft.** Witnesses naturally compare moving lights with planes, but silent points can be satellites, the ISS or lanterns. Oisly and Blois 2017 are the key local examples, involving the ISS and probable NOSS satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/cas/oisly-2008-0501984" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[CarteOvni.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-title">oisly 2008 0501984</span><span class="citation-popover-snippet">oisly 2008 0501984</span></span></span>
 
-**Orange balls are a warning sign for lantern cases.** Selles-Saint-Denis, Savigny-sur-Braye and Lamotte-Beuvron all involve yellow-orange or coloured lights moving silently, with GEIPAN retaining lantern explanations or probable lantern explanations. Celebration timing and wind direction are often decisive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/cas/selles-saint-denis-2014-0708740" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[CarteOvni.fr+2CarteOvni.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-title">selles saint denis 2014 0708740</span><span class="citation-popover-snippet">selles saint denis 2014 0708740</span></span></span>
+**Orange balls are a warning sign for lantern cases.** Selles-Saint-Denis, Savigny-sur-Braye and Lamotte-Beuvron all involve yellow-orange or coloured lights moving silently, with GEIPAN retaining lantern explanations or probable lantern explanations. Celebration timing and wind direction are often decisive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/cas/selles-saint-denis-2014-0708740" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[CarteOvni.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-title">selles saint denis 2014 0708740</span><span class="citation-popover-snippet">selles saint denis 2014 0708740</span></span></span>
 
 **Photographs can create UFOs after the event.** The Blois 2008 case is a classic reminder that a camera can capture insects, blur, reflections or near-lens objects not noticed by the photographer at the time. Such cases may look impressive as images but be weak as witness events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/cas/blois-2008-0502188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[CarteOvni.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-title">blois 2008 0502188</span><span class="citation-popover-snippet">blois 2008 0502188</span></span></span>
 
@@ -793,23 +793,120 @@ Loir-et-Cher is not a department with a famous, well-supported unresolved UFO in
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a></h4><p class="fr-book-author">By Jacques Vallee</p><p class="fr-book-desc">Provides broader historical context for French UFO interest.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{'/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{'/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{'/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{'/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="why-loir-et-chers-ufo-record-looks-why-loir-et-cher-s-ufo-record-looks-explained-loir-et-cher-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-loir-et-cher-s-ufo-record-looks-explained-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
-  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket ='';
-    var languageMarket ='';
+    var exactMarket = '';
+    var languageMarket = '';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
@@ -828,24 +925,24 @@ Loir-et-Cher is not a department with a famous, well-supported unresolved UFO in
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language ||'';
+    return matches.exact || matches.language || '';
   }
   function inferFromTimezone() {
-    var tz ='';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
-    if (!tz) return'';
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
     for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return'';
+    return '';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey ||'phoenix-affiliate-market';
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -856,7 +953,7 @@ Loir-et-Cher is not a department with a famous, well-supported unresolved UFO in
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] ||'';
+    return available[0] || '';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -864,43 +961,45 @@ Loir-et-Cher is not a department with a famous, well-supported unresolved UFO in
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();</script><script type="text/javascript">
+})();
+</script>
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket ="EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return'#';
-    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
-    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label ||'eBay';
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
-    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded','false');
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -918,8 +1017,8 @@ Loir-et-Cher is not a department with a famous, well-supported unresolved UFO in
     var available = availableMarkets(section);
     if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') ||'';
-      var reference = link.getAttribute('data-ebay-reference') ||'';
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -939,11 +1038,11 @@ Loir-et-Cher is not a department with a famous, well-supported unresolved UFO in
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ?'true' :'false');
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -952,13 +1051,13 @@ Loir-et-Cher is not a department with a famous, well-supported unresolved UFO in
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
-    section.setAttribute('data-ebay-localized-init','1');
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey:'phoenix-ebay-market',
+        storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
     } else if (available.indexOf(defaultMarket)< 0) {
@@ -975,9 +1074,9 @@ Loir-et-Cher is not a department with a famous, well-supported unresolved UFO in
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') ==='true';
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -996,7 +1095,9 @@ Loir-et-Cher is not a department with a famous, well-supported unresolved UFO in
     });
     applyMarket(section, marketId, false);
   });
-})();</script></section>
+})();
+</script>
+</section>
 
 ## Endnotes
 

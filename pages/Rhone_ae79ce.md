@@ -120,9 +120,9 @@ heading_title: What Really Happened in Rhone's UFO Reports?
 page_heading_title: What Really Happened in Rhone's UFO Reports?
 source_count: 114
 infographic_count: 3
-page_website_name: Rhone UFOs
+page_website_name: Rhone
 page_banner_line: Balanced local UFO history from Lyon saucer reports to GEIPAN case files.
-site_website_name: Rhone UFOs
+site_website_name: Rhone
 site_banner_line: Balanced local UFO history from Lyon saucer reports to GEIPAN case files.
 site_image_description: A night view over Lyon with the Fourviere hill, city lights, a hospital helipad, and a small bright object crossing the sky above...
 output_language: English

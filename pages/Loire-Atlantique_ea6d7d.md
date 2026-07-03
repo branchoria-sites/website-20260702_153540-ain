@@ -120,9 +120,9 @@ heading_title: What Really Happened in Loire Atlantique Skies?
 page_heading_title: What Really Happened in Loire Atlantique Skies?
 source_count: 96
 infographic_count: 3
-page_website_name: Loire UFOs
+page_website_name: Loire
 page_banner_line: Balanced UFO history from Nantes, the coast and the official French record.
-site_website_name: Loire UFOs
+site_website_name: Loire
 site_banner_line: Balanced UFO history from Nantes, the coast and the official French record.
 site_image_description: A night view over the Loire-Atlantique coast with distant town lights, a ferry silhouette and one bright object crossing the sky.
 output_language: English
@@ -757,7 +757,7 @@ Three practical rules make the record clearer:
 
 **First, separate “unidentified” from “extraordinary”.** A class C file often means missing information, not a proven mystery. The 1969 and 2013 Nantes-linked cases are interesting because they resist easy closure, but both are limited by data quality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/46706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-**Second, give explained cases real weight.** Venus at Le Croisic, an Iridium flare at Nantes, sky lanterns near Treillières and Nantes, a probable kite in Nantes, and a probable balloon at La Montagne are not distractions from the department’s UFO history. They are the history, because they show which mistakes recur and why sincere witnesses can report something that sounds much stranger than it later proves to be.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/48344?page=136&amp;undefined=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr+4cnes-geipan.fr+4cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+**Second, give explained cases real weight.** Venus at Le Croisic, an Iridium flare at Nantes, sky lanterns near Treillières and Nantes, a probable kite in Nantes, and a probable balloon at La Montagne are not distractions from the department’s UFO history. They are the history, because they show which mistakes recur and why sincere witnesses can report something that sounds much stranger than it later proves to be.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/48344?page=136&amp;undefined=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 **Third, keep the old press stories in their media setting.** The 1954 Guérande peninsula flap is valuable, but it belongs to a national moment when “flying saucers” were a live cultural frame. The likely meteor explanation does not make the witnesses foolish; it shows how a shared natural event can be retold through the vocabulary of its time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/1954/4nov1954mesquerf.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
 

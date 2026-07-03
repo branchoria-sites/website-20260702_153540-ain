@@ -120,9 +120,9 @@ heading_title: What Meuse's UFO Files Really Show
 page_heading_title: What Meuse's UFO Files Really Show
 source_count: 111
 infographic_count: 3
-page_website_name: Meuse UFOs
+page_website_name: Meuse
 page_banner_line: Evidence-led stories from Meuse's official and disputed UFO record.
-site_website_name: Meuse UFOs
+site_website_name: Meuse
 site_banner_line: Evidence-led stories from Meuse's official and disputed UFO record.
 site_image_description: A quiet Meuse countryside road at dusk with distant orange lights above fields and a gendarmerie-style archive folder on a car...
 output_language: English
@@ -697,12 +697,12 @@ image: /assets/images/Meuse_6ed97d-overview-social.jpg
 
 ## Introduction
 
-That makes Meuse useful for readers who want a sober department-level view. The local record includes 1970s luminous objects near Gondrecourt-le-Château and Commercy, a much-discussed 1975 Revigny-sur-Ornain photographic case in private UFO literature, later reports of lantern-like lights, astronomical confusion, and a photographed 2020 “half-moon” shape that GEIPAN identified as a high-altitude cloud.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/cas/1976-10-00354" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan+3Geipan+3GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span><img src="{{"/assets/images/Meuse_6ed97d-overview.webp" | relative_url }}" alt="Overview image for What Meuse&#x27;s UFO Files Really Show" loading="eager" decoding="sync" fetchpriority="high">
+That makes Meuse useful for readers who want a sober department-level view. The local record includes 1970s luminous objects near Gondrecourt-le-Château and Commercy, a much-discussed 1975 Revigny-sur-Ornain photographic case in private UFO literature, later reports of lantern-like lights, astronomical confusion, and a photographed 2020 “half-moon” shape that GEIPAN identified as a high-altitude cloud.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/cas/1976-10-00354" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span><img src="{{"/assets/images/Meuse_6ed97d-overview.webp" | relative_url }}" alt="Overview image for What Meuse&#x27;s UFO Files Really Show" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Meuse’s UFO record is mostly a story of classification
 
 The most important thing to know about Meuse is that “unexplained” does not always mean “mysterious after strong investigation”. GEIPAN’s categories distinguish between cases that are explained, probably explained, not workable because of missing data, and still unexplained after investigation. GEIPAN says that, nationally, most A and B cases are explained by misidentification or perception error, while a large share of reports cannot be assessed because the data are insufficient; only a small minority remain unexplained after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">GEIPANClassification &#124; GEIPAN</span><span class="citation-popover-snippet">GEIPANClassification &#124; GEIPAN</span></span></span>
 
-That distinction matters in Meuse because several local cases are classified C: not because they prove something extraordinary, but because the record lacks enough reliable detail to test a hypothesis. A night light that lasts 50 minutes, a pair of orange-red lights reported in 1976, or a slow cylindrical object seen through binoculars can sound striking in isolation. In the official record, however, the key missing items are often direction, elevation, duration, angular size, corroborating witnesses, radar or aircraft checks, and precise weather data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1996-04-01669?field_agregation_index_value=&amp;field_classification_des_cas_target_id%255B11%255D=11&amp;field_date_d_observation_value%255Bmax%255D=&amp;field_date_d_observation_value%255Bmin%255D=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%255Bmax%255D=&amp;field_latitude_value%255Bmin%255D=&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%255Bmax%255D=&amp;field_longitude_value%255Bmin%255D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=63%2C26&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN+2Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+That distinction matters in Meuse because several local cases are classified C: not because they prove something extraordinary, but because the record lacks enough reliable detail to test a hypothesis. A night light that lasts 50 minutes, a pair of orange-red lights reported in 1976, or a slow cylindrical object seen through binoculars can sound striking in isolation. In the official record, however, the key missing items are often direction, elevation, duration, angular size, corroborating witnesses, radar or aircraft checks, and precise weather data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1996-04-01669?field_agregation_index_value=&amp;field_classification_des_cas_target_id%255B11%255D=11&amp;field_date_d_observation_value%255Bmax%255D=&amp;field_date_d_observation_value%255Bmin%255D=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%255Bmax%255D=&amp;field_latitude_value%255Bmin%255D=&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%255Bmax%255D=&amp;field_longitude_value%255Bmin%255D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=63%2C26&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 This is why Meuse should be read less as a catalogue of “unsolved objects” and more as a test of evidence quality. The department’s files repeatedly show the same lesson: a sincere witness can report something genuinely puzzling, but without enough positional, timing and environmental information, the case may remain open only in the weak sense that it cannot be worked through properly.
 
@@ -714,7 +714,7 @@ Three months later, on 21 October 1976, three people in two locations around Gon
 
 A month after that, on 20 and 21 November 1976 near Commercy, several people reported the slow movement of two round luminous points in the sky, with no sound. This too is classified C for lack of information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1976-11-02762?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=13&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=10%2C23&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-Taken together, these cases show why the 1970s matter in Meuse without turning the period into a dramatic “flap” beyond the evidence. The reports are close in time and have recurring features: lights, silence, brief or slow movement, and limited technical data. But the official conclusions do not support a single extraordinary pattern. One case is probably a solar reflection; two others remain too poorly documented to evaluate with confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1976-07-00318" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN+2Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span><img src="{{"/assets/images/Meuse_6ed97d-Illustration-1-dark.svg" | relative_url }}" alt="What Meuse&#x27;s UFO Files Really Show illustration 1" data-theme-src-dark="{{"/assets/images/Meuse_6ed97d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Meuse_6ed97d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Taken together, these cases show why the 1970s matter in Meuse without turning the period into a dramatic “flap” beyond the evidence. The reports are close in time and have recurring features: lights, silence, brief or slow movement, and limited technical data. But the official conclusions do not support a single extraordinary pattern. One case is probably a solar reflection; two others remain too poorly documented to evaluate with confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/1976-07-00318" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span><img src="{{"/assets/images/Meuse_6ed97d-Illustration-1-dark.svg" | relative_url }}" alt="What Meuse&#x27;s UFO Files Really Show illustration 1" data-theme-src-dark="{{"/assets/images/Meuse_6ed97d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Meuse_6ed97d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Revigny-sur-Ornain: the case that attracts the most UFO interest
 
 The Revigny-sur-Ornain photographic story is probably the most colourful Meuse case in UFO circles, but it also illustrates the difference between private UFO literature and official evidential certainty. A 1975 account republished by the magazine-linked site Lumières Dans La Nuit describes a gendarme and photographer, Michel Flouret, who reportedly saw two bright red-orange elongated objects near the “Faux Miroir” area on 6 June 1975. The account says the objects appeared stationary for 20 to 30 seconds, then moved vertically in an “S”-like path and disappeared westwards without sound; it also gives camera details, exposure times and estimated size and distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ldlnufologie.com/category/archives/page/3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ldlnufologie.com">[Lumières Dans La Nuit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ldlnufologie.com</span><span class="citation-popover-title">Lumières Dans La Nuit Archives – Page 3 – Lumières Dans La Nuit</span><span class="citation-popover-snippet">Lumières Dans La Nuit Archives – Page 3 – Lumières Dans La Nuit</span></span></span>
@@ -754,9 +754,9 @@ The official French pathway helps explain why Meuse has usable records at all. G
 
 The Meuse record supports a cautious conclusion: the department has a real UFO history in the sense of recurring reported aerial anomalies, official files, gendarmerie involvement and later private UFO interest. It does not, on the public evidence currently available, support a claim of a proven extraordinary phenomenon.
 
-The best-supported local explanations are familiar but not trivial. Stars can seem to follow a moving witness; lanterns can appear as silent orange lights; high-altitude clouds can look structured, luminous and object-like; sun reflections can create brief bright spheres; aircraft or helicopters may look stranger when distance, motion, weather and foreground cues are misread.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2011-03-08210?order=field_departement_textuel&amp;page=100%2C0&amp;sort=asc&amp;undefined=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Gendarmerie Nationale+4GEIPAN+4Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+The best-supported local explanations are familiar but not trivial. Stars can seem to follow a moving witness; lanterns can appear as silent orange lights; high-altitude clouds can look structured, luminous and object-like; sun reflections can create brief bright spheres; aircraft or helicopters may look stranger when distance, motion, weather and foreground cues are misread.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2011-03-08210?order=field_departement_textuel&amp;page=100%2C0&amp;sort=asc&amp;undefined=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The unresolved Meuse cases are mostly unresolved in a weaker evidential sense. Gondrecourt-le-Château in October 1976, Commercy in November 1976, Revigny-sur-Ornain in 1988, Verdun in 1996 and Gondrecourt-le-Château in 2012 all retain interest because witnesses reported striking things. But their official value is limited by missing or inadequate data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/cas/1976-10-00354" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[GEIPAN+4Geipan+4GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
+The unresolved Meuse cases are mostly unresolved in a weaker evidential sense. Gondrecourt-le-Château in October 1976, Commercy in November 1976, Revigny-sur-Ornain in 1988, Verdun in 1996 and Gondrecourt-le-Château in 2012 all retain interest because witnesses reported striking things. But their official value is limited by missing or inadequate data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/cas/1976-10-00354" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
 For a public-facing Meuse UFO page, the honest takeaway is therefore not “nothing happened” and not “Meuse proves UFOs”. The better reading is that Meuse offers a compact lesson in how French UFO investigation works: witness surprise, local reporting, official archiving, classification, re-analysis where possible, and a steady separation between unusual experience and strong evidence.<img src="{{"/assets/images/Meuse_6ed97d-Illustration-3-dark.svg" | relative_url }}" alt="What Meuse&#x27;s UFO Files Really Show illustration 3" data-theme-src-dark="{{"/assets/images/Meuse_6ed97d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Meuse_6ed97d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -766,23 +766,120 @@ For a public-facing Meuse UFO page, the honest takeaway is therefore not “noth
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitutionalization+of+International+Law+by+Jan+Klabbers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitutionalization of International Law on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4MNIewAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Constitutionalization of International Law" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Constitutionalization+of+International+Law+by+Jan+Klabbers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitutionalization of International Law">The Constitutionalization of International Law</a></h4><p class="fr-book-author">By Jan Klabbers, Anne Peters et al.</p><p class="fr-book-desc">Explains UFO files, official records, misidentification and why many cases remain inconclusive.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Constitutionalization+of+International+Law+by+Jan+Klabbers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFOs+that+Never+Were&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFOs that Never Were</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{'/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{'/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{'/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{'/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="what-meuses-ufo-files-really-show-what-meuse-s-ufo-files-really-show-meuse-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-meuse-s-ufo-files-really-show-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
-  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket ='';
-    var languageMarket ='';
+    var exactMarket = '';
+    var languageMarket = '';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
@@ -801,24 +898,24 @@ For a public-facing Meuse UFO page, the honest takeaway is therefore not “noth
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language ||'';
+    return matches.exact || matches.language || '';
   }
   function inferFromTimezone() {
-    var tz ='';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
-    if (!tz) return'';
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
     for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return'';
+    return '';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey ||'phoenix-affiliate-market';
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -829,7 +926,7 @@ For a public-facing Meuse UFO page, the honest takeaway is therefore not “noth
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] ||'';
+    return available[0] || '';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -837,43 +934,45 @@ For a public-facing Meuse UFO page, the honest takeaway is therefore not “noth
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();</script><script type="text/javascript">
+})();
+</script>
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket ="EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return'#';
-    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
-    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label ||'eBay';
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
-    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded','false');
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -891,8 +990,8 @@ For a public-facing Meuse UFO page, the honest takeaway is therefore not “noth
     var available = availableMarkets(section);
     if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') ||'';
-      var reference = link.getAttribute('data-ebay-reference') ||'';
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -912,11 +1011,11 @@ For a public-facing Meuse UFO page, the honest takeaway is therefore not “noth
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ?'true' :'false');
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -925,13 +1024,13 @@ For a public-facing Meuse UFO page, the honest takeaway is therefore not “noth
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
-    section.setAttribute('data-ebay-localized-init','1');
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey:'phoenix-ebay-market',
+        storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
     } else if (available.indexOf(defaultMarket)< 0) {
@@ -948,9 +1047,9 @@ For a public-facing Meuse UFO page, the honest takeaway is therefore not “noth
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') ==='true';
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -969,7 +1068,9 @@ For a public-facing Meuse UFO page, the honest takeaway is therefore not “noth
     });
     applyMarket(section, marketId, false);
   });
-})();</script></section>
+})();
+</script>
+</section>
 
 ## Endnotes
 

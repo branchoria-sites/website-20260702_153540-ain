@@ -120,9 +120,9 @@ heading_title: What Did Seine Saint Denis Witnesses Really See?
 page_heading_title: What Did Seine Saint Denis Witnesses Really See?
 source_count: 111
 infographic_count: 3
-page_website_name: Seine UFOs
+page_website_name: Seine
 page_banner_line: Clear, cautious stories from Seine-Saint-Denis UFO records.
-site_website_name: Seine UFOs
+site_website_name: Seine
 site_banner_line: Clear, cautious stories from Seine-Saint-Denis UFO records.
 site_image_description: A night view over Seine-Saint-Denis rooftops with balcony silhouettes, distant aircraft lights and pale moving light patches on low...
 output_language: English

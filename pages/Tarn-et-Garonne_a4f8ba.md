@@ -120,9 +120,9 @@ heading_title: What Really Happened in Tarn et Garonne's UFO Files?
 page_heading_title: What Really Happened in Tarn et Garonne's UFO Files?
 source_count: 176
 infographic_count: 3
-page_website_name: Tarn UFOs
+page_website_name: Tarn
 page_banner_line: Balanced UFO history from Tarn-et-Garonne records, witnesses and explanations.
-site_website_name: Tarn UFOs
+site_website_name: Tarn
 site_banner_line: Balanced UFO history from Tarn-et-Garonne records, witnesses and explanations.
 site_image_description: A quiet Tarn-et-Garonne road at night with a distant orange light above fields and the silhouette of Montauban on the horizon.
 output_language: English
@@ -697,18 +697,18 @@ image: /assets/images/Tarn-et-Garonne_a4f8ba-overview-social.jpg
 
 ## Introduction
 
-That makes the department a good case study in ordinary UFO history. Montauban, [Golfech]({{'golfech/' | relative_url }}), Caussade, Pompignan, Albias, Valence-d’Agen and Labastide-Saint-Pierre all appear in official records, but the recurring explanations are mostly familiar ones: the Moon, a meteor or bolide, a passenger aircraft, a laser or sky-tracer, a Thai lantern, a bird, or insufficient information. The interest lies less in proving an exotic claim than in seeing how witness impressions, local geography and later investigation can strengthen, weaken or reframe an initial mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=116&amp;order=field_departement_textuel&amp;page=18%2C37&amp;select-category-export=nothing&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan+2Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span><img src="{{"/assets/images/Tarn-et-Garonne_a4f8ba-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Tarn et Garonne&#x27;s..." loading="eager" decoding="sync" fetchpriority="high">
+That makes the department a good case study in ordinary UFO history. Montauban, [Golfech]({{'golfech/' | relative_url }}), Caussade, Pompignan, Albias, Valence-d’Agen and Labastide-Saint-Pierre all appear in official records, but the recurring explanations are mostly familiar ones: the Moon, a meteor or bolide, a passenger aircraft, a laser or sky-tracer, a Thai lantern, a bird, or insufficient information. The interest lies less in proving an exotic claim than in seeing how witness impressions, local geography and later investigation can strengthen, weaken or reframe an initial mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=116&amp;order=field_departement_textuel&amp;page=18%2C37&amp;select-category-export=nothing&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span><img src="{{"/assets/images/Tarn-et-Garonne_a4f8ba-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Tarn et Garonne&#x27;s..." loading="eager" decoding="sync" fetchpriority="high">
 ## What the official record actually shows
 
 GEIPAN is the main anchor for any responsible account of UFO reports in Tarn-et-Garonne. It was created within CNES in 1977 and publishes anonymised case files after investigation. Its classification system is crucial: class A means the phenomenon is identified; B means probably identified; C means not identified because the data are too poor; and D means not identified after investigation. GEIPAN’s own national statistics, updated on 25 June 2026, show that class D cases are a small minority of published cases, while class C cases are much more common because the information is not good enough to decide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 For Tarn-et-Garonne, that distinction matters. A class C entry should not be read as “strongly unexplained”. It usually means the case lacks reliable information: no precise angles, no independent corroboration, unclear location, poor timing, or an observation too brief to test properly. GEIPAN’s glossary explicitly treats class C as different from A, B and D because the investigator has not been able to reach a firm judgement, rather than because the event has resisted a full explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/glossaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The department’s public GEIPAN entries include several explained or probably explained cases: Albias in 2009 was classified A as the Moon; the A62 Valence-d’Agen to Toulouse case in 2013 was classed A as an airliner with short condensation trails; Pompignan in 2016 was classed A as a laser; Montauban in 2014 was classed B as a Thai lantern; Caussade in 2011 was classed B as a meteoroid or space-debris re-entry; and Labastide-Saint-Pierre in 2024 was classed B as a probable sky-tracer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2009-01-02730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+5Geipan+5Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+The department’s public GEIPAN entries include several explained or probably explained cases: Albias in 2009 was classified A as the Moon; the A62 Valence-d’Agen to Toulouse case in 2013 was classed A as an airliner with short condensation trails; Pompignan in 2016 was classed A as a laser; Montauban in 2014 was classed B as a Thai lantern; Caussade in 2011 was classed B as a meteoroid or space-debris re-entry; and Labastide-Saint-Pierre in 2024 was classed B as a probable sky-tracer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2009-01-02730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 ## Why Montauban appears more than once
 
-Montauban is the department’s main urban centre and appears repeatedly in the official record, but the entries do not form a clear “flap” in the classic sense. They are spread across decades and vary in explanation: an older weakly sourced case in 1980, a probable atmospheric re-entry in 2011, and a likely Thai lantern in 2014. That variety is important because a cluster on a map can look suggestive until the separate files are read case by case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1980-10-00808?order=field_date_d_observation&amp;page=141&amp;sort=desc&amp;undefined=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+2Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+Montauban is the department’s main urban centre and appears repeatedly in the official record, but the entries do not form a clear “flap” in the classic sense. They are spread across decades and vary in explanation: an older weakly sourced case in 1980, a probable atmospheric re-entry in 2011, and a likely Thai lantern in 2014. That variety is important because a cluster on a map can look suggestive until the separate files are read case by case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1980-10-00808?order=field_date_d_observation&amp;page=141&amp;sort=desc&amp;undefined=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 The 6 October 1980 Montauban case is the most “old-style” UFO report in the department’s public GEIPAN material. A woman in a stationary car reported a low, silent, white luminous object at about 6 am, first described as rocket-shaped, then as moving vertically and appearing like an upturned plate. GEIPAN notes that the observation lasted only a few seconds, had no other witnesses, and contained estimates of size, distance and speed that could not be used without angular references or fixed landscape markers. The case had once been classed D, but after re-examination it was moved to class C because reliable information was lacking; GEIPAN said a helicopter, a lit bird, or something stranger could not be excluded, but the data did not allow a stronger conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1980-10-00808?order=field_date_d_observation&amp;page=141&amp;sort=desc&amp;undefined=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
@@ -751,13 +751,13 @@ Tarn-et-Garonne’s UFO history is not dominated by one explanation. Instead, it
 **Lanterns and small luminous objects:** Montauban in 2014 was classed B as a Thai lantern, while Valence-d’Agen in 2023 was classed B as a bird and added to GEIPAN’s newer published list. Such cases are not interchangeable, but they share a lesson: colour, silence and apparent odd movement are not enough on their own to establish a genuinely unexplained event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/temoignage/8334" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span><img src="{{"/assets/images/Tarn-et-Garonne_a4f8ba-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Tarn et Garonne&#x27;s... illustration 2" data-theme-src-dark="{{"/assets/images/Tarn-et-Garonne_a4f8ba-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Tarn-et-Garonne_a4f8ba-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What remains weak or unresolved
 
-The unresolved-looking part of Tarn-et-Garonne’s record is mostly class C: cases where the evidence is too thin to decide. GEIPAN lists C entries for Montauban 1980, Cazals 1986, Moissac 1998, Réalville 2009 and Golfech 2010, among others. The official reason is typically lack of reliable information, not a positive finding that an unknown technology was present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1980-10-00808?order=field_date_d_observation&amp;page=141&amp;sort=desc&amp;undefined=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+4Geipan+4Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+The unresolved-looking part of Tarn-et-Garonne’s record is mostly class C: cases where the evidence is too thin to decide. GEIPAN lists C entries for Montauban 1980, Cazals 1986, Moissac 1998, Réalville 2009 and Golfech 2010, among others. The official reason is typically lack of reliable information, not a positive finding that an unknown technology was present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1980-10-00808?order=field_date_d_observation&amp;page=141&amp;sort=desc&amp;undefined=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mRvkrp22A0I" title="Top 10 Best Tourist Places to Visit in Montauban | France - English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mRvkrp22A0I" target="_blank" rel="noopener noreferrer">Top 10 Best Tourist Places to Visit in Montauban | France - English</a></p><p class="youtube-embed-meta">Channel: Wiki Peaks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mRvkrp22A0I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mRvkrp22A0I">Open on YouTube</a></p></div></div></div>
 
 ## Why Tarn-et-Garonne is a useful department-level case study
 
-Tarn-et-Garonne sits between rural skies, the Montauban urban area, the A62 corridor, the Garonne and Tarn valleys, nearby Toulouse aviation activity, and the symbolic presence of Golfech. The department is not isolated from ordinary sources of unusual lights: passenger aircraft, road travel, event lighting, meteors, lanterns, birds, and low cloud all appear in the files. That mixture makes it a practical laboratory for understanding how UFO reports are produced and resolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rethinkaction.eu/cases/tarn-et-garonne-france/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rethinkaction.eu">[RethinkAction Project+2Visit Occitanie EN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rethinkaction.eu</span><span class="citation-popover-title">Rethink Action Project Tarn-et-Garonne, France Atlantic Case Study</span><span class="citation-popover-snippet">Rethink Action Project Tarn-et-Garonne, France Atlantic Case Study</span></span></span>
+Tarn-et-Garonne sits between rural skies, the Montauban urban area, the A62 corridor, the Garonne and Tarn valleys, nearby Toulouse aviation activity, and the symbolic presence of Golfech. The department is not isolated from ordinary sources of unusual lights: passenger aircraft, road travel, event lighting, meteors, lanterns, birds, and low cloud all appear in the files. That mixture makes it a practical laboratory for understanding how UFO reports are produced and resolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rethinkaction.eu/cases/tarn-et-garonne-france/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rethinkaction.eu">[rethinkaction.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rethinkaction.eu</span><span class="citation-popover-title">Rethink Action Project Tarn-et-Garonne, France Atlantic Case Study</span><span class="citation-popover-snippet">Rethink Action Project Tarn-et-Garonne, France Atlantic Case Study</span></span></span>
 
 The most important takeaway is that the department’s public record does not support a single dramatic UFO narrative. Instead, it supports a layered one. There are sincere witnesses, some striking descriptions, a few locally memorable cases, and several official investigations. But the best-documented outcomes tend to move towards ordinary explanations, while the more mysterious entries usually remain mysterious because the record is incomplete.
 
@@ -771,23 +771,120 @@ That does not make the history uninteresting. It makes it more realistic. Tarn-e
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a></h4><p class="fr-book-author">By Carl Sagan</p><p class="fr-book-desc">Useful for understanding ordinary explanations behind unusual reports.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{'/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{'/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{'/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{'/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="what-really-happened-in-tarn-et-garonnes-what-really-happened-in-tarn-et-garonne-s-ufo-files-tar-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-tarn-et-garonne-s-ufo-files-ufo-art-print-book-books-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
-  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket ='';
-    var languageMarket ='';
+    var exactMarket = '';
+    var languageMarket = '';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
@@ -806,24 +903,24 @@ That does not make the history uninteresting. It makes it more realistic. Tarn-e
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language ||'';
+    return matches.exact || matches.language || '';
   }
   function inferFromTimezone() {
-    var tz ='';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
-    if (!tz) return'';
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
     for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return'';
+    return '';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey ||'phoenix-affiliate-market';
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -834,7 +931,7 @@ That does not make the history uninteresting. It makes it more realistic. Tarn-e
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] ||'';
+    return available[0] || '';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -842,43 +939,45 @@ That does not make the history uninteresting. It makes it more realistic. Tarn-e
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();</script><script type="text/javascript">
+})();
+</script>
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket ="EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return'#';
-    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
-    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label ||'eBay';
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
-    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded','false');
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -896,8 +995,8 @@ That does not make the history uninteresting. It makes it more realistic. Tarn-e
     var available = availableMarkets(section);
     if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') ||'';
-      var reference = link.getAttribute('data-ebay-reference') ||'';
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -917,11 +1016,11 @@ That does not make the history uninteresting. It makes it more realistic. Tarn-e
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ?'true' :'false');
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -930,13 +1029,13 @@ That does not make the history uninteresting. It makes it more realistic. Tarn-e
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
-    section.setAttribute('data-ebay-localized-init','1');
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey:'phoenix-ebay-market',
+        storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
     } else if (available.indexOf(defaultMarket)< 0) {
@@ -953,9 +1052,9 @@ That does not make the history uninteresting. It makes it more realistic. Tarn-e
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') ==='true';
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -974,7 +1073,9 @@ That does not make the history uninteresting. It makes it more realistic. Tarn-e
     });
     applyMarket(section, marketId, false);
   });
-})();</script></section>
+})();
+</script>
+</section>
 
 ## Endnotes
 

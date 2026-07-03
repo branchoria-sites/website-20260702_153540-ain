@@ -120,9 +120,9 @@ heading_title: What Really Happened Over Ardeche?
 page_heading_title: What Really Happened Over Ardeche?
 source_count: 63
 infographic_count: 3
-page_website_name: Ardeche UFOs
+page_website_name: Ardeche
 page_banner_line: Clear, balanced stories from Ardeche's official UFO record.
-site_website_name: Ardeche UFOs
+site_website_name: Ardeche
 site_banner_line: Clear, balanced stories from Ardeche's official UFO record.
 site_image_description: A quiet Ardeche hillside at dusk with a small village below, a dark ridge line, and an unexplained orange light low in the sky.
 output_language: English
@@ -778,7 +778,7 @@ Later reporting has generally weakened the dramatic reading of Ardèche’s UFO 
 
 Ardèche’s UFO history is best understood as a modest but revealing local archive. It has two official unresolved cases worth close attention, a set of weak or incomplete reports that should be treated cautiously, and a larger body of explained sightings that show how ordinary sky phenomena become extraordinary stories.
 
-The department’s most memorable case is Pranles 1979 because it combines multiple witnesses, a distinctive visual description, gendarmerie involvement and a later official D classification. Saint-Sauveur-de-Montagut 1993 is the other central unresolved file, though its evidential base appears narrower. Around them sit the cases that teach the reader how to think: the milk tanker at Vernoux-en-Vivarais, the Mylar balloon at Borée, Capella at Banne, possible space debris at Saint-Etienne-de-Boulogne, and regional press examples in which the Moon, Venus, disco lights or aircraft accounted for puzzling observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1979-07-00644" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[geipan.fr+5cnes-geipan.fr+5geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+The department’s most memorable case is Pranles 1979 because it combines multiple witnesses, a distinctive visual description, gendarmerie involvement and a later official D classification. Saint-Sauveur-de-Montagut 1993 is the other central unresolved file, though its evidential base appears narrower. Around them sit the cases that teach the reader how to think: the milk tanker at Vernoux-en-Vivarais, the Mylar balloon at Borée, Capella at Banne, possible space debris at Saint-Etienne-de-Boulogne, and regional press examples in which the Moon, Venus, disco lights or aircraft accounted for puzzling observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1979-07-00644" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 The fair conclusion is neither dismissal nor belief. Ardèche has no public official case that proves an extraordinary craft, but it does have a small number of unresolved reports that remain interesting precisely because the ordinary explanations have not, so far, done enough work.<img src="{{"/assets/images/Ardeche_5d1281-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened Over Ardeche? illustration 3" data-theme-src-dark="{{"/assets/images/Ardeche_5d1281-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Ardeche_5d1281-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

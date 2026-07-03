@@ -120,9 +120,9 @@ heading_title: What Loiret's UFO Files Really Show
 page_heading_title: What Loiret's UFO Files Really Show
 source_count: 64
 infographic_count: 3
-page_website_name: Loiret UFOs
+page_website_name: Loiret
 page_banner_line: Balanced case-by-case reading of Loiret's official UFO record.
-site_website_name: Loiret UFOs
+site_website_name: Loiret
 site_banner_line: Balanced case-by-case reading of Loiret's official UFO record.
 site_image_description: A rural Loiret road at dusk with a car stopped near fields, faint red and orange lights in the sky, and Orléans visible on the...
 output_language: English
@@ -762,7 +762,7 @@ Loiret also demonstrates why GEIPAN’s classification system should be read car
 * **A cases** are identified: Saint-Florent as the Moon, Chécy and Mardié as lanterns, and Chevilly-Sougy as an aircraft.
 * **B cases** are probably identified: Pithiviers as helicopters, Orléans 2007 as a tethered balloon or helikite.
 * **C cases** are not good mysteries so much as weak files: Orléans 2014 and Saint-Denis-de-l’Hôtel 1997 both had plausible explanations, but not enough data to confirm them.
-* **D cases** are the rarest nationally in the current CNES figures, and the prominent Loiret examples found in the public files are mostly reclassified away from that stronger unresolved category after review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES+2GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span></div>
+* **D cases** are the rarest nationally in the current CNES figures, and the prominent Loiret examples found in the public files are mostly reclassified away from that stronger unresolved category after review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[cnes.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span></div>
 
 The department’s UFO history is therefore best read as a case study in investigation rather than belief. The interesting question is not simply “was it a UFO?” but “what evidence survived long enough to test?” In Loiret, the answer varies sharply. Multiple witnesses and emotional certainty did not prevent the Saint-Florent Moon explanation. Photographs helped Orléans 2007 but still left a probable rather than exact object identification. The 1997 and 2014 cases remained C not because they were more astonishing, but because crucial details were missing.
 

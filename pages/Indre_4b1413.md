@@ -120,9 +120,9 @@ heading_title: Were Indre's UFOs Ever Truly Unexplained?
 page_heading_title: Were Indre's UFOs Ever Truly Unexplained?
 source_count: 109
 infographic_count: 3
-page_website_name: Indre UFOs
+page_website_name: Indre
 page_banner_line: Balanced case notes on Indre sightings, official records, and likely explanations.
-site_website_name: Indre UFOs
+site_website_name: Indre
 site_banner_line: Balanced case notes on Indre sightings, official records, and likely explanations.
 site_image_description: A quiet rural road in Indre at dusk with distant orange lights above fields and a small airport beacon on the horizon.
 output_language: English

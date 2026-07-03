@@ -120,9 +120,9 @@ heading_title: What Really Happened in Landes Skies?
 page_heading_title: What Really Happened in Landes Skies?
 source_count: 130
 infographic_count: 3
-page_website_name: Landes UFOs
+page_website_name: Landes
 page_banner_line: Balanced case-led history of unusual sky reports across Landes.
-site_website_name: Landes UFOs
+site_website_name: Landes
 site_banner_line: Balanced case-led history of unusual sky reports across Landes.
 site_image_description: A quiet Landes pine forest clearing at dusk with distant aircraft lights above the horizon and the Atlantic coast implied beyond the...
 output_language: English

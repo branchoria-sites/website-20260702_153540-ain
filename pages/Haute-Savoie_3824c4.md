@@ -120,9 +120,9 @@ heading_title: What Really Happened in Haute Savoie Skies?
 page_heading_title: What Really Happened in Haute Savoie Skies?
 source_count: 75
 infographic_count: 3
-page_website_name: Haute Savoie UFOs
+page_website_name: Haute Savoie
 page_banner_line: Balanced case notes on Alpine sightings, official files and ordinary explanations.
-site_website_name: Haute Savoie UFOs
+site_website_name: Haute Savoie
 site_banner_line: Balanced case notes on Alpine sightings, official files and ordinary explanations.
 site_image_description: A night view over Lake Annecy with dark mountain ridges, a few distant lights in the sky and a quiet lakeside foreground.
 output_language: English
@@ -781,7 +781,7 @@ The recent GEIPAN record for Haute-Savoie continues the same pattern. Official s
 That continuity matters. It means the department still produces reports, but the recent public record does not show a shift towards stronger unexplained cases. Instead, it shows an official process catching modern sources of confusion: lanterns, balloons, aircraft activity, sky tracers, parachutists, satellites and bright astronomical objects. GEIPAN’s national figures fit that picture: CNES reports that 24.6% of phenomena are clearly identified, 39.7% probably identified, 32.4% unidentified for lack of data, and 3.3% unidentified after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span><img src="{{"/assets/images/Haute-Savoie_3824c4-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Haute Savoie Skies? illustration 3" data-theme-src-dark="{{"/assets/images/Haute-Savoie_3824c4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Haute-Savoie_3824c4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Haute-Savoie record can and cannot prove
 
-The Haute-Savoie record proves that people in the department have repeatedly reported strange aerial phenomena and that some reports were taken seriously enough to be recorded by gendarmerie, local press or GEIPAN. It also proves that several sightings initially described in UFO language later had ordinary explanations: lanterns at Domancy, balloons at Sciez and Annecy-le-Vieux, possible aircraft formation over Annecy, military jet manoeuvres near Chamonix, Venus through faulty binocular focus in the 1968 case, and other listed cases involving the ISS, Jupiter, bolides, re-entry or insufficient data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2018-07-50575" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan+5Geipan+5Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+The Haute-Savoie record proves that people in the department have repeatedly reported strange aerial phenomena and that some reports were taken seriously enough to be recorded by gendarmerie, local press or GEIPAN. It also proves that several sightings initially described in UFO language later had ordinary explanations: lanterns at Domancy, balloons at Sciez and Annecy-le-Vieux, possible aircraft formation over Annecy, military jet manoeuvres near Chamonix, Venus through faulty binocular focus in the 1968 case, and other listed cases involving the ISS, Jupiter, bolides, re-entry or insufficient data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2018-07-50575" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 It does not prove that Haute-Savoie has a confirmed tradition of extraordinary craft. The strongest-sounding cases usually weaken when the evidence is checked: [Faverges 1954]({{'faverges-1954/' | relative_url }}) has an experienced pilot but too little corroboration; Chamonix 1978 has multiple witnesses but a probable military aircraft explanation; Annecy-le-Vieux 2002 moved from unexplained to probably balloons; Domancy 2013 had striking local press coverage but little official follow-up and a plausible lantern explanation.
 
@@ -793,23 +793,120 @@ The best way to read Haute-Savoie’s UFO history is therefore not as a catalogu
             See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a></h4><p class="fr-book-author">By Nigel Watson</p><p class="fr-book-desc">Covers methods for assessing sightings, witnesses, and evidence.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon haunted World</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{'/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{'/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{'/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{'/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="what-really-happened-in-haute-savoie-what-really-happened-in-haute-savoie-skies-haute-savoie-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-haute-savoie-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-haute-savoie-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-haute-savoie-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-haute-savoie-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-haute-savoie-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-haute-savoie-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-haute-savoie-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-haute-savoie-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-haute-savoie-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-haute-savoie-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-haute-savoie-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-haute-savoie-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-haute-savoie-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-haute-savoie-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-haute-savoie-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-haute-savoie-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haute-savoie-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-really-happened-in-haute-savoie-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
-  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket ='';
-    var languageMarket ='';
+    var exactMarket = '';
+    var languageMarket = '';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
@@ -828,24 +925,24 @@ The best way to read Haute-Savoie’s UFO history is therefore not as a catalogu
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language ||'';
+    return matches.exact || matches.language || '';
   }
   function inferFromTimezone() {
-    var tz ='';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
-    if (!tz) return'';
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
     for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return'';
+    return '';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey ||'phoenix-affiliate-market';
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -856,7 +953,7 @@ The best way to read Haute-Savoie’s UFO history is therefore not as a catalogu
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] ||'';
+    return available[0] || '';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -864,43 +961,45 @@ The best way to read Haute-Savoie’s UFO history is therefore not as a catalogu
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();</script><script type="text/javascript">
+})();
+</script>
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket ="EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return'#';
-    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
-    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label ||'eBay';
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
-    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded','false');
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -918,8 +1017,8 @@ The best way to read Haute-Savoie’s UFO history is therefore not as a catalogu
     var available = availableMarkets(section);
     if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') ||'';
-      var reference = link.getAttribute('data-ebay-reference') ||'';
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -939,11 +1038,11 @@ The best way to read Haute-Savoie’s UFO history is therefore not as a catalogu
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ?'true' :'false');
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -952,13 +1051,13 @@ The best way to read Haute-Savoie’s UFO history is therefore not as a catalogu
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
-    section.setAttribute('data-ebay-localized-init','1');
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey:'phoenix-ebay-market',
+        storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
     } else if (available.indexOf(defaultMarket)< 0) {
@@ -975,9 +1074,9 @@ The best way to read Haute-Savoie’s UFO history is therefore not as a catalogu
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') ==='true';
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -996,7 +1095,9 @@ The best way to read Haute-Savoie’s UFO history is therefore not as a catalogu
     });
     applyMarket(section, marketId, false);
   });
-})();</script></section>
+})();
+</script>
+</section>
 
 ## Endnotes
 

@@ -120,9 +120,9 @@ heading_title: What Really Flew Over Roussillon?
 page_heading_title: What Really Flew Over Roussillon?
 source_count: 77
 infographic_count: 3
-page_website_name: Pyrenees Orientales UFOs
+page_website_name: Pyrenees Orientales
 page_banner_line: Clear local evidence, official files, and likely explanations for unusual sky reports.
-site_website_name: Pyrenees Orientales UFOs
+site_website_name: Pyrenees Orientales
 site_banner_line: Clear local evidence, official files, and likely explanations for unusual sky reports.
 site_image_description: A night view over Perpignan and the Roussillon plain with distant mountains, an airport runway glow, and several bright points in...
 output_language: English

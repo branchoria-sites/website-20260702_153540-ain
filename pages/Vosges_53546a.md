@@ -120,9 +120,9 @@ heading_title: What Do Vosges UFO Reports Really Show?
 page_heading_title: What Do Vosges UFO Reports Really Show?
 source_count: 82
 infographic_count: 3
-page_website_name: Vosges UFOs
+page_website_name: Vosges
 page_banner_line: Balanced evidence-led pages on Vosges sightings, records and explanations.
-site_website_name: Vosges UFOs
+site_website_name: Vosges
 site_banner_line: Balanced evidence-led pages on Vosges sightings, records and explanations.
 site_image_description: A quiet Vosges hillside road at night with a small red light low over dark fields and distant village rooftops.
 output_language: English
@@ -760,9 +760,9 @@ The geography of Vosges helps explain why ordinary phenomena can become puzzling
 
 The safest conclusion is that Vosges has a real UFO record, but not a simple UFO mystery. The department’s public cases are best read as a spectrum:
 
-**Strongly explained cases** include Anglemont’s advertising balloon, Rupt-sur-Moselle’s military flares, Thaon-les-Vosges’s Sirius observation, and several aircraft, balloon, lantern and satellite cases in the GEIPAN search results. These are valuable because they show how good investigations can close reports that initially appeared odd.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1976-08-00329" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr+3cnes-geipan.fr+3cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+**Strongly explained cases** include Anglemont’s advertising balloon, Rupt-sur-Moselle’s military flares, Thaon-les-Vosges’s Sirius observation, and several aircraft, balloon, lantern and satellite cases in the GEIPAN search results. These are valuable because they show how good investigations can close reports that initially appeared odd.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1976-08-00329" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-**Probable explanations** include Darnieulles, Hareville and Remiremont 1978, where the evidence points towards lanterns or balloons but does not always prove the explanation beyond all doubt. These cases are not “debunked” in a dismissive sense; they are cases where the most likely ordinary explanation fits enough of the observation to reduce the mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2015-08-09265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr+2cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+**Probable explanations** include Darnieulles, Hareville and Remiremont 1978, where the evidence points towards lanterns or balloons but does not always prove the explanation beyond all doubt. These cases are not “debunked” in a dismissive sense; they are cases where the most likely ordinary explanation fits enough of the observation to reduce the mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2015-08-09265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 **Weak or incomplete mysteries** include Saint-Michel-sur-Meurthe and Épinal 1976, where the official conclusion is shaped mainly by missing information. These files should not be inflated into major unresolved incidents, because the lack of a final explanation comes from limited evidence as much as from strangeness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/2013-12-08633" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 

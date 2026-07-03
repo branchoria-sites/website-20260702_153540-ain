@@ -120,9 +120,9 @@ heading_title: What Really Happened in Jura's UFO Files?
 page_heading_title: What Really Happened in Jura's UFO Files?
 source_count: 67
 infographic_count: 3
-page_website_name: Jura UFOs
+page_website_name: Jura
 page_banner_line: Evidence-led stories behind Jura's most memorable UFO reports.
-site_website_name: Jura UFOs
+site_website_name: Jura
 site_banner_line: Evidence-led stories behind Jura's most memorable UFO reports.
 site_image_description: A quiet Jura forest road at dusk with a distant farmhouse, a gendarmerie car, and pale lights low over the tree line.
 output_language: English
@@ -757,7 +757,7 @@ The Châtelay case of 7 March 2014 is the cleanest example of this process. A wi
 That may sound almost too simple, but it is a valuable reminder. Many UFO reports are not caused by exotic objects; they are caused by ordinary objects seen at unexpected times, in unusual emotional circumstances, or from viewpoints that make them look wrong.<img src="{{"/assets/images/Jura_f17a56-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Jura&#x27;s UFO Files? illustration 3" data-theme-src-dark="{{"/assets/images/Jura_f17a56-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Jura_f17a56-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Jura’s real takeaway: a department of investigations, not a department of proof
 
-Jura’s UFO record is worth reading because it contains a full range of case outcomes in a small space: a famous 1954 close-encounter story later weakened by reported prank testimony; 1980s night-light cases with limited corroboration; aircraft and lantern misidentifications; meteor and re-entry reports; and files left unresolved only because information is missing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/cas/1954-09-09112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr+2geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
+Jura’s UFO record is worth reading because it contains a full range of case outcomes in a small space: a famous 1954 close-encounter story later weakened by reported prank testimony; 1980s night-light cases with limited corroboration; aircraft and lantern misidentifications; meteor and re-entry reports; and files left unresolved only because information is missing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/cas/1954-09-09112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
 The strongest evidence in the department is not evidence of extraordinary craft. It is evidence of process: gendarmerie reports, witness statements, GEIPAN reclassifications, photographs, video, weather checks, astronomical checks and comparison with known meteor records. The public value of the Jura archive lies in showing how cases move from story to assessment.
 

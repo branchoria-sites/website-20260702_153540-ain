@@ -12,6 +12,7 @@
     {
       "id": "FR-50",
       "iso": "FR-50",
+      "basename": "Manche_e44581",
       "department": "Manche",
       "mapName": "Manche",
       "label": "Manche",
@@ -31,6 +32,7 @@
     {
       "id": "FR-24",
       "iso": "FR-24",
+      "basename": "Dordogne_e9b4bd",
       "department": "Dordogne",
       "mapName": "Dordogne",
       "label": "Dordogne",
@@ -50,6 +52,7 @@
     {
       "id": "FR-04",
       "iso": "FR-04",
+      "basename": "Alpes-de-Haute-Prove_b1f7bc",
       "department": "Alpes-de-Haute-Provence",
       "mapName": "Alpes-de-Haute-Provence",
       "label": "Alpes-de-Haute-Provence",
@@ -69,6 +72,7 @@
     {
       "id": "FR-36",
       "iso": "FR-36",
+      "basename": "Indre_4b1413",
       "department": "Indre",
       "mapName": "Indre",
       "label": "Indre",
@@ -88,6 +92,7 @@
     {
       "id": "FR-03",
       "iso": "FR-03",
+      "basename": "Allier_716dd6",
       "department": "Allier",
       "mapName": "Allier",
       "label": "Allier",
@@ -107,6 +112,7 @@
     {
       "id": "FR-10",
       "iso": "FR-10",
+      "basename": "Aube_200d42",
       "department": "Aube",
       "mapName": "Aube",
       "label": "Aube",
@@ -126,6 +132,7 @@
     {
       "id": "FR-02",
       "iso": "FR-02",
+      "basename": "Aisne_b23b8e",
       "department": "Aisne",
       "mapName": "Aisne",
       "label": "Aisne",
@@ -145,6 +152,7 @@
     {
       "id": "FR-32",
       "iso": "FR-32",
+      "basename": "Gers_631401",
       "department": "Gers",
       "mapName": "Gers",
       "label": "Gers",
@@ -164,6 +172,7 @@
     {
       "id": "FR-93",
       "iso": "FR-93",
+      "basename": "Seine-Saint-Denis_af7f54",
       "department": "Seine-Saint-Denis",
       "mapName": "Seine-Saint-Denis",
       "label": "Seine-Saint-Denis",
@@ -183,6 +192,7 @@
     {
       "id": "FR-11",
       "iso": "FR-11",
+      "basename": "Aude_f0dc3d",
       "department": "Aude",
       "mapName": "Aude",
       "label": "Aude",
@@ -202,6 +212,7 @@
     {
       "id": "FR-23",
       "iso": "FR-23",
+      "basename": "Creuse_73fb1d",
       "department": "Creuse",
       "mapName": "Creuse",
       "label": "Creuse",
@@ -221,6 +232,7 @@
     {
       "id": "FR-64",
       "iso": "FR-64",
+      "basename": "Pyrenees-Atlantiques_126d41",
       "department": "Pyrenees-Atlantiques",
       "mapName": "Pyrenees-Atlantiques",
       "label": "Pyrenees-Atlantiques",
@@ -240,6 +252,7 @@
     {
       "id": "FR-88",
       "iso": "FR-88",
+      "basename": "Vosges_53546a",
       "department": "Vosges",
       "mapName": "Vosges",
       "label": "Vosges",
@@ -259,6 +272,7 @@
     {
       "id": "FR-33",
       "iso": "FR-33",
+      "basename": "Gironde_99a85b",
       "department": "Gironde",
       "mapName": "Gironde",
       "label": "Gironde",
@@ -278,6 +292,7 @@
     {
       "id": "FR-2B",
       "iso": "FR-2B",
+      "basename": "Haute-Corse_b2c532",
       "department": "Haute-Corse",
       "mapName": "Haute-Corse",
       "label": "Haute-Corse",
@@ -297,6 +312,7 @@
     {
       "id": "FR-35",
       "iso": "FR-35",
+      "basename": "Ille-et-Vilaine_a0a684",
       "department": "Ille-et-Vilaine",
       "mapName": "Ille-et-Vilaine",
       "label": "Ille-et-Vilaine",
@@ -316,6 +332,7 @@
     {
       "id": "FR-45",
       "iso": "FR-45",
+      "basename": "Loiret_6d08aa",
       "department": "Loiret",
       "mapName": "Loiret",
       "label": "Loiret",
@@ -335,6 +352,7 @@
     {
       "id": "FR-49",
       "iso": "FR-49",
+      "basename": "Maine-et-Loire_19238f",
       "department": "Maine-et-Loire",
       "mapName": "Maine-et-Loire",
       "label": "Maine-et-Loire",
@@ -354,6 +372,7 @@
     {
       "id": "FR-19",
       "iso": "FR-19",
+      "basename": "Correze_3e9490",
       "department": "Correze",
       "mapName": "Correze",
       "label": "Correze",
@@ -373,6 +392,7 @@
     {
       "id": "FR-31",
       "iso": "FR-31",
+      "basename": "Haute-Garonne_34cc0a",
       "department": "Haute-Garonne",
       "mapName": "Haute-Garonne",
       "label": "Haute-Garonne",
@@ -392,6 +412,7 @@
     {
       "id": "FR-92",
       "iso": "FR-92",
+      "basename": "Hauts-de-Seine_2ccee8",
       "department": "Hauts-de-Seine",
       "mapName": "Hauts-de-Seine",
       "label": "Hauts-de-Seine",
@@ -411,6 +432,7 @@
     {
       "id": "FR-38",
       "iso": "FR-38",
+      "basename": "Isere_7db861",
       "department": "Isere",
       "mapName": "Isere",
       "label": "Isere",
@@ -430,6 +452,7 @@
     {
       "id": "FR-59",
       "iso": "FR-59",
+      "basename": "Nord_dc64d1",
       "department": "Nord",
       "mapName": "Nord",
       "label": "Nord",
@@ -449,6 +472,7 @@
     {
       "id": "FR-76",
       "iso": "FR-76",
+      "basename": "Seine-Maritime_c89706",
       "department": "Seine-Maritime",
       "mapName": "Seine-Maritime",
       "label": "Seine-Maritime",
@@ -468,6 +492,7 @@
     {
       "id": "FR-51",
       "iso": "FR-51",
+      "basename": "Marne_763128",
       "department": "Marne",
       "mapName": "Marne",
       "label": "Marne",
@@ -487,6 +512,7 @@
     {
       "id": "FR-55",
       "iso": "FR-55",
+      "basename": "Meuse_6ed97d",
       "department": "Meuse",
       "mapName": "Meuse",
       "label": "Meuse",
@@ -506,6 +532,7 @@
     {
       "id": "FR-56",
       "iso": "FR-56",
+      "basename": "Morbihan_61a3f8",
       "department": "Morbihan",
       "mapName": "Morbihan",
       "label": "Morbihan",
@@ -525,6 +552,7 @@
     {
       "id": "FR-61",
       "iso": "FR-61",
+      "basename": "Orne_ab6076",
       "department": "Orne",
       "mapName": "Orne",
       "label": "Orne",
@@ -544,6 +572,7 @@
     {
       "id": "FR-66",
       "iso": "FR-66",
+      "basename": "Pyrenees-Orientales_fc815c",
       "department": "Pyrenees-Orientales",
       "mapName": "Pyrenees-Orientales",
       "label": "Pyrenees-Orientales",
@@ -563,6 +592,7 @@
     {
       "id": "FR-01",
       "iso": "FR-01",
+      "basename": "Ain_fc7da0",
       "department": "Ain",
       "mapName": "Ain",
       "label": "Ain",
@@ -582,6 +612,7 @@
     {
       "id": "FR-08",
       "iso": "FR-08",
+      "basename": "Ardennes_627650",
       "department": "Ardennes",
       "mapName": "Ardennes",
       "label": "Ardennes",
@@ -601,6 +632,7 @@
     {
       "id": "FR-09",
       "iso": "FR-09",
+      "basename": "Ariege_996ae1",
       "department": "Ariege",
       "mapName": "Ariege",
       "label": "Ariege",
@@ -620,6 +652,7 @@
     {
       "id": "FR-12",
       "iso": "FR-12",
+      "basename": "Aveyron_fecfb2",
       "department": "Aveyron",
       "mapName": "Aveyron",
       "label": "Aveyron",
@@ -639,6 +672,7 @@
     {
       "id": "FR-67",
       "iso": "FR-67",
+      "basename": "Bas-Rhin_ad02bb",
       "department": "Bas-Rhin",
       "mapName": "Bas-Rhin",
       "label": "Bas-Rhin",
@@ -658,6 +692,7 @@
     {
       "id": "FR-90",
       "iso": "FR-90",
+      "basename": "Territoire_de_Belfor_8990a1",
       "department": "Territoire de Belfort",
       "mapName": "Territoire de Belfort",
       "label": "Territoire de Belfort",
@@ -677,6 +712,7 @@
     {
       "id": "FR-13",
       "iso": "FR-13",
+      "basename": "Bouches-du-Rhone_a97972",
       "department": "Bouches-du-Rhone",
       "mapName": "Bouches-du-Rhone",
       "label": "Bouches-du-Rhone",
@@ -696,6 +732,7 @@
     {
       "id": "FR-14",
       "iso": "FR-14",
+      "basename": "Calvados_b13668",
       "department": "Calvados",
       "mapName": "Calvados",
       "label": "Calvados",
@@ -715,6 +752,7 @@
     {
       "id": "FR-15",
       "iso": "FR-15",
+      "basename": "Cantal_202658",
       "department": "Cantal",
       "mapName": "Cantal",
       "label": "Cantal",
@@ -734,6 +772,7 @@
     {
       "id": "FR-17",
       "iso": "FR-17",
+      "basename": "Charente-Maritime_ed3a6b",
       "department": "Charente-Maritime",
       "mapName": "Charente-Maritime",
       "label": "Charente-Maritime",
@@ -753,6 +792,7 @@
     {
       "id": "FR-16",
       "iso": "FR-16",
+      "basename": "Charente_8acfde",
       "department": "Charente",
       "mapName": "Charente",
       "label": "Charente",
@@ -772,6 +812,7 @@
     {
       "id": "FR-18",
       "iso": "FR-18",
+      "basename": "Cher_614205",
       "department": "Cher",
       "mapName": "Cher",
       "label": "Cher",
@@ -791,6 +832,7 @@
     {
       "id": "FR-2A",
       "iso": "FR-2A",
+      "basename": "Corse-du-Sud_8217c3",
       "department": "Corse-du-Sud",
       "mapName": "Corse-du-Sud",
       "label": "Corse-du-Sud",
@@ -810,6 +852,7 @@
     {
       "id": "FR-22",
       "iso": "FR-22",
+      "basename": "Cotes-d_Armor_789c20",
       "department": "Cotes-d'Armor",
       "mapName": "Cotes-d'Armor",
       "label": "Cotes-d'Armor",
@@ -830,6 +873,7 @@
     {
       "id": "FR-79",
       "iso": "FR-79",
+      "basename": "Deux-Sevres_ac4bfa",
       "department": "Deux-Sevres",
       "mapName": "Deux-Sevres",
       "label": "Deux-Sevres",
@@ -849,6 +893,7 @@
     {
       "id": "FR-26",
       "iso": "FR-26",
+      "basename": "Drome_06f265",
       "department": "Drome",
       "mapName": "Drome",
       "label": "Drome",
@@ -868,6 +913,7 @@
     {
       "id": "FR-28",
       "iso": "FR-28",
+      "basename": "Eure-et-Loir_aac377",
       "department": "Eure-et-Loir",
       "mapName": "Eure-et-Loir",
       "label": "Eure-et-Loir",
@@ -887,6 +933,7 @@
     {
       "id": "FR-27",
       "iso": "FR-27",
+      "basename": "Eure_4abf79",
       "department": "Eure",
       "mapName": "Eure",
       "label": "Eure",
@@ -906,6 +953,7 @@
     {
       "id": "FR-29",
       "iso": "FR-29",
+      "basename": "Finistere_3f7bbd",
       "department": "Finistere",
       "mapName": "Finistere",
       "label": "Finistere",
@@ -925,6 +973,7 @@
     {
       "id": "FR-30",
       "iso": "FR-30",
+      "basename": "Gard_40724c",
       "department": "Gard",
       "mapName": "Gard",
       "label": "Gard",
@@ -944,6 +993,7 @@
     {
       "id": "FR-68",
       "iso": "FR-68",
+      "basename": "Haut-Rhin_0c01ce",
       "department": "Haut-Rhin",
       "mapName": "Haut-Rhin",
       "label": "Haut-Rhin",
@@ -963,6 +1013,7 @@
     {
       "id": "FR-43",
       "iso": "FR-43",
+      "basename": "Haute-Loire_12edf0",
       "department": "Haute-Loire",
       "mapName": "Haute-Loire",
       "label": "Haute-Loire",
@@ -982,6 +1033,7 @@
     {
       "id": "FR-52",
       "iso": "FR-52",
+      "basename": "Haute-Marne_12dda3",
       "department": "Haute-Marne",
       "mapName": "Haute-Marne",
       "label": "Haute-Marne",
@@ -1001,6 +1053,7 @@
     {
       "id": "FR-74",
       "iso": "FR-74",
+      "basename": "Haute-Savoie_3824c4",
       "department": "Haute-Savoie",
       "mapName": "Haute-Savoie",
       "label": "Haute-Savoie",
@@ -1020,6 +1073,7 @@
     {
       "id": "FR-39",
       "iso": "FR-39",
+      "basename": "Jura_f17a56",
       "department": "Jura",
       "mapName": "Jura",
       "label": "Jura",
@@ -1039,6 +1093,7 @@
     {
       "id": "FR-40",
       "iso": "FR-40",
+      "basename": "Landes_7a79d9",
       "department": "Landes",
       "mapName": "Landes",
       "label": "Landes",
@@ -1058,6 +1113,7 @@
     {
       "id": "FR-44",
       "iso": "FR-44",
+      "basename": "Loire-Atlantique_ea6d7d",
       "department": "Loire-Atlantique",
       "mapName": "Loire-Atlantique",
       "label": "Loire-Atlantique",
@@ -1077,6 +1133,7 @@
     {
       "id": "FR-47",
       "iso": "FR-47",
+      "basename": "Lot-et-Garonne_6df799",
       "department": "Lot-et-Garonne",
       "mapName": "Lot-et-Garonne",
       "label": "Lot-et-Garonne",
@@ -1096,6 +1153,7 @@
     {
       "id": "FR-46",
       "iso": "FR-46",
+      "basename": "Lot_4a2119",
       "department": "Lot",
       "mapName": "Lot",
       "label": "Lot",
@@ -1115,6 +1173,7 @@
     {
       "id": "FR-48",
       "iso": "FR-48",
+      "basename": "Lozere_e8b6da",
       "department": "Lozere",
       "mapName": "Lozere",
       "label": "Lozere",
@@ -1134,6 +1193,7 @@
     {
       "id": "FR-54",
       "iso": "FR-54",
+      "basename": "Meurthe-et-Moselle_cbfe8a",
       "department": "Meurthe-et-Moselle",
       "mapName": "Meurthe-et-Moselle",
       "label": "Meurthe-et-Moselle",
@@ -1153,6 +1213,7 @@
     {
       "id": "FR-57",
       "iso": "FR-57",
+      "basename": "Moselle_b6f07c",
       "department": "Moselle",
       "mapName": "Moselle",
       "label": "Moselle",
@@ -1172,6 +1233,7 @@
     {
       "id": "FR-58",
       "iso": "FR-58",
+      "basename": "Nievre_759cd1",
       "department": "Nievre",
       "mapName": "Nievre",
       "label": "Nievre",
@@ -1191,6 +1253,7 @@
     {
       "id": "FR-60",
       "iso": "FR-60",
+      "basename": "Oise_3dde58",
       "department": "Oise",
       "mapName": "Oise",
       "label": "Oise",
@@ -1210,6 +1273,7 @@
     {
       "id": "FR-62",
       "iso": "FR-62",
+      "basename": "Pas-de-Calais_0ab2d0",
       "department": "Pas-de-Calais",
       "mapName": "Pas-de-Calais",
       "label": "Pas-de-Calais",
@@ -1229,6 +1293,7 @@
     {
       "id": "FR-63",
       "iso": "FR-63",
+      "basename": "Puy-de-Dome_53d1d1",
       "department": "Puy-de-Dome",
       "mapName": "Puy-de-Dome",
       "label": "Puy-de-Dome",
@@ -1248,6 +1313,7 @@
     {
       "id": "FR-69",
       "iso": "FR-69",
+      "basename": "Rhone_ae79ce",
       "department": "Rhone",
       "mapName": "Rhone",
       "label": "Rhone",
@@ -1267,6 +1333,7 @@
     {
       "id": "FR-71",
       "iso": "FR-71",
+      "basename": "Saone-et-Loire_d3ab2b",
       "department": "Saone-et-Loire",
       "mapName": "Saone-et-Loire",
       "label": "Saone-et-Loire",
@@ -1286,6 +1353,7 @@
     {
       "id": "FR-73",
       "iso": "FR-73",
+      "basename": "Savoie_f57b8f",
       "department": "Savoie",
       "mapName": "Savoie",
       "label": "Savoie",
@@ -1305,6 +1373,7 @@
     {
       "id": "FR-77",
       "iso": "FR-77",
+      "basename": "Seine-et-Marne_d85b24",
       "department": "Seine-et-Marne",
       "mapName": "Seine-et-Marne",
       "label": "Seine-et-Marne",
@@ -1324,6 +1393,7 @@
     {
       "id": "FR-80",
       "iso": "FR-80",
+      "basename": "Somme_f38fb9",
       "department": "Somme",
       "mapName": "Somme",
       "label": "Somme",
@@ -1343,6 +1413,7 @@
     {
       "id": "FR-82",
       "iso": "FR-82",
+      "basename": "Tarn-et-Garonne_a4f8ba",
       "department": "Tarn-et-Garonne",
       "mapName": "Tarn-et-Garonne",
       "label": "Tarn-et-Garonne",
@@ -1362,6 +1433,7 @@
     {
       "id": "FR-81",
       "iso": "FR-81",
+      "basename": "Tarn_a5fb02",
       "department": "Tarn",
       "mapName": "Tarn",
       "label": "Tarn",
@@ -1381,6 +1453,7 @@
     {
       "id": "FR-95",
       "iso": "FR-95",
+      "basename": "Val-d_Oise_9a8e5a",
       "department": "Val-d'Oise",
       "mapName": "Val-d'Oise",
       "label": "Val-d'Oise",
@@ -1400,6 +1473,7 @@
     {
       "id": "FR-94",
       "iso": "FR-94",
+      "basename": "Val-de-Marne_555905",
       "department": "Val-de-Marne",
       "mapName": "Val-de-Marne",
       "label": "Val-de-Marne",
@@ -1419,6 +1493,7 @@
     {
       "id": "FR-83",
       "iso": "FR-83",
+      "basename": "Var_5cea87",
       "department": "Var",
       "mapName": "Var",
       "label": "Var",
@@ -1438,6 +1513,7 @@
     {
       "id": "FR-84",
       "iso": "FR-84",
+      "basename": "Vaucluse_17bae7",
       "department": "Vaucluse",
       "mapName": "Vaucluse",
       "label": "Vaucluse",
@@ -1457,6 +1533,7 @@
     {
       "id": "FR-85",
       "iso": "FR-85",
+      "basename": "Vendee_da066b",
       "department": "Vendee",
       "mapName": "Vendee",
       "label": "Vendee",
@@ -1476,6 +1553,7 @@
     {
       "id": "FR-86",
       "iso": "FR-86",
+      "basename": "Vienne_f0511b",
       "department": "Vienne",
       "mapName": "Vienne",
       "label": "Vienne",
@@ -1495,6 +1573,7 @@
     {
       "id": "FR-89",
       "iso": "FR-89",
+      "basename": "Yonne_77d4a6",
       "department": "Yonne",
       "mapName": "Yonne",
       "label": "Yonne",
@@ -1514,6 +1593,7 @@
     {
       "id": "FR-78",
       "iso": "FR-78",
+      "basename": "Yvelines_722ea1",
       "department": "Yvelines",
       "mapName": "Yvelines",
       "label": "Yvelines",
@@ -1533,6 +1613,7 @@
     {
       "id": "FR-07",
       "iso": "FR-07",
+      "basename": "Ardeche_5d1281",
       "department": "Ardeche",
       "mapName": "Ardeche",
       "label": "Ardeche",
@@ -1552,6 +1633,7 @@
     {
       "id": "FR-21",
       "iso": "FR-21",
+      "basename": "Cote-d_Or_6e3ab6",
       "department": "Cote-d'Or",
       "mapName": "Cote-d'Or",
       "label": "Cote-d'Or",
@@ -1572,6 +1654,7 @@
     {
       "id": "FR-70",
       "iso": "FR-70",
+      "basename": "Haute-Saone_0bdc4b",
       "department": "Haute-Saone",
       "mapName": "Haute-Saone",
       "label": "Haute-Saone",
@@ -1591,6 +1674,7 @@
     {
       "id": "FR-87",
       "iso": "FR-87",
+      "basename": "Haute-Vienne_e44500",
       "department": "Haute-Vienne",
       "mapName": "Haute-Vienne",
       "label": "Haute-Vienne",
@@ -1610,6 +1694,7 @@
     {
       "id": "FR-34",
       "iso": "FR-34",
+      "basename": "Herault_0fa4db",
       "department": "Herault",
       "mapName": "Herault",
       "label": "Herault",
@@ -1629,6 +1714,7 @@
     {
       "id": "FR-72",
       "iso": "FR-72",
+      "basename": "Sarthe_70aab9",
       "department": "Sarthe",
       "mapName": "Sarthe",
       "label": "Sarthe",
@@ -1648,6 +1734,7 @@
     {
       "id": "FR-37",
       "iso": "FR-37",
+      "basename": "Indre-et-Loire_b45e62",
       "department": "Indre-et-Loire",
       "mapName": "Indre-et-Loire",
       "label": "Indre-et-Loire",
@@ -1667,6 +1754,7 @@
     {
       "id": "FR-06",
       "iso": "FR-06",
+      "basename": "Alpes-Maritimes_efe25c",
       "department": "Alpes-Maritimes",
       "mapName": "Alpes-Maritimes",
       "label": "Alpes-Maritimes",
@@ -1686,6 +1774,7 @@
     {
       "id": "FR-65",
       "iso": "FR-65",
+      "basename": "Hautes-Pyrenees_f6aaeb",
       "department": "Hautes-Pyrenees",
       "mapName": "Hautes-Pyrenees",
       "label": "Hautes-Pyrenees",
@@ -1705,6 +1794,7 @@
     {
       "id": "FR-25",
       "iso": "FR-25",
+      "basename": "Doubs_70fb5f",
       "department": "Doubs",
       "mapName": "Doubs",
       "label": "Doubs",
@@ -1724,6 +1814,7 @@
     {
       "id": "FR-91",
       "iso": "FR-91",
+      "basename": "Essonne_7f5f7b",
       "department": "Essonne",
       "mapName": "Essonne",
       "label": "Essonne",
@@ -1743,6 +1834,7 @@
     {
       "id": "FR-41",
       "iso": "FR-41",
+      "basename": "Loir-et-Cher_7a21fd",
       "department": "Loir-et-Cher",
       "mapName": "Loir-et-Cher",
       "label": "Loir-et-Cher",
@@ -1762,6 +1854,7 @@
     {
       "id": "FR-42",
       "iso": "FR-42",
+      "basename": "Loire_9faa19",
       "department": "Loire",
       "mapName": "Loire",
       "label": "Loire",
@@ -1781,6 +1874,7 @@
     {
       "id": "FR-53",
       "iso": "FR-53",
+      "basename": "Mayenne_6ca058",
       "department": "Mayenne",
       "mapName": "Mayenne",
       "label": "Mayenne",
@@ -1800,6 +1894,7 @@
     {
       "id": "FR-75",
       "iso": "FR-75",
+      "basename": "Paris_22390a",
       "department": "Paris",
       "mapName": "Paris",
       "label": "Paris",
@@ -1819,6 +1914,7 @@
     {
       "id": "FR-05",
       "iso": "FR-05",
+      "basename": "Hautes-Alpes_6bdcb1",
       "department": "Hautes-Alpes",
       "mapName": "Hautes-Alpes",
       "label": "Hautes-Alpes",
@@ -1840,6 +1936,7 @@
     {
       "id": "FR-50",
       "iso": "FR-50",
+      "basename": "Manche_e44581",
       "department": "Manche",
       "mapName": "Manche",
       "label": "Manche",
@@ -1859,6 +1956,7 @@
     {
       "id": "FR-24",
       "iso": "FR-24",
+      "basename": "Dordogne_e9b4bd",
       "department": "Dordogne",
       "mapName": "Dordogne",
       "label": "Dordogne",
@@ -1878,6 +1976,7 @@
     {
       "id": "FR-04",
       "iso": "FR-04",
+      "basename": "Alpes-de-Haute-Prove_b1f7bc",
       "department": "Alpes-de-Haute-Provence",
       "mapName": "Alpes-de-Haute-Provence",
       "label": "Alpes-de-Haute-Provence",
@@ -1897,6 +1996,7 @@
     {
       "id": "FR-36",
       "iso": "FR-36",
+      "basename": "Indre_4b1413",
       "department": "Indre",
       "mapName": "Indre",
       "label": "Indre",
@@ -1916,6 +2016,7 @@
     {
       "id": "FR-03",
       "iso": "FR-03",
+      "basename": "Allier_716dd6",
       "department": "Allier",
       "mapName": "Allier",
       "label": "Allier",
@@ -1935,6 +2036,7 @@
     {
       "id": "FR-10",
       "iso": "FR-10",
+      "basename": "Aube_200d42",
       "department": "Aube",
       "mapName": "Aube",
       "label": "Aube",
@@ -1954,6 +2056,7 @@
     {
       "id": "FR-02",
       "iso": "FR-02",
+      "basename": "Aisne_b23b8e",
       "department": "Aisne",
       "mapName": "Aisne",
       "label": "Aisne",
@@ -1973,6 +2076,7 @@
     {
       "id": "FR-32",
       "iso": "FR-32",
+      "basename": "Gers_631401",
       "department": "Gers",
       "mapName": "Gers",
       "label": "Gers",
@@ -1992,6 +2096,7 @@
     {
       "id": "FR-93",
       "iso": "FR-93",
+      "basename": "Seine-Saint-Denis_af7f54",
       "department": "Seine-Saint-Denis",
       "mapName": "Seine-Saint-Denis",
       "label": "Seine-Saint-Denis",
@@ -2011,6 +2116,7 @@
     {
       "id": "FR-11",
       "iso": "FR-11",
+      "basename": "Aude_f0dc3d",
       "department": "Aude",
       "mapName": "Aude",
       "label": "Aude",
@@ -2030,6 +2136,7 @@
     {
       "id": "FR-23",
       "iso": "FR-23",
+      "basename": "Creuse_73fb1d",
       "department": "Creuse",
       "mapName": "Creuse",
       "label": "Creuse",
@@ -2049,6 +2156,7 @@
     {
       "id": "FR-64",
       "iso": "FR-64",
+      "basename": "Pyrenees-Atlantiques_126d41",
       "department": "Pyrenees-Atlantiques",
       "mapName": "Pyrenees-Atlantiques",
       "label": "Pyrenees-Atlantiques",
@@ -2068,6 +2176,7 @@
     {
       "id": "FR-88",
       "iso": "FR-88",
+      "basename": "Vosges_53546a",
       "department": "Vosges",
       "mapName": "Vosges",
       "label": "Vosges",
@@ -2087,6 +2196,7 @@
     {
       "id": "FR-33",
       "iso": "FR-33",
+      "basename": "Gironde_99a85b",
       "department": "Gironde",
       "mapName": "Gironde",
       "label": "Gironde",
@@ -2106,6 +2216,7 @@
     {
       "id": "FR-2B",
       "iso": "FR-2B",
+      "basename": "Haute-Corse_b2c532",
       "department": "Haute-Corse",
       "mapName": "Haute-Corse",
       "label": "Haute-Corse",
@@ -2125,6 +2236,7 @@
     {
       "id": "FR-35",
       "iso": "FR-35",
+      "basename": "Ille-et-Vilaine_a0a684",
       "department": "Ille-et-Vilaine",
       "mapName": "Ille-et-Vilaine",
       "label": "Ille-et-Vilaine",
@@ -2144,6 +2256,7 @@
     {
       "id": "FR-45",
       "iso": "FR-45",
+      "basename": "Loiret_6d08aa",
       "department": "Loiret",
       "mapName": "Loiret",
       "label": "Loiret",
@@ -2163,6 +2276,7 @@
     {
       "id": "FR-49",
       "iso": "FR-49",
+      "basename": "Maine-et-Loire_19238f",
       "department": "Maine-et-Loire",
       "mapName": "Maine-et-Loire",
       "label": "Maine-et-Loire",
@@ -2182,6 +2296,7 @@
     {
       "id": "FR-19",
       "iso": "FR-19",
+      "basename": "Correze_3e9490",
       "department": "Correze",
       "mapName": "Correze",
       "label": "Correze",
@@ -2201,6 +2316,7 @@
     {
       "id": "FR-31",
       "iso": "FR-31",
+      "basename": "Haute-Garonne_34cc0a",
       "department": "Haute-Garonne",
       "mapName": "Haute-Garonne",
       "label": "Haute-Garonne",
@@ -2220,6 +2336,7 @@
     {
       "id": "FR-92",
       "iso": "FR-92",
+      "basename": "Hauts-de-Seine_2ccee8",
       "department": "Hauts-de-Seine",
       "mapName": "Hauts-de-Seine",
       "label": "Hauts-de-Seine",
@@ -2239,6 +2356,7 @@
     {
       "id": "FR-38",
       "iso": "FR-38",
+      "basename": "Isere_7db861",
       "department": "Isere",
       "mapName": "Isere",
       "label": "Isere",
@@ -2258,6 +2376,7 @@
     {
       "id": "FR-59",
       "iso": "FR-59",
+      "basename": "Nord_dc64d1",
       "department": "Nord",
       "mapName": "Nord",
       "label": "Nord",
@@ -2277,6 +2396,7 @@
     {
       "id": "FR-76",
       "iso": "FR-76",
+      "basename": "Seine-Maritime_c89706",
       "department": "Seine-Maritime",
       "mapName": "Seine-Maritime",
       "label": "Seine-Maritime",
@@ -2296,6 +2416,7 @@
     {
       "id": "FR-51",
       "iso": "FR-51",
+      "basename": "Marne_763128",
       "department": "Marne",
       "mapName": "Marne",
       "label": "Marne",
@@ -2315,6 +2436,7 @@
     {
       "id": "FR-55",
       "iso": "FR-55",
+      "basename": "Meuse_6ed97d",
       "department": "Meuse",
       "mapName": "Meuse",
       "label": "Meuse",
@@ -2334,6 +2456,7 @@
     {
       "id": "FR-56",
       "iso": "FR-56",
+      "basename": "Morbihan_61a3f8",
       "department": "Morbihan",
       "mapName": "Morbihan",
       "label": "Morbihan",
@@ -2353,6 +2476,7 @@
     {
       "id": "FR-61",
       "iso": "FR-61",
+      "basename": "Orne_ab6076",
       "department": "Orne",
       "mapName": "Orne",
       "label": "Orne",
@@ -2372,6 +2496,7 @@
     {
       "id": "FR-66",
       "iso": "FR-66",
+      "basename": "Pyrenees-Orientales_fc815c",
       "department": "Pyrenees-Orientales",
       "mapName": "Pyrenees-Orientales",
       "label": "Pyrenees-Orientales",
@@ -2391,6 +2516,7 @@
     {
       "id": "FR-01",
       "iso": "FR-01",
+      "basename": "Ain_fc7da0",
       "department": "Ain",
       "mapName": "Ain",
       "label": "Ain",
@@ -2410,6 +2536,7 @@
     {
       "id": "FR-08",
       "iso": "FR-08",
+      "basename": "Ardennes_627650",
       "department": "Ardennes",
       "mapName": "Ardennes",
       "label": "Ardennes",
@@ -2429,6 +2556,7 @@
     {
       "id": "FR-09",
       "iso": "FR-09",
+      "basename": "Ariege_996ae1",
       "department": "Ariege",
       "mapName": "Ariege",
       "label": "Ariege",
@@ -2448,6 +2576,7 @@
     {
       "id": "FR-12",
       "iso": "FR-12",
+      "basename": "Aveyron_fecfb2",
       "department": "Aveyron",
       "mapName": "Aveyron",
       "label": "Aveyron",
@@ -2467,6 +2596,7 @@
     {
       "id": "FR-67",
       "iso": "FR-67",
+      "basename": "Bas-Rhin_ad02bb",
       "department": "Bas-Rhin",
       "mapName": "Bas-Rhin",
       "label": "Bas-Rhin",
@@ -2486,6 +2616,7 @@
     {
       "id": "FR-90",
       "iso": "FR-90",
+      "basename": "Territoire_de_Belfor_8990a1",
       "department": "Territoire de Belfort",
       "mapName": "Territoire de Belfort",
       "label": "Territoire de Belfort",
@@ -2505,6 +2636,7 @@
     {
       "id": "FR-13",
       "iso": "FR-13",
+      "basename": "Bouches-du-Rhone_a97972",
       "department": "Bouches-du-Rhone",
       "mapName": "Bouches-du-Rhone",
       "label": "Bouches-du-Rhone",
@@ -2524,6 +2656,7 @@
     {
       "id": "FR-14",
       "iso": "FR-14",
+      "basename": "Calvados_b13668",
       "department": "Calvados",
       "mapName": "Calvados",
       "label": "Calvados",
@@ -2543,6 +2676,7 @@
     {
       "id": "FR-15",
       "iso": "FR-15",
+      "basename": "Cantal_202658",
       "department": "Cantal",
       "mapName": "Cantal",
       "label": "Cantal",
@@ -2562,6 +2696,7 @@
     {
       "id": "FR-17",
       "iso": "FR-17",
+      "basename": "Charente-Maritime_ed3a6b",
       "department": "Charente-Maritime",
       "mapName": "Charente-Maritime",
       "label": "Charente-Maritime",
@@ -2581,6 +2716,7 @@
     {
       "id": "FR-16",
       "iso": "FR-16",
+      "basename": "Charente_8acfde",
       "department": "Charente",
       "mapName": "Charente",
       "label": "Charente",
@@ -2600,6 +2736,7 @@
     {
       "id": "FR-18",
       "iso": "FR-18",
+      "basename": "Cher_614205",
       "department": "Cher",
       "mapName": "Cher",
       "label": "Cher",
@@ -2619,6 +2756,7 @@
     {
       "id": "FR-2A",
       "iso": "FR-2A",
+      "basename": "Corse-du-Sud_8217c3",
       "department": "Corse-du-Sud",
       "mapName": "Corse-du-Sud",
       "label": "Corse-du-Sud",
@@ -2638,6 +2776,7 @@
     {
       "id": "FR-22",
       "iso": "FR-22",
+      "basename": "Cotes-d_Armor_789c20",
       "department": "Cotes-d'Armor",
       "mapName": "Cotes-d'Armor",
       "label": "Cotes-d'Armor",
@@ -2658,6 +2797,7 @@
     {
       "id": "FR-79",
       "iso": "FR-79",
+      "basename": "Deux-Sevres_ac4bfa",
       "department": "Deux-Sevres",
       "mapName": "Deux-Sevres",
       "label": "Deux-Sevres",
@@ -2677,6 +2817,7 @@
     {
       "id": "FR-26",
       "iso": "FR-26",
+      "basename": "Drome_06f265",
       "department": "Drome",
       "mapName": "Drome",
       "label": "Drome",
@@ -2696,6 +2837,7 @@
     {
       "id": "FR-28",
       "iso": "FR-28",
+      "basename": "Eure-et-Loir_aac377",
       "department": "Eure-et-Loir",
       "mapName": "Eure-et-Loir",
       "label": "Eure-et-Loir",
@@ -2715,6 +2857,7 @@
     {
       "id": "FR-27",
       "iso": "FR-27",
+      "basename": "Eure_4abf79",
       "department": "Eure",
       "mapName": "Eure",
       "label": "Eure",
@@ -2734,6 +2877,7 @@
     {
       "id": "FR-29",
       "iso": "FR-29",
+      "basename": "Finistere_3f7bbd",
       "department": "Finistere",
       "mapName": "Finistere",
       "label": "Finistere",
@@ -2753,6 +2897,7 @@
     {
       "id": "FR-30",
       "iso": "FR-30",
+      "basename": "Gard_40724c",
       "department": "Gard",
       "mapName": "Gard",
       "label": "Gard",
@@ -2772,6 +2917,7 @@
     {
       "id": "FR-68",
       "iso": "FR-68",
+      "basename": "Haut-Rhin_0c01ce",
       "department": "Haut-Rhin",
       "mapName": "Haut-Rhin",
       "label": "Haut-Rhin",
@@ -2791,6 +2937,7 @@
     {
       "id": "FR-43",
       "iso": "FR-43",
+      "basename": "Haute-Loire_12edf0",
       "department": "Haute-Loire",
       "mapName": "Haute-Loire",
       "label": "Haute-Loire",
@@ -2810,6 +2957,7 @@
     {
       "id": "FR-52",
       "iso": "FR-52",
+      "basename": "Haute-Marne_12dda3",
       "department": "Haute-Marne",
       "mapName": "Haute-Marne",
       "label": "Haute-Marne",
@@ -2829,6 +2977,7 @@
     {
       "id": "FR-74",
       "iso": "FR-74",
+      "basename": "Haute-Savoie_3824c4",
       "department": "Haute-Savoie",
       "mapName": "Haute-Savoie",
       "label": "Haute-Savoie",
@@ -2848,6 +2997,7 @@
     {
       "id": "FR-39",
       "iso": "FR-39",
+      "basename": "Jura_f17a56",
       "department": "Jura",
       "mapName": "Jura",
       "label": "Jura",
@@ -2867,6 +3017,7 @@
     {
       "id": "FR-40",
       "iso": "FR-40",
+      "basename": "Landes_7a79d9",
       "department": "Landes",
       "mapName": "Landes",
       "label": "Landes",
@@ -2886,6 +3037,7 @@
     {
       "id": "FR-44",
       "iso": "FR-44",
+      "basename": "Loire-Atlantique_ea6d7d",
       "department": "Loire-Atlantique",
       "mapName": "Loire-Atlantique",
       "label": "Loire-Atlantique",
@@ -2905,6 +3057,7 @@
     {
       "id": "FR-47",
       "iso": "FR-47",
+      "basename": "Lot-et-Garonne_6df799",
       "department": "Lot-et-Garonne",
       "mapName": "Lot-et-Garonne",
       "label": "Lot-et-Garonne",
@@ -2924,6 +3077,7 @@
     {
       "id": "FR-46",
       "iso": "FR-46",
+      "basename": "Lot_4a2119",
       "department": "Lot",
       "mapName": "Lot",
       "label": "Lot",
@@ -2943,6 +3097,7 @@
     {
       "id": "FR-48",
       "iso": "FR-48",
+      "basename": "Lozere_e8b6da",
       "department": "Lozere",
       "mapName": "Lozere",
       "label": "Lozere",
@@ -2962,6 +3117,7 @@
     {
       "id": "FR-54",
       "iso": "FR-54",
+      "basename": "Meurthe-et-Moselle_cbfe8a",
       "department": "Meurthe-et-Moselle",
       "mapName": "Meurthe-et-Moselle",
       "label": "Meurthe-et-Moselle",
@@ -2981,6 +3137,7 @@
     {
       "id": "FR-57",
       "iso": "FR-57",
+      "basename": "Moselle_b6f07c",
       "department": "Moselle",
       "mapName": "Moselle",
       "label": "Moselle",
@@ -3000,6 +3157,7 @@
     {
       "id": "FR-58",
       "iso": "FR-58",
+      "basename": "Nievre_759cd1",
       "department": "Nievre",
       "mapName": "Nievre",
       "label": "Nievre",
@@ -3019,6 +3177,7 @@
     {
       "id": "FR-60",
       "iso": "FR-60",
+      "basename": "Oise_3dde58",
       "department": "Oise",
       "mapName": "Oise",
       "label": "Oise",
@@ -3038,6 +3197,7 @@
     {
       "id": "FR-62",
       "iso": "FR-62",
+      "basename": "Pas-de-Calais_0ab2d0",
       "department": "Pas-de-Calais",
       "mapName": "Pas-de-Calais",
       "label": "Pas-de-Calais",
@@ -3057,6 +3217,7 @@
     {
       "id": "FR-63",
       "iso": "FR-63",
+      "basename": "Puy-de-Dome_53d1d1",
       "department": "Puy-de-Dome",
       "mapName": "Puy-de-Dome",
       "label": "Puy-de-Dome",
@@ -3076,6 +3237,7 @@
     {
       "id": "FR-69",
       "iso": "FR-69",
+      "basename": "Rhone_ae79ce",
       "department": "Rhone",
       "mapName": "Rhone",
       "label": "Rhone",
@@ -3095,6 +3257,7 @@
     {
       "id": "FR-71",
       "iso": "FR-71",
+      "basename": "Saone-et-Loire_d3ab2b",
       "department": "Saone-et-Loire",
       "mapName": "Saone-et-Loire",
       "label": "Saone-et-Loire",
@@ -3114,6 +3277,7 @@
     {
       "id": "FR-73",
       "iso": "FR-73",
+      "basename": "Savoie_f57b8f",
       "department": "Savoie",
       "mapName": "Savoie",
       "label": "Savoie",
@@ -3133,6 +3297,7 @@
     {
       "id": "FR-77",
       "iso": "FR-77",
+      "basename": "Seine-et-Marne_d85b24",
       "department": "Seine-et-Marne",
       "mapName": "Seine-et-Marne",
       "label": "Seine-et-Marne",
@@ -3152,6 +3317,7 @@
     {
       "id": "FR-80",
       "iso": "FR-80",
+      "basename": "Somme_f38fb9",
       "department": "Somme",
       "mapName": "Somme",
       "label": "Somme",
@@ -3171,6 +3337,7 @@
     {
       "id": "FR-82",
       "iso": "FR-82",
+      "basename": "Tarn-et-Garonne_a4f8ba",
       "department": "Tarn-et-Garonne",
       "mapName": "Tarn-et-Garonne",
       "label": "Tarn-et-Garonne",
@@ -3190,6 +3357,7 @@
     {
       "id": "FR-81",
       "iso": "FR-81",
+      "basename": "Tarn_a5fb02",
       "department": "Tarn",
       "mapName": "Tarn",
       "label": "Tarn",
@@ -3209,6 +3377,7 @@
     {
       "id": "FR-95",
       "iso": "FR-95",
+      "basename": "Val-d_Oise_9a8e5a",
       "department": "Val-d'Oise",
       "mapName": "Val-d'Oise",
       "label": "Val-d'Oise",
@@ -3228,6 +3397,7 @@
     {
       "id": "FR-94",
       "iso": "FR-94",
+      "basename": "Val-de-Marne_555905",
       "department": "Val-de-Marne",
       "mapName": "Val-de-Marne",
       "label": "Val-de-Marne",
@@ -3247,6 +3417,7 @@
     {
       "id": "FR-83",
       "iso": "FR-83",
+      "basename": "Var_5cea87",
       "department": "Var",
       "mapName": "Var",
       "label": "Var",
@@ -3266,6 +3437,7 @@
     {
       "id": "FR-84",
       "iso": "FR-84",
+      "basename": "Vaucluse_17bae7",
       "department": "Vaucluse",
       "mapName": "Vaucluse",
       "label": "Vaucluse",
@@ -3285,6 +3457,7 @@
     {
       "id": "FR-85",
       "iso": "FR-85",
+      "basename": "Vendee_da066b",
       "department": "Vendee",
       "mapName": "Vendee",
       "label": "Vendee",
@@ -3304,6 +3477,7 @@
     {
       "id": "FR-86",
       "iso": "FR-86",
+      "basename": "Vienne_f0511b",
       "department": "Vienne",
       "mapName": "Vienne",
       "label": "Vienne",
@@ -3323,6 +3497,7 @@
     {
       "id": "FR-89",
       "iso": "FR-89",
+      "basename": "Yonne_77d4a6",
       "department": "Yonne",
       "mapName": "Yonne",
       "label": "Yonne",
@@ -3342,6 +3517,7 @@
     {
       "id": "FR-78",
       "iso": "FR-78",
+      "basename": "Yvelines_722ea1",
       "department": "Yvelines",
       "mapName": "Yvelines",
       "label": "Yvelines",
@@ -3361,6 +3537,7 @@
     {
       "id": "FR-07",
       "iso": "FR-07",
+      "basename": "Ardeche_5d1281",
       "department": "Ardeche",
       "mapName": "Ardeche",
       "label": "Ardeche",
@@ -3380,6 +3557,7 @@
     {
       "id": "FR-21",
       "iso": "FR-21",
+      "basename": "Cote-d_Or_6e3ab6",
       "department": "Cote-d'Or",
       "mapName": "Cote-d'Or",
       "label": "Cote-d'Or",
@@ -3400,6 +3578,7 @@
     {
       "id": "FR-70",
       "iso": "FR-70",
+      "basename": "Haute-Saone_0bdc4b",
       "department": "Haute-Saone",
       "mapName": "Haute-Saone",
       "label": "Haute-Saone",
@@ -3419,6 +3598,7 @@
     {
       "id": "FR-87",
       "iso": "FR-87",
+      "basename": "Haute-Vienne_e44500",
       "department": "Haute-Vienne",
       "mapName": "Haute-Vienne",
       "label": "Haute-Vienne",
@@ -3438,6 +3618,7 @@
     {
       "id": "FR-34",
       "iso": "FR-34",
+      "basename": "Herault_0fa4db",
       "department": "Herault",
       "mapName": "Herault",
       "label": "Herault",
@@ -3457,6 +3638,7 @@
     {
       "id": "FR-72",
       "iso": "FR-72",
+      "basename": "Sarthe_70aab9",
       "department": "Sarthe",
       "mapName": "Sarthe",
       "label": "Sarthe",
@@ -3476,6 +3658,7 @@
     {
       "id": "FR-37",
       "iso": "FR-37",
+      "basename": "Indre-et-Loire_b45e62",
       "department": "Indre-et-Loire",
       "mapName": "Indre-et-Loire",
       "label": "Indre-et-Loire",
@@ -3495,6 +3678,7 @@
     {
       "id": "FR-06",
       "iso": "FR-06",
+      "basename": "Alpes-Maritimes_efe25c",
       "department": "Alpes-Maritimes",
       "mapName": "Alpes-Maritimes",
       "label": "Alpes-Maritimes",
@@ -3514,6 +3698,7 @@
     {
       "id": "FR-65",
       "iso": "FR-65",
+      "basename": "Hautes-Pyrenees_f6aaeb",
       "department": "Hautes-Pyrenees",
       "mapName": "Hautes-Pyrenees",
       "label": "Hautes-Pyrenees",
@@ -3533,6 +3718,7 @@
     {
       "id": "FR-25",
       "iso": "FR-25",
+      "basename": "Doubs_70fb5f",
       "department": "Doubs",
       "mapName": "Doubs",
       "label": "Doubs",
@@ -3552,6 +3738,7 @@
     {
       "id": "FR-91",
       "iso": "FR-91",
+      "basename": "Essonne_7f5f7b",
       "department": "Essonne",
       "mapName": "Essonne",
       "label": "Essonne",
@@ -3571,6 +3758,7 @@
     {
       "id": "FR-41",
       "iso": "FR-41",
+      "basename": "Loir-et-Cher_7a21fd",
       "department": "Loir-et-Cher",
       "mapName": "Loir-et-Cher",
       "label": "Loir-et-Cher",
@@ -3590,6 +3778,7 @@
     {
       "id": "FR-42",
       "iso": "FR-42",
+      "basename": "Loire_9faa19",
       "department": "Loire",
       "mapName": "Loire",
       "label": "Loire",
@@ -3609,6 +3798,7 @@
     {
       "id": "FR-53",
       "iso": "FR-53",
+      "basename": "Mayenne_6ca058",
       "department": "Mayenne",
       "mapName": "Mayenne",
       "label": "Mayenne",
@@ -3628,6 +3818,7 @@
     {
       "id": "FR-75",
       "iso": "FR-75",
+      "basename": "Paris_22390a",
       "department": "Paris",
       "mapName": "Paris",
       "label": "Paris",
@@ -3647,6 +3838,7 @@
     {
       "id": "FR-05",
       "iso": "FR-05",
+      "basename": "Hautes-Alpes_6bdcb1",
       "department": "Hautes-Alpes",
       "mapName": "Hautes-Alpes",
       "label": "Hautes-Alpes",

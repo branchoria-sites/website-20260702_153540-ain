@@ -120,9 +120,9 @@ heading_title: What Do Pyrenees Atlantiques UFO Cases Really Show?
 page_heading_title: What Do Pyrenees Atlantiques UFO Cases Really Show?
 source_count: 127
 infographic_count: 3
-page_website_name: Pyrenees UFOs
+page_website_name: Pyrenees
 page_banner_line: Balanced case-led UFO history from Pau, Biarritz and the Basque coast.
-site_website_name: Pyrenees UFOs
+site_website_name: Pyrenees
 site_banner_line: Balanced case-led UFO history from Pau, Biarritz and the Basque coast.
 site_image_description: A night view over the Basque coast and Pyrenees foothills with a distant airport control tower, dark hills, clouds and small lights...
 output_language: English
@@ -767,7 +767,7 @@ For readers, the practical test is simple: does the case have a precise time, pr
 
 Pyrénées-Atlantiques does not currently offer a strong public record of a high-confidence, unexplained, multi-sensor UFO case. Its value lies elsewhere. It is a department where the same recurring problems of UFO evidence appear in compact form: spectacular old testimony with weak documentation, 1950s press contagion, sincere modern witnesses, aviation-linked reports, and official reanalysis that often reduces mystery rather than increasing it.
 
-The best-supported local conclusions are mostly ordinary: Jupiter at Hendaye, Arcturus at Urepel, a laser installation at Pau, lanterns at Uzein and probably Pau, meteors or atmospheric re-entry between Bedous and Pau, and insufficient data at Biarritz and Sauvagnon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/cas/2022-09-51495?field_date_value=2007-03-01&amp;field_is_new_value=1&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation_textuel&amp;page=17&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan+6Geipan+6Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
+The best-supported local conclusions are mostly ordinary: Jupiter at Hendaye, Arcturus at Urepel, a laser installation at Pau, lanterns at Uzein and probably Pau, meteors or atmospheric re-entry between Bedous and Pau, and insufficient data at Biarritz and Sauvagnon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/cas/2022-09-51495?field_date_value=2007-03-01&amp;field_is_new_value=1&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation_textuel&amp;page=17&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
 The most interesting unresolved tension is not whether these cases prove exotic craft. They do not. The interesting question is why ordinary sky events become extraordinary experiences, especially in a region with mountains, coastal horizons, weather shifts, night flying, airport operations and a long cultural memory of saucers. In Pyrénées-Atlantiques, the most honest UFO history is a history of interpretation: what people thought they saw, what investigators could later test, and how often the strongest evidence turns out to be not strangeness itself, but the patient reconstruction of a mistake.
 
