@@ -171,6 +171,10 @@ map_view:
   items: 96
   map: /assets/maps/france-departments.svg
   data: /assets/maps/france-departments.json
+header:
+  og_image: /assets/images/Haute-Vienne_e44500-overview-social.jpg
+  preview_image: /assets/images/Haute-Vienne_e44500-overview-social.jpg
+image: /assets/images/Haute-Vienne_e44500-overview-social.jpg
 site_image_description: A quiet balcony and rooftops in Ain at night, with low clouds over distant hills and a faint dark rectangular shape crossing the...
 ---
 
@@ -178,7 +182,7 @@ site_image_description: A quiet balcony and rooftops in Ain at night, with low c
 <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="department" data-map-layout="france-departments" data-map-item-type="department" data-map-label="UFO and UAP French departments map" data-map-fallback-summary="Open this French department file from the map." data-map-src="{{ 'assets/maps/france-departments.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/france-departments.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="FR-50" data-map-preview-preload="all">
 <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div>
 <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
-<img src="{{ '/assets/images/Manche_e44581-overview.webp' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
+<img src="{{ '/assets/images/Manche_e44581-overview-social.jpg' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
 <span class="interactive-map-preview-meta uap-world-map-preview-meta">
 <span class="interactive-map-preview-chip uap-world-map-preview-chip">50</span>
 <button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="france" data-uap-world-map-region-focus="france" aria-label="Focus map on France">France</button>
