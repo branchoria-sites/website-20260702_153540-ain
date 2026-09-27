@@ -178,6 +178,7 @@ image: /assets/images/Haute-Vienne_e44500-overview-social.jpg
 site_image_description: A quiet balcony and rooftops in Ain at night, with low clouds over distant hills and a faint dark rectangular shape crossing the...
 ---
 
+<h1 class="home-structure-intro-title">UFOs and UAP by French Department</h1>
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
 <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="department" data-map-layout="france-departments" data-map-item-type="department" data-map-label="UFO and UAP French departments map" data-map-fallback-summary="Open this French department file from the map." data-map-src="{{ 'assets/maps/france-departments.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/france-departments.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="FR-50" data-map-preview-preload="8">
 <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas>
