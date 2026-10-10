@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:42'
 level: 2
 basename: Aisne_b23b8e_geipan_patterns_726a76
 parent_basename: Aisne_b23b8e

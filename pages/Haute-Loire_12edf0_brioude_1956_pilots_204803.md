@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:42'
 level: 2
 basename: Haute-Loire_12edf0_brioude_1956_pilots_204803
 parent_basename: Haute-Loire_12edf0

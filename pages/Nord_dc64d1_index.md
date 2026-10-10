@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-02 20:17:26'
 title: What Makes Nord's UFO Record So Puzzling? Sub-Topic Index
 title_full: What Makes Nord's UFO Record So Puzzling? Sub-Topic Index
 display_title: Sub-Topic Index

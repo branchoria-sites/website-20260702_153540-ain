@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-02 20:17:26'
 title: Why Loir et Cher's UFO Record Looks... Sub-Topic Index
 title_full: Why Loir et Cher's UFO Record Looks... Sub-Topic Index
 display_title: Sub-Topic Index
