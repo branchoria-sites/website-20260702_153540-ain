@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:25:55'
 level: 2
 basename: Hautes-Alpes_6bdcb1_saint_bonnet_triangl_ac0596
 parent_basename: Hautes-Alpes_6bdcb1

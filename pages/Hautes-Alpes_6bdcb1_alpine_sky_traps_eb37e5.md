@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:25:55'
 level: 2
 basename: Hautes-Alpes_6bdcb1_alpine_sky_traps_eb37e5
 parent_basename: Hautes-Alpes_6bdcb1

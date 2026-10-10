@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:42'
 level: 2
 basename: Aube_200d42_brienne_troyes_solve_bc872e
 parent_basename: Aube_200d42

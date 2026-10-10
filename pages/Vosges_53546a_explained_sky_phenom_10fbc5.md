@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:42'
 level: 2
 basename: Vosges_53546a_explained_sky_phenom_10fbc5
 parent_basename: Vosges_53546a

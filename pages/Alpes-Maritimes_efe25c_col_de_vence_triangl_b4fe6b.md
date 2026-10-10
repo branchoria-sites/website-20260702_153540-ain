@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:42'
 level: 2
 basename: Alpes-Maritimes_efe25c_col_de_vence_triangl_b4fe6b
 parent_basename: Alpes-Maritimes_efe25c

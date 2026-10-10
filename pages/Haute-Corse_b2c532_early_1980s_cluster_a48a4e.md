@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:42'
 level: 2
 basename: Haute-Corse_b2c532_early_1980s_cluster_a48a4e
 parent_basename: Haute-Corse_b2c532

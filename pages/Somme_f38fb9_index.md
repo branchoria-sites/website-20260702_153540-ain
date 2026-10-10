@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-02 20:17:26'
 title: What Really Happened in Somme's UFO Wave? Sub-Topic Index
 title_full: What Really Happened in Somme's UFO Wave? Sub-Topic Index
 display_title: Sub-Topic Index

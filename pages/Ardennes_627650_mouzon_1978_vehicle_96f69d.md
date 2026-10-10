@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:42'
 level: 2
 basename: Ardennes_627650_mouzon_1978_vehicle_96f69d
 parent_basename: Ardennes_627650
