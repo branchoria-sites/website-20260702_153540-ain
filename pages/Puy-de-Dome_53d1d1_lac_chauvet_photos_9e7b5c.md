@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:42'
 level: 2
 basename: Puy-de-Dome_53d1d1_lac_chauvet_photos_9e7b5c
 parent_basename: Puy-de-Dome_53d1d1

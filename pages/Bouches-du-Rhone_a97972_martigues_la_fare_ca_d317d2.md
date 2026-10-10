@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:46:42'
 level: 2
 basename: Bouches-du-Rhone_a97972_martigues_la_fare_ca_d317d2
 parent_basename: Bouches-du-Rhone_a97972
