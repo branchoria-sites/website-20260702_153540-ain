@@ -21,7 +21,7 @@ permalink: /geipan-record-f63425/
 sidebar_expanded_urls:
 - /indre-et-loire/
 nav_short_title: GEIPAN Record
-title: Why Are There No Class D Cases?
+title: "Why Are There No Class D Cases? (Touraine UFOs)"
 title_full: Why Are There No Class D Cases?
 display_title_short: GEIPAN Record
 display_title: GEIPAN Record

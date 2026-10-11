@@ -21,7 +21,7 @@ permalink: /geipan-record-0fdcd2/
 sidebar_expanded_urls:
 - /what-maine-et-loire-ufo-files-really/
 nav_short_title: GEIPAN Record
-title: Why Are There No Class D Cases?
+title: "Why Are There No Class D Cases? (Maine UFOs)"
 title_full: Why Are There No Class D Cases?
 display_title_short: GEIPAN Record
 display_title: GEIPAN Record
